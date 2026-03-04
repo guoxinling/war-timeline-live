@@ -1,0 +1,17 @@
+{
+  "timezone": "Asia/Shanghai",
+  "lookback_hours": 12,
+  "max_entries": 30,
+  "feishu": {
+    "enabled": true,
+    "channel": "feishu",
+    "account": "main",
+    "target": "ou_f98efbf2ec60a7cc18a9b6043e6a893f"
+  },
+  "feeds": [
+    "https://news.google.com/rss/search?q=Israel+Iran+US+conflict+when:1d&hl=en-US&gl=US&ceid=US:en",
+    "https://news.google.com/rss/search?q=Hezbollah+Israel+strike+when:1d&hl=en-US&gl=US&ceid=US:en",
+    "https://news.google.com/rss/search?q=Gaza+Iran+Israel+military+when:1d&hl=en-US&gl=US&ceid=US:en",
+    "https://news.google.com/rss/search?q=US+CENTCOM+Iran+Israel+when:1d&hl=en-US&gl=US&ceid=US:en"
+  ]
+}
