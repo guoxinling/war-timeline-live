@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-03-06 09:50
+更新时间（北京时间）: 2026-03-06 20:45
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-03-06 09:47 | US | 通报 | Iran | 待确认 | C | US-Iran latest: Thousands flee south Beirut as Israel threatens to flatten it like Gaza - thenationalnews.com |
-| 2026-03-06 09:34 | Israel | 通报 | Israel | 伤亡 | C | At least 102 killed, over 600 injured in Lebanon in Israel-Hezbollah war - Business Standard |
-| 2026-03-06 09:16 | US | 通报 | Iran | 待确认 | C | Which countries are involved in the Iran-US war? What to know. - USA Today |
-| 2026-03-06 09:13 | US | 通报 | Iran | 命中 | C | "Bomber force struck nearly 200 targets deep inside Iran", says US Central Command Chief - lokmattimes.com |
-| 2026-03-06 09:11 | US | 通报 | Iran | 待确认 | C | How US sinking of Iranian warship blew hole in Modi’s ‘guardian’ claims - Al Jazeera |
-| 2026-03-06 09:09 | Iran | 通报 | 未明确 | 待确认 | C | Who is Ahmad Vahidi, the IRGC’s new commander? - Al Jazeera |
-| 2026-03-06 09:05 | US | 发射 | Iran | 待确认 | C | US says Iran missile attacks down 90% after strikes from B-2 bombers - Al Jazeera |
-| 2026-03-06 08:58 | Israel | 通报 | Israel | 待确认 | C | Israel Pounds Southern Beirut, a Hezbollah Stronghold - The New York Times |
-| 2026-03-06 08:51 | Israel | 发射 | Tehran | 待确认 | C | Israel-Iran War Day 6 Iran Launches Missiles at Israel; IDF Striking in Tehran, Beirut - Haaretz |
-| 2026-03-06 08:42 | Israel | 空袭 | Israel | 待确认 | C | Israel strikes Lebanon in retaliation with speculation top Hezbollah leader died - AOL.com |
-| 2026-03-06 08:38 | Iran | 通报 | Tehran | 待确认 | C | UAE explores freezing Iranian assets to punish Tehran for attacks, WSJ reports - Reuters |
-| 2026-03-06 08:29 | US | 发射 | Iran | 命中 | C | CENTCOM Commander Says US Forces Have Destroyed 90% of Iran's Missile Capability, Struck 200 Targets, Sunk Over 30 Ships - Kurdistan24 |
-| 2026-03-06 08:11 | US | 发射 | Iran | 待确认 | C | Iranian ballistic missile attacks down 90% since start of war, says US CENTCOM chief - The Times of Israel |
-| 2026-03-06 08:00 | Iran | 通报 | Tehran | 待确认 | C | Live Updates: Tehran continues attacks on Gulf countries - The Jerusalem Post |
-| 2026-03-06 08:00 | Israel | 发射 | Tehran | 待确认 | C | Live Updates: Tehran launches missiles, drones, at Israel - The Jerusalem Post |
-| 2026-03-06 08:00 | Iran | 通报 | Iran | 待确认 | C | Trump says he wants to be involved in picking Iran's next leader as war ripples across the region - AP News |
-| 2026-03-06 07:55 | Israel | 空袭 | Israel | 伤亡 | C | Officer seriously wounded in Lebanon as strikes pound Hezbollah bastion near Beirut - The Times of Israel |
-| 2026-03-06 07:52 | Israel | 通报 | Iran | 待确认 | C | Israel and Hezbollah Trade Blows as Iran Conflict Widens - The New York Times |
-| 2026-03-06 07:45 | US | 通报 | Iran | 命中 | C | Live: Israel, US intensify attacks on Iran as war hits 7th day - RNZ |
-| 2026-03-06 07:45 | Israel | 发射 | Israel | 待确认 | C | Israel launches huge strikes against south Beirut after mass evacuation order - The Guardian |
-| 2026-03-06 07:43 | Israel | 通报 | Israel | 待确认 | C | On Israel-Lebanon border, ‘everyone is tense’ as fighting with Hezbollah flares - NZ Herald |
-| 2026-03-06 07:42 | US | 空袭 | Iran | 待确认 | C | War in Middle East widens as US, Israeli, and Iranian strikes continue - WPLG Local 10 |
-| 2026-03-06 07:35 | Israel | 发射 | Iran | 待确认 | C | Israelis take shelter as Iran and Hezbollah launch attacks: 'Here, the wars don't end' - PBS |
-| 2026-03-06 07:32 | US | 空袭 | Iran | 待确认 | C | Hegseth says US timeline is ‘ours alone to control’; CENTCOM provides update on Iran strikes - Stars and Stripes |
-| 2026-03-06 07:30 | Iran | 通报 | Iran | 待确认 | C | The Latest: House joins Senate in rejecting war powers resolution to halt Trump’s attacks on Iran - The Washington Post |
-| 2026-03-06 07:24 | Israel | 空袭 | Iran | 待确认 | C | Breaking News: Israel unleashed a major bombardment on a Hezbollah stronghold in the southern suburbs of Beirut. It was another sign that Lebanon is fast becoming a new front in the widening conflict involving the U.S., Israel and Iran. Follow live updates. - facebook.com |
-| 2026-03-06 07:21 | Iran | 通报 | Tehran | 待确认 | C | Trump vows to select Iran's new leader, but Tehran is digging in - Los Angeles Times - Los Angeles Times |
-| 2026-03-06 07:19 | Israel | 空袭 | Beirut | 设施受损 | C | IDF begins strikes on Hezbollah infrastructure in Beirut - Yahoo |
-| 2026-03-06 07:18 | US | 通报 | Iran | 待确认 | C | US House rejects war powers resolution to end Trump’s hostilities with Iran - The Guardian |
-| 2026-03-06 07:14 | US | 通报 | Iran | 待确认 | C | Hegseth says US has ‘iron-clad will’ in Iran war - NewsNation |
-| 2026-03-06 07:13 | Iran | 通报 | Iran | 待确认 | C | 'What is the game plan?': The Iran war is unsettling China and its ambitions - BBC |
-| 2026-03-06 07:08 | Hezbollah | 通报 | 未明确 | 待确认 | C | Hezbollah’s decision to enter the war sparks anger and confusion among Lebanese - The Globe and Mail |
-| 2026-03-06 07:06 | Israel | 通报 | Iran | 待确认 | C | How long can Israel sustain a military conflict with Iran? - Pearls and Irritations |
-| 2026-03-06 07:04 | Israel | 发射 | Israel | 待确认 | C | ‘We are bringing hell on you’: Panic in Beirut suburbs as Israel launches airstrikes - SMH.com.au |
-| 2026-03-06 06:47 | Iran | 通报 | Iran | 待确认 | C | Congress declines to halt Iran war - Politico |
-| 2026-03-06 06:47 | Israel | 通报 | 未明确 | 伤亡 | C | IDF: Hezbollah Fire Array Chief Zeid Ali Jumaa Killed - The Media Line |
-| 2026-03-06 06:44 | Israel | 通报 | Israel | 待确认 | C | Israeli Official Acknowledges: Our Assessment of Hezbollah Fell Short of Reality - اسلام تايمز |
-| 2026-03-06 06:39 | Israel | 空袭 | Iran | 设施受损 | C | Israel Begins ‘Broad Wave of Strikes’ on Iran’s Infrastructure - The New York Times |
-| 2026-03-06 06:38 | Iran | 通报 | Iran | 待确认 | C | Trump says he wants to be involved in picking Iran's next leader - KTVQ |
-| 2026-03-06 06:32 | Israel | 空袭 | Iran | 待确认 | C | Israel Strikes Beirut, Promises To 'Bring Ruin' As Retaliation For Hezbollah Attack On 'Behalf Of Iranian Regime' - AOL.com |
+| 2026-03-06 20:32 | Israel | 通报 | Iran | 待确认 | C | Iran war displaces at least 100,000 in Lebanon, over 2,000 in Israel - Haaretz |
+| 2026-03-06 20:31 | US | 空袭 | Iran | 命中 | C | Intense Israeli strikes hit Iran and Lebanon as US warns the bombardment will ‘surge dramatically’ - The Boston Globe |
+| 2026-03-06 20:28 | Israel | 空袭 | Israel | 待确认 | C | Fresh Israeli strikes on Lebanon as PM warns of 'looming humanitarian disaster' - Region - World - Ahram Online |
+| 2026-03-06 20:23 | US | 通报 | Israel | 待确认 | C | Decades of planning and US backing helps fuel Israel’s air power - Digital Journal |
+| 2026-03-06 20:22 | Iran | 通报 | Iran | 待确认 | C | Iranians mourn Khamenei as they gather for first Friday prayers during war - Al Jazeera |
+| 2026-03-06 20:16 | Israel | 空袭 | Israel | 待确认 | C | Fresh Israeli strikes on Lebanon as PM warns of 'looming humanitarian disaster' - KPVI |
+| 2026-03-06 20:15 | Israel | 空袭 | Israel | 待确认 | C | Fresh Israeli strikes on Lebanon as PM warns of 'looming humanitarian disaster' - Ashley County Ledger |
+| 2026-03-06 20:14 | Israel | 空袭 | Iran | 命中 | C | Israeli Airstrikes Hit Hezbollah Strongholds in Beirut’s Southern Suburbs - IranWire |
+| 2026-03-06 20:13 | Israel | 通报 | Israel | 待确认 | C | Why Israel is pounding Lebanon with bombs in war with Hezbollah stretching back decades - AOL.co.uk |
+| 2026-03-06 20:11 | US | 发射 | Iran | 待确认 | C | What is the PrSM missile that the US used for the first time in Iran? - Al Jazeera |
+| 2026-03-06 20:05 | Israel | 通报 | Iran | 待确认 | C | America’s war or Israel’s? The debate shaking Washington over Iran - TRT World |
+| 2026-03-06 20:00 | Israel | 通报 | Iran | 待确认 | C | Israel is using the ‘Gaza doctrine’ in Lebanon and Iran - Mondoweiss |
+| 2026-03-06 19:55 | Iran | 通报 | Iran | 待确认 | C | Iran’s state media ramps up disinformation campaign, report - Euronews.com |
+| 2026-03-06 19:55 | Iran | 发射 | Iran | 待确认 | C | As missiles fall on Iran, the case for global disarmament becomes urgent - openDemocracy |
+| 2026-03-06 19:54 | US | 通报 | Iran | 伤亡 | C | Iran-Israel war: Why Trump wants to ‘wipe out’ Iran’s Navy? US’ deadly plan involves… - news24online.com |
+| 2026-03-06 19:53 | Iran | 通报 | Iran | 待确认 | C | The end of Iran’s strategic patience - Al Jazeera |
+| 2026-03-06 19:48 | US | 通报 | Iran | 待确认 | C | Cost to US for war on Iran is $3.7bn in first 100 hours, says think tank - Al Jazeera |
+| 2026-03-06 19:44 | US | 发射 | Iran | 待确认 | C | Live updates: Israel dismantles six Iranian ballistic missile launchers, CENTCOM says 'US forces control skies - LiveNOW from FOX |
+| 2026-03-06 19:41 | Israel | 通报 | Israel | 待确认 | C | ISRAEL ATTACKS, BEIRUT AREA A WAR ZONE - PressReader |
+| 2026-03-06 19:30 | Israel | 通报 | Iran | 待确认 | C | Israel pounds Hezbollah targets, daring Lebanon to reclaim sovereignty from Iran-backed terror proxy - Fox News |
+| 2026-03-06 19:30 | Israel | 空袭 | Iran | 命中 | C | Trump says Iran hit on ‘unprecedented scale’ as Israel strikes Iran, Lebanon in seventh day of war - Polskie Radio |
+| 2026-03-06 19:28 | Israel | 通报 | Iran | 待确认 | C | Iran targets Israeli embassy in Bahrain, Al Udeid Air Base in Qatar - Al Jazeera |
+| 2026-03-06 19:27 | Israel | 空袭 | Israel | 待确认 | C | Israel's strikes on Lebanon kill 123, Hezbollah vows retaliation - Views Bangladesh |
+| 2026-03-06 19:25 | Israel | 空袭 | Iran | 待确认 | C | Breaking News: Israel unleashed a major bombardment on a Hezbollah stronghold in the southern suburbs of Beirut. It was another sign that Lebanon is fast becoming a new front in the widening conflict involving the U.S., Israel and Iran. Follow live updates. - facebook.com |
+| 2026-03-06 19:25 | Israel | 通报 | Israel | 待确认 | C | Do not interrupt me – Arise TV anchor Rufai Oseni clashes with Israeli Ambassador - Daily Post Nigeria |
+| 2026-03-06 19:22 | Israel | 通报 | Iran | 命中 | C | IDF chief: Hezbollah hit hard as Iran op changes phase - JNS.org |
+| 2026-03-06 19:14 | Israel | 通报 | Iran | 待确认 | C | Israel's Hezbollah attacks are likely to continue beyond Iran war, source says - Yahoo News UK |
+| 2026-03-06 19:12 | Israel | 发射 | Israel | 待确认 | C | Hezbollah launches rockets and drones as Israel expands strikes across Lebanon - شفق نيوز |
+| 2026-03-06 19:12 | US | 通报 | Iran | 命中 | C | Iran Conflict 2026: Economic Impact of US, Israel & Iran Tensions - Oxford Economics |
+| 2026-03-06 19:12 | US | 通报 | Iran | 待确认 | C | A weak Iran would backfire on the United States - Al Jazeera |
+| 2026-03-06 19:06 | Iran | 通报 | Iran | 待确认 | C | Maritime insurance premiums surge as Iran conflict widens - Reuters |
+| 2026-03-06 19:00 | 未明确 | 拦截 | 未明确 | 待确认 | C | Trump’s War to Nowhere - The Intercept |
+| 2026-03-06 19:00 | Iran | 通报 | Iran | 待确认 | C | Trump’s war with Iran is expanding. Will others join the fight? - The Hill |
+| 2026-03-06 18:48 | 未明确 | 通报 | 未明确 | 待确认 | C | Russian attacks on Kramatorsk escalate Ukraine war as Kyiv regains ground - Al Jazeera |
+| 2026-03-06 18:48 | Israel | 通报 | Israel | 命中 | C | More than 120 killed in Israel’s Lebanon attacks as Beirut, south, east hit - Al Jazeera |
+| 2026-03-06 18:32 | Israel | 通报 | Beirut | 待确认 | C | IDF pummels Hezbollah’s Beirut stronghold - JNS.org |
+| 2026-03-06 18:22 | Israel | 空袭 | Tehran | 待确认 | C | Iran retaliates after Israel strikes Beirut and Tehran as war enters Day 7 - NPR |
+| 2026-03-06 18:07 | Israel | 空袭 | Israel | 待确认 | C | Israel Airstrike Quakes Beirut Suburb As Hezbollah Expands Military Strikes - The Times of India |
+| 2026-03-06 18:06 | Israel | 通报 | Israel | 待确认 | C | Death toll from Israel’s Lebanon attacks rises to 123 - Jagonews24.com |
+| 2026-03-06 17:58 | US | 空袭 | Tehran | 命中 | C | Iran war live: Israeli-US strikes hit Tehran's residential neighbourhoods - Middle East Eye |
