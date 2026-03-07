@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-03-07 09:42
+更新时间（北京时间）: 2026-03-07 20:38
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-03-07 09:40 | Iran | 通报 | Iran | 待确认 | C | Russia is providing Iran intelligence to target U.S. forces, officials say - The Washington Post |
-| 2026-03-07 09:30 | US | 通报 | Iran | 待确认 | C | US-Iran War: CENTCOM Says US Forces Decimating Iranian Targets Amid Escalating Conflict / WION - WION |
-| 2026-03-07 09:26 | Israel | 空袭 | Tehran | 待确认 | C | Israel strikes Beirut and Tehran as Trump demands Iran's 'unconditional surrender' - NPR |
-| 2026-03-07 09:18 | Iran | 通报 | Iran | 待确认 | C | Iran’s legal case for striking the Gulf collapses under scrutiny - Al Jazeera |
-| 2026-03-07 09:13 | Israel | 发射 | Tehran | 待确认 | C | Iran war: Israel launches 'broad-scale' strikes on Tehran - dw.com |
-| 2026-03-07 09:13 | Israel | 发射 | Iran | 待确认 | C | Air force launches ‘extensive’ strikes on regime targets as Iran lobs missiles at Israel - The Times of Israel |
-| 2026-03-07 09:08 | Iran | 通报 | Iran | 待确认 | C | Wake up before it’s too late: Oppose the unjust, cruel war on Iran - Al Jazeera |
-| 2026-03-07 09:05 | US | 空袭 | Iran | 待确认 | C | US army strikes over 3,000 targets in first week of war on Iran, CENTCOM says - سانا |
-| 2026-03-07 08:40 | Israel | 空袭 | Israel | 待确认 | C | Israel intensifies strikes on Lebanon with major raids on east - Moneycontrol.com |
-| 2026-03-07 08:40 | Iran | 撤离 | Iran | 待确认 | C | Trump demands ‘UNCONDITIONAL SURRENDER’ from Iran; U.S. evacuates citizens from Middle East - The Washington Post |
-| 2026-03-07 08:33 | US | 空袭 | Iran | 待确认 | C | Indian Muslim body condemns US-Israel strikes on Iran - Muslim Network TV |
-| 2026-03-07 08:32 | Iran | 通报 | Iran | 待确认 | C | AI-generated Iran war videos surge as creators use new tech to cash in - BBC |
-| 2026-03-07 08:28 | Iran | 通报 | Iran | 待确认 | C | Iran war is latest threat to a global economy rattled by Trump - Al Jazeera |
-| 2026-03-07 08:12 | Israel | 通报 | Iran | 待确认 | C | Are gas prices rising because of the Israel-Iran conflict? Yes, but only partly - WBIR |
-| 2026-03-07 08:01 | US | 空袭 | Tehran | 待确认 | C | The Latest: Russia provided Iran with information to help Tehran strike US military, AP sources say - LEX18 |
-| 2026-03-07 08:00 | Israel | 空袭 | Iran | 待确认 | C | Live Updates: Israel ramps up strikes on Iran's regime - The Jerusalem Post |
-| 2026-03-07 07:55 | Iran | 通报 | Iran | 待确认 | C | Trump demands 'unconditional surrender' as war on Iran enters new phase - PBS |
-| 2026-03-07 07:52 | Iran | 通报 | Iran | 待确认 | C | The Iran War Heralds Russia’s Further Weakening - Manara Magazine |
-| 2026-03-07 07:50 | US | 通报 | Iran | 命中 | C | Operation Epic Fury Update: Inside CENTCOM's List Of US Assets Used, Targets Hit Amid Israel-Iran Tensions - Times Now |
-| 2026-03-07 07:48 | US | 通报 | Iran | 待确认 | C | US.-Israel-Iran conflict engulfs 20+ nations - MSN |
-| 2026-03-07 07:36 | US | 通报 | Iran | 待确认 | C | Iranian UN ambassador condemns US-Israeli ‘criminal war’ - Al Jazeera |
-| 2026-03-07 07:35 | US | 通报 | Iran | 待确认 | C | Analysis: Similarities and differences in US and Israeli targets and objectives in Iran campaign - Long War Journal |
-| 2026-03-07 07:25 | Israel | 空袭 | Israel | 待确认 | C | Israel Strikes Hezbollah: Lebanon's Sovereignty at Stake in Ongoing Conflict - International Business Times |
-| 2026-03-07 07:23 | Israel | 通报 | Iran | 待确认 | C | Saudi Arabia said to intensify talks with Iran to defuse Mideast war - The Times of Israel |
-| 2026-03-07 07:15 | Israel | 通报 | Iran | 待确认 | C | The U.S.-Israel War With Iran: 5 Documentaries & a Podcast Episode Help Explain the Backstory - PBS |
-| 2026-03-07 07:14 | Iran | 通报 | Iran | 待确认 | C | Trump demands 'unconditional surrender' from Iran as Putin speaks with Iran's president - BBC |
-| 2026-03-07 07:14 | Iran | 通报 | Iran | 待确认 | C | Assessing U.S. Progress in the Iran War - The Washington Institute |
-| 2026-03-07 07:10 | Israel | 通报 | Israel | 设施受损 | C | About 300,000 people in Lebanon have fled their homes since Israel began bombing there, the Norwegian Refugee Council estimated. The Israeli military said it was targeting infrastructure belonging to Hezbollah. https://nyti.ms/47xblQD - facebook.com |
-| 2026-03-07 07:04 | Israel | 通报 | Iran | 待确认 | C | I Protested the Iran War – Israeli Police Beat, Arrested and Strip-searched Me - Haaretz |
-| 2026-03-07 07:02 | Iran | 通报 | Iran | 待确认 | C | Russia Is Sharing Intelligence With Iran, U.S. Officials Say - The New York Times |
-| 2026-03-07 07:00 | Israel | 通报 | Iran | 命中 | C | Client Alert: Potential impact of the U.S., Israel, Iran Conflict on RWI policies - wtwco.com |
-| 2026-03-07 06:49 | Israel | 空袭 | Iran | 待确认 | C | AUDIO: Israel intensifies strikes on Iran and Lebanon - Australian Broadcasting Corporation |
-| 2026-03-07 06:37 | US | 通报 | Iran | 待确认 | C | US-Israel war with Iran sends shockwaves through global business - WKZO |
-| 2026-03-07 06:21 | US | 通报 | Iran | 待确认 | C | US-Israel war with Iran: B-1 Lancer bomber lands at RAF Fairford - BBC |
-| 2026-03-07 06:15 | 未明确 | 通报 | 未明确 | 待确认 | C | Middle East Conflict Monitor - ACLED |
-| 2026-03-07 06:08 | Iran | 通报 | Iran | 待确认 | C | ‘No deal with Iran except unconditional surrender,’ Trump says - Al Jazeera |
-| 2026-03-07 06:05 | Israel | 通报 | Iran | 待确认 | C | The conflict between Iran, Israel and the U.S. expanded on Thursday after multiple Iranian attacks pushed leaders in Britain and Italy to accelerate their deployment of military assets to the region. https://nyti.ms/4rirMHR - facebook.com |
-| 2026-03-07 05:56 | Israel | 通报 | Iran | 待确认 | C | U.S.-Israel-Iran Conflict Spreads to 20 Nations Beyond Middle East - 조선일보 |
-| 2026-03-07 05:48 | US | 通报 | Iran | 待确认 | C | War with Iran fuels mounting concern for safety of Americans jailed in the country - CBS News |
-| 2026-03-07 05:31 | Israel | 通报 | Israel | 待确认 | C | The operation that stunned the world - www.israelhayom.com |
+| 2026-03-07 20:36 | US | 空袭 | Iran | 待确认 | C | Polls show majority of Europeans oppose US, Israeli strikes on Iran - Anadolu Ajansı |
+| 2026-03-07 20:16 | Israel | 通报 | Iran | 命中 | C | Trump: Iran ‘loser of the Middle East,’ will be ‘hit very hard today’; IDF downs 110 drones since start of war - ynetnews |
+| 2026-03-07 20:08 | Iran | 空袭 | Iran | 待确认 | C | Iran to halt strikes on neighbours unless attacks from there: Pezeshkian - Al Jazeera |
+| 2026-03-07 20:02 | Iran | 通报 | Iran | 待确认 | C | Trump skirts Congress over Iran war as Republicans simply step aside - The Guardian |
+| 2026-03-07 20:00 | US | 通报 | Iran | 待确认 | C | Allies fear Iran war will leave them without US weapons they bought - Politico |
+| 2026-03-07 19:54 | Iran | 通报 | Iran | 待确认 | C | Iran Vows Not to Surrender After Week of War That’s Shaken World - Bloomberg |
+| 2026-03-07 19:48 | Israel | 通报 | Iran | 待确认 | C | Information Warfare in the Israel/U.S.-Iran War: 5 Key Questions with Marc Owen Jones - dawnmena.org |
+| 2026-03-07 19:46 | Iran | 发射 | Iran | 待确认 | C | Iran's president apologizes for strikes on neighbors as missiles, drones still pound their cities - The Tribune-Democrat |
+| 2026-03-07 19:34 | Iran | 通报 | Iran | 命中 | C | Trump says Iran will be 'hit very hard' on Saturday - Reuters |
+| 2026-03-07 19:28 | Israel | 空袭 | Israel | 伤亡 | C | 16 killed in Israeli air raid in Lebanon as conflict with Hezbollah intensifies - Firstpost |
+| 2026-03-07 19:25 | Israel | 通报 | Israel | 待确认 | C | Katz warns Lebanon will pay ‘full price’ if Hezbollah attacks continue - The Times of Israel |
+| 2026-03-07 19:23 | Israel | 空袭 | Israel | 待确认 | C | War in the Middle East spills further open as Hezbollah and Israel trade strikes - AOL.com |
+| 2026-03-07 19:21 | 未明确 | 通报 | 未明确 | 待确认 | C | Trump-Netanyahu’s ‘war in search of a strategy’ - Al Jazeera |
+| 2026-03-07 19:13 | Iran | 通报 | Iran | 待确认 | C | Iran rejects Trump’s demand for unconditional surrender as a ‘dream’ - The Guardian |
+| 2026-03-07 19:04 | Israel | 空袭 | Israel | 待确认 | C | Israeli military strikes Hezbollah commanders in Lebanon - Operativ Məlumat Mərkəzi |
+| 2026-03-07 19:01 | Israel | 空袭 | Israel | 伤亡 | C | At least 26 killed in Israeli air strikes on Lebanon’s Bekaa: State media - Al Jazeera |
+| 2026-03-07 19:00 | US | 通报 | Iran | 待确认 | C | A historic shift: How US, Israel's war on Iran is changing modern warfare - The Jerusalem Post |
+| 2026-03-07 18:56 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran war: 7 key developments in 7 days of West Asia crisis - WION |
+| 2026-03-07 18:53 | Israel | 通报 | Israel | 设施受损 | C | About 300,000 people in Lebanon have fled their homes since Israel began bombing there, the Norwegian Refugee Council estimated. The Israeli military said it was targeting infrastructure belonging to Hezbollah. https://nyti.ms/47xblQD - facebook.com |
+| 2026-03-07 18:50 | Israel | 通报 | Israel | 待确认 | C | Israel confirms commando operation in Lebanon linked to long missing pilot Ron Arad - thenationalnews.com |
+| 2026-03-07 18:49 | Iran | 空袭 | Iran | 待确认 | C | Iran's president apologizes for strikes on neighboring countries as conflict continues - KVUE |
+| 2026-03-07 18:47 | Iran | 通报 | Iran | 命中 | C | President Trump warns Iran 'will be hit very hard' Saturday in social media post - WGRZ |
+| 2026-03-07 18:43 | Israel | 通报 | Iran | 待确认 | C | Russia has provided intelligence to Iran during the U.S.-Israeli war, including satellite imagery showing the locations of warships and military personnel, according to U.S. officials. - facebook.com |
+| 2026-03-07 18:40 | Israel | 空袭 | Tehran | 待确认 | C | Israel military says began new strikes on Iran’s Tehran, Isfahan - Arab News PK |
+| 2026-03-07 18:31 | US | 通报 | Iran | 待确认 | C | Iran's president apologizes to neighbors, defies US demands - DW.com |
+| 2026-03-07 18:12 | US | 通报 | Iran | 待确认 | C | One week in: Visualizing the evolution of the US-Israeli war with Iran - CNN |
+| 2026-03-07 18:07 | Israel | 发射 | Israel | 命中 | C | People Flee As Israeli Airstrikes Hit Lebanon After Hezbollah Missile Attacks / Take A Look - Republic World |
+| 2026-03-07 18:04 | Israel | 空袭 | Israel | 伤亡 | C | Israel carries out rare airborne raid in Lebanon; 16 killed in strikes - The Straits Times |
+| 2026-03-07 18:02 | Iran | 通报 | Iran | 待确认 | C | Trump’s ever-changing rationale for war on Iran – how the story has shifted - The Guardian |
+| 2026-03-07 18:01 | Israel | 通报 | Iran | 待确认 | C | What the U.S. and Israel Have Targeted in Their Iran Blitz - The New York Times |
+| 2026-03-07 18:00 | Iran | 通报 | Iran | 待确认 | C | One week into the Iran war, the fallout is global - NPR |
+| 2026-03-07 17:59 | US | 空袭 | Iran | 待确认 | C | Live Updates: War returns to Iran with Israel, US strikes - Dawn |
+| 2026-03-07 17:58 | US | 空袭 | Tehran | 待确认 | C | US and Israel Strikes "Turning Tehran Into Gaza" - EA WorldView |
+| 2026-03-07 17:35 | US | 通报 | Iran | 待确认 | C | Seven days on, seven questions about the US-Israeli war on Iran - The Guardian |
+| 2026-03-07 17:32 | US | 通报 | Iran | 待确认 | C | Iran’s President Vows Country Will “Never Surrender” as War with US and Israel Escalates - Kurdistan24 |
+| 2026-03-07 17:32 | Israel | 发射 | Tehran | 待确认 | C | Israel Launches Broad-Scale Strikes on Tehran as Middle East War Intensifies - Kurdistan24 |
+| 2026-03-07 17:28 | Iran | 通报 | Iran | 待确认 | C | Iran’s president apologises for attacking neighbouring countries - Al Jazeera |
+| 2026-03-07 17:25 | Israel | 通报 | Iran | 待确认 | C | Israel’s Hezbollah attacks are likely to continue beyond Iran war, source says - whbl.com |
+| 2026-03-07 17:25 | Israel | 通报 | Iran | 待确认 | C | Iran-Israel War From Aircraft To Lives Why Friendly Fire Can Be Such A Big Enemy - NDTV |
+| 2026-03-07 17:17 | US | 通报 | Iran | 命中 | C | US struck 3,000 targets in Iran in a week, 43 vessels damaged - Українська правда |
