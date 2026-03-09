@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-03-09 09:50
+更新时间（北京时间）: 2026-03-09 20:54
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-03-09 09:36 | Iran | 通报 | Iran | 伤亡 | C | 7th U.S. service member killed in war with Iran; Khamenei’s son named supreme leader - The Washington Post |
-| 2026-03-09 09:24 | Iran | 发射 | Iran | 待确认 | C | Crude oil rockets past $100 as markets lose hope for a quick resolution in Iran - NPR |
-| 2026-03-09 09:17 | Iran | 通报 | Iran | 待确认 | C | The Latest: Mojtaba Khamenei, son of Iran's supreme leader, named his successor, Iran state TV says - The Washington Post |
-| 2026-03-09 09:14 | Israel | 通报 | Israel | 待确认 | C | Half a million flee as Israel targets Lebanon: Is Israel redrawing the map or weakening Hezbollah? - Zee News |
-| 2026-03-09 08:56 | Israel | 通报 | Tehran | 待确认 | C | Toxic smoke blankets Tehran after Israel bombs fuel depots - Muslim Network TV |
-| 2026-03-09 08:43 | Israel | 通报 | Iran | 待确认 | C | Trump to Times of Israel: It’ll be a ‘mutual’ decision with Netanyahu regarding when Iran war ends - The Times of Israel |
-| 2026-03-09 08:41 | Iran | 通报 | Iran | 待确认 | C | Former Joint Chiefs chair on Iran conflict: ‘I worry about this getting drawn out’ - AOL.com |
-| 2026-03-09 08:39 | US | 通报 | Iran | 待确认 | C | US Citizens Living in Israel Share Wartime Experiences Amid Iran Conflict - Fine Day 102.3 |
-| 2026-03-09 08:33 | Israel | 通报 | Israel | 伤亡 | C | Lebanon Weighs Legal Action Against Hezbollah’s Chief as Israel’s Northern Front Turns Deadly - Foundation for Defense of Democracies |
-| 2026-03-09 08:29 | Iran | 通报 | Iran | 待确认 | C | Iran names Mojtaba Khamenei to succeed his slain father as supreme leader - AP News |
-| 2026-03-09 08:04 | Israel | 空袭 | Tehran | 命中 | C | U.S., Israeli strikes hit Tehran oil facilities as Iran conflict escalates - FOX 13 Seattle |
-| 2026-03-09 08:00 | Israel | 空袭 | Iran | 待确认 | C | Live Updates: Israel ramps up strikes on Iran's regime - The Jerusalem Post |
-| 2026-03-09 07:55 | 未明确 | 通报 | 未明确 | 待确认 | C | Crucible Of Nations: Middle East At Inflection Point, War, Realignment, And Chimera Of Peace – Analysis - Eurasia Review |
-| 2026-03-09 07:54 | Iran | 通报 | Iran | 待确认 | C | Protesters rally in Houston to back U.S. efforts at regime change in Iran - Houston Chronicle |
-| 2026-03-09 07:51 | US | 通报 | Iran | 待确认 | C | Trump vows control over Iran leader as US soldiers’ deaths rise to seven - Al Jazeera |
-| 2026-03-09 07:51 | Iran | 通报 | Iran | 待确认 | C | Iran names Khamenei’s son as new supreme leader after father’s killing - Al Jazeera |
-| 2026-03-09 07:45 | Iran | 通报 | Iran | 待确认 | C | The Week in Breakingviews: What’s next for Iran? - Reuters |
-| 2026-03-09 07:38 | Iran | 通报 | Iran | 待确认 | C | Who is Mojtaba Khamenei, Iran’s new supreme leader amid war? - Al Jazeera |
-| 2026-03-09 07:34 | US | 通报 | Iran | 待确认 | C | US/Israel: Investigate Iran School Attack As A War Crime, HRW Says - Eurasia Review |
-| 2026-03-09 07:30 | Israel | 通报 | Iran | 待确认 | C | Israel Attacks Iran: IRGC Backs New Supreme Leader Mojtaba Khamenei - The Eastern Herald |
-| 2026-03-09 07:22 | US | 通报 | Iran | 待确认 | C | US energy chief says spike in gas prices will fall ‘before too long’ amid Iran war - The Guardian |
-| 2026-03-09 07:17 | US | 通报 | Iran | 待确认 | C | Visualizing the US-Israeli war with Iran and retaliation in maps and charts - KRDO |
-| 2026-03-09 07:08 | 未明确 | 通报 | 未明确 | 待确认 | C | America Is Losing Itself In Someone Else’s War – OpEd - Eurasia Review |
-| 2026-03-09 07:05 | US | 通报 | Iran | 待确认 | C | Iran-US war: Khamenei’s son confirmed as new supreme leader — as it happened - The Times |
-| 2026-03-09 07:04 | US | 通报 | Iran | 待确认 | C | Israel Attacks Iran: US Diplomats Flee Saudi Arabia - The Eastern Herald |
-| 2026-03-09 07:03 | Iran | 通报 | Iran | 待确认 | C | As Iran’s leadership shifts amid war, Hezbollah moves to reset the balance: expert - AOL.com |
-| 2026-03-09 07:02 | Iran | 通报 | Iran | 伤亡 | C | Khamenei’s son is selected as Iran’s supreme leader; 7th U.S. service member killed - Los Angeles Times |
-| 2026-03-09 07:00 | Israel | 空袭 | Israel | 命中 | C | Israel-Hezbollah War: Israeli Strikes Hit Over 20 Towns In Southern Lebanon - WION |
-| 2026-03-09 06:58 | 未明确 | 通报 | 未明确 | 待确认 | C | Gulf chaos leaves South Africans grounded - IOL |
-| 2026-03-09 06:55 | Israel | 发射 | Israel | 待确认 | C | IDF says latest Hezbollah rocket attack is over - The Times of Israel |
-| 2026-03-09 06:51 | US | 通报 | Iran | 待确认 | C | US oil prices jump on supply fears amid expanding U.S.-Israeli war with Iran By Reuters - Investing.com |
-| 2026-03-09 06:47 | Iran | 通报 | Iran | 待确认 | C | Iran War Maps: Tracking the Mideast Conflict - The New York Times |
-| 2026-03-09 06:39 | Iran | 通报 | Iran | 待确认 | C | Live: Iran names Khamenei’s son as new supreme leader - Middle East Eye |
-| 2026-03-09 06:39 | US | 通报 | Iran | 待确认 | C | Oil prices surge 20% as expanding US-Israeli war with Iran cuts supplies from Mideast - Reuters |
-| 2026-03-09 06:36 | US | 通报 | Iran | 待确认 | C | Pentagon Announces Seventh U.S. Death in War With Iran - The New York Times |
-| 2026-03-09 06:35 | Israel | 通报 | Iran | 命中 | C | What to know about impact of U.S.-Israel-Iran conflict on regional energy supply? - Xinhua |
-| 2026-03-09 06:22 | Israel | 通报 | Iran | 待确认 | C | U.S. and Israel Escalate Attacks; Iran Threatens Long War - 조선일보 |
-| 2026-03-09 06:19 | Iran | 通报 | Iran | 待确认 | C | Iran war drives oil prices above $100 a barrel for first time since 2022 - The Guardian |
-| 2026-03-09 06:11 | US | 通报 | Iran | 待确认 | C | Seventh American service member dies in Iran war, Pentagon says - USA Today |
-| 2026-03-09 06:09 | Israel | 通报 | Iran | 待确认 | C | Iran-Israel War From Aircraft To Lives Why Friendly Fire Can Be Such A Big Enemy - NDTV |
+| 2026-03-09 20:52 | US | 通报 | Iran | 待确认 | C | Geopolitics Weekly (US-Israel Iran War) - Geopolitical Monitor |
+| 2026-03-09 20:49 | Israel | 拦截 | Israel | 待确认 | C | Israeli army admits difficulty intercepting Hezbollah drones - Middle East Monitor |
+| 2026-03-09 20:38 | Iran | 通报 | Iran | 待确认 | C | Oil prices spike over fears of prolonged conflict; Iran rallies around new leader - The Washington Post |
+| 2026-03-09 20:33 | Israel | 发射 | Israel | 待确认 | C | IDF pushes deeper into south Lebanon amid incessant Hezbollah rocket fire on Israeli towns - The Times of Israel |
+| 2026-03-09 20:31 | Israel | 通报 | Iran | 待确认 | C | Opinion / Israeli defense officials start to ask how the Iran war ends - The Washington Post |
+| 2026-03-09 20:18 | Iran | 通报 | Iran | 待确认 | C | Saudi fury grows as Iran attacks push Gulf to respond - The Jerusalem Post |
+| 2026-03-09 20:12 | US | 通报 | Iran | 待确认 | C | CARRIER, CHOKEPOINT, AND COERCION: THE DYNAMICS OF IRAN-US CONFLICT - Global Security Review |
+| 2026-03-09 20:10 | Israel | 发射 | Iran | 伤亡 | C | Israel-Iran War Day 10 One Killed, Two Wounded in Central Israel After Iran Launches Missiles - Haaretz |
+| 2026-03-09 20:04 | Iran | 通报 | Iran | 待确认 | C | Iran’s new supreme leader faces shrinking support - The Jerusalem Post |
+| 2026-03-09 20:04 | Iran | 通报 | Iran | 待确认 | C | Iris Dena: Torpedoed Iranian warship was offered sanctuary in India - BBC |
+| 2026-03-09 20:03 | Iran | 通报 | Iran | 待确认 | C | Iran war puts Yemen's Houthis in strategic bind - The Jerusalem Post |
+| 2026-03-09 20:00 | US | 通报 | Iran | 待确认 | C | US-Israel war on Iran: A brief history of mission creep and false promises - Al Jazeera |
+| 2026-03-09 19:55 | Iran | 发射 | Iran | 待确认 | C | The Latest: Oil prices soar after Iran names new supreme leader and launches more attacks - The Washington Post |
+| 2026-03-09 19:55 | US | 通报 | Iran | 待确认 | C | Iran confirms Russia's helping 'in many different directions' in its war with US-Israel: 'It's not a secret' - New York Post |
+| 2026-03-09 19:49 | Israel | 通报 | Israel | 待确认 | C | Lebanese parliament extends term by 2 years as Israel intensifies attacks on Lebanon - AP News |
+| 2026-03-09 19:48 | US | 通报 | Iran | 待确认 | C | US-Israel War with Iran: Where is JD Vance? The curious case of the 'missing' vice president - The Times of India |
+| 2026-03-09 19:47 | US | 通报 | Iran | 待确认 | C | FO Exclusive: A New Iran–US Conflict Looms Large - Fair Observer |
+| 2026-03-09 19:45 | Iran | 空袭 | Iran | 待确认 | C | In maps: Strikes across Iran and the Middle East - BBC |
+| 2026-03-09 19:44 | Israel | 通报 | Iran | 待确认 | C | Israel’s Lebanon offensive now tied to wider Iran war - The Jerusalem Post |
+| 2026-03-09 19:42 | Israel | 通报 | Iran | 待确认 | C | IDF penetrates deeper into southern Lebanon amid Iran war - The Jerusalem Post |
+| 2026-03-09 19:41 | Israel | 通报 | Israel | 待确认 | C | Israel prepares a ground invasion in Lebanon as Hezbollah formally joins the war - ACLED |
+| 2026-03-09 19:38 | Israel | 通报 | Israel | 待确认 | C | Hezbollah, judging war with Israel inevitable, stockpiled for months - israeltoday.co.il |
+| 2026-03-09 19:37 | US | 通报 | Iran | 待确认 | C | Trump: US, Israel to Make Mutual Decision on Ending War with Iran - Caspianpost.com |
+| 2026-03-09 19:36 | 未明确 | 通报 | Lebanon | 待确认 | C | Lebanon's parliament extends term for two years as war intensifies - Saudi Gazette |
+| 2026-03-09 19:31 | US | 通报 | Iran | 待确认 | C | The US-Israel war against Iran threatens to engulf Türkiye and Azerbaijan - World Socialist Web Site |
+| 2026-03-09 19:30 | Israel | 发射 | Iran | 待确认 | C | IDF launches ‘extensive’ airstrikes in three separate areas of Iran, says military - The Times of Israel |
+| 2026-03-09 19:23 | Iran | 通报 | Iran | 设施受损 | C | South Africa’s Foreign Policy, Gaza and Iran: Is Global Activism Hurting Jobs and Infrastructure at Home? - defenceWeb |
+| 2026-03-09 19:21 | US | 通报 | Iran | 待确认 | C | Israel, US preparing for the Iran war to last at least a month - The New Arab |
+| 2026-03-09 19:20 | US | 通报 | Iran | 待确认 | C | ‘We’re going to make a tonne of money’: US Senator Graham on US war on Iran - Al Jazeera |
+| 2026-03-09 19:19 | 未明确 | 通报 | 未明确 | 待确认 | C | G7 nations to hold emergency meeting on oil as stock markets sink - BBC |
+| 2026-03-09 19:13 | US | 通报 | Iran | 待确认 | C | Oil soars past $100 a barrel, stocks plunge as US-Israel war on Iran rages - Al Jazeera |
+| 2026-03-09 19:12 | Israel | 通报 | Israel | 待确认 | C | Israel announced the start of a ground operation against Hezbollah in southern Lebanon - open.kg |
+| 2026-03-09 19:08 | Israel | 发射 | Iran | 命中 | C | Iran Missiles Hit Israel as Hezbollah Escalates and Hormuz Shipping Disrupted - Palestine Chronicle |
+| 2026-03-09 19:07 | Israel | 通报 | Israel | 待确认 | C | Hezbollah Clashes with Israeli Forces in Lebanon as War Enters Second Week - Modern Diplomacy |
+| 2026-03-09 19:04 | Israel | 空袭 | Israel | 待确认 | C | IDF says Hezbollah gunmen operating in 'Christian village' in south Lebanon targeted in strike - The Times of Israel |
+| 2026-03-09 19:03 | Israel | 通报 | Iran | 待确认 | C | Iran attacks Israel, Gulf states, after naming new leader on Day 10 of war - NPR |
+| 2026-03-09 19:01 | 未明确 | 通报 | 未明确 | 伤亡 | C | Two U.S. soldiers killed in Saudi Arabia and Kuwait - سانا |
+| 2026-03-09 18:57 | Israel | 空袭 | Israel | 待确认 | C | Hezbollah reports Israeli raid in east Lebanon - Aaj English TV |
+| 2026-03-09 18:57 | 未明确 | 通报 | Lebanon | 待确认 | C | Lebanon parliament extends its own mandate for two years as war intensifies - AL-Monitor |
+| 2026-03-09 18:56 | Israel | 发射 | Iran | 命中 | C | Israel Strikes Central Iran, Hits Security Sites and Missile Launchers - Opinion Nigeria |
