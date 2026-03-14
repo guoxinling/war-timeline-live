@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-03-13 20:51
+更新时间（北京时间）: 2026-03-14 09:45
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-03-13 20:50 | US | 通报 | Iran | 待确认 | C | Live Updates: US-Israel war against Iran's regime rages on - The Jerusalem Post |
-| 2026-03-13 20:34 | US | 通报 | Iran | 命中 | C | The Latest: US hits pro-government demonstration in Iran as war threatens global economy - KTVN |
-| 2026-03-13 20:30 | US | 通报 | Iran | 待确认 | C | Opinion / US-Israeli war on Iran makes a mockery of global governance rules - South China Morning Post |
-| 2026-03-13 20:28 | US | 通报 | Iran | 待确认 | C | US military crash kills 4; Trump issues warning to Iran - Straight Arrow News - SAN |
-| 2026-03-13 20:16 | Israel | 通报 | Israel | 待确认 | C | Pushing back against Trump’s insults, Herzog decries ‘blatant attack’ on Israel’s sovereignty - The Times of Israel |
-| 2026-03-13 20:14 | Iran | 通报 | Iran | 待确认 | C | IndiGo, Air India seek government support during Iran crisis, sources say - Reuters |
-| 2026-03-13 20:09 | Israel | 空袭 | Israel | 待确认 | C | Israel expands strikes on Lebanon, cuts bridge over Litani river - Gulf News |
-| 2026-03-13 20:02 | Israel | 空袭 | Israel | 伤亡 | C | Israel says academic killed in university strike was Hezbollah operative - Naharnet |
-| 2026-03-13 20:01 | Israel | 空袭 | Iran | 伤亡 | C | Iran war live updates: 4 U.S. service members killed in plane crash in Iraq, Israel intensifies strikes in Beirut - MS NOW |
-| 2026-03-13 20:00 | US | 通报 | Iran | 待确认 | C | Live Updates: US-Israeli war against Iran's regime rages on - The Jerusalem Post |
-| 2026-03-13 19:58 | Israel | 撤离 | Israel | 待确认 | C | Israeli evacuation orders affect 14% of Lebanon, NGO says - AL-Monitor |
-| 2026-03-13 19:58 | US | 通报 | Iran | 待确认 | C | Differences emerge between US and Israel on how to end Iran war / Morning in America - NEWS10 ABC |
-| 2026-03-13 19:54 | Iran | 发射 | Iran | 拦截 | C | Turkiye says NATO defences intercepted third missile from Iran - Al Jazeera |
-| 2026-03-13 19:46 | Israel | 通报 | Israel | 待确认 | C | Israel expands war on Hezbollah in Lebanon as crisis grows - Luxembourg Times |
-| 2026-03-13 19:45 | 未明确 | 通报 | 未明确 | 待确认 | C | FBI investigates attacks in Michigan and Virginia. And, Senate passes housing bill - NPR |
-| 2026-03-13 19:45 | Israel | 发射 | Israel | 待确认 | C | Israel Strikes Beirut and South Lebanon After Hezbollah Rocket Barrage - Yahoo News UK |
-| 2026-03-13 19:43 | Hezbollah | 空袭 | 未明确 | 待确认 | C | Strikes on south, Hezbollah's attacks and other developments - Naharnet |
-| 2026-03-13 19:26 | US | 通报 | Iran | 待确认 | C | US and Israel attack Iran, destroying nuclear negotiations - TRT World |
-| 2026-03-13 19:26 | Israel | 通报 | Israel | 伤亡 | C | Over two dozen killed across Lebanon as Israel targets Beirut, south, east - Al Jazeera |
-| 2026-03-13 19:22 | Israel | 通报 | Tehran | 待确认 | C | Iran war enters Day 14: As conflict completes two weeks, what we know so far - Tehran explosions, Israel - The Times of India |
-| 2026-03-13 19:15 | Israel | 通报 | Iran | 待确认 | C | Israel-Iran War: IDF Targets Hezbollah Command Posts in Suburbs, Southern Lebanon - WION |
-| 2026-03-13 19:11 | Israel | 空袭 | Israel | 待确认 | C | Israel signals Lebanon ground invasion as strikes kill hundreds - The New Arab |
-| 2026-03-13 19:00 | Iran | 通报 | Iran | 待确认 | C | Gulf countries press for end to Iran war with push for diplomacy - The Hill |
-| 2026-03-13 18:56 | Israel | 空袭 | Israel | 伤亡 | C | Hezbollah drone unit member who worked as university lecturer killed in Beirut strike, IDF says - The Times of Israel |
-| 2026-03-13 18:55 | 未明确 | 通报 | 未明确 | 待确认 | C | Middle East war reverberates in Europe - China Daily |
-| 2026-03-13 18:47 | Israel | 通报 | Iran | 待确认 | C | Photos from Iran, Israel and Lebanon in the 2nd week of the Iran war - AP News |
-| 2026-03-13 18:46 | Iran | 通报 | Iran | 待确认 | C | Iran war nears two weeks with no signs of letting up - dw.com |
-| 2026-03-13 18:35 | US | 空袭 | Iran | 命中 | C | The Latest: US hits Iran with intense strikes as Iranian air campaign drives oil prices higher - WIVT - News 34 |
-| 2026-03-13 18:35 | Iran | 通报 | Tehran | 待确认 | C | Explosions near Tehran al-Quds Day march in solidarity with Palestinians - Al Jazeera |
-| 2026-03-13 18:33 | US | 通报 | Iran | 伤亡 | C | Iran US-Israel War Latest News: At Least Four Dead After US KC-135 Refuelling Aircraft Crashes in Iraq Amid Ongoing Iran War Operations - The Sunday Guardian |
-| 2026-03-13 18:29 | US | 通报 | Iran | 待确认 | C | Iran’s War With Israel and the United States / Global Conflict Tracker - Council on Foreign Relations |
-| 2026-03-13 18:28 | Israel | 空袭 | Israel | 待确认 | C | Israel Strikes Bridge In Southern Lebanon As Offensive Against Hezbollah Intensifies - Arise News |
-| 2026-03-13 18:27 | US | 通报 | Iraq | 伤亡 | C | Four dead in US military plane crash in Iraq, search for 2 others: CENTCOM - Al Jazeera |
-| 2026-03-13 18:25 | Iran | 通报 | Iran | 待确认 | C | U.S. 'misadventure' in Iran has no clear exit strategy, Russia's UK ambassador says - CNBC |
-| 2026-03-13 18:25 | US | 通报 | Iran | 待确认 | C | Iran Sets Three Conditions for Ending War with US and Israel - News On AIR |
-| 2026-03-13 18:25 | Israel | 空袭 | Israel | 待确认 | C | Israeli military strikes key bridge claims to be used by Hezbollah - The Independent |
-| 2026-03-13 18:22 | US | 通报 | Iran | 待确认 | C | Iran Supreme Leader survive assassination: Trump drop update on Mojtaba Khamenai afta US military plane crash - BBC |
-| 2026-03-13 18:22 | Israel | 空袭 | Iran | 命中 | C | Israel carries out air strikes on Iranian cities, hitting a site near Quds Day rally - TRT World |
-| 2026-03-13 18:21 | 未明确 | 通报 | Iraq | 伤亡 | C | 4 confirmed dead after U.S. military aircraft goes down in Iraq - NPR |
-| 2026-03-13 18:20 | Iran | 通报 | Iran | 命中 | C | Live: Big Al-Quds Day protests in Iran as drone hits Dubai financial centre - Middle East Eye |
+| 2026-03-14 09:37 | Israel | 通报 | Israel | 待确认 | C | ‘Existential battle’: Hezbollah chief says terror group ready for ‘long confrontation’ - The Times of Israel |
+| 2026-03-14 09:32 | Israel | 通报 | Iran | 待确认 | C | Israel-Iran War Escalates: Gaza, West Bank, and Lebanon Death Tolls Rise - econotimes.com |
+| 2026-03-14 09:31 | US | 通报 | Iran | 伤亡 | C | US–Iran–Israel War: ‘Iran’s Plans To Take Over Middle East Are Dead,’ Says President Donald Trump - Free Press Journal |
+| 2026-03-14 09:28 | Israel | 空袭 | Israel | 伤亡 | C | Beirut: Israeli Air Force claims Hezbollah operative killed in strike - ANI News |
+| 2026-03-14 09:22 | Iran | 通报 | Iran | 命中 | C | U.S. hits military targets on Iran’s Kharg Island as war escalates - Fortune |
+| 2026-03-14 09:00 | Israel | 通报 | Iran | 待确认 | C | Stop fretting: Trump won’t abandon Israel in the war with Iran - opinion - The Jerusalem Post |
+| 2026-03-14 08:32 | US | 通报 | 未明确 | 待确认 | C | US orders 2,500 Marines and an amphibious assault ship to Mideast after almost 2 weeks of war - AP News |
+| 2026-03-14 08:31 | US | 通报 | Iran | 待确认 | C | Analysts say US threat of ‘no quarter’ for Iran violates international law - Al Jazeera |
+| 2026-03-14 08:02 | US | 通报 | Iran | 待确认 | C | Democrats accuse Trump of aiding Russia by easing oil sanctions amid US-Israel war on Iran - TRT World |
+| 2026-03-14 08:02 | Iran | 通报 | Iran | 待确认 | C | How the Iran war exposed cracks in Trump's Republican coalition - BBC |
+| 2026-03-14 07:49 | US | 通报 | 未明确 | 待确认 | C | U.S. orders 2,500 marines, amphibious assault ship to Mideast after almost 2 weeks of war - CBC |
+| 2026-03-14 07:33 | Israel | 空袭 | Israel | 伤亡 | C | At least 12 medical staff killed in Israeli strike on health centre in southern Lebanon: ministry - The Hindu |
+| 2026-03-14 07:21 | Israel | 通报 | Lebanon | 待确认 | C | IDF drops leaflets over Lebanon calling on citizens to disarm Hezbollah - AOL.com |
+| 2026-03-14 07:19 | US | 通报 | Iran | 命中 | C | From Within – Out Lense To Spillovers Of Iran-US/Israel War And Greater Middle East: Dissecting Immediate And Long-Term Impacts Of Third Gulf War (Part II) – Analysis - Eurasia Review |
+| 2026-03-14 07:16 | Israel | 通报 | Israel | 设施受损 | C | Hezbollah says ready for long battle as Israel threatens Lebanese infrastructure - Griffin Daily News |
+| 2026-03-14 07:14 | Israel | 通报 | Israel | 待确认 | C | Israel prepares for long war with Hezbollah with deeper Lebanon land grab in sight - thenationalnews.com |
+| 2026-03-14 07:13 | 未明确 | 通报 | 未明确 | 待确认 | C | Turkish President Says Ankara Taking Defensive Measures, Will Not Be Drawn into Regional Conflict - Kurdistan24 |
+| 2026-03-14 07:10 | Iran | 通报 | Iran | 待确认 | C | U.S. faces elevated terrorism threats against backdrop of Iran war and cuts at FBI, Justice Department - NBC Bay Area |
+| 2026-03-14 07:08 | 未明确 | 通报 | 未明确 | 待确认 | C | What we know about the car ramming attack on a Michigan synagogue - NBC News |
+| 2026-03-14 07:03 | US | 通报 | Iran | 待确认 | C | The Latest: US is deploying Marines to Middle East as it pounds Iran - Watauga Democrat |
+| 2026-03-14 07:02 | Israel | 空袭 | Iran | 待确认 | C | Fewer Israeli strikes but also less aid in Gaza as Iran war rages - Inquirer.net |
+| 2026-03-14 07:00 | Israel | 通报 | Iran | 待确认 | C | U.S.-Israel War on Iran at the Crossroads - Modern Diplomacy |
+| 2026-03-14 06:54 | Iran | 通报 | Iran | 待确认 | C | The Iran war in maps and charts - The Economist |
+| 2026-03-14 06:51 | Iran | 通报 | Iran | 待确认 | C | Is Australia at war with Iran? The fine line between ‘defensive operations’ and complicity - The Guardian |
+| 2026-03-14 06:48 | Iran | 空袭 | Iran | 待确认 | C | Airstrikes Pound Middle East as Iran Conflict Approaches Third Week - The New York Times |
+| 2026-03-14 06:40 | Israel | 通报 | Israel | 待确认 | C | Israel Threatens ‘Increasing Price’ for Lebanon as UN Urges Ceasefire - Asharq Al-awsat - English |
+| 2026-03-14 06:31 | Israel | 通报 | Iran | 待确认 | C | Iran promoting anti-Israel propaganda across social media: report - New York Post |
+| 2026-03-14 06:24 | Israel | 空袭 | Iran | 待确认 | C | Daily brief about U.S.-Israeli strikes on Iran: Day 14 - Xinhua |
+| 2026-03-14 06:23 | Israel | 空袭 | Israel | 待确认 | C | Suspect in Temple Israel attack lost family in Israeli airstrikes - MS NOW |
+| 2026-03-14 06:21 | US | 通报 | Iran | 待确认 | C | Iran war puts many in US on high alert, but synagogue attack shows limits - Reuters |
+| 2026-03-14 05:57 | Israel | 空袭 | Israel | 待确认 | C | Hundreds of thousands flee as Israel strikes heart of Beirut - Reuters |
+| 2026-03-14 05:49 | Israel | 通报 | Tehran | 待确认 | C | Explosion shakes Tehran amid state-organised rally after Israeli warning - France 24 |
+| 2026-03-14 05:45 | US | 空袭 | Iran | 待确认 | C | US war on Iran enters 14th day as strikes spread across Middle East - Muslim Network TV |
+| 2026-03-14 05:36 | Israel | 通报 | Iran | 待确认 | C | Israel shifts to hyperlocal targeting in Iran as regime military power degrades (March 11-13 updates) - Foundation for Defense of Democracies |
+| 2026-03-14 05:34 | Iran | 通报 | Iran | 待确认 | C | Trita Parsi on the Hidden Puppets Behind the Pointless War in Iran - Home ❧ Current Affairs |
+| 2026-03-14 05:32 | Israel | 空袭 | Israel | 待确认 | C | Israel kills at least 31 in strikes across Lebanon as Hezbollah says ready for long fight - TRT World |
+| 2026-03-14 05:30 | Iran | 通报 | Iran | 待确认 | C | As I See It / Trump and Netanyahu’s Iran quagmire is wrecking the global economy - South China Morning Post |
+| 2026-03-14 05:28 | Hezbollah | 通报 | 未明确 | 待确认 | C | First photo of Michigan terrorist who tried to murder Jewish toddlers — as it’s revealed his brothers were Hezbollah - New York Post |
+| 2026-03-14 05:21 | US | 通报 | Iran | 命中 | C | The Latest: US hits pro-government demonstration in Iran as war threatens global economy - KGET.com |
+| 2026-03-14 05:18 | US | 通报 | Iran | 待确认 | C | The Latest: US is deploying Marines to Middle East as it pounds Iran / National News / 2news.com - KTVN |
