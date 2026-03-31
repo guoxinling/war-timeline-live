@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-03-30 21:10
+更新时间（北京时间）: 2026-03-31 10:01
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-03-30 21:07 | Iran | 通报 | Iran | 设施受损 | C | Trump issues new threat to Iran’s civilian infrastructure if ceasefire not reached ‘shortly’ - Santa Cruz Sentinel |
-| 2026-03-30 21:03 | Israel | 通报 | Iran | 待确认 | C | As U.S.-Israel-Iran conflict triggers energy crisis, Dubai business leader urges diversification - Guangdong News |
-| 2026-03-30 21:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and the Middle East - jpost.com |
-| 2026-03-30 20:55 | Israel | 通报 | Israel | 伤亡 | C | UN peacekeeper killed in Lebanon as Israel fights Hezbollah, enlarging ‘buffer zone’ - News24 |
-| 2026-03-30 20:55 | Israel | 通报 | Iran | 待确认 | C | U.S. cedes key war mission to Israel — killing top Iranians - The Washington Post |
-| 2026-03-30 20:44 | Israel | 通报 | Israel | 待确认 | C | Israeli attack on journalists: Israel claims videographer Mohammad Ftouni was affiliated with Hezbollah - L'Orient Today |
-| 2026-03-30 20:43 | US | 通报 | Iran | 待确认 | C | Spain closes airspace to US military over Iran war, widening rift with US - The Guardian |
-| 2026-03-30 20:31 | Iran | 通报 | Iran | 待确认 | C | Trump ‘pretty sure’ of Iran deal, but can Pakistan-led efforts end the war? - Al Jazeera |
-| 2026-03-30 20:30 | Israel | 通报 | Iran | 待确认 | C | Iran-Israel War: Hegel’s Recognition Theory Explains the Escalation - Frontline Magazine |
-| 2026-03-30 20:27 | US | 通报 | Iran | 待确认 | C | Spain closes airspace to US aircraft involved in Iran war - BBC |
-| 2026-03-30 20:18 | Israel | 发射 | Iran | 设施受损 | C | Fire, Smoke As Israel's Haifa Refinery Damaged In Iran, Hezbollah Missile Attack — Videos - NDTV Profit |
-| 2026-03-30 20:14 | Iran | 通报 | Iran | 待确认 | C | Trump mulls seizing Iran's Kharg Island oil terminal - CBC |
-| 2026-03-30 20:13 | 未明确 | 通报 | 未明确 | 待确认 | C | Airlines cancel more flights as Middle East conflict escalates - Reuters |
-| 2026-03-30 20:11 | Iran | 通报 | Iran | 待确认 | C | Photos show the effects of the Iran war on global energy worldwide - Union-Bulletin |
-| 2026-03-30 20:00 | 未明确 | 空袭 | Lebanon | 伤亡 | C | UN peacekeeper killed in southern Lebanon strike - Daily Times |
-| 2026-03-30 20:00 | US | 通报 | Iran | 伤亡 | C | 'Regime change'? The Iranian leaders killed in Israeli-US war - RFI |
-| 2026-03-30 20:00 | Israel | 通报 | Iran | 设施受损 | C | Iran BREAKING: Iran, Hezbollah ‘ATTACK’ Israel’s Haifa Oil Refinery / Bazan Oil Hub Damaged / CHILLING Video - Oneindia |
-| 2026-03-30 20:00 | Israel | 通报 | Israel | 伤亡 | C | Israeli Soldier Killed by Hezbollah Anti-tank Fire in Southern Lebanon - Haaretz |
-| 2026-03-30 19:59 | Iran | 通报 | Iran | 待确认 | C | Opinion / Iran May Be Far More Prepared For A 'Ground Invasion' Than Trump Thinks - NDTV |
-| 2026-03-30 19:59 | Iran | 空袭 | Iran | 待确认 | C | Iran's strikes on major Gulf producers intensify aluminium supply fears - Reuters |
-| 2026-03-30 19:48 | Israel | 发射 | Iran | 伤亡 | C | IDF soldier killed in Lebanon; blaze at Haifa refinery after Iran, Hezbollah missile attack - The Times of Israel |
-| 2026-03-30 19:48 | 未明确 | 通报 | Lebanon | 待确认 | C | Netanyahu orders deeper push into Lebanon - MSN |
-| 2026-03-30 19:47 | US | 通报 | Iran | 待确认 | C | Spain closes its airspace to all US aircraft involved in Iran war - Euronews.com |
-| 2026-03-30 19:43 | Israel | 空袭 | Israel | 待确认 | C | Israeli strike near Beirut suburbs kills three Hezbollah members: AFP - LBCI Lebanon |
-| 2026-03-30 19:41 | Israel | 通报 | Israel | 待确认 | C | Watch: Massive blaze engulfs Israeli oil refinery after Hezbollah claims attack - The Times of India |
-| 2026-03-30 19:37 | Israel | 空袭 | Israel | 伤亡 | C | Israeli strike on Beirut earlier killed at least 3 Hezbollah members, security source says - The Times of Israel |
-| 2026-03-30 19:35 | Israel | 通报 | Israel | 伤亡 | C | 6 Israeli soldiers wounded in south Lebanon as fighting intensifies - Khaama Press |
-| 2026-03-30 19:31 | Israel | 通报 | Iran | 待确认 | C | Israel is making sure Trump can't find an off-ramp in Iran - Middle East Eye |
-| 2026-03-30 19:26 | Israel | 空袭 | Israel | 伤亡 | C | Seven Palestinians killed in Israeli airstrike and gunfire in southern Gaza - Muslim Network TV |
-| 2026-03-30 19:24 | Israel | 发射 | Iran | 待确认 | C | Iran and Hezbollah launch coordinated strikes on Israel; Haifa refinery and naval base targeted - dynamitenews.com |
-| 2026-03-30 19:15 | US | 通报 | Iran | 待确认 | C | Trump says US could take Iran’s Kharg oil export hub, even as he says a deal could come quickly - The Press Democrat |
-| 2026-03-30 19:15 | US | 通报 | Iran | 命中 | C | Schools, water, industry: What civilian targets have US, Israel, Iran hit? - Al Jazeera |
-| 2026-03-30 19:14 | Israel | 通报 | Iran | 待确认 | C | Iran war: Israel approves billions in new military funds - dw.com |
-| 2026-03-30 19:13 | Israel | 空袭 | Israel | 设施受损 | C | Beirut apartment damaged in Israeli strike - Al Jazeera |
-| 2026-03-30 19:06 | Israel | 空袭 | Israel | 待确认 | C | Israel Strikes Beirut as Hezbollah Escalates and Israeli Losses Mount - Palestine Chronicle |
-| 2026-03-30 18:56 | Iran | 通报 | Iran | 待确认 | C | Worries about global economic pain deepen as the war in Iran drags on - AP News |
-| 2026-03-30 18:54 | US | 通报 | Iran | 待确认 | C | Iran warns against linking Ukraine war to Iran-US-Israel tensions - FXStreet |
-| 2026-03-30 18:53 | 未明确 | 通报 | 未明确 | 待确认 | C | Gulf chaos leaves South Africans grounded - IOL |
-| 2026-03-30 18:52 | US | 通报 | Iran | 待确认 | C | More Fighting, Deaths, Oil Prices: 4 Worrying Points If US Invades Iran - NDTV |
-| 2026-03-30 18:52 | US | 通报 | Iran | 待确认 | C | How US Ground War In Iran Could Reshape West Asia, Oil Markets - NDTV |
+| 2026-03-31 09:57 | US | 通报 | Iran | 待确认 | C | Only received requests, no negotiations since war began: Iran rejects US' claims - India Today |
+| 2026-03-31 09:34 | Iran | 通报 | Iran | 待确认 | C | Trump is losing the war in Iran - The Washington Post |
+| 2026-03-31 09:30 | US | 通报 | Isfahan | 待确认 | C | Intense US-Israeli attacks on Iranian city of Isfahan cause column of fire - Al Jazeera |
+| 2026-03-31 09:16 | US | 空袭 | Iran | 命中 | C | Live! Iranian plane on India-bound aid mission hit by US airstrike: Report - The Federal |
+| 2026-03-31 09:02 | US | 空袭 | Iran | 待确认 | C | N.Y.U. Closes Its Abu Dhabi Campus as Iran Vows Retaliation for Strikes - The New York Times |
+| 2026-03-31 09:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post |
+| 2026-03-31 08:40 | US | 通报 | Iran | 待确认 | C | India roiled by economic shocks from criminal US-Israeli war on Iran - World Socialist Web Site |
+| 2026-03-31 08:13 | Iran | 通报 | Iran | 待确认 | C | Trump Says Iran Agreed to Allow 20 More Ships of Oil Through Strait of Hormuz - The New York Times |
+| 2026-03-31 08:11 | US | 通报 | Israel | 待确认 | C | Israel reports second Yemen attack as US-Israel war expands - Muslim Network TV |
+| 2026-03-31 08:11 | Iran | 通报 | Iran | 待确认 | C | Trump calls Iran leaders reasonable, seeks oil control - Muslim Network TV |
+| 2026-03-31 07:58 | Israel | 通报 | Iran | 待确认 | C | Daily life in Israel, Iran amid ongoing U.S.-Israel-Iran conflict - Xinhua |
+| 2026-03-31 07:58 | Israel | 通报 | Israel | 待确认 | C | Temple Israel attack in Michigan was Hezbollah-inspired act of terror, FBI says - The Daily Gazette |
+| 2026-03-31 07:51 | Israel | 空袭 | Israel | 命中 | C | Israeli Airstrikes Hit Beirut Suburbs, Kill Hezbollah Members as Border Violence Escalates - kurdistan24.net |
+| 2026-03-31 07:44 | US | 通报 | Tehran | 待确认 | C | Trump issues new warning to Tehran, Iran calls US peace proposals 'unrealistic' - Reuters |
+| 2026-03-31 07:33 | Israel | 通报 | Israel | 待确认 | C | Israel–Spain tensions deepen as Israeli minister insults Sánchez - Euractiv |
+| 2026-03-31 07:28 | Israel | 通报 | Israel | 待确认 | C | FBI: Temple Israel attack was Hezbollah-inspired, targeted Jewish community in West Bloomfield Township - clickondetroit.com |
+| 2026-03-31 07:27 | Hezbollah | 通报 | 未明确 | 伤亡 | C | FBI: Synagogue Attacker Inspired by Hezbollah Ideology. He Planned Attack in 'Earnest' After Brothers Killed. - Deadline Detroit |
+| 2026-03-31 07:26 | Hezbollah | 通报 | 未明确 | 待确认 | C | FBI says Michigan synagogue attack was inspired by Hezbollah - Michigan Advance |
+| 2026-03-31 07:20 | US | 通报 | Iran | 待确认 | C | ‘Iran Could Emerge Stronger’: FT Warns War May Backfire on US Strategy - Palestine Chronicle |
+| 2026-03-31 07:20 | Iran | 通报 | Iran | 待确认 | C | Iran war: Trump threatens to 'blow up' desalination plants - dw.com |
+| 2026-03-31 07:16 | US | 通报 | Iran | 待确认 | C | South Asia faces severe economic crisis due to US-Israeli war on Iran - Peoples Dispatch |
+| 2026-03-31 07:15 | Israel | 通报 | Iran | 待确认 | C | Netanyahu: Israel over halfway to war goals in Iran, no timeline for ending conflict - ynetnews |
+| 2026-03-31 07:14 | US | 通报 | Iran | 待确认 | C | Iran’s foreign ministry rejects US ceasefire demands - Al Jazeera |
+| 2026-03-31 07:06 | Iran | 通报 | Iran | 待确认 | C | Trump threatens to ‘obliterate’ Iran’s energy grid if ceasefire not reached ‘shortly’ - The Guardian |
+| 2026-03-31 07:05 | US | 通报 | 未明确 | 待确认 | C | How could US forcibly reopen strait of Hormuz and what are the risks? - The Guardian |
+| 2026-03-31 06:55 | Israel | 通报 | Iran | 命中 | C | Iran hits Israeli oil refinery as Trump escalates threats in widening regional war - PBS |
+| 2026-03-31 06:51 | US | 通报 | Iran | 待确认 | C | US Defense Secretary Hegseth's broker looked to buy defense fund before Iran attack, FT reports - Reuters |
+| 2026-03-31 06:50 | Israel | 通报 | Israel | 待确认 | C | FBI: Temple Israel attack was 'Hezbollah-inspired act of terrorism' - FOX 2 Detroit |
+| 2026-03-31 06:50 | Israel | 空袭 | Israel | 待确认 | C | Israeli airstrike kills 3 journalists covering war in southern Lebanon - PBS |
+| 2026-03-31 06:47 | Israel | 发射 | Iran | 设施受损 | C | Fire, smoke as Israel's Haifa refinery damaged in Iran, Hezbollah missile attack — videos - MSN |
+| 2026-03-31 06:47 | Israel | 空袭 | Israel | 待确认 | C | In Lebanon, more than a million displaced by Israeli strikes - Reuters |
+| 2026-03-31 06:46 | Israel | 通报 | Israel | 待确认 | C | FBI: Temple Israel attack was Hezbollah 'inspired act of terrorism' - Detroit Free Press |
+| 2026-03-31 06:44 | Iran | 通报 | Iran | 待确认 | C | Trump threatens to ‘blow up’ desalination plants in Iran if no deal reached - Al Jazeera |
+| 2026-03-31 06:34 | US | 通报 | Iran | 待确认 | C | US says Trump ‘interested’ in asking Arab countries to pay for war on Iran - Al Jazeera |
+| 2026-03-31 06:32 | Iran | 通报 | Tehran | 待确认 | C | The Iran-Contra Affair: How A Secret Deal With Tehran Shook Washington's Core - NDTV |
+| 2026-03-31 06:17 | Hezbollah | 通报 | 未明确 | 待确认 | C | Michigan synagogue attacker was inspired by Hezbollah, FBI says - The Guardian |
+| 2026-03-31 06:11 | Israel | 通报 | Israel | 待确认 | C | FBI calls Temple Israel attack a 'Hezbollah-inspired act of terrorism' - WXYZ Channel 7 |
+| 2026-03-31 06:00 | Israel | 空袭 | Israel | 待确认 | C | NDTV on ground zero: Israel steps up Lebanon strike, Hezbollah fights on - MSN |
+| 2026-03-31 05:58 | Hezbollah | 通报 | 未明确 | 待确认 | C | Attack on Michigan synagogue was Hezbollah-inspired 'act of terrorism,' FBI says - Reuters |
+| 2026-03-31 05:52 | Israel | 通报 | Israel | 待确认 | C | Temple Israel attack was Hezbollah-inspired act of terror, FBI says - The Detroit News |
