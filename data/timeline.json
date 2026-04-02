@@ -1,95 +1,229 @@
 {
-  "generatedAt": "2026-04-01 21:12",
+  "generatedAt": "2026-04-02 09:57",
   "entries": [
     {
-      "time": "2026-04-01 21:08",
+      "time": "2026-04-02 09:34",
       "actor": "Israel",
-      "action": "空袭",
-      "place": "Tehran",
-      "result": "待确认",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "Trump says war could end in two, three weeks as Israel strikes Tehran - eNCA",
-      "sources": [
-        "eNCA"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZkxSVFFHb2g1WXJoTGNmWEJPZzZoalRudmJtdkR2UFNLR2h1MnBTYTh1T2trem9MWG56OWZMRFBlVzdic2hYaTRleV9BcDlBYWE2OWw4cGVWdjdvTThZcDNHTXRHR2g2OXZUR0lXaXh2d1pIVUdhTDNIWUJ6N3NISTFlUGFHVUN5QjIxakN3bFpDd1UwS3FR?oc=5"
-      ]
-    },
-    {
-      "time": "2026-04-01 20:56",
-      "actor": "Iran",
       "action": "通报",
       "place": "Iran",
       "result": "待确认",
       "confidence": "C",
       "confidenceNote": "C 现场初报待核实",
-      "headline": "Implications of the Iran War for U.S.-Saudi Relations - New Lines Institute",
+      "headline": "Iran War Sitrep #32: Debate on deterring Israel heats up as Iranian pharmaceuticals bombed - amwaj.media",
       "sources": [
-        "New Lines Institute"
+        "amwaj.media"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYUVLcVR6ZzQxak5tSk5WX3JoVkVpMFQ4VXRwNkJTa2dsTnAtVlhJdjNGbFNtM09IcTVDajNFd3RWVUFsa01GckhZenZFSXJndlFMbElEMDJxcDdnYmNrVWhmZFVia1Q0Z1BZQi10UmFkRnF3c1ZDMlVlMk9RUFg1RVVJVFdkQmdRVEpVU2U2LWZOeFg5TmhRNldiYXY5ektqeWJOSA?oc=5"
+        "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSXd2cEIxU2F6VE9BLW1TWlNEQThWZDFOTmY2eWlqVUg2d3N2R0w1bWZZV0tiODVNMEZjR0dUTUtsaE5udm02dGE1cXE0MV9CVkRLNU1GRHV5QWM1LWxhbEdabkJ1dm43RHMzY18zOURGaFR6YU5Zemp1SFFxQmNJYmNjNHFqWVFPM0Z1SmsyTlAwX0RGM1JSak9WcU5oclBvVlNVcVJ3TjFUdUdmZVZRdzdqOTg3MjJEZlE?oc=5"
       ]
     },
     {
-      "time": "2026-04-01 20:46",
+      "time": "2026-04-02 09:31",
       "actor": "US",
       "action": "通报",
       "place": "Iran",
       "result": "待确认",
       "confidence": "C",
       "confidenceNote": "C 现场初报待核实",
-      "headline": "‘Permanent scar’: Iran minister on US-Israeli attacks on monuments - Al Jazeera",
+      "headline": "Trump says US forces will 'finish the job' soon in first prime-time speech since starting Iran war - The Killeen Daily Herald",
       "sources": [
-        "Al Jazeera"
+        "The Killeen Daily Herald",
+        "AP News"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUUdUQVBUazlOQzhRYm9RSWt0MlJ4LXFaSGl1UURxS0Z4REM4ZFUwR3QxbU9UNmliTElZVkJWLVdaSlRQQ3RTbU1oMTUwNkJmRDNsODhxNFNxRWtUWlZvdVo4OHhCY2FEZkFlNC01akxDS0dsQU5zd0NCY0RjaFFNel81ZHNsMlhnbmlxYVVKY1lUMWx0b0h3X0M2blBPWGZ5UFN1bzBMODd0VkFEMGMzOHVvMXTSAboBQVVfeXFMTUE4UlBHd0RwSTRGb0Rtd2l5U0xuZS03aW4zWlJCa0lPTWlpNWprTWxkeUlwZlVxWGIyWnVYVDM0eTB4RlRmcDlDOTJOZ1ZxRWFKREY2TzY4c3BQNHFRNjVZell6WUw2VThuYkFOSURodnFDNkRkY2ZHYWNfN1NBb0VSRjRwMERsUTN3UHh3UVFVNG50LWN2UTZzRGRfYzBwZXlHcjgyb2F2UmtGOFVsZi02RVluMlZwTXpR?oc=5"
+        "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNSmwtMmlpTFlxSDIwZm51eThaTkd0ZUpMX09nb0tHQ0NDMEFNZDdYZllBOWIzelpkNDJzbzZrNDBMaUZMV1ppRFAzalZiT3JhWklhNEdqakFEQmQ2ZzNiNGI5VGRqdEplcjNPMWxwNjhmSHVvVGxnQkhPMXBVODh3YkdxcjBfVWRXUVZVaFlNRXJvNk9EVzZmdWRNX2ptd1IxdXNiSjBsWWtTMVVkbUtycldaV18zczM3M0pwSzQxMjRzMmduN0ZzcnoteWk2dGZJVkQzdVEwd2YydzZIY1hsdEJ0ZUhZZXZOMGxrQUdB?oc=5",
+        "https://news.google.com/rss/articles/CBMiowFBVV95cUxQclR3Q2IxbVFJdW5IdVZoM0oyVTNkWDVpS21tQXRvQmJ1LWRKM1lNUFlkMEtJTDNLb2FhWUxEczdrUXBuT1otck1hcnNvV3NUb3p5STRFX0p6Y2pzU0V2Wkt3WXdoNk1ITmVYUjRJTTljZ2d2d1lQOE5FNWhnanRGaUY3cFJ0eFlOTnJlUnRoM1R3Z2RrWFNPMWh6QmJOb1AzVk9j?oc=5"
       ]
     },
     {
-      "time": "2026-04-01 20:45",
-      "actor": "Israel",
+      "time": "2026-04-02 09:22",
+      "actor": "Iran",
       "action": "通报",
+      "place": "Iran",
+      "result": "待确认",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "Breaking | Trump declares ‘decisive, overwhelming victory’ in Iran war - South China Morning Post",
+      "sources": [
+        "South China Morning Post"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVHZjbVNkeUpXcnVCSjYwRXdld2FhMjhTM2RtdWQyZjZlSUdtUWhyUDRvaDNIWDFLbENEZUlCRUhET0xKN0kzVUUyYWNqZllaSm5QcDYwM2gwQVQ3aHozbzh5bTNnbUx5cTVKVV95YVlQYjJnMTItejVPRFdVSGxoSEVKYks2blNUZUtkUGFZdHEyend1NkY0aFRPcGV2ZTBhbEgwVjNNM0l4NF9Vd0FaVi1saXZEaFJuUENRb3dR0gG-AUFVX3lxTE1mdVNSZVRseVlCam83STljYkEzWVBlVktuRkJzd1F5OW5NTHhLdTBabDk1Y2IxWHI3MnBvY3BMNkVLd19nTjE3UkQ5d002cGNXQldpQVUta2Q2MGlCcFNFQ3dudGFCWVhWZXVqb1AyZjQtUDJhMWl0ejVQN3UwR1cwdEVNY3NwMFRNVk45WXR0dnB4cTBRSy1PTjRuQ1VSWncyTHUxS1FieGg2TnNmTy1RTlpIWWNNeGNPN0lXa3c?oc=5"
+      ]
+    },
+    {
+      "time": "2026-04-02 09:17",
+      "actor": "Israel",
+      "action": "空袭",
       "place": "Israel",
       "result": "待确认",
       "confidence": "C",
       "confidenceNote": "C 现场初报待核实",
-      "headline": "Israel claims killing Hezbollah commander in Beirut - shafaq.com",
+      "headline": "Israeli strike in Beirut kills senior Hezbollah commander - The Sun Malaysia",
       "sources": [
-        "shafaq.com"
+        "The Sun Malaysia"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMijgFBVV95cUxOM3M3SXVjTFZpQy1zcWZGS0lWRnF2Qm04T0NjNGlmX2hwWWVocndCbGV3RktnUXROd2RCWmhVZjhpZGJwdTJzMjRCUzVQeWthcHFFNElGa0w1Vy1FTW52TkpEYW1aMHlfaUhkMXBXeFprQVg0X3EwdFA0RnQwMHRtenhubHA2UzJDWGU3d3RB?oc=5"
+        "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMy14UTFVV2xaM21heHAzQldrYnRCTlctWEVoaEJmWHlDaDdjSWRCc1YxakliQ3VsS0xNV2tPWlBreElTRHBiX2p6V09sWjFMYXBTQ3BFTWZ0SDhzQ05POVJKRVh5T1l5ZlpmMFBOajMyUXRNcG0yVl9ZejF3YlRzOUVqQTBadHhxUWN0N1J3dDJyWno5NzNn?oc=5"
       ]
     },
     {
-      "time": "2026-04-01 20:41",
+      "time": "2026-04-02 09:12",
       "actor": "US",
       "action": "通报",
-      "place": "Tehran",
+      "place": "Iran",
       "result": "待确认",
       "confidence": "C",
       "confidenceNote": "C 现场初报待核实",
-      "headline": "Tehran has 4 demands for US, Israel to achieve lasting Mideast peace, says Iran's envoy - Anadolu Ajansı",
+      "headline": "Iranian President asks Americans to question Trump's war motive, labels US 'proxy for Israel' - indiatvnews.com",
       "sources": [
-        "Anadolu Ajansı"
+        "indiatvnews.com"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQa25jNHBtOHBlTXBEVy1EdndzTWlhYU83dmdZT1VZMnRIQWtrWlotTmhtT1dzdDBpbl9xY1JxMFJPY0F4cGNiNjVXUVN0RGxmcnpaTDE3dnhqVnJlVzRKM3ZxMHFyck41SEt4U0VMS1gyVVNqbUV6N1piX3BSdjVLMzN5LThaalFIMmNEOVRyV1dLRzRyTWJOeUJJMTNOcVNUSGJxeHZ1NmFydWwtRU1FbFp6dloyNl9XdWFrenhqczktcjlreW9lQg?oc=5"
+        "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPYzFjcGFqSGNEYURpbVF0c2pFS0YwdlJyYVlsSmdLdzR0SHFJRS1wejg4N1Z0WUt4VFhsU3liOEtveTFmSkRNV2g3MnVSaW9ycnRLaVkxM1Q3MmpYZkxCd2Fyb3JOTk9YS04wRk0wZG9Cc0VFeGhTRlM1ZmFzVjd2S1o4WnlqbUR1aUstTjBfdjVXRHNwWGJtQnZuaUhwd2pSc3FBMGtuWTNIZ04yUjRrSU9mS0RiR2lrSklFV01DaXFYcTBXMktCZ0JOdVphRm16WVUwZ1VsOWg2Y1ozLVFSYnRqUUhfT3k1Ui1ZZjhqN09PVTTSAfgBQVVfeXFMUExwX0hqa25JZEFSV3JxcDhyX2MyMTVrRElIU0tvbGVvNkc1ZVFwdTBLOU5JS0dlX0FINUFlazNiY2xnTjNBRE5YMXlYSDNFamV5X0JJNjlPY0Vmc0RMNEx0OFc1OXVENW11RDU0emlvTVVXUE9jOXYtLXdjUWJfaHBWUmQ2TFJqbjlHTDFWa2VsNWEyZjVjRzVndkVMbFR5dWg1N2NEOHJ3OEY5OU8yeTFubXpLdHpESGJsV1VDMFU2SVVPb3hkYUlFeTdTZENSZ3Q0SEFETThxbFR5S1lneVVUVU55YlBmUk0xamtFbW4ySW9CWHp3aHI?oc=5"
       ]
     },
     {
-      "time": "2026-04-01 20:37",
+      "time": "2026-04-02 09:11",
+      "actor": "US",
+      "action": "通报",
+      "place": "Iran",
+      "result": "待确认",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "The Latest: Trump addresses the nation on the US war effort in Iran - Henry Herald",
+      "sources": [
+        "Henry Herald"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQdUJFMEpub2RHa3dhTU5VMUY5c0lKWlgzdmVBMUVLR2U4MVcyeHJHVU5YVkstek55NEhuZ1B4RWpBTFFLTmgxekI1RThnNTc0YVVZZTNOcjRrZ1hKcV9kQW1HakpZaVdNdVJhYWpGdlBaN3VMbHpueC1mOVlaX29kRUc4a0xQam9sMmFRSDNPZm42RWFQOGpOSmRRSG83SGp3TW93a0pOQjViS2psUEF0MWNib2V6cWxfU3dHWF9GbVVOTG1MWjR6Y1BzTmc5VWVyQVFsVFpFQUV5V3c4YVoxd3JrMGVoT0ZsMF9vd000Wm9uZEpX?oc=5"
+      ]
+    },
+    {
+      "time": "2026-04-02 09:04",
+      "actor": "Iran",
+      "action": "发射",
+      "place": "Iran",
+      "result": "待确认",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "Trump speaks on Iran war in first prime-time speech since launching strikes 4 weeks ago - CTV News",
+      "sources": [
+        "CTV News"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdHprU0JOTjlkS0RxM3B3OWQzRUEtZ2E3STRmWWVSa1BRQUtXQUV0QndXSFEtOGZMakRoVUVXZGVaYnp3RkVhd2gzYW5yQjFheHZiRDB0QklYWG9uWGVoM25VYjlnRmZtNVZRcGUzMjNGTHRKejZpdGxOc2ZQd0p1Y3E2ZHJ3NjgwY2hVSFRSLVpZLXJUaHEzeXJSR20xYXJBWnJQeDJuV2lSdUV3N3ZmZmluOVM?oc=5"
+      ]
+    },
+    {
+      "time": "2026-04-02 09:02",
       "actor": "Iran",
       "action": "通报",
       "place": "Iran",
       "result": "待确认",
       "confidence": "C",
       "confidenceNote": "C 现场初报待核实",
-      "headline": "Markets rally, oil prices fall as Trump prepares to address nation on Iran war - The Washington Post",
+      "headline": "Watch: Trump addresses the nation at critical moment in the war with Iran - npr.org",
+      "sources": [
+        "npr.org"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTE90SzZhM2dEY29WeWI2dk5fa01GeGtsZEFhQUZIeHN0WDl5YXpSWWRvQjdOaXk5VmxIeUFLRmlaX2lFam9IWV9RbDdhNVdGRnlxUWVIUTd0a2tTa2ltVmpubXRjMVQxSU1aa1JfR09HcG5sMjJaelE?oc=5"
+      ]
+    },
+    {
+      "time": "2026-04-02 08:50",
+      "actor": "Iran",
+      "action": "通报",
+      "place": "Iran",
+      "result": "待确认",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "Trump addresses the nation on the Iran war - news.lee.net",
+      "sources": [
+        "news.lee.net"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTEozNjNRUW9vSjZCcFpJQ3NXY3Y3WEVudUlBcC1WaXZuTmw2NS14VldFMUVXNkpvRmxWSGlEdjA0c3V2LUxGVG0xSGYxVFRKRGVIUHlyRk5SSkdnU1NScUhGSXgxbDQwRW9UWjMzRHpIU3dvZkZNVjR1WWluelZIeEhtUnpZZjV2T0ExUUpPeDdRNWVlVzhUeDRlSzFJcXlzSVhhalRBM3hJRDFxTUVhTlRqVWozbXBtZU0wMXpJZy1MNloxSy1vamZxUkVTQmxJVHZlQXktc2JEMU96OEdnaUxJVmpIdw?oc=5"
+      ]
+    },
+    {
+      "time": "2026-04-02 08:42",
+      "actor": "Iran",
+      "action": "发射",
+      "place": "Iran",
+      "result": "命中",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "Three lightly injured by missiles from Iran, Lebanon; nine impact sites reported - Haaretz",
+      "sources": [
+        "Haaretz",
+        "Haaretz",
+        "Haaretz"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMihAJBVV95cUxOWDFIYm1icmw1bEpaSl83UFBsVERRQTlFQzdaSWdwMGZlOVhDdi1UYy1HWno0TkRDYTc1bHhVTU1mWTlaaVZNMWV6SUIwLUVIZVNsN1pWOFN0bTYwbW9oS093TjRiUXZwUjFxald4dEpEZlRDMHVpczYwenFRVFhIRWtFQzFtTUxXRnR0czk1Qk41ZW9vZGlrOVFJRGctaVlsb19vamI5aVctX2xDQ05hTUw1aHAwcG9zY0VjOUJEejNUNVZKQjJVQ3V3RnhUX0lyUW80cVdVSnRnTElDQ19SejRUNGtNWjNDa0ItMGhYR29sZEJGZlBvR1FQNnctbTZ6VjhVTA?oc=5",
+        "https://news.google.com/rss/articles/CBMihAJBVV95cUxOWDFIYm1icmw1bEpaSl83UFBsVERRQTlFQzdaSWdwMGZlOVhDdi1UYy1HWno0TkRDYTc1bHhVTU1mWTlaaVZNMWV6SUIwLUVIZVNsN1pWOFN0bTYwbW9oS093TjRiUXZwUjFxald4dEpEZlRDMHVpczYwenFRVFhIRWtFQzFtTUxXRnR0czk1Qk41ZW9vZGlrOVFJRGctaVlsb19vamI5aVctX2xDQ05hTUw1aHAwcG9zY0VjOUJEejNUNVZKQjJVQ3V3RnhUX0lyUW80cVdVSnRnTElDQ19SejRUNGtNWjNDa0ItMGhYR29sZEJGZlBvR1FQNnctbTZ6VjhVTA?oc=5",
+        "https://news.google.com/rss/articles/CBMihAJBVV95cUxOWDFIYm1icmw1bEpaSl83UFBsVERRQTlFQzdaSWdwMGZlOVhDdi1UYy1HWno0TkRDYTc1bHhVTU1mWTlaaVZNMWV6SUIwLUVIZVNsN1pWOFN0bTYwbW9oS093TjRiUXZwUjFxald4dEpEZlRDMHVpczYwenFRVFhIRWtFQzFtTUxXRnR0czk1Qk41ZW9vZGlrOVFJRGctaVlsb19vamI5aVctX2xDQ05hTUw1aHAwcG9zY0VjOUJEejNUNVZKQjJVQ3V3RnhUX0lyUW80cVdVSnRnTElDQ19SejRUNGtNWjNDa0ItMGhYR29sZEJGZlBvR1FQNnctbTZ6VjhVTA?oc=5"
+      ]
+    },
+    {
+      "time": "2026-04-02 08:20",
+      "actor": "Israel",
+      "action": "空袭",
+      "place": "Iran",
+      "result": "待确认",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "Double strike from Iran and Hezbollah injures 4, damages water network in central Israel - Anadolu Ajansı",
+      "sources": [
+        "Anadolu Ajansı"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQS16ZVIzQm0yTnd5MDNKaFFxcGZ4UXJEajNWWTVXa1dqeGZDTlEzM3NZOXpreXlHM3pxenlMcTh4T0VYV0xHNzN3Z1NVbDJkdngyQURaVkRldzhfUF9oaERXcEszZWlJazE4SXVFcXFSTmhkS1J5QUx4TjVxMmluRmEzU3FKWkhwSFIxTklBWGxnZm9ZME05WjZUS3FfckZ6MzNhWmdOb0ZQX2ZiOFRCQlJjWW11OWdRU2RydlhFRHZfUjN1QkJpU0lHTWw?oc=5"
+      ]
+    },
+    {
+      "time": "2026-04-02 08:15",
+      "actor": "US",
+      "action": "通报",
+      "place": "Iran",
+      "result": "待确认",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "US intelligence assessments indicate Iran currently unwilling to negotiate end to war - report - The Jerusalem Post",
+      "sources": [
+        "The Jerusalem Post"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUZ01WZDkwMmpYQk9UTXg4al9NbTNWME1nWjMzQ0VXQXhpRGhUOHEyb2JtN1BIWnlfRUphUFJSVVdtbjF5emxSdzl6dXB1emxHMTJ1cEFoNW1TN2lOYWpJQzN3Z1ZYc1pOV1E?oc=5"
+      ]
+    },
+    {
+      "time": "2026-04-02 08:07",
+      "actor": "US",
+      "action": "通报",
+      "place": "未明确",
+      "result": "待确认",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "What time is Trump speaking tonight? How to watch live - Austin American-Statesman",
+      "sources": [
+        "Austin American-Statesman"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMHVTd3M3ZlRRMkhVcHgwd0dVcUFEMFM2UDhBUFFGTGpSTVdyRHdEaHU1UEp4ZTJTZ0JId3Z0T3NFd2JrelVSVWw0b01TeUkzYnRUWlFabmtQNDN6WThVYTFGTGl5cFNZQzlNMHVOaVVBNm0tV2lOdVNUX1p2V2cyUFBJNWtWSmczTUs0RWRxS2pwNDBvR1lzWW1WS1VURGVqQ2pkMWNoRQ?oc=5"
+      ]
+    },
+    {
+      "time": "2026-04-02 08:02",
+      "actor": "Iran",
+      "action": "通报",
+      "place": "Iran",
+      "result": "待确认",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "Trump prepares to address nation on Iran after vowing to end conflict in ‘weeks’ - The Washington Post",
       "sources": [
         "The Washington Post"
       ],
@@ -98,89 +232,57 @@
       ]
     },
     {
-      "time": "2026-04-01 20:32",
-      "actor": "US",
-      "action": "通报",
-      "place": "Iran",
-      "result": "命中",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "Iran hits Israel after Trump says US will end war 'soon' - DW.com",
-      "sources": [
-        "DW.com",
-        "DW.com"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcjRCbG93VGRqVlVZeWpyLWtxcXJSbEtFX0d1VE5PQ2VnaGYyVktxMDhFVlQ0a1A4QnlhUjU2SVlSVWlucU5QdkEzZWFMblZQcmVmYVBhN2N4dm52SXRCS0dYZGdmRWdfazNqUU8xZVY0TUY1R3N5czc3MXdWQ2pYLVhWZmlTblIxbm55RFhTdk1FS1Z6THE4MTRTOVp4aWtGdDg3RFhpZEVGaHNmRVB6RHc4ZEVjb2prcXFNa01OVDJFUnY1aEE?oc=5",
-        "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcjRCbG93VGRqVlVZeWpyLWtxcXJSbEtFX0d1VE5PQ2VnaGYyVktxMDhFVlQ0a1A4QnlhUjU2SVlSVWlucU5QdkEzZWFMblZQcmVmYVBhN2N4dm52SXRCS0dYZGdmRWdfazNqUU8xZVY0TUY1R3N5czc3MXdWQ2pYLVhWZmlTblIxbm55RFhTdk1FS1Z6THE4MTRTOVp4aWtGdDg3RFhpZEVGaHNmRVB6RHc4ZEVjb2prcXFNa01OVDJFUnY1aEE?oc=5"
-      ]
-    },
-    {
-      "time": "2026-04-01 20:25",
-      "actor": "Iran",
-      "action": "通报",
-      "place": "Iran",
-      "result": "命中",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "UK PM says war on Iran will impact Britain’s future - Al Jazeera",
-      "sources": [
-        "Al Jazeera"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMingFBVV95cUxNRHctTVpUYldLdVlnRjkwS1N3RlBvWF9Pck8zMEM1cGlZVnQtZFVMNnlMZHJSNS1LWmhITkE2NXlhTmdDcS1BNlppdVIzbURMQ25Yc0d0SmJ1RjJHcnpxaDhhc1RHSE5BaVpJWE5kVF9ydGNPTXN6VlRTRVhMZUFxZ18wSGc1NF9BSWEteGY1YUt6eGhEdTM4Q3JLMlpCZ9IBowFBVV95cUxQTjg2TnBWNERUZ1JxZ3dQUkpwNlBDZ1RLYzMtYVJmT3RfTXNHV1NDbHZILWJtZ1pmSTQ0dHN5dnF6ejdQb2tRN2piWFNjaFJnb2sxZGxZZEhpSkdxV29WNURra3B0d2JORlMya2IxQ1NRY2ZxdWJyQzQ3OTV0cHlQdmdJNVF6OUNzaGltX09pRVRHTkc3SG1PT1dEcGtmeHB2ekNJ?oc=5"
-      ]
-    },
-    {
-      "time": "2026-04-01 20:24",
+      "time": "2026-04-02 08:00",
       "actor": "Israel",
       "action": "通报",
       "place": "Iran",
       "result": "待确认",
       "confidence": "C",
       "confidenceNote": "C 现场初报待核实",
-      "headline": "IRGC ‘military council’ blocking access to supreme leader, effectively controls Iran — report - The Times of Israel",
+      "headline": "Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post",
       "sources": [
-        "The Times of Israel"
+        "The Jerusalem Post",
+        "The Jerusalem Post"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2WVBxWDk2dkZJRjh5ZHcwdkE2M0RkQkQ4QTFSS0hNR0pzYkEtQ1hpTW16aEplLS11RjA5UklUVTY0Z2gyY0dUV1M1b015UEdIUUV5bU0tQldUTjJFUDdpWEJra9IBaEFVX3lxTE1nb1M0MnNMMElnVEUxbGJGMjZCQmtqTnVSMks0M25iU01DOEU2b1h1dEVkQ1pFd0RGMWZXZ3BuclI5dEhCdXFNVTZ1b3JSRDVtb2FFanRfWUZWZ1U5WDhaTnRiTXFmbVNV?oc=5"
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LWEU1d2VmSVByVHBnSlRnR3RXMXJodURZa3BLV3MwY08wVGpPRHNRUEt6Q3lzbDI3M3BGN1k3WHR4YkJXcU9WSXFiSDd5WUpzZFAxOXhmeVF4eFhqOERkUDc5dzhsSEUtSmNaLVBzajFhQS1Gakprd01TazNrSGc?oc=5",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LWEU1d2VmSVByVHBnSlRnR3RXMXJodURZa3BLV3MwY08wVGpPRHNRUEt6Q3lzbDI3M3BGN1k3WHR4YkJXcU9WSXFiSDd5WUpzZFAxOXhmeVF4eFhqOERkUDc5dzhsSEUtSmNaLVBzajFhQS1Gakprd01TazNrSGc?oc=5"
       ]
     },
     {
-      "time": "2026-04-01 20:17",
-      "actor": "Israel",
-      "action": "空袭",
-      "place": "Israel",
-      "result": "待确认",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "Latest developments: Israeli strikes and Hezbollah attacks - Naharnet",
-      "sources": [
-        "Naharnet"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMiogFBVV95cUxObW5LcVZGWDRybDZwYlZ5ZXd4R1UzVDYxTW0tM2hSTm9QMVp5OGxZbFBaYXNWdVppd0FXOHYxczdaQ3dUWmxYTnNqa0w1U29rMmF3dW5aaDUxNDRfQWx0ajZnOGMteWNfdUZGQnNEZFFiYVJ6ZDNVNlVITnJTSGowTFctNlNicThkZkhsRU1TUjRzRVRsMDRTSEJ5bXIzVlR2ZlE?oc=5"
-      ]
-    },
-    {
-      "time": "2026-04-01 20:13",
-      "actor": "US",
+      "time": "2026-04-02 07:59",
+      "actor": "未明确",
       "action": "通报",
-      "place": "Iran",
+      "place": "未明确",
       "result": "待确认",
       "confidence": "C",
       "confidenceNote": "C 现场初报待核实",
-      "headline": "What Happened This Week in the Iran-Israel-US Conflict? - Morocco World News",
+      "headline": "Record monthly rise in petrol and diesel prices, says RAC - BBC",
       "sources": [
-        "Morocco World News"
+        "BBC"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMipgFBVV95cUxPODRfb2RSNDdoTUFXVXdZQzNSZm5CaGcyMzZmVng5U3pjaExMcEMtWXpBWkszdGhRMXVPMFFMTDRXRXdJQTRlamVkWWZHY01yZEZHOEg0dG9vSndKZ3B5eUpqdGpCczhqbFlnSXdqVEZxQ3hIN1lwSHpTdVVtOTBZQ0RkUFAxZlFQQkpCRHhHSFg2M3hnSWtBQmZBYzZEaUZEZjNYNFNR?oc=5"
+        "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vN0tpNVdZWWNRUC1TdVFmZE1FNWpURGFiUlVQYU9ENW92U1k0U0tCMnVXcjdSd2xHRUV2bTFZMnVfM3pQWEFqNDdDalBIakJMOF80dXlVVTlRdw?oc=5"
       ]
     },
     {
-      "time": "2026-04-01 20:12",
+      "time": "2026-04-02 07:50",
+      "actor": "Israel",
+      "action": "通报",
+      "place": "Beirut",
+      "result": "伤亡",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "Top Hezbollah commander killed in Beirut as IDF presses deeper into Lebanon - MSN",
+      "sources": [
+        "MSN"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNT3FZcGxMSzg0UU9nUndDRmtlek91R2c4Q3c2UEx2dWpXWllHNXpyRVZNMHdReXVoZjlUWFU5Y2lscmNENkY1akNVNm9BZnBTZUt1c0R3Y0JwUG5tbldHUzV3ZUctWHJNUG5LZW1JWUE1bjA1c0dfdUtyV0xCQlZPWmJ1NzRUaUo4RzBFQ1BvUG9JdGlMU2pSZlZoUXVlSlk1dFh4XzJ6TUl0a1VrMFZNSWh1M00yRXJNNHRZN1JmSkMxaE1FbkgwcTJIMW9rVzJmVVA3MEpKZHVtUG9EdW4wYUlZZE16VElfN1lHcDFjX1hFMjA?oc=5"
+      ]
+    },
+    {
+      "time": "2026-04-02 07:47",
       "actor": "Iran",
       "action": "通报",
       "place": "Iran",
@@ -196,455 +298,359 @@
       ]
     },
     {
-      "time": "2026-04-01 20:09",
+      "time": "2026-04-02 07:46",
+      "actor": "Israel",
+      "action": "空袭",
+      "place": "Israel",
+      "result": "待确认",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "Israeli strike kills Hezbollah southern front commander - MSN",
+      "sources": [
+        "MSN"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRXh4SU5sR09XTUtiWkJaQ0NWa3F0UHpBbjVaZVBCTTBjdnpFNndWSXUtM3VqTUFla1p1VFIyaHU1dExsd0RlWkpacUpsWmhtSGZpbDd0cXYxV1JQYWhnTGlkZGlNYXNmWFhua0RRSFlmVkY1UlR6Rm9zeEpCMlFGMVpqcVdQT0RfTmJhQjFvMEtTMzN1c2xtUEVfVVlvSjMwd1E3YzVSM2hMTGhSWlFSTEZWMHd2V21Ha3hPU1BuX0J0QlY0NF9HTU9DdXM3dWxxVzk5MVllSjE0dVpwNGozbjBhWG9MM3lkWTVHdzNR?oc=5"
+      ]
+    },
+    {
+      "time": "2026-04-02 07:38",
       "actor": "Iran",
       "action": "通报",
       "place": "Iran",
       "result": "待确认",
       "confidence": "C",
       "confidenceNote": "C 现场初报待核实",
-      "headline": "How are NATO allies pushing back against Trump’s Iran war demands? - Al Jazeera",
+      "headline": "Iran Denies Requesting Ceasefire Amid Trump's Recent Claims - heraldousa.com",
       "sources": [
-        "Al Jazeera"
+        "heraldousa.com"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdGdjdlZvWnh3Y2Z1Yzc2VV9HOUxGWjdaTGNveWE2emc3RWg0MXM5NDBDQW45QUZieUVVZG5zMy1QYjFhdWFGdUhZbWFZek84YWFqTHctblRfWGFCcldiY2VwV1FNRHVvNTlhamdSRjZBRlhoNlprQXZOaWROZ21mVGFjOHU5dzF2RkJhVmtWd2lUN21ZU3M4TFZqWGtJUzZ0NEJKOE9vY9IBrAFBVV95cUxOcy1wMG53bzFzLWFTQTVYd0ZGSWZxNkRpUE5yOFl5WDhjRF8xREVhWEt3UmgzWVEyRUJhMGRNdlY2NlpsNDFzajlXTEsyNGdzREdGeDFqS3ZiY3ZvM3BDaHRxbHJlN2RRMWkxd0FFVnlUdWhPbnVKdGotSDh6R0pQajRIQUFxeWpVTy16TDVpOC02MTIwMVdtODVtVGlQbndXbXo5R01xaFVET3VU?oc=5"
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSUhRcXpQZFZhbFFyVUlvMW9pWndoaXJ0aEwxREVXRU9JTkw0UEZkQUFTSDZ1U2NXWElSXzVpMzlaMWZ2NXRsaFNCS1VvZnE1ckdNUEpKNEgtN05QNEZPX0pBUlZ2NmZKOHdaOE5rRmtUXzhzLUozM1dMX2JKdXVnc3o1emt6THlDbTlLdURJUjJ0ZklJUFdWV2NqbzdRTmU3UDlTZjEybDlxUDJZT1hFV1g0b1ZEdw?oc=5"
       ]
     },
     {
-      "time": "2026-04-01 20:07",
+      "time": "2026-04-02 07:38",
       "actor": "Iran",
       "action": "通报",
       "place": "Iran",
       "result": "待确认",
       "confidence": "C",
       "confidenceNote": "C 现场初报待核实",
-      "headline": "The Latest: Trump says the military could end its Iran offensive in 2 to 3 weeks - The Washington Post",
+      "headline": "Kharg Island: Iran’s Oil Lifeline and a Tempting U.S. Target - Council on Foreign Relations",
       "sources": [
-        "The Washington Post"
+        "Council on Foreign Relations"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQa3JVemtfNXJQZVBtdG5vMDd3VXlGMVE5Q3FSLWFmZDNOUGUtdWNka3JGVUpTQ3ZvYU5tUUJvVlo4ZHVxRm1QLXBzdTUyMFhnekdYTmlGczhKS011a3A1Zk5QT2lDbDBDVU9XM1RwcV9XejZLNUliaGRTVTJHWjNaYWpNZll6YmpXQmRSTzEzN3pmWjhhbUlQQ2lJSXllaENENDVfTWl4RGY0c3psVHdjTVRPd19QcTV0YVZ0RkxUTUIwaG1tNUJ1cmZIaExvb0ZWYUhYbjI4b1A?oc=5"
+        "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOHZWbWJmOHJvQmQzOGVjZDMxbjFNWUxLWU9ESzZRMTRxVTk4NXowblJwbUNMMFBvYmNmMnJwVWlFV05YODE5TEdBczd6Z2tCSG1BU3o2VnNyYnJZbEI1a1ZneXBXOHBUVGdxd2lSa2VLWl9VaFlQSnRJVEdfVXJWcXBtZzJ1aXNiaGRXUUFmSQ?oc=5"
       ]
     },
     {
-      "time": "2026-04-01 19:57",
-      "actor": "Israel",
-      "action": "空袭",
-      "place": "Israel",
-      "result": "伤亡",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "Israel claims it killed Hezbollah commander in Beirut strike - Anadolu Ajansı",
-      "sources": [
-        "Anadolu Ajansı"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNDJvT2hlQkc0U1U3VFRxdjJmTkhzODZka1VoY1ZUYnFib0JoN0Y5YmtaQm85d0RUd2MyaXJfdWltc0JzUHZJNVRoWjViazFyV1JybGdkTDNqWEZqQURPcTZGOWNqSUlrbk95RFZlcWZicE1nd2tQTVVxaVRhbHRqYS1HSHJNb21iOGVNM0ljMGd1Y1JNdWZQRU5HQi1RNk1feGhHMzlHcWw?oc=5"
-      ]
-    },
-    {
-      "time": "2026-04-01 19:49",
+      "time": "2026-04-02 07:30",
       "actor": "US",
       "action": "通报",
       "place": "Iran",
       "result": "待确认",
       "confidence": "C",
       "confidenceNote": "C 现场初报待核实",
-      "headline": "Why did US and Israel attack Iran and how long could the war last? - BBC",
+      "headline": "Iran calls US demands 'irrational' ahead of Trump war speech - Al-Monitor",
       "sources": [
-        "BBC",
-        "BBC"
+        "Al-Monitor"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55MG5wdTJrMFlNLWRENFBMZEFMcW0yN0E5dE1lajB6eGRWU1JNN2Y0cXhkbGlGdEpTcG1naHdqN00yLThGV3Qzd2RmYWhBa0tfS1I5ejRobjVGZw?oc=5",
-        "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55MG5wdTJrMFlNLWRENFBMZEFMcW0yN0E5dE1lajB6eGRWU1JNN2Y0cXhkbGlGdEpTcG1naHdqN00yLThGV3Qzd2RmYWhBa0tfS1I5ejRobjVGZw?oc=5"
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM2NBWV9tQVc3eEM4dzBnbFM4N3drc0h0NklYU2FJNWRsaWFEQU8zQjhVRExfelhlcXNKZE43NFlnT2M3b0FKSDhqN3V5amNHeFNxd3RSaGpHd3BKcm5EVXlWNzlhTWF1TTNKMlI3YXk4Y3FUQ1pucVdKUXd6WkxlMnEySHp3b05yVzYzc19TZXRIcXJwV2NoUWc2bUlWc2lERlFnVVNqeHVXQQ?oc=5"
       ]
     },
     {
-      "time": "2026-04-01 19:42",
-      "actor": "US",
-      "action": "通报",
-      "place": "Iran",
-      "result": "待确认",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "Iran lists four demands for US and Israel to achieve lasting peace - Yeni Safak English",
-      "sources": [
-        "Yeni Safak English"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVE9lRVZqQUwzZ2N1ckZtUlQ5ekpua2F6eDc1S0gzek5QNWZxZU5NRnRNMmRybXlRVDF5S3NCVGRYYUt6OFF5NHFGZ3diNU5LY3hPWUhDamI0X1l4Q3BoNzJ4V2hlWHhidWpMWkJOcGoyY254eVRSYl9iRlgtZy1uVTFOQUhXSDBYN2pGS1djcUlFUDI3NjBkZW9wMjhJU0xDblpBYVlBdmc?oc=5"
-      ]
-    },
-    {
-      "time": "2026-04-01 19:39",
+      "time": "2026-04-02 07:24",
       "actor": "Israel",
       "action": "空袭",
       "place": "Israel",
-      "result": "待确认",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "Israeli army claims killing Hezbollah commander in Beirut strike - Yeni Safak English",
-      "sources": [
-        "Yeni Safak English"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMipgFBVV95cUxONGJzRHB0M2pwOHEyUHZBTjhrRWhCdWNZb2duMkhHMmVsZTRvM0JKeEgzNXhfMU1leERlQUZQc2dMd21hQ3g2blpxNi1jWTBFOXRoeXp2TlpZSlA0YWNTMzlDWFlvaFBiejFUNm93N0FlZjFuVzIza1JHOFlhR3ZJOUtjTDFfVHBKRTdFYUhhVms1Z1RPbHNSeFV4MDBaME5VRTQtUEV3?oc=5"
-      ]
-    },
-    {
-      "time": "2026-04-01 19:36",
-      "actor": "Israel",
-      "action": "空袭",
-      "place": "Israel",
-      "result": "待确认",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "Israeli Strike in Beirut Kills Senior Hezbollah Commander Linked to Iraq Operations - Kurdistan24",
-      "sources": [
-        "Kurdistan24"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWkFHVGc0WTAtanBUWm1XM19vNENzOUdZamFsVmtMT2RsSnAwTUJwWFJSVnZQem1ySXdhZFdNc0o4VXIwZjctVENXZURlUUc1eWZpNXFVbmd4RktnaWNia2lpaG9kNzRDZ3lUbW5WLVFlTklRc0lwLXA3SHptRFhLSGpmdkxfWkpaU2JNa2Q3aUNGa1EzSlBsZ3R3RlNzNzlZbEc0YTBkMFh2MGJQMEJGWV9LblVwRzBVVWpIek5LZU9lMThzTFE?oc=5"
-      ]
-    },
-    {
-      "time": "2026-04-01 19:35",
-      "actor": "Israel",
-      "action": "通报",
-      "place": "Iran",
       "result": "伤亡",
       "confidence": "C",
       "confidenceNote": "C 现场初报待核实",
-      "headline": "Israel reports 10 soldiers killed in Lebanon, 309 wounded in Iran war - Yeni Safak English",
+      "headline": "Top Hezbollah commander among seven killed in Israel’s Beirut strike | The Morning Standard - newspaper - Magzter",
       "sources": [
-        "Yeni Safak English"
+        "Magzter"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRXRRcmNQeVIwT0VpcEZWbTc4RGhZNFJ0d195VFhyOTIwRWZ2U2t5X0Y3VnJCNmlzZGUzNXdiYXpCZmM0ZDBib2RuVGtEekYxd2JJWFdWLUh4Ui1YUjBMVmx6ekp1M0JGX0RhYVZHTV9nNU81LUlLOFhOYkdlbFZ4NWdZb1JDcXZ1NncyV2w3dGRNOWdNZXd5VVJ2U1dDNnI2UnZDT0dtYmRpRTg?oc=5"
+        "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWGRodkp0b2ZyVG9HVlh2d1lXUEU4dEMyRXh4RDlFZHM2QWtWTkJqZmE5cDl1cW9MWDR1VV85VUtBWnNhck9fejZubU9kMWROTmFJMnRNOHNlOGQzTHBvNzhDWjRIUGNjRVY4aXhHU1h6ekxiVG5yUEI5SEJ1V2dwZXNLYS00U00zRl9vdlVyZmZ3b0FfRXZjUW95WGpxQ0xCam0xMzk0aUtSWkNiaTdFZ1RxdFU4WEd5eVE2M2RnX1NSVWotdEoxMUpB?oc=5"
       ]
     },
     {
-      "time": "2026-04-01 19:35",
-      "actor": "Israel",
-      "action": "发射",
-      "place": "Israel",
+      "time": "2026-04-02 07:23",
+      "actor": "Iran",
+      "action": "通报",
+      "place": "Iran",
+      "result": "待确认",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "Military action against Iran ends on...? Trading Odds & Predictions - polymarket.com",
+      "sources": [
+        "polymarket.com"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMieEFVX3lxTE1SUXNSM19tODFrNEtDRG5DVmZTVTNQbzhSQUNaaGszMW1jN2RkMjZzLXd3N0V5MUZXdnQwZ3o0RVhlN2c5VG9QSXJNWV9NUUJ0eEFwbFdRR2E2eS14bmM3VFBEeXJVQ3lGMFhSYm93RjFEMG5XdmxQYw?oc=5"
+      ]
+    },
+    {
+      "time": "2026-04-02 07:18",
+      "actor": "Iran",
+      "action": "通报",
+      "place": "Iran",
+      "result": "待确认",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "Politico: Trump Set to Declare Victory in Iran War Amid Rising Tensions with NATO Allies - kurdistan24.net",
+      "sources": [
+        "kurdistan24.net"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMiywFBVV95cUxOa2JLRV94TGdlYlhpNDNhV0pIbFhHdHZHQmxPMWpFUUY4ek5qZV8yZVBqZ0NzM2NJbGRjclRBMzlVZVlnc211MnRTdHB1blNqNVhTUllkcTdtNnFUMy11UEpaRUotN1JKNXpTRllzSDNfMkpySlJLb0J0endDOC1ONGNyWElQTUhTaktSY0ZOZjFTSGhSZl9WOUxaejBuUFlMajFpX1JvU2xzdmF4MDZHYlh5NUFzX3dmSnVycVNaWmZzWHRKeENPZTBHUQ?oc=5"
+      ]
+    },
+    {
+      "time": "2026-04-02 07:18",
+      "actor": "US",
+      "action": "通报",
+      "place": "Iran",
       "result": "命中",
       "confidence": "C",
       "confidenceNote": "C 现场初报待核实",
-      "headline": "Hezbollah hits Israeli bases with drones, rockets as Netanyahu unveils ‘Greater Israel’ scheme - PressTV",
+      "headline": "CENTCOM: 12,300 Targets Struck, 13,000 Combat Flights in One Month of Iran Campaign - kurdistan24.net",
       "sources": [
-        "PressTV"
+        "kurdistan24.net"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVmxmeEtwTFBvSHhUNW5zY2RzTmJwa1NFd0NsX19uQ0l3ZXdDUE5uUkxQcXo5bzh5ZGhNQ2JFVTdtaDA0RmhMQl8wSVhPZjByOGRXUzI5OFQ0dkpEWUlNOUdjZjBlRHd6NnJ4NnNOVzJDdGZ3SlRXdmhOdVl0QWFDRWVwQk5jSDd3MTBSWFlkZG11R0lOeVJvVXRTUnJVVHdGZ1FJODlkOU02WUdKUXB2bXdiZW1YUE9tU0Qxb19TWnlGS08wV182Uy1EMVJ1aklOUFE?oc=5"
+        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPa2Zxckl2NXpfNTJZRC11OFZBemhzVTlzX3YtTVpqYk56RTI0Ukk2ODcwV2pIQUNvUGlUaWpsYktOc0VUclBGV2lDRkIzdzA2T1MyUWtlSkh2Rkw3VE9DbkhmZ2FfTlJRM25KS21OOTNMazBORVdCS0JpV3RlZGxiQjNUX0d2SEE4QXpCT1VLaFBQaXBadzZGU2hfTWdJMW1od1RNLThhU1dodzFDLUZYamZESHpYSDVIbjNodWt3MjQ?oc=5"
       ]
     },
     {
-      "time": "2026-04-01 19:27",
-      "actor": "Israel",
+      "time": "2026-04-02 07:15",
+      "actor": "Iran",
       "action": "通报",
-      "place": "Israel",
+      "place": "Iran",
       "result": "待确认",
       "confidence": "C",
       "confidenceNote": "C 现场初报待核实",
-      "headline": "Mojtaba sends special message to Hezbollah as 40 attacks hammer Israel in 24 Hours | Hindustan Times - Hindustan Times",
+      "headline": "Iran Is Skeptical About Diplomacy for Now, U.S. Intelligence Says - The New York Times",
       "sources": [
-        "Hindustan Times"
+        "The New York Times"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWWxNYWk5cjZLdXprTUJ3b2haSHY0UE1BbEFUc25JZlN3TFNUSzk0WkZXb2M5TGt2WXdGaVZaS1N1RnNHRjJLRWR6RF9RZlRtaUstd3FDZGR2b0RRQ1JpNDdHZ1k2cENYQTBhdzgydmVkSzhsTThWV3FrejhDN3ZWV0g1V0s0VDljNjNRZGdaUXhGYklMMm5FNGZ3d0Y4Y1FSa2hoRW5faThWVE4tV0hqVUtxSXU4MDQ5eU1Qb0hjUVBqMk1EUi1IZDF5VW9VR1hkc0g0MV80dWRnMWNWX2pBcTRpbE9YMXfSAewBQVVfeXFMTVd5Y1lOSDVqRWpOLW9rRXcwUUZhaGFfZ2huVkotTlVJVFBmNkQ2T1Nld0d2MEl1X1B3V3JpWG41TGYzZmkwUUNSX0pNT0FWb0h4XzVCMUJ5aHBPMXBqeXl5Z1lGNE91LXNLZHRDQ3BpTDZZdjJyUzBKWm9RNHhXOERWcTBJdDN2OV9EM0pkRy00dS1NcTlISy1QMDVmbjV4WnY0QWZQUGN6ekRvNEpwNmlfbG5haWNlRzFRRGpDTDVsUk15aldKX0dfaGF6YU5KYTQtRXcxc0xTMWpPNjFpeHpnNGl0SmVkeHVMN3g?oc=5"
+        "https://news.google.com/rss/articles/CBMidEFVX3lxTE9nTlZJNTV0Qkt3MTdGZlA3ejhnSXdMd2Y1bDZ0SFAxbWl5Sjl1SHJkNTF5S2RBNkJxbWc2VHY1eEdHaTVTeHJJVVFRWTcxT1BQLXNvSGlWaW9jQ214ZEFUeHBfSHFld29SYkNyRGtmUHo2Z0hZ?oc=5"
       ]
     },
     {
-      "time": "2026-04-01 19:26",
-      "actor": "Israel",
-      "action": "空袭",
-      "place": "Israel",
-      "result": "伤亡",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "Israel Says it Killed Hezbollah’s Southern Front Commander in Beirut Strike - teleSUR English",
-      "sources": [
-        "teleSUR English"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM0ZGTlpzaC0wZkk4dE0yT3NKd2VRRFZTS1VuSG9hcGFuZzBSOVVOUnBjbW5DOWpWZldBRDg1QnNIMmo3ZEtaLW1ZSHJOS2RFTWRrZk4tU2x2dkRTVFJxbDR6R014aUx4MHkwVjNkVUQ3Mk1mMk9yV2R3QVJfSGdYSUktbG5OUXFxdzZINDhabk1vcHpOYWdlMjhZd01qTmw2RVJFZ0dncWQ1dw?oc=5"
-      ]
-    },
-    {
-      "time": "2026-04-01 19:23",
+      "time": "2026-04-02 07:14",
       "actor": "未明确",
       "action": "通报",
       "place": "未明确",
       "result": "待确认",
       "confidence": "C",
       "confidenceNote": "C 现场初报待核实",
-      "headline": "Pakistan is playing peacemaker in one war while fighting another - NBC News",
+      "headline": "Trump Says U.S. Military Campaign to Wind Down and Plans National Address - The New York Times",
       "sources": [
-        "NBC News"
+        "The New York Times"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQnkyLTNBMEFRcW5aakM5eVd1SG9zOTRZazBnemM4T196YUtmdUxpbC13RTByZERTb0JjVFFxLWFLN29ubUZDWEZnMUVkSkVqaTZsd0E2VTV6ek1lXzV6YlhMdDN1SzBoWVlSTV8zS0tvRlFDbmFOZFNYMTduSlJHU3l1NU10NHdObklSUjNqSlY?oc=5"
+        "https://news.google.com/rss/articles/CBMickFVX3lxTFByNUhNM0FZd3RDdDNRUU5XX2pqS3dtbE9aMjFfY0Z6WlkydU5xcWkyY0tlRkRmZjVtRmRaN1RHanRNb20tbHViV0Fwa3FXVU9VTlYwYk43b3VMQWdyTXVCTzZ3dGNEZkJuWG16aGhTQ0Y1QQ?oc=5"
       ]
     },
     {
-      "time": "2026-04-01 19:22",
-      "actor": "Israel",
-      "action": "空袭",
-      "place": "Israel",
-      "result": "待确认",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "Israeli strike kills Hezbollah Southern Front commander - Operativ Məlumat Mərkəzi",
-      "sources": [
-        "Operativ Məlumat Mərkəzi"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbmNqTVZkeXJlVzRHYmY3dFQwN0Y2N2ZQc3otek9zeU9YUk1SMWRZNlJrbDZmbUN3VG1EMG9ZM0VXTVVBMkZBNmdjM0s1dEpxTDZrdzlWaVYzVk9Wby1JanRmQm5xaFM1cXV2Uzl5NTJmR0lMRlkwRV9RS1pDVUpvQVdsQkctQUZQcWhBZ0JDY2NsaXE3U0E?oc=5"
-      ]
-    },
-    {
-      "time": "2026-04-01 19:17",
+      "time": "2026-04-02 07:03",
       "actor": "Israel",
       "action": "通报",
       "place": "Israel",
       "result": "待确认",
       "confidence": "C",
       "confidenceNote": "C 现场初报待核实",
-      "headline": "Israel Eliminates Top Hezbollah Commander - thekenyatimes.com",
+      "headline": "Israel’s occupation of Lebanon seeks to reshape the region using an outdated playbook - Crikey",
       "sources": [
-        "thekenyatimes.com"
+        "Crikey"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMXdZS0JDamZXeUZoVFIxaEtUMDdvZkUxeGlLbzdmZUM4aWN5YzBnaDJ3WFNyVUJTM0lSUW5FUUF3eWdmUVlGcERNMnVwTTZMUW5zMzJfenVJM2E3N0NqSzVKZm1Nbk5ORl9GWEZQMDBza3N5NXliYl9TQ1l2ZUNrVXRWUQ?oc=5"
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRUxQbXczSGFYTm5TV1JUYWs3M3d6X3M3YVdHMDN0MXFQRkhhZzlmVkdJSVktblZybEVVM3VwbkE3NFpsTnd0bzdrc0ZnRms1bTg3aXZqNEZCQktBYVBaRzh0ZHNPY1FkNEhRMm95R2NXNmNoMlJpMGRuaXBieHBDZWF3Smt6RDVWajNvbQ?oc=5"
       ]
     },
     {
-      "time": "2026-04-01 19:12",
+      "time": "2026-04-02 07:00",
       "actor": "Israel",
-      "action": "空袭",
-      "place": "Israel",
-      "result": "伤亡",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "Lebanon: At least nine killed in Israeli strikes on south Beirut - The New Arab",
-      "sources": [
-        "The New Arab"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV0lqUjAwX2EwTnIzN25VcWQtQWhHaXRiZDdadnE3N0JfQ3I1dlFFWlRnRF9KVG91SnpfWHFQR1c4OGVpdFRyMldQdFVvUzNlY2o3SGxOUndXdzZWc0xrcDFQc2l4OHlSR1d0NE9Ma2tKUndvRTBwcVVJdEJWZlBoSVhFYVRXU2k4THNvMzFfbjDSAZABQVVfeXFMUFdJalIwMF9hME5yMzduVXFkLUFoR2l0YmQ3WnZxNzdCX0NyNXZRRVpUZ0RfSlRvdUp6X1hxUEdXODhlaXRUcjJXUHRVb1MzZWNqN0hsTlJ3V3c2VnNMa3AxUHNpeDh5UkdXdDRPTGtrSlJ3b0UwcHFVSXRCVmZQaElYRWFUV1NpOExzbzMxX24w?oc=5"
-      ]
-    },
-    {
-      "time": "2026-04-01 19:12",
-      "actor": "US",
       "action": "通报",
-      "place": "Tehran",
-      "result": "命中",
+      "place": "Iran",
+      "result": "待确认",
       "confidence": "C",
       "confidenceNote": "C 现场初报待核实",
-      "headline": "Live - Former US embassy in Tehran hit as Trump set to update Americans on war - ایران اینترنشنال",
+      "headline": "Trump to deliver a primetime speech about U.S.-Israel war on Iran at 9 p.m. ET - CBC",
       "sources": [
-        "ایران اینترنشنال"
+        "CBC"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9wbUxpOWxMUFpVeTVwcmJmeGN4bG5RR3hLWkJaZ2x0NnFOTTF1ZDg2MGh0dE5rOERZZUtrN05YWURsNGEzYjczV2ZreG9CUlV6OG1UejlXVERiaUpEb1E?oc=5"
+        "https://news.google.com/rss/articles/CBMickFVX3lxTE9TUDRZNkVBbmlGVlhudlprTXBtUmJyMXlmN2k4dXZDc2JpUmw0cHdWNk53Q21CUmxMZXVsQ3BCQUx6aXpfMmlCbGhMWkNlZ3h2R09hQ1o5b2tOSTV3YWtYRE5yZWhNYUlnM2t6bTFpdTlFdw?oc=5"
       ]
     },
     {
-      "time": "2026-04-01 19:10",
-      "actor": "Israel",
-      "action": "空袭",
-      "place": "Israel",
-      "result": "伤亡",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "Nine killed, 29 wounded in Israeli strikes on Khaldeh and Beirut's Jnah - Naharnet",
-      "sources": [
-        "Naharnet"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbWFkVEhiZHlFN2VlMm5MMm1GOXVMLXZxbkJ5RVhHZkgtYWZMdDdVQ2tXeVRQUzJmc05Edmw1Nk95UloyS1VxUTNMdlB5NkpJNDdXaDRpczVtMDJjNzg5bW9mb2hhY2dvNl9MYTRueDU1OWdxbkFXM29PNF9VOVM0eWh4QW5TLVcxSUluRWc3UW92RElnYWwwRmVtMVVuc1BLUzFSdlRlbk9BcnlvdlpFWA?oc=5"
-      ]
-    },
-    {
-      "time": "2026-04-01 19:01",
+      "time": "2026-04-02 06:49",
       "actor": "Iran",
       "action": "通报",
       "place": "Iran",
       "result": "待确认",
       "confidence": "C",
       "confidenceNote": "C 现场初报待核实",
-      "headline": "Opinion | What's Behind UAE And Saudi's Offer To 'Join' Trump's Iran War? - ndtv.com",
+      "headline": "The Latest: Trump claims Iran wants a ceasefire, Iran says remarks are ‘false and baseless’ - Audacy",
       "sources": [
-        "ndtv.com"
+        "Audacy",
+        "Audacy"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVnM4dkJMZFg1UTBPNXZpLXBSeHZadTdRaXNqY3N4TngxeVUxcUpIRFlDMDM0elpybWtzVHNUNzA2UGpsX3NITTluRmZnOHVIbXRydlJPNS1uSWhBbUpfUTlwVl8tWmFjVElickh6WDFSZVlYckN4SkdxdXhydWthbUhuZm1ZNzhjYURLbm5mN1hmNWVPcnFNYVBGY0t1N3RMbDhGdUV0UDZ3SEti?oc=5"
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVTZ4NVFMWlVGeFZKaWNPRDlHQmwxWFdSSHZDTDVWdTd6b0V4UkxOOFZlLW45bGRRclktbHg0TVVVNUYzQ242Ti1rdjdrX0ZzdWExN05teG1mMnNJeEE2SV9LMHpYajB0ek5VdFV4MUF4eW1TU2NMUlBPNi1paHVlMWc3cFFZV0wxbGE5RA?oc=5",
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaDlMZWhseDdmRFZJYjJ0czJaX0ZTQXlENHRyLThOOEJBNmdBcUpiSUxMMlVwemR1T1BObEZRTGhxSTltcV9hdWNHOHcwd1RTSUJMY3hMRkdaSzVmQTYwZU5xT3ZtSWhSTkdGRWEtTmdtMnBMM2w5YmE0QW5DX0JMVE1INmJ0QlVETXRqSw?oc=5"
       ]
     },
     {
-      "time": "2026-04-01 18:54",
-      "actor": "US",
+      "time": "2026-04-02 06:48",
+      "actor": "Israel",
       "action": "通报",
       "place": "Iran",
-      "result": "待确认",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "As US weighs putting troops in Iran, realities on ground keep Israeli boots closer to home - The Times of Israel",
-      "sources": [
-        "The Times of Israel",
-        "The Times of Israel"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcU5ZM2gtc3phaURFc2pIckFHd0N2OE9XU1Q4TjJxMHRpRHJaekVLZ3Uyc0YxUHpkMmphdklndGcwMmJwUmo0b3NEcUhUYnNUTll5d2JFLThxbDlHQzgzaEwwb1pfV1FSRWNmRG5kVmgzTFlINnlqUk1IMjhpSFJYa09ERTZTeEhyX2k2Z2czeWhxQkdDUHfSAZsBQVVfeXFMTVpCbHVHQ2R2VzMtZlhQUVdyZDl5bEp3RGxqemhQMGRucjNKaHFOeVQySE5NcHhycFV3clB2VWJ6eUdHZ080eEt1bDdud1ZPWkV6dmtqenhQMVlsdzR0a3l3WmsyODloRXhETDhIM3FlYVdGd3RpQ1FSQ20yd2RoazZydXFfb1BfUVp5b3E3UHdwY0c0ZVFnRFF6TTg?oc=5",
-        "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcU5ZM2gtc3phaURFc2pIckFHd0N2OE9XU1Q4TjJxMHRpRHJaekVLZ3Uyc0YxUHpkMmphdklndGcwMmJwUmo0b3NEcUhUYnNUTll5d2JFLThxbDlHQzgzaEwwb1pfV1FSRWNmRG5kVmgzTFlINnlqUk1IMjhpSFJYa09ERTZTeEhyX2k2Z2czeWhxQkdDUHfSAZsBQVVfeXFMTVpCbHVHQ2R2VzMtZlhQUVdyZDl5bEp3RGxqemhQMGRucjNKaHFOeVQySE5NcHhycFV3clB2VWJ6eUdHZ080eEt1bDdud1ZPWkV6dmtqenhQMVlsdzR0a3l3WmsyODloRXhETDhIM3FlYVdGd3RpQ1FSQ20yd2RoazZydXFfb1BfUVp5b3E3UHdwY0c0ZVFnRFF6TTg?oc=5"
-      ]
-    },
-    {
-      "time": "2026-04-01 18:53",
-      "actor": "Israel",
-      "action": "空袭",
-      "place": "Israel",
-      "result": "待确认",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "Israeli Strike in Beirut Kills Hezbollah Commander for Iraq - Asharq Al-Awsat | Explore World News Today",
-      "sources": [
-        "Asharq Al-Awsat | Explore World News Today"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWXJKamJBYjdLRWNTeGtrTTZDLW0zNFBMUEtGM0VBRU92TTN1ZzE1SW43R3owanUyODk2eWdCZDE5UVlnU0hxU0NJTUZmSG1OUFpzT0d5a3dLczlGYlNPd1J5bUdONWhWRHBlSURPVGxzX2FxR0NrX2pkVDRBUWp4S25MMHgxekMxSHItNlZuZUM0dlBsLUlIbTdBVkpTNzA?oc=5"
-      ]
-    },
-    {
-      "time": "2026-04-01 18:48",
-      "actor": "Israel",
-      "action": "空袭",
-      "place": "Israel",
-      "result": "待确认",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "Israeli strikes kill seven in Lebanese capital - Saudi Gazette",
-      "sources": [
-        "Saudi Gazette"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMU9IUGNlVVVTTEhhemZvUDBLX2RHQjNrZXJnRkRmQ0lvQk90b0NYdFdUYm9HX3ItYTR1MlktRzRfT3dOaGRoUHU4N3RZSnliQUhSS3dYalZibkVXS0lTc0dsVUVnTEp4VFJCRE1fc2RJTzN3UHZjdDZFV3MzR09NRXkwQTFPd0hzc213a2JYbmRKTEJoTFZaaUsxNA?oc=5"
-      ]
-    },
-    {
-      "time": "2026-04-01 18:33",
-      "actor": "US",
-      "action": "通报",
-      "place": "Iran",
-      "result": "待确认",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "‘US attacking Iran’s nuclear facilities is a sign of endgame’ - Al Jazeera",
-      "sources": [
-        "Al Jazeera"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNVVmSWlTVW1MN3poSWd5bjZDeVAzTDZfMWZwd09sR056YzVfRFU2bnBlbVdCU0dzaFBvRk1HcTV3WmNLLVJoQW92Z1J0MWQ3MlZteGdyZFdtNUg0VUotUEEzMFgzYWdIRk81S09kNFVyRnNqbTZQbC1WTF9qSDREWnJCWXZ5bXdzM3A1R2cyT1RYTmVmdlQ2d3JBSGVXWmZ5ZlHSAacBQVVfeXFMT0oyemlqWlUxcjFNLThSc3lWVTFTTy1oaW0tc05Dek1nRE4yUU5GVFAzMnEwNUNxbWI0ZVI5aTdVTEhSX05rc1A1NllaN1FTcVZ2Zml4LW5uUDZKV3dZRjEwdUo3RzhqU3RRUGRJMF9ORmczSThoa3FNLVJCWEV1N2Z6bWxic1BlUllPZjFEM1dnbVpNeGR1cXJnanduV1ZJc3pqUlZzcVk?oc=5"
-      ]
-    },
-    {
-      "time": "2026-04-01 18:33",
-      "actor": "Israel",
-      "action": "通报",
-      "place": "Israel",
       "result": "命中",
       "confidence": "C",
       "confidenceNote": "C 现场初报待核实",
-      "headline": "Israel intensifies Lebanon attacks and hits areas not in Hezbollah's control - BBC",
+      "headline": "Israel hits Iran with waves of attacks and says it killed top Hezbollah commander - The Guardian",
       "sources": [
-        "BBC"
+        "The Guardian",
+        "The Guardian"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IY1pwTlJ0bHlhUFRhUWkxS1N6bmZTNGlzb1dkalh1anEzSlQ5Y2ZTQ2k4Nk52YUViTFBNTVlQa25ab3lQQ1VlWHB3WVlqdHVKUF9yMmE0UnBZUQ?oc=5"
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQUtoOFhoajBOVWFhRUhJc3pxREFDQUt4ZzRJRmFXSHc4OE1WcHRvWElsMTdiVUtZeFNzZGFmOW95c2ZGcWRFRURoVTlvd1FqeUNDNWZYMjBjTURmUWFJNGpZaTBwaFZYNzFqc1FTdkdRT1RqVDBUc3JGOTh4OFprWWdSajlxS0NDRmJjUy01blVUX29reTRNZEM2cjFJMTUxaWlQWTVmMA?oc=5",
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQUtoOFhoajBOVWFhRUhJc3pxREFDQUt4ZzRJRmFXSHc4OE1WcHRvWElsMTdiVUtZeFNzZGFmOW95c2ZGcWRFRURoVTlvd1FqeUNDNWZYMjBjTURmUWFJNGpZaTBwaFZYNzFqc1FTdkdRT1RqVDBUc3JGOTh4OFprWWdSajlxS0NDRmJjUy01blVUX29reTRNZEM2cjFJMTUxaWlQWTVmMA?oc=5"
       ]
     },
     {
-      "time": "2026-04-01 18:30",
-      "actor": "Israel",
-      "action": "空袭",
-      "place": "Israel",
-      "result": "待确认",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "Israel says strike in Jnah targeted Hezbollah commander for southern front - Naharnet",
-      "sources": [
-        "Naharnet"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWUpJY2NtTks1THFRNjFIc3VwZzBINHhBRnhRcU5fVHZyOG50b2ZMYnlQY01CTUJqOHpLVEk4QmlWTl9idGFqSkJHNGJfTjM4OVdJZFpKbWh5ZmZLX091djYzY1o3TG1mWURQa205Vll6Rk1fUlZkM3ZWNVpWQ3BTcjMwU3Q1ZWFlODllekU5N2h2SHdPMjJKVGZQQ3ZwZGstY1hsdUpXbDNFcWNOVC1acG94ZE1ick8z?oc=5"
-      ]
-    },
-    {
-      "time": "2026-04-01 18:29",
-      "actor": "未明确",
-      "action": "通报",
-      "place": "Lebanon",
-      "result": "待确认",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "Netanyahu orders deeper push into Lebanon - msn.com",
-      "sources": [
-        "msn.com"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONGtfRkp6NG16UGVRUHZMaG54QzE3dG9DNTBwTjhWOEFfQm1CVEMydlBHUEctZkJmOG0ydkRSb3Q4MVJlUjZMZjY0S0MtTE1meUJMUjVaNmlyUndNOTdLNlN0ZTZVdm1WWW0wc3YtUHhMSHowQ0JsLVJWNlBfN2dhRWo5QUdyaVJnVjdycjFEM1EzVVUwS1Z5Zk5TZ0xtOWs5MjRDdXFXeFdJbk4zbFpGSlhGeWZoS0ZuY2VqYkxKVENTTDNYYVZIbmpISEtYaEo5YV9CVU9GNHpqdEE?oc=5"
-      ]
-    },
-    {
-      "time": "2026-04-01 18:28",
+      "time": "2026-04-02 06:24",
       "actor": "US",
       "action": "通报",
       "place": "Iran",
       "result": "待确认",
       "confidence": "C",
       "confidenceNote": "C 现场初报待核实",
-      "headline": "US-Iran talks risk isolating Netanyahu - msn.com",
-      "sources": [
-        "msn.com"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZ3IzOXZ5RUdsVjdzQkRrM05mOEJmUEZuZVl6YlJtRmFUOGJiNVpILWJzakJZUDBQS1RFblRsbHd1OFZxSDRfMVNndlJtQkVna185ZFc4SjNtNVdHdTZRSXpucUhCaFZ1NWF4Q1BIeWFvWW1Ec1FORk5Ya1lLRHpSZE9FSTBicEVvMnRfdTNybFZrUEFUNXJZZmx3RlY5VDFoWVgtS3FVeGxxTUVfc2VQak53QXNiNHhMS2sxcUh3NzVIaVFqSnFMT3dKWHNteG1aaWZTSUktMm50UQ?oc=5"
-      ]
-    },
-    {
-      "time": "2026-04-01 18:19",
-      "actor": "Israel",
-      "action": "通报",
-      "place": "Israel",
-      "result": "伤亡",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "Israel claims to have killed top Hezbollah commander in Beirut - Latest news from Azerbaijan",
-      "sources": [
-        "Latest news from Azerbaijan"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUE5NVXBDc000YldZSlNnMGFkek4yVEFDNkhOUWQ4UWpqc1JxY2RlRzNqYmU1bEhUbUh6ZF9NMlJjQV9Nend2OHM4RzJlMWVySWxhODMya2F6VmFtVzFTTjBsRUludHJOTFRBbmotMTQ2V2FFWTdfWV90SXdjVThRNjdIWGJ3RDExeWdj?oc=5"
-      ]
-    },
-    {
-      "time": "2026-04-01 18:18",
-      "actor": "Israel",
-      "action": "通报",
-      "place": "Israel",
-      "result": "伤亡",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "Top Hezbollah commander killed by Israeli Navy in Beirut — IDF - The Times of Israel",
+      "headline": "US intel agencies reportedly believe Iran unwilling to hold serious talks on ending war - The Times of Israel",
       "sources": [
         "The Times of Israel"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZFBwcVdGakFIclk4ZVdkREZuZXVmQmFBU2NOaGRrNmZ1b0paWlFBQkdhT0xIdzlnMEJRNXVhYTN0Ym5NVGtLZnlyZnlvMzRKdGtoRkFyRVZFdkhJRHJJemotLXJoY2VZRXpnQzlsOUdmcDJDcjZLNm1yWnY3U1lzVWFlbE9ESHl4NVhCTjU4QlZnT0F3NWZadDJQcEZ1cTBwcVlvQjZlOExSQQ?oc=5"
+        "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9IdWtBQkpmODNMaDdWVzJKTVBfMjFOS21Yc1h4Nktjd3NPMm9oaU84NjFQZnVnRjlfcWxrTFJIVzNYSVZRd25yeXNxbFBKdjJQMTZfcTY5SWNIU3hJMDNvUk8tRdIBaEFVX3lxTE9SdERVUlhBRG1fYm1DcW55dm5BRzlfM2ZYc21nZnA4bzVyeUc5ZW9oWWItTkgzdjdTMndhUDVDTnZaMHotV0FQUTI2NDVZS19YZEh4QWtwQ3VjeUktR1JMMThhZjJQdE9v?oc=5"
+      ]
+    },
+    {
+      "time": "2026-04-02 06:17",
+      "actor": "US",
+      "action": "通报",
+      "place": "Iran",
+      "result": "待确认",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "CENTCOM Says 3,500 Marines Ready as US-Iran Ceasefire Talks Emerge - kurdistan24.net",
+      "sources": [
+        "kurdistan24.net"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lRmdLRWdSNmdjdlBQUHJrX1FKUFJScUJjME1HMWRRbnFEcFlEbmRLVVZfY1ZPVU5GM294WndCeXM5ZUxBRVVUNTFKeTBjT3dRNmJ3aG5B?oc=5"
+      ]
+    },
+    {
+      "time": "2026-04-02 06:13",
+      "actor": "Israel",
+      "action": "空袭",
+      "place": "Iran",
+      "result": "待确认",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "Daily brief about U.S.-Israeli strikes on Iran: Day 33 - Xinhua",
+      "sources": [
+        "Xinhua"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vSkJLd2psN1I4SHVsaVE2UnFQdXpINjZ2LXU2OGJ5bWR6T0dmUFFzb180M3NqVjUteU85MFlmMElNTnJFRmp2LU1tWUVsRVlXdXRFak1YMlUzSDNsMGY2MWlFZ0FVbU1vNExKeUJ5LVdUS0NDbFNPc012QUE?oc=5"
+      ]
+    },
+    {
+      "time": "2026-04-02 06:07",
+      "actor": "未明确",
+      "action": "通报",
+      "place": "未明确",
+      "result": "待确认",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "Wall Street Waits for a Sign the War Is Ending - Bloomberg.com",
+      "sources": [
+        "Bloomberg.com"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOXZZVTBjMmd2SVFGa0hGY0hSUnYwYThiR004M0hpT1ZuNWJxVkhwLW9YRUNGTWlWc3pmdWlLQW9KQXh0aXhTdVdkYnRsRW56Qlp2WTA1UVdyNk9WcmRFOW83YUtKRkRIUjh3Q1VUUHpSdjVRa2Y0WFhSX1hlcG9uYUJOQWxoUktyby1ST0RkakthSEwycEY5S0tpQlJNbERuaUNHZXJYWFo0ZW4xVlY0UUVSczFDWnlB?oc=5"
+      ]
+    },
+    {
+      "time": "2026-04-02 06:07",
+      "actor": "US",
+      "action": "通报",
+      "place": "Iran",
+      "result": "待确认",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "US-Iran War Gives Syria’s Global Economic Pitch More Urgency - Middle East Institute",
+      "sources": [
+        "Middle East Institute"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTHhBNHpRRVJKelQ4ZUM5SnNfZVVhQTl2c2RTMUc4QmdFMDJzV0xIQUZhbWZualNiT0VWVDZheTR3QVBmcWtSS1hNRnJfWGRjVnZWWDJWVXhHUTQwWTlkT3pNSzlMaktfelhkcG9OTXdWcUxTdGVYN0FZd3kwSFZySFpUQTBWa0o2YVNaeEFZaXQ?oc=5"
+      ]
+    },
+    {
+      "time": "2026-04-02 06:05",
+      "actor": "US",
+      "action": "通报",
+      "place": "Iran",
+      "result": "待确认",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "Trump says Iran war could end in 'two weeks, maybe three,' to address US - news-expressky.com",
+      "sources": [
+        "news-expressky.com"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbmY2R0lNUlhlUGdYQzlfRUpEZ09xb0c0bkt3SFNxSlZub1lkTUxYWW9vcTgzZE5JWnNZR0pVZUs2V1lVbThpakhnWnkyR1M2VmtKMXZJNHNEQV84RVVIVW9iV0pFbURhRlBUeGhYZlp1QkpwUlZDVUFyenNNZ1F5RnNRXzFRLTFmV2ZBRWFROVg2MHoxazE1dWt4VkVCaFJiaUpZQ1Z0czZCWWhPNy1yX0RiaUE1ZENvaXJ4dWxNZDlybHFHMHVILS1abEJiSVZ0Vm9XOGV1Vk0wUmExOXpQZVJWdw?oc=5"
+      ]
+    },
+    {
+      "time": "2026-04-02 06:05",
+      "actor": "US",
+      "action": "通报",
+      "place": "Iran",
+      "result": "待确认",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "Iranian President Pens Open Letter to American People - time.com",
+      "sources": [
+        "time.com"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMDJsUHlJck1kalMxMHl1Y3daNWFyZ1hUUHR6cHJQTXpZb2lUY2dtSUo5Z3NIYXlIbTBnbXVRQzBtYzRHX2lXM3dmOFpfamxoV0R0Tk1hV2VURzZZSzJpQTFUeFNqakJWTndISDJDZ3NmMzh1MFNFeUxLTHlEYTRHNUQyMUp6VUt4T1lz?oc=5"
+      ]
+    },
+    {
+      "time": "2026-04-02 06:02",
+      "actor": "Israel",
+      "action": "空袭",
+      "place": "Israel",
+      "result": "待确认",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "Lebanon says Israeli strikes on Beirut area kill 7 - borneobulletin.com.bn",
+      "sources": [
+        "borneobulletin.com.bn"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNd2RfYWhZazNwelI5R01OVEFjcV9tOUFHajRlMHBvdE12RXNINV92LVBOQXJJcEcxY1piOTlMMVoxQkRadHdHM2lBd0J1Zjh4dXNEUS1HN1lBcUxGNGcwYS01RlF6Njd5U3dyY1UyUUFRMzNpdThfQUxwdmJUWGZVdFhJZy0yWnoy?oc=5"
       ]
     }
   ]
