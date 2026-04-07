@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-04-06 21:01
+更新时间（北京时间）: 2026-04-07 10:02
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-04-06 21:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post |
-| 2026-04-06 20:59 | Israel | 空袭 | Israel | 待确认 | C | Israeli Strike Kills Christian Party Official Near Beirut, Deepening Lebanon Tensions - Arise News |
-| 2026-04-06 20:54 | US | 通报 | Iran | 待确认 | C | How US operation to rescue air officer from Iran unfolded - Al Jazeera |
-| 2026-04-06 20:43 | Israel | 通报 | Iran | 待确认 | C | Prediction markets push back odds of Iran-Israel-U.S. conflict ending soon - Seeking Alpha |
-| 2026-04-06 20:40 | US | 通报 | Iran | 待确认 | C | Iran and US receive draft proposal for 45-day ceasefire as attacks continue - South China Morning Post |
-| 2026-04-06 20:31 | Israel | 通报 | Iran | 命中 | C | Israel hits South Pars petrochemical plant in Iran, Israel's defence minister says - CBC |
-| 2026-04-06 20:27 | US | 通报 | Iran | 伤亡 | C | US, Iran studying Pakistani ceasefire proposal as Trump's 'hell' deadline looms - The Jerusalem Post |
-| 2026-04-06 20:22 | Israel | 通报 | Israel | 伤亡 | C | At least 7 dead as Israel renews attacks on Beirut and across Lebanon - The Korea Times |
-| 2026-04-06 19:40 | Iran | 拦截 | Iran | 拦截 | C | Iran claims yet another F-35 kill shot down - MSN |
-| 2026-04-06 19:37 | Iran | 通报 | Iran | 伤亡 | C | Iran War: New Trump Deadline Looms as Ceasefire Push Keeps Markets on Edge - Bloomberg.com |
-| 2026-04-06 19:37 | US | 通报 | Iran | 伤亡 | C | Iran’s top university bombed as US, Israel intensify attacks; 34 killed - Al Jazeera |
-| 2026-04-06 19:31 | US | 通报 | Iran | 待确认 | C | Was Trump oblivious to the realities of Netanyahu’s promised ‘easy’ war on Iran? - The Guardian |
-| 2026-04-06 19:28 | Israel | 空袭 | Israel | 待确认 | C | Israeli Strike Kills Christian Party Official in Lebanon, Deepening Rifts Over Hezbollah - Modern Diplomacy |
-| 2026-04-06 19:24 | US | 通报 | Iran | 待确认 | C | What we know on Day 31 of the US and Israel’s war with Iran: Trump threatens escalation if no deal reached - AOL.com |
-| 2026-04-06 19:19 | Israel | 空袭 | Israel | 待确认 | C | Israeli strike kills Christian official in Lebanon - The Standard / Warrnambool, VIC |
-| 2026-04-06 19:18 | Israel | 空袭 | Israel | 待确认 | C | Israeli strike kills Christian official in Lebanon - Yass Tribune |
-| 2026-04-06 19:18 | Israel | 空袭 | Israel | 待确认 | C | Israeli strike kills Christian official in Lebanon - Moree Champion |
-| 2026-04-06 19:16 | Iran | 通报 | Iran | 命中 | C | OPEC+ Makes Symbolic Oil Hike, Sees Long Supply Hit From Iran War - NDTV |
-| 2026-04-06 19:14 | 未明确 | 通报 | 未明确 | 待确认 | C | Trump’s ‘Bridge Day’ threat: Can a last-ditch ceasefire plan work? - Al Jazeera |
-| 2026-04-06 19:11 | Iran | 通报 | Iran | 待确认 | C | Operation Midnight Sun": U.S. Forces Rescue Downed Airman as Iran Conflict Reaches Fever Pitch - newspress.co.in |
-| 2026-04-06 19:03 | Israel | 通报 | Israel | 待确认 | C | Israel kills 16 in Bekaa and south Lebanon this morning, Hezbollah claims 9 attacks / LIVE - L'Orient Today |
-| 2026-04-06 19:01 | Iran | 通报 | Iran | 待确认 | C | Iran is winning the war with the U.S. This is how - MR Online |
-| 2026-04-06 19:01 | US | 通报 | Iran | 待确认 | C | How defense contractors and oil companies profit from war on Iran as US gas prices soar - The Guardian |
-| 2026-04-06 18:53 | Israel | 空袭 | Israel | 待确认 | C | Israeli strike kills Christian party official in Lebanon - Middle East Eye |
-| 2026-04-06 18:49 | Israel | 通报 | Israel | 命中 | C | Israel destroys southern Lebanon towns, hits ‘safe’ areas around Beirut - Al Jazeera |
-| 2026-04-06 18:43 | US | 通报 | Iran | 待确认 | C | Here’s what we know about the proposed US-Iran deal - TRT World |
-| 2026-04-06 18:39 | Israel | 空袭 | Israel | 待确认 | C | Israeli strike kills Christian party official in Lebanon, widening divisions over Hezbollah - Reuters |
-| 2026-04-06 18:38 | US | 通报 | Iran | 待确认 | C | Opinion / The Quiet 'Upheaval' Within US Military Over The Iran War - NDTV |
-| 2026-04-06 18:36 | Israel | 空袭 | Israel | 待确认 | C | Tensions Escalate: Israel's Strike in Lebanon Highlights Sectarian Fractures - Devdiscourse |
-| 2026-04-06 18:33 | Iran | 通报 | Iran | 待确认 | C | Live - Pakistan-backed plan seeks ceasefire while Iran rules out temporary truce - ایران اینترنشنال |
-| 2026-04-06 18:28 | Israel | 空袭 | Israel | 待确认 | C | Israeli strikes in Lebanon kill dozens as army chief vows to step up campaign against Hezbollah - The National |
-| 2026-04-06 18:27 | Israel | 发射 | Iran | 待确认 | C | Israeli intelligence warns Iran holds over 1,000 missiles and Hezbollah up to 10,000 rockets - mezha.net |
-| 2026-04-06 18:21 | Iran | 空袭 | Iran | 设施受损 | C | The Latest: Trump threatens to strike Iran's infrastructure if Strait of Hormuz isn't reopened - Audacy |
-| 2026-04-06 18:19 | Iran | 通报 | Iran | 伤亡 | C | Iran pushes back against Trump’s deadline - NPR |
-| 2026-04-06 18:19 | US | 通报 | Iran | 待确认 | C | 'Deranged lunatic': US lawmakers slam Trump on Iran, say threats constitute ‘war crimes’ - Anadolu Ajansı |
-| 2026-04-06 18:18 | US | 通报 | Iran | 伤亡 | C | Pakistan submits Iran-US ceasefire plan with two-week deadline for full deal - www.israelhayom.com |
-| 2026-04-06 18:18 | Hezbollah | 发射 | 未明确 | 命中 | C | MoD forced to deny claims British warship was hit by Hezbollah missile after speculation runs wild - GB News |
-| 2026-04-06 18:18 | US | 通报 | Iran | 待确认 | C | US Israel Iran War Update: Iran Sets Terms for Ceasefire, Rejects Pressure and Excessive US Demands - The Sunday Guardian |
-| 2026-04-06 18:14 | US | 通报 | Iran | 待确认 | C | US/Israel-Iran War (Day 38): Trump threatens to blow up Iran, US reportedly loses six aircraft - Premium Times Nigeria |
-| 2026-04-06 18:13 | US | 通报 | Iran | 待确认 | C | What is 'Greater Israel'? Origins, history and why the debate has resurfaced amid Iran-US conflict - MSN |
+| 2026-04-07 09:32 | Iran | 通报 | Iran | 伤亡 | C | Trump threatens new rampage as Iran deal deadline nears - The Washington Post |
+| 2026-04-07 09:30 | Iran | 通报 | Iran | 待确认 | C | 'It all began with Greenland': Trump blasts NATO over Iran war snub, calls it a 'paper tiger' - India TV News |
+| 2026-04-07 09:09 | Israel | 空袭 | Iran | 待确认 | C | Iran's peace proposal calls for end to Israeli strikes against Hezbollah in Lebanon - NYT - The Jerusalem Post |
+| 2026-04-07 09:06 | Israel | 空袭 | Israel | 待确认 | C | Israeli Strike Kills 10 People Near Gaza School - Haaretz |
+| 2026-04-07 09:05 | US | 通报 | Iran | 伤亡 | C | Iran war latest: Trump says Iran could be 'taken out in one night' as US-imposed deadline approaches - The National |
+| 2026-04-07 08:49 | Iran | 通报 | Iran | 伤亡 | C | Trump widens threat to all of Iran's power plants and bridges as his deadline for a deal approaches - AP News |
+| 2026-04-07 08:45 | Israel | 空袭 | Israel | 命中 | C | Israeli strikes kill 14 in Lebanon as hospital area hit - MSN |
+| 2026-04-07 08:43 | US | 通报 | Iran | 待确认 | C | US and Israel don’t get Iran. Their prospects of a military victory are weak - The Indian Express |
+| 2026-04-07 08:33 | Iran | 通报 | Iran | 设施受损 | C | The Latest: Trump brushes off war crime concerns as he repeats threat to Iran’s infrastructure - The Washington Post |
+| 2026-04-07 08:32 | Iran | 通报 | Iran | 待确认 | C | Trump ‘Backs Down’ Amid Raging Iran War; Did Mounting Pressure Kill His Next Big Power Move? - The Times of India |
+| 2026-04-07 08:32 | US | 空袭 | Iran | 待确认 | C | Intel Said ‘Don’t Attack Iran’ But Trump Pushed US Into War? Shocking Reveal Amid Strikes - The Times of India |
+| 2026-04-07 08:05 | Israel | 发射 | Israel | 待确认 | C | Hezbollah says it launched 44 attacks on Israeli military sites, troop positions - Anadolu Ajansı |
+| 2026-04-07 08:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post |
+| 2026-04-07 07:56 | Iran | 通报 | Iran | 伤亡 | C | Live - War shows no sign of easing ahead of Trump’s Iran deadline - ایران اینترنشنال |
+| 2026-04-07 07:52 | US | 通报 | Iran | 待确认 | C | US destroys Iranian navy vessels — including 16 minelayers — near Strait of Hormuz - AOL.com |
+| 2026-04-07 07:41 | US | 通报 | Iran | 伤亡 | C | Iran’s top university bombed as US, Israel intensify attacks; 34 killed - aljazeera.com |
+| 2026-04-07 07:40 | Israel | 空袭 | Israel | 待确认 | C | Hezbollah claims attacks as Israeli strikes kill 3 in south Lebanon - Middle East Eye |
+| 2026-04-07 07:38 | US | 通报 | Iran | 待确认 | C | Trump says God approves of US war in Iran, doubles down on threat to ‘decimate’ country - TheGrio |
+| 2026-04-07 07:29 | Iran | 通报 | Iran | 伤亡 | C | Trump warns Hormuz deadline ‘final’ as Iran pushes proposal to end war - aljazeera.com |
+| 2026-04-07 07:28 | Israel | 空袭 | Israel | 命中 | C | Lebanon says Israeli strikes hit south Beirut, country’s south - The Sun Malaysia |
+| 2026-04-07 07:20 | US | 通报 | Iran | 命中 | C | Over 13,000 targets struck across Iran since onset of Epic Fury: CENTCOM - rudaw.net |
+| 2026-04-07 07:00 | Israel | 通报 | Israel | 待确认 | C | Israel says it will keep control over part of southern Lebanon after war with Hezbollah ends - AOL.com |
+| 2026-04-07 06:55 | Iran | 通报 | Tehran | 待确认 | C | Iran war on verge of escalation as Trump and Tehran exchange threats - PBS |
+| 2026-04-07 06:54 | Iran | 通报 | Iran | 待确认 | C | Prediction markets cut odds of quick Iran conflict resolution - MSN |
+| 2026-04-07 06:52 | Iran | 通报 | Iran | 待确认 | C | U.S. Destroys Aircraft Left Behind During Iran Rescue Mission - Kurdistan24 |
+| 2026-04-07 06:41 | Israel | 空袭 | Iran | 设施受损 | C | Israel strikes Iran’s largest petrochemical facility - Muslim Network TV |
+| 2026-04-07 06:40 | US | 通报 | Tehran | 待确认 | C | 'We did a good job': Trump hails US role in Iran war, says Tehran may take 10 years to rebuild - MSN |
+| 2026-04-07 06:39 | US | 发射 | Iran | 待确认 | C | Iran retains significant missile capability despite US-Israel strikes: Reports - MSN |
+| 2026-04-07 06:38 | Iran | 通报 | Iran | 待确认 | C | Iran’s 10-Point Proposal Demands an End to Attacks and Sanctions - The New York Times |
+| 2026-04-07 06:30 | US | 发射 | Iran | 待确认 | C | Despite 5 weeks of US-Israel onslaught, Iran still retains significant missile capability, says report - MSN |
+| 2026-04-07 06:21 | US | 空袭 | Iran | 命中 | C | US-Israel-Iran war LIVE updates: 'Alleged US-Israeli strike hit Iran’s nuclear fuel cycle', says Iran - wionews.com |
+| 2026-04-07 06:02 | Israel | 空袭 | Israel | 待确认 | C | Israel army chief visits troops in south Lebanon, vows to up strikes - borneobulletin.com.bn |
+| 2026-04-07 05:53 | Iran | 通报 | Iran | 待确认 | C | Rights groups, Dems decry Trump's Iran threats as possible war crimes - USA Today |
+| 2026-04-07 05:44 | Israel | 空袭 | Iran | 待确认 | C | Daily brief about U.S.-Israeli strikes on Iran: Day 38 - Xinhua |
+| 2026-04-07 05:30 | Israel | 通报 | Israel | 待确认 | C | Israeli army kills WHO staff in Gaza - Qatar Tribune |
+| 2026-04-07 05:11 | US | 通报 | Tehran | 待确认 | C | Israel-Iran war: Downed planes spell new peril for Trump as Tehran hunts missing US pilot - MSN |
+| 2026-04-07 05:07 | Iran | 通报 | Iran | 待确认 | C | Trump Seeks Deal With Iran to End War - Arms Control Association |
+| 2026-04-07 05:03 | Israel | 通报 | Israel | 待确认 | C | Israeli attacks on Lebanon's health care system feel familiar for many - 1news.co.nz |
+| 2026-04-07 04:57 | US | 通报 | Iran | 待确认 | C | US–Israel war with Iran: LIVE - PHOTO / VIDEO / UPDATED - Caliber.Az |
+| 2026-04-07 04:54 | Israel | 通报 | Iran | 设施受损 | C | Netanyahu said to ask Trump not to move forward with Iran ceasefire at this stage - The Times of Israel |
