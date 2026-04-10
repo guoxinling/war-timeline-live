@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-04-09 21:18
+更新时间（北京时间）: 2026-04-10 10:08
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-04-09 21:08 | 未明确 | 通报 | 未明确 | 待确认 | C | Did Manoj Bajpayee take a dig at the host of an award function? Viral video suggests so; WATCH - Firstpost |
-| 2026-04-09 21:06 | Israel | 通报 | Iran | 待确认 | C | Iran ceasefire teeters as IDF continues to pound Hezbollah in Lebanon, Strait of Hormuz stays closed - Jewish Telegraphic Agency |
-| 2026-04-09 21:05 | 未明确 | 通报 | 未明确 | 待确认 | C | Mercedes unveils all-new AMG GLE Coupe and A 45 S aero track edition – Complete prices, features, and performance specs inside - Firstpost |
-| 2026-04-09 21:02 | Israel | 空袭 | Israel | 伤亡 | C | ‘There’s no Hezbollah here’: the Lebanese reaction to Israeli strikes that killed hundreds - The Guardian |
-| 2026-04-09 21:01 | 未明确 | 通报 | 未明确 | 待确认 | C | UK tracks, drives away 3 Russian submarines in suspected North Atlantic ‘covert’ op - Firstpost |
-| 2026-04-09 20:59 | US | 通报 | Iran | 待确认 | C | AI-savvy pro-Iran groups troll America with Lego Movie-style propaganda videos mocking American failure - Fortune |
-| 2026-04-09 20:57 | Iran | 通报 | Iran | 待确认 | C | The Streamline: Ceasefire deal between the U.S. and Iran at risk - 10News.com |
-| 2026-04-09 20:52 | US | 空袭 | Iran | 待确认 | C | Iran casts doubt on US talks after Israel strikes Lebanon - dw.com |
-| 2026-04-09 20:51 | Iran | 通报 | Iran | 待确认 | C | Ceasefire in the Iran war teeters with disagreements over Lebanon and the Strait of Hormuz - ElliotLakeToday.com |
-| 2026-04-09 20:50 | Iran | 通报 | Iran | 待确认 | C | After Trump pauses war, Iranians fly flags of victory, not surrender - The Washington Post |
-| 2026-04-09 20:42 | Israel | 空袭 | Israel | 伤亡 | C | Israeli army claims it killed secretary to Hezbollah leader in Beirut strike - The Express Tribune |
-| 2026-04-09 20:35 | Israel | 通报 | Israel | 待确认 | C | Hackers say they obtained at least 19,000 files from ex-Israeli army chief Halevi's phone - Middle East Eye |
-| 2026-04-09 20:31 | Iran | 通报 | Iran | 待确认 | C | Air campaign over Iran continues despite ceasefire amid conflicting claims - Aerospace Global News |
-| 2026-04-09 20:30 | Iran | 通报 | Iran | 待确认 | C | Pro-Iran groups have used AI to troll Trump and try to control the war narrative - The Tribune-Democrat |
-| 2026-04-09 20:25 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post |
-| 2026-04-09 20:23 | Israel | 通报 | Iran | 待确认 | C | Pro-Iranian hacking group Handala breaches ex-Israel army chief Halevi's phone - Region - World - Ahram Online |
-| 2026-04-09 20:18 | US | 通报 | Iran | 待确认 | C | CENTCOM chief says US and Israel ‘eliminated’ Iran’s conventional military capability - The Times of Israel |
-| 2026-04-09 20:15 | Israel | 空袭 | Israel | 待确认 | C | Israel attack Lebanon: At least 203 pipo die for Lebanon afta Israel air strikes - BBC |
-| 2026-04-09 20:12 | Israel | 通报 | Israel | 伤亡 | C | Lebanon thought there was a ceasefire - then Israel unleashed deadly blitz - BBC |
-| 2026-04-09 20:12 | US | 通报 | Iran | 待确认 | C | Lebanon must be included in US-Iran ceasefire deal, UK ministers tell Trump - The Guardian |
-| 2026-04-09 20:08 | Israel | 通报 | Israel | 待确认 | C | Israel Kills Hezbollah Chief's Top Secretary, Ceasefire In Jeopardy - JAM'N 107.5 |
-| 2026-04-09 20:02 | Iran | 通报 | Iran | 待确认 | C | Iran-U.S. ceasefire off to a shaky start. And, Bill Gates to testify in Epstein probe - NPR |
-| 2026-04-09 20:01 | Israel | 空袭 | Iran | 待确认 | C | Top European Nations Say Israeli Strikes on Lebanon Jeopardize Iran Cease-fire - Haaretz |
-| 2026-04-09 19:57 | Israel | 空袭 | Israel | 伤亡 | C | IDF says it killed top commander of Hezbollah-linked group in airstrike - The Times of Israel |
-| 2026-04-09 19:57 | Iran | 通报 | Iran | 待确认 | C | European Leaders Demand That U.S. Cease-Fire With Iran Include Lebanon - The New York Times |
-| 2026-04-09 19:56 | US | 空袭 | Iran | 待确认 | C | Calls for US-Iran truce to extend to Lebanon after Israeli strikes - Naharnet |
-| 2026-04-09 19:54 | Israel | 通报 | Iran | 待确认 | C | Israel’s attacks devastate Beirut and threaten U.S.-Iran ceasefire - NBC News |
-| 2026-04-09 19:44 | Israel | 发射 | Israel | 待确认 | C | Israel launches fresh strikes on Lebanon after huge attacks jeopardize truce - The Detroit News |
-| 2026-04-09 19:43 | Israel | 发射 | Israel | 伤亡 | C | IDF says it killed Hezbollah chief’s secretary as dozens of rockets fired from Lebanon - The Times of Israel |
-| 2026-04-09 19:43 | Israel | 通报 | Iran | 待确认 | C | Strait of Hormuz remains virtually shut despite Iran war truce - The Times of Israel |
-| 2026-04-09 19:42 | Israel | 空袭 | Israel | 待确认 | C | EU’s Kallas urges ‘heavy-handed’ Israel to end strikes in Lebanon - politico.eu |
-| 2026-04-09 19:40 | Iran | 通报 | Iran | 待确认 | C | Trump and Iran remain far apart on peace terms. Here are the biggest gaps - CBC |
-| 2026-04-09 19:39 | Israel | 空袭 | Iran | 待确认 | C | Iranian officials warn Israeli strikes on Lebanon put ceasefire agreement at risk - Al Arabiya English |
-| 2026-04-09 19:37 | Iran | 通报 | Iran | 待确认 | C | Ceasefire in the Iran war teeters in the face of disagreements over Lebanon and the Strait of Hormuz - AP News |
-| 2026-04-09 19:34 | Iran | 通报 | Iran | 待确认 | C | Iran war: 'There are clear red flags in ceasefire deal' / Interview - The Federal |
-| 2026-04-09 19:33 | Israel | 空袭 | Israel | 待确认 | C | Israel Kills Hezbollah Chief’s Nephew in Beirut Strike: What Happened - Open Magazine |
-| 2026-04-09 19:32 | Israel | 空袭 | Iran | 待确认 | C | Israel wiped out Hezbollah chief’s top secretary in fresh strikes on Lebanon that Iran says jeopardizes cease-fire deal - New York Post |
-| 2026-04-09 19:29 | US | 空袭 | Iran | 待确认 | C | US-Iran ceasefire strained by Israel strikes in Lebanon, Strait of Hormuz dispute - National News Desk |
-| 2026-04-09 19:29 | Israel | 通报 | Iran | 待确认 | C | Fragile U.S.–Iran cease-fire may collapse within days, Israeli officials say - Haaretz |
-| 2026-04-09 19:26 | Israel | 通报 | Israel | 设施受损 | C | The Latest: Ceasefire at risk over Israel's attacks in Lebanon, possible mines in Strait of Hormuz - Audacy |
+| 2026-04-10 10:00 | 未明确 | 通报 | Lebanon | 待确认 | C | Netanyahu authorizes direct talks with Lebanon in potential boost to ceasefire efforts - AP News |
+| 2026-04-10 09:56 | Israel | 通报 | Israel | 待确认 | C | Israel to open direct talks with Lebanon but not halt attacks on Hezbollah - The Washington Post |
+| 2026-04-10 09:31 | Israel | 通报 | Iran | 待确认 | C | Did Israel attack Lebanon to spoil Iran war ceasefire? - The Guardian |
+| 2026-04-10 09:31 | Iran | 通报 | Iran | 待确认 | C | Who can claim victory if Iran ceasefire holds? An early winner is China - The Guardian |
+| 2026-04-10 09:23 | US | 通报 | Iran | 待确认 | C | How Russia Profited From the US/Israel—Iran War - thedeepdive.ca |
+| 2026-04-10 09:23 | Israel | 空袭 | Israel | 待确认 | C | Netanyahu says Israel will continue to strike Hezbollah 'wherever necessary' - MSN |
+| 2026-04-10 09:08 | Israel | 通报 | Israel | 待确认 | C | AP reporter describes intense Israeli attacks that stunned Beirut - The Washington Post |
+| 2026-04-10 09:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post |
+| 2026-04-10 08:56 | Hezbollah | 空袭 | 未明确 | 待确认 | C | Netanyahu Rejects Hezbollah Ceasefire Inclusion, Vows Continued Strikes - 조선일보 |
+| 2026-04-10 08:48 | Israel | 通报 | Israel | 伤亡 | C | Tracking where Israel bombed central Beirut on the war's deadliest day - The Washington Post |
+| 2026-04-10 08:20 | Iran | 通报 | Iran | 待确认 | C | Iran’s Battered Leaders Emerge From War Confident — and With New Cards - The New York Times |
+| 2026-04-10 08:09 | Iran | 通报 | Iran | 待确认 | C | Opinion: Iran won. Almost everyone else lost - The Globe and Mail |
+| 2026-04-10 08:07 | Israel | 空袭 | Israel | 待确认 | C | Israel agrees to Lebanon peace talks as strike deaths climb above 300 - SBS Australia |
+| 2026-04-10 07:50 | Iran | 通报 | Iran | 待确认 | C | Asia-Pacific markets open mostly higher as a fragile Iran-U.S. ceasefire keeps investors on edge - CNBC |
+| 2026-04-10 07:41 | Israel | 通报 | Iran | 待确认 | C | Israel's attacks devastate Beirut and threaten U.S.-Iran ceasefire - NBC News |
+| 2026-04-10 07:41 | Iran | 通报 | Iran | 待确认 | C | Iran's supreme leader says does not seek war in written message - ABS-CBN |
+| 2026-04-10 07:34 | US | 通报 | Iran | 待确认 | C | Netanyahu-Trump Divisions on Iran War Threaten to Box In US - Bloomberg.com |
+| 2026-04-10 07:28 | Hezbollah | 空袭 | Lebanon | 待确认 | C | No ceasefire In Lebanon, Continuing To Strike Hezbollah: Netanyahu - NDTV |
+| 2026-04-10 07:25 | Israel | 发射 | Jerusalem | 待确认 | C | WATCH: IDF strikes Hezbollah launchers following missile barrage on Israel - The Jerusalem Post |
+| 2026-04-10 07:20 | Israel | 空袭 | Iran | 待确认 | C | Israel And Lebanon To Hold Talks As Strikes Cloud U.S.-Iran Ceasefire – Analysis - Eurasia Review |
+| 2026-04-10 07:20 | Iran | 通报 | Iran | 待确认 | C | European Leaders Demand That U.S. Cease-Fire With Iran Include Lebanon - The New York Times |
+| 2026-04-10 07:08 | US | 通报 | Iran | 待确认 | C | Israel’s attacks on Lebanon could unravel the US-Iran ceasefire / Mohamad Bazzi - The Guardian |
+| 2026-04-10 07:03 | Israel | 发射 | Israel | 待确认 | C | Israeli military says Hezbollah launched missile at Israel, triggering sirens - Al-Monitor |
+| 2026-04-10 07:03 | Israel | 通报 | Israel | 待确认 | C | What to know about the ongoing war between Israel and Hezbollah in Lebanon - The Washington Post |
+| 2026-04-10 07:01 | 未明确 | 通报 | 未明确 | 待确认 | C | Ceasefire or no ceasefire, the Middle East's reshuffling is not yet done - BBC |
+| 2026-04-10 06:49 | Israel | 发射 | Israel | 拦截 | C | Hezbollah rockets intercepted over central Israel, no injuries reported - ynetnews |
+| 2026-04-10 06:47 | US | 通报 | Iran | 伤亡 | C | US-Iran war in numbers: Thousands killed and billions spent as fragile ceasefire takes effect - The Independent |
+| 2026-04-10 06:44 | Israel | 发射 | Israel | 待确认 | C | Israel launches new strikes on Lebanon as Kuwait comes under fire in drone attack - New York Post |
+| 2026-04-10 06:41 | Iran | 通报 | Iran | 待确认 | C | Pope Leo praised the two-week ceasefire in the Iran war, hours after calling U.S. President Donald Trump's threat against the population of Iran "unacceptable". / via ANC 24/7 Link to full story in the comments section. - Facebook |
+| 2026-04-10 06:32 | 未明确 | 通报 | 未明确 | 待确认 | C | Shipping Remains Slow at Strait of Hormuz Despite Ceasefire - breitbart.com |
+| 2026-04-10 06:25 | US | 空袭 | Iran | 待确认 | C | US to host Israel-Lebanon talks as strikes threaten Iran ceasefire - KTEN |
+| 2026-04-10 06:21 | Israel | 通报 | Iran | 待确认 | C | Iran war: Israel says it will hold talks with Lebanon 'soon' - DW.com |
+| 2026-04-10 06:14 | Israel | 通报 | Israel | 待确认 | C | Bad Israeli History Repeats Yet Again - The Media Line |
+| 2026-04-10 06:12 | Iran | 通报 | Iran | 待确认 | C | Trump 'optimistic' about Iran peace deal even as ceasefire appears strained - NBC News |
+| 2026-04-10 05:56 | 未明确 | 通报 | 未明确 | 待确认 | C | Trump and his party confront the political perils of chaos: From the Politics Desk - NBC News |
+| 2026-04-10 05:49 | Israel | 空袭 | Israel | 待确认 | C | Israeli strikes on Lebanon are wrong and should stop, PM says - BBC |
+| 2026-04-10 05:47 | 未明确 | 通报 | Lebanon | 待确认 | C | For Netanyahu to Declare Victory, He Must Negotiate Faithfully With Lebanon - Haaretz |
+| 2026-04-10 05:27 | Israel | 通报 | Jerusalem | 待确认 | C | Pakistan's Asif says Israel a ‘curse for humanity' - The Jerusalem Post |
+| 2026-04-10 05:24 | Israel | 通报 | Iran | 待确认 | C | Iran ceasefire ‘on the verge of collapse’ as Israel continues attacks on Lebanon - AL.com |
+| 2026-04-10 05:14 | Iran | 通报 | Iran | 待确认 | C | Fact-checking Trump and Hegseth's claims of U.S. 'victory' in the Iran war - PBS |
