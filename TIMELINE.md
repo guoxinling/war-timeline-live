@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-04-16 21:21
+更新时间（北京时间）: 2026-04-17 10:09
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-04-16 21:00 | Israel | 空袭 | Israel | 待确认 | C | Israeli strike destroys last bridge over Litani River as intense fighting continues in south Lebanon - CBC |
-| 2026-04-16 21:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post |
-| 2026-04-16 20:58 | 未明确 | 通报 | 未明确 | 待确认 | C | Inside the mine field of Strait of Hormuz: What is lurking beneath the waters and how can it be removed? - WION |
-| 2026-04-16 20:47 | US | 通报 | Iran | 待确认 | C | US ready to resume combat if Iran rejects deal: Hegseth - The Business Standard |
-| 2026-04-16 20:44 | US | 通报 | Iran | 待确认 | C | Why the Iran war did not go according to US plans - Al Jazeera |
-| 2026-04-16 20:33 | US | 通报 | Iran | 待确认 | C | Live - US patrols back Iran blockade as Trump touts Israel-Lebanon meeting - ایران اینترنشنال |
-| 2026-04-16 20:29 | US | 通报 | Iran | 待确认 | C | PM says Israel ready for Iran war resumption, while US gears for another round of talks - The Times of Israel |
-| 2026-04-16 20:18 | Iran | 通报 | Iran | 待确认 | C | Pakistani Mediators Arrive in Iran to Keep Peace Talks Alive - The New York Times |
-| 2026-04-16 20:17 | US | 通报 | Iran | 待确认 | C | From Christ to lego Trump: How Iran’s waging a parallel war against US through ‘slopaganda’ - Onmanorama |
-| 2026-04-16 20:07 | Israel | 撤离 | Israel | 待确认 | C | Lebanon links talks with Israel to ceasefire and withdrawal - شفق نيوز |
-| 2026-04-16 20:03 | Israel | 通报 | Iran | 待确认 | C | Trump backs Israel-Lebanon talks, signals movement on Iran conflict - Crypto Briefing |
-| 2026-04-16 19:56 | Iran | 通报 | Iran | 待确认 | C | Caine warns "we will use force" if Iran does not comply with blockade on Strait of Hormuz - CBS News |
-| 2026-04-16 19:45 | Iran | 通报 | Iran | 待确认 | C | Mediators are pushing to extend the U.S.-Iran ceasefire - NPR |
-| 2026-04-16 19:38 | US | 通报 | Iran | 待确认 | C | What mines has Iran laid in the strait of Hormuz and how can the US remove them? - The Guardian |
-| 2026-04-16 19:29 | Iran | 通报 | Iran | 待确认 | C | Is Iran’s economy buckling under war pressure or holding up? - Al Jazeera |
-| 2026-04-16 19:29 | Iran | 通报 | Tehran | 待确认 | C | Pakistani army chief visits Tehran in hopes for more talks between U.S. and Iran - Spectrum News |
-| 2026-04-16 19:14 | US | 通报 | Tehran | 待确认 | C | The Latest: Pakistan’s army chief to meet Iranian officials in Tehran to push new US-Iran talks - Audacy |
-| 2026-04-16 19:00 | Israel | 空袭 | Israel | 待确认 | C | Israeli forces strike Hezbollah positions, kill militants in intensifying Bint Jbeil battle - Moneycontrol.com |
-| 2026-04-16 19:00 | US | 通报 | Iran | 待确认 | C | Israel and Iran conflict escalates as US faces risk of wider war - The Business Standard |
-| 2026-04-16 18:55 | US | 通报 | Iran | 待确认 | C | Iran seeks to hold US, Israel accountable for 'war crimes' killing its leadership - Yeni Safak English |
-| 2026-04-16 18:55 | 未明确 | 通报 | 未明确 | 待确认 | C | Opinion / Mines, Submarines, Drones: Why World's Mightiest Navy Won't Get Too Close To Hormuz - NDTV |
-| 2026-04-16 18:53 | US | 通报 | Iran | 待确认 | C | Iran Pursues War Crimes Charges Against US and Israel - Yeni Safak English |
-| 2026-04-16 18:37 | Iran | 通报 | Iran | 待确认 | C | ‘Wait for death:’ Inside Iran’s psychological war against its enemies - CNN |
-| 2026-04-16 18:30 | 未明确 | 通报 | 未明确 | 待确认 | C | Opinion / Three Things May Happen At The End Of The 14-Day Ceasefire (Or Earlier) - NDTV |
-| 2026-04-16 18:28 | Israel | 通报 | Israel | 待确认 | C | Lebanon 'Not Aware' Of Trump-Promised Peace Talks With Israel - Radio Free Europe/Radio Liberty |
-| 2026-04-16 18:12 | Israel | 通报 | Israel | 待确认 | C | Israeli troops try to advance into Debbine amid Hezbollah's resistance - Naharnet |
-| 2026-04-16 18:09 | Israel | 空袭 | Israel | 待确认 | C | Israeli strike severs last bridge linking southern Lebanon to rest of country: Lebanese security official - The Business Standard |
-| 2026-04-16 18:08 | US | 通报 | Iran | 待确认 | C | 'Champions at lying': Ex-official warns against US-Iran nuclear deal - The Jerusalem Post |
-| 2026-04-16 18:05 | US | 通报 | Iran | 待确认 | C | Australia refinery fire worsens fuel supply crunch amid US-Israel war on Iran - The Express Tribune |
-| 2026-04-16 18:00 | US | 通报 | Iran | 待确认 | C | Hezbollah is Iran’s key proxy in US diplomacy - The Jerusalem Post |
-| 2026-04-16 17:58 | US | 通报 | Iran | 待确认 | C | Iran says it seeks accountability from US, Israel over killing of its leadership - Anadolu Ajansı |
-| 2026-04-16 17:54 | Israel | 通报 | Israel | 待确认 | C | Trump says Israel and Lebanon’s leaders will speak on Thursday - Al Jazeera |
-| 2026-04-16 17:50 | US | 通报 | Tehran | 待确认 | C | Pakistani army chief visits Tehran in hopes for renewed talks between US and Iran - WRAL |
-| 2026-04-16 17:10 | Iran | 通报 | Tehran | 待确认 | C | A Pakistani delegation has arrived in Tehran for talks aimed at shoring up the fragile cease-fire between Iran and the U.S. before it expires next week. Follow live updates. - Facebook |
-| 2026-04-16 16:50 | Iran | 通报 | Tehran | 待确认 | C | Live updates: Pakistan's army chief to meet Iranian officials in Tehran to push new U.S.-Iran talks - NBC10 Philadelphia |
-| 2026-04-16 16:28 | Israel | 通报 | Israel | 设施受损 | C | Satellite images reveal scale of Israeli demolitions as Lebanese villages destroyed - BBC |
-| 2026-04-16 16:26 | Israel | 通报 | Israel | 待确认 | C | What's behind Israeli attacks along Lebanon's Litani River? - dw.com |
-| 2026-04-16 16:15 | US | 拦截 | Iran | 待确认 | C | US intercepts 10th Iranian ship attempting to break Hormuz Strait blockade - Egypt Independent |
-| 2026-04-16 15:51 | Israel | 空袭 | Israel | 命中 | C | New Israeli strikes hit Lebanon amid talks - Northwest Arkansas Democrat-Gazette |
-| 2026-04-16 15:49 | Israel | 空袭 | Israel | 待确认 | C | Israeli strikes continue in southern Lebanon following diplomatic talks - MSN |
+| 2026-04-17 09:36 | Iran | 通报 | Iran | 待确认 | C | Donald Trump Says War In Iran Going 'Swimmingly' And Should Be 'Ending Soon' - NDTV Profit |
+| 2026-04-17 09:22 | US | 通报 | Israel | 待确认 | C | US President Donald Trump has declared he hopes Hezbollah "acts nicely and well" amid the Israel-Lebanon ceasefire. - Facebook |
+| 2026-04-17 09:18 | Israel | 通报 | Iran | 待确认 | C | Iran-Israel war LIVE: Lebanon Army reports Israeli 'acts of aggression' in 'violation of ceasefire'; Trump says war in Iran should be ending 'pretty soon' - The Hindu |
+| 2026-04-17 09:18 | Israel | 发射 | Israel | 待确认 | C | Trump-imposed truce between Israel and Hezbollah takes effect; 2 badly hurt by rocket fire hours before - The Times of Israel |
+| 2026-04-17 09:14 | Iran | 通报 | Iran | 待确认 | C | U.S. Delays Weapon Deliveries to Europe Amid Iran War - 조선일보 |
+| 2026-04-17 09:14 | Israel | 通报 | Israel | 待确认 | C | 10-day ceasefire in Lebanon begins as Israel agrees to U.S.-backed deal - The Washington Post |
+| 2026-04-17 09:05 | Israel | 通报 | Israel | 待确认 | C | A 10-day ceasefire agreed on by Israel and Lebanon goes into effect - AP News |
+| 2026-04-17 09:04 | Israel | 通报 | Israel | 命中 | C | Trump: ‘Hope Hezbollah acts nicely’ as ceasefire begins after barrages hit northern Israel - ynetnews |
+| 2026-04-17 09:02 | Israel | 通报 | Israel | 待确认 | C | Trump news at a glance: president urges Hezbollah to act ‘nicely and well’ as Israel-Lebanon ceasefire begins - The Guardian |
+| 2026-04-17 09:01 | US | 通报 | Iran | 待确认 | C | US threatens to pursue in Pacific Iranian-linked ships supporting Iran - Shipping Telegraph |
+| 2026-04-17 08:44 | Israel | 通报 | Israel | 待确认 | C | Lebanon accuses Israel of ceasefire violations amid market tensions - Crypto Briefing |
+| 2026-04-17 08:39 | US | 通报 | Iran | 命中 | C | How The US-Israel-Iran Conflict May Impact The Global South Harvest Season – Analysis - Eurasia Review |
+| 2026-04-17 08:27 | Iran | 通报 | Iran | 待确认 | C | Live - Trump says Iran war is 'going along swimmingly' and will end soon - ایران اینترنشنال |
+| 2026-04-17 08:22 | Israel | 通报 | Israel | 待确认 | C | Italy suspends defense cooperation with Israel amid Middle East conflict, global tension - Jurist.org |
+| 2026-04-17 08:17 | Iran | 通报 | Iran | 待确认 | C | Trump says Iran agrees to hand over its enriched uranium - ABS-CBN |
+| 2026-04-17 08:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post |
+| 2026-04-17 07:44 | Israel | 通报 | Israel | 待确认 | C | 10-day Israel-Lebanon ceasefire deal takes effect - Cebu Daily News |
+| 2026-04-17 07:40 | Iran | 撤离 | Iran | 待确认 | C | House rejects effort to withdraw U.S. forces from Iran war as GOP lawmakers stick with Trump - PBS |
+| 2026-04-17 07:30 | Israel | 通报 | Israel | 待确认 | C | Ten-day ceasefire deal between Israel, Lebanon takes effect - The Australian |
+| 2026-04-17 07:20 | US | 通报 | 未明确 | 待确认 | C | US House Narrowly Defeats Resolution Limiting Trump War Powers - Eurasia Review |
+| 2026-04-17 07:14 | US | 通报 | Iran | 待确认 | C | US to delay weapons deliveries to some European countries due to Iran war, sources say - The Jerusalem Post |
+| 2026-04-17 07:11 | 未明确 | 通报 | Lebanon | 待确认 | C | Trump announces 10-day ceasefire in Lebanon after ‘excellent conversations’ - The Guardian |
+| 2026-04-17 07:05 | Israel | 通报 | Iran | 待确认 | C | Iran war: Temporary Israel-Lebanon ceasefire takes effect - DW.com |
+| 2026-04-17 07:03 | Iran | 通报 | Iran | 待确认 | C | Opinion: Donald Trump finally made a smart move against Iran. It just might end the war - The Globe and Mail |
+| 2026-04-17 07:03 | US | 通报 | Iran | 待确认 | C | US intelligence detects signs China is weighing giving Iran advance radar systems - CBS News |
+| 2026-04-17 06:54 | Israel | 通报 | Israel | 待确认 | C | Israel agreed to ceasefire in its war with Hezbollah but will keep troops in Lebanon - NCPR: North Country Public Radio |
+| 2026-04-17 06:50 | Israel | 通报 | Israel | 待确认 | C | Why the Israeli and Lebanese governments accepted a ceasefire – and will Hezbollah abide? - PBS |
+| 2026-04-17 06:49 | US | 通报 | Iran | 待确认 | C | Rogan again slams US war with Iran: ‘All of it’s terrifying’ - The Hill |
+| 2026-04-17 06:35 | Israel | 通报 | Israel | 待确认 | C | 10-day ceasefire deal between Israel, Lebanon takes effect - The Hindu |
+| 2026-04-17 06:32 | 未明确 | 通报 | 未明确 | 待确认 | C | Trump again lashes Australia over Hormuz as Chalmers warns of dangers - AFR |
+| 2026-04-17 06:28 | US | 通报 | Iran | 待确认 | C | Iran-Israel-US war live updates: Donald Trump announces Israel-Lebanon meeting to happen tomorrow - MSN |
+| 2026-04-17 06:26 | US | 通报 | Iran | 待确认 | C | Rift between Italy and US, Israel widens over Iran war - China Daily |
+| 2026-04-17 06:07 | Israel | 通报 | Israel | 待确认 | C | Displaced Lebanese wary as ceasefire between Israel and Hezbollah begins - Al Jazeera |
+| 2026-04-17 06:06 | US | 通报 | Iran | 待确认 | C | US House again rejects democratic attempt to limit Iran war - The Business Times |
+| 2026-04-17 06:02 | Israel | 通报 | Iran | 待确认 | C | Lebanon Ceasefire: Iran, Hezbollah Emerge as Winners as Israelis Decry ‘Betrayal’ - Palestine Chronicle |
+| 2026-04-17 06:01 | Israel | 通报 | Israel | 待确认 | C | 10-day ceasefire deal between Israel and Lebanon takes effect - The Straits Times |
+| 2026-04-17 06:00 | US | 通报 | Iran | 待确认 | C | Iran-Israel-US conflict spikes oil above $100, IMF downgrades growth forecast - Crypto Briefing |
+| 2026-04-17 05:59 | Iran | 通报 | Iran | 待确认 | C | Trump digs in amid rows with Italy over Pope, Iran war - Anadolu Ajansı |
+| 2026-04-17 05:44 | Israel | 通报 | Israel | 待确认 | C | Israel, Lebanon agree to 10-day cease-fire, Trump announces - New York Post |
+| 2026-04-17 05:42 | Israel | 通报 | Israel | 待确认 | C | Israel’s 10-day ceasefire in Lebanon goes into effect - The Independent |
