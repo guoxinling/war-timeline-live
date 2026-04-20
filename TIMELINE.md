@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-04-19 20:54
+更新时间（北京时间）: 2026-04-20 10:14
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-04-19 20:51 | US | 通报 | Iran | 伤亡 | C | Iran reports 3,468 dead in war with US, Israel - MSN |
-| 2026-04-19 20:45 | US | 通报 | Iran | 待确认 | C | Trump says U.S. negotiators will be in Pakistan on Monday for talks with Iran - The Tribune-Democrat |
-| 2026-04-19 20:37 | US | 通报 | Iran | 待确认 | C | In response to US naval blockade, Iran says Hormuz stays ‘shut’ - Muslim Network TV |
-| 2026-04-19 20:30 | US | 通报 | Iran | 待确认 | C | Key Terms Illuminate Context of US-Israel Conflict with Iran - Oz Arab Media |
-| 2026-04-19 20:25 | US | 通报 | Iran | 待确认 | C | US advance team arrives as Pakistan prepares for Iran talks - Muslim Network TV |
-| 2026-04-19 20:19 | US | 通报 | Iran | 待确认 | C | Iran war: What is happening on day 51 of the US-Israeli conflict? - Al Jazeera |
-| 2026-04-19 20:07 | Israel | 通报 | Israel | 伤亡 | C | Israel continues deadly Gaza attacks, continues ‘ceasefire’ violations - Muslim Network TV |
-| 2026-04-19 20:03 | US | 通报 | Iran | 待确认 | C | ‘Who Is Trump?’ Pezeshkian Challenges US, Defends Iran’s Nuclear Rights - ABP News |
-| 2026-04-19 20:01 | Israel | 通报 | Israel | 待确认 | C | Hezbollah hints at ceasefire in Lebanon, Israel to ramp up attacks - MSN |
-| 2026-04-19 20:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post |
-| 2026-04-19 19:57 | US | 通报 | Iran | 待确认 | C | US preparing to board Iran-linked vessels amid blockade - The New Arab |
-| 2026-04-19 19:52 | US | 通报 | 未明确 | 待确认 | C | War breaking news. Trump: US negotiators tomorrow in Islamabad. 'If they don't accept deal, we will destroy them' - Il Sole 24 ORE |
-| 2026-04-19 19:44 | US | 通报 | Iran | 待确认 | C | Iran's Supreme Leader issues chilling threat to US and Israel amid uneasy truce - LADbible |
-| 2026-04-19 19:43 | Iran | 通报 | Iran | 待确认 | C | Iran war: 10 frequently used words and their meanings - Al Jazeera |
-| 2026-04-19 19:42 | Israel | 通报 | Israel | 待确认 | C | Israel: Assassination of "Hajj Abu Hussein Barish," Hezbollah commander in Bint Jbeil - صوت الإمارات |
-| 2026-04-19 19:39 | 未明确 | 通报 | Lebanon | 伤亡 | C | French peacekeeper killed in southern Lebanon - BBC |
-| 2026-04-19 19:38 | Israel | 通报 | Israel | 待确认 | C | Does Israel’s ‘Yellow Line’ violate the Lebanon ceasefire? - Al Jazeera |
-| 2026-04-19 19:34 | US | 通报 | Iran | 待确认 | C | As Iran war strains ties with Trump's US, UK looks to Europe - The New Arab |
-| 2026-04-19 19:27 | 未明确 | 通报 | 未明确 | 待确认 | C | Opinion / Mines, Submarines, Drones: Why World's Mightiest Navy Won't Get Too Close To Hormuz - NDTV |
-| 2026-04-19 19:21 | Israel | 空袭 | Israel | 待确认 | C | Israeli strike on Hezbollah more devastating than 2024 pager attack, IDF says - MSN |
-| 2026-04-19 19:12 | Iran | 通报 | Iran | 待确认 | C | U.S.-Iran ceasefire expires this week with no deal in sight - NPR |
-| 2026-04-19 19:12 | Iran | 通报 | Iran | 待确认 | C | Trump ‘talked’ into Iran war but can’t find an exit? Here’s how crisis is unfolding - WION |
-| 2026-04-19 18:59 | Israel | 通报 | Israel | 待确认 | C | Lebanon-Israel Cease-Fire Goes Into Effect - The New York Times |
-| 2026-04-19 18:53 | Israel | 通报 | Israel | 待确认 | C | Hezbollah chief vows resistance will respond to Israeli violations ‘as they occur’ - thecradle.co |
-| 2026-04-19 18:47 | Israel | 空袭 | Israel | 待确认 | C | Hezbollah Leader Sets Conditions for Lebanon Truce Amid Continued Israeli Strikes - Kyiv Post |
-| 2026-04-19 18:36 | Israel | 空袭 | Israel | 待确认 | C | Hezbollah kills IDF trooper, Israel signals no-mercy strike? Trump under fire even after ceasefire / Videos - Hindustan Times |
-| 2026-04-19 18:20 | US | 通报 | Iran | 待确认 | C | How To Talk To Children About War: Indian Mental Health Experts On Navigating The Iran-US-Israel Crisis - Modern Ghana |
-| 2026-04-19 18:13 | Israel | 通报 | Israel | 待确认 | C | Displaced Lebanese families return home despite Israeli attacks - Al Jazeera |
-| 2026-04-19 18:12 | US | 通报 | Israel | 待确认 | C | Israel and Pakistan were created around the same time. In nearly 80 years since, how their creation helped the US - The Indian Express |
-| 2026-04-19 18:11 | Israel | 拦截 | Israel | 待确认 | C | Democrats Are Split Over What It Means to Block Israel Weapons Deals - The Intercept |
-| 2026-04-19 18:08 | Iran | 通报 | Iran | 待确认 | C | Iranian official says U.S. 'maximalist' demands stall face-to-face talks - The Tribune-Democrat |
-| 2026-04-19 18:06 | US | 通报 | Iran | 待确认 | C | Pezeshkian Defends Iran’s Response as Self-Defense, Urges Unity, Slams US, Israel - Palestine Chronicle |
-| 2026-04-19 18:05 | US | 通报 | Iran | 待确认 | C | Strait Of Hormuz Crisis: US Deploys Warships, Attack Helicopters As Tensions Rise With Iran - NDTV Profit |
-| 2026-04-19 18:04 | US | 通报 | Iran | 伤亡 | C | US-Iran war: 13 Americans dead as diplomatic talks in Pakistan fail - The Jerusalem Post |
-| 2026-04-19 18:00 | Iran | 通报 | Iran | 待确认 | C | Iran doubles down on closing Strait of Hormuz as ceasefire nears expiration - The Tribune-Democrat |
-| 2026-04-19 17:59 | US | 空袭 | Iran | 待确认 | C | Market Analysts React to US-Israel Strikes on Iran - EnergyNow |
-| 2026-04-19 17:55 | US | 通报 | 未明确 | 待确认 | C | Zelensky condemns US extension of Russian sanctions waiver - BBC |
-| 2026-04-19 17:48 | Israel | 通报 | Israel | 待确认 | C | Collapsing Empire: Hezbollah Crushes ‘Greater Israel’ - scheerpost.com |
-| 2026-04-19 17:46 | US | 通报 | Iran | 伤亡 | C | 200 US troops wounded since Iran war started: CENTCOM - MSN |
-| 2026-04-19 17:42 | Israel | 通报 | Israel | 待确认 | C | Lebanon and Israel hold first talks in decades in bid to end devastating war - AOL.com |
+| 2026-04-20 09:24 | 未明确 | 通报 | 未明确 | 待确认 | C | The war we see vs. the war they hide - The Morning |
+| 2026-04-20 09:18 | Iran | 通报 | Tehran | 待确认 | C | U.S. Navy seizes Iranian-flagged ship near Strait of Hormuz, Tehran vows swift response - The Hindu |
+| 2026-04-20 09:11 | US | 通报 | Tehran | 待确认 | C | US-Iran war: Trump says new talks, Tehran rejects proposal over Washington's ‘excessive demands’ / World News - Hindustan Times |
+| 2026-04-20 09:09 | US | 通报 | Tehran | 待确认 | C | Iran’s parliament speaker says Tehran ready for ‘necessary measures’ despite talks with US - Anadolu Ajansı |
+| 2026-04-20 09:06 | US | 通报 | Iran | 待确认 | C | Why Iran is not joining US talks: ‘Excessive demands, shifting positions and ongoing naval blockade’ - The Indian Express |
+| 2026-04-20 08:59 | US | 通报 | Iran | 待确认 | C | Tensions Escalate at Strait of Hormuz as US-Iran Conflict Deepens - Ratopati |
+| 2026-04-20 08:30 | US | 通报 | Iran | 待确认 | C | Iran: US has violated ceasefire and we will respond - Newstalk ZB |
+| 2026-04-20 08:13 | Israel | 通报 | Israel | 待确认 | C | Israel vows to level homes in Lebanon, counter threats with ‘full force’ - Digital Journal |
+| 2026-04-20 08:12 | US | 拦截 | Iran | 待确认 | C | US intercepts, seizes Iranian-flagged cargo vessel in the Gulf region, Trump says - Firstpost |
+| 2026-04-20 08:06 | US | 通报 | Tehran | 待确认 | C | US Navy seizes an Iranian-flagged ship near Strait of Hormuz and Tehran vows swift response - AP News |
+| 2026-04-20 08:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post |
+| 2026-04-20 07:39 | US | 通报 | Iran | 待确认 | C | CENTCOM releases video of Iranian ship seizure - Modern Ghana |
+| 2026-04-20 07:30 | US | 通报 | Iran | 待确认 | C | Iran rejects talks amid naval blockade, US seizes Iranian ship - Daily Finland |
+| 2026-04-20 07:29 | Iran | 通报 | Iran | 待确认 | C | U.S. Fires on Iranian Cargo Ship in Arabian Sea - The New York Times |
+| 2026-04-20 07:09 | US | 通报 | Iran | 待确认 | C | US-Israel war with Iran - DW.com |
+| 2026-04-20 07:02 | US | 通报 | Iran | 待确认 | C | Trump says US seized Iranian ship trying to get past blockade near Hormuz - Al Jazeera |
+| 2026-04-20 06:21 | US | 通报 | Iran | 待确认 | C | US forces attack and seize Iranian ship Touska near Strait of Hormuz - Al Jazeera |
+| 2026-04-20 06:17 | US | 通报 | Iran | 待确认 | C | US destroyer fires on, seizes Iran cargo ship trying to evade blockade - NST Online |
+| 2026-04-20 06:12 | Iran | 通报 | Iran | 待确认 | C | Iran threatens retaliation after U.S. seizes cargo vessel in Gulf of Oman - BNO News |
+| 2026-04-20 06:10 | Israel | 通报 | Iran | 待确认 | C | Battle of civilisation against barbarism: Israeli PM Netanyahu on Iran - The Tribune |
+| 2026-04-20 05:46 | Israel | 通报 | Iran | 待确认 | C | Argentina’s Milei says U.S.-Israel war against Iran ‘right thing to do’ - CTV News |
+| 2026-04-20 05:43 | 未明确 | 通报 | Lebanon | 待确认 | C | Netanyahu authorizes direct talks with Lebanon in potential boost to ceasefire efforts - Scripps News |
+| 2026-04-20 05:29 | 未明确 | 通报 | 未明确 | 待确认 | C | Messy War, Happy Stock Markets - The New York Times |
+| 2026-04-20 05:19 | Hezbollah | 通报 | Lebanon | 待确认 | C | Hezbollah ‘human shield’ strategy behind Lebanon ambush, bomb detonation - Macron drawn in - Fox News |
+| 2026-04-20 04:37 | US | 通报 | Iran | 待确认 | C | Iran-Israel-US war live updates: Iran closes Strait of Hormuz again as US continues blockade - MSN |
+| 2026-04-20 04:36 | US | 通报 | Iran | 待确认 | C | The Latest: Iran threatens to respond after US Navy seizes an Iranian-flagged cargo ship / National News / 2news.com - KTVN |
+| 2026-04-20 04:35 | Israel | 通报 | Israel | 待确认 | C | Israel says to use ‘full force’ in Lebanon despite truce if soldiers face threat - South China Morning Post |
+| 2026-04-20 04:24 | US | 通报 | Iran | 待确认 | C | Iran daily briefing: Why JD Vance might have no-one to talk to, plus Israel's new 'yellow line' - Australian Broadcasting Corporation |
+| 2026-04-20 04:18 | US | 通报 | Iran | 待确认 | C | The Latest: Trump says US Navy seizes Iranian-flagged cargo ship - KTVN |
+| 2026-04-20 04:07 | US | 通报 | Iran | 待确认 | C | Sumar urges the Government to denounce before the ICC the crimes of the US, Israel and Iran in the Middle East conflict - thediplomatinspain.com |
+| 2026-04-20 04:02 | US | 通报 | Iran | 待确认 | C | US-Iran-Israel War Latest Update:Trump Claims US Navy ‘Blew Hole in Engine Room’ as Iranian Vessel TOUSKA Seized in Strait of Hormuz Amid Middle East Escalation - The Sunday Guardian |
+| 2026-04-20 03:57 | 未明确 | 通报 | 未明确 | 待确认 | C | Australia pledges to help keep Strait of Hormuz open if deal is reached - 9News |
+| 2026-04-20 03:41 | 未明确 | 通报 | 未明确 | 待确认 | C | War in the Middle East: latest developments - NonStop Local KHQ |
+| 2026-04-20 03:21 | US | 通报 | Iran | 待确认 | C | Iran reports 3,468 deaths in war with US, Israel: Official - The Economic Times |
+| 2026-04-20 03:19 | US | 通报 | Iran | 待确认 | C | US Isreal Iran War Latest Update: Is Trump's Praise for Israel Linked to the Ongoing Lebanon Ceasefire? - Dailyhunt |
+| 2026-04-20 03:08 | Israel | 通报 | Israel | 待确认 | C | Lebanon ceasefire holds despite Israeli attacks in self-declared 'security zone' - The National |
+| 2026-04-20 02:35 | Israel | 空袭 | Israel | 待确认 | C | Israel carries out 'largest coordinated strike' even as uncertainty remains over ceasefire in Lebanon - MSN |
+| 2026-04-20 02:31 | Iran | 通报 | Iran | 待确认 | C | Trump threatens Iranian bridges as talks set to continue - DW.com |
+| 2026-04-20 02:12 | Israel | 通报 | Iran | 待确认 | C | Iran and Israel: From friends to enemies - Al Jazeera |
+| 2026-04-20 01:38 | Iran | 通报 | Iran | 待确认 | C | Trump’s Erratic Behavior May Tank Negotiations, Iran Says, Warning of “Significantly Greater Costs” to the U.S. if War Resumes - Drop Site News |
