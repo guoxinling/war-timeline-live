@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-04-21 10:10
+更新时间（北京时间）: 2026-04-21 21:17
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-04-21 09:59 | 未明确 | 通报 | 未明确 | 待确认 | C | How Pakistan learned to speak Trump’s language, becoming an unlikely peacemaker - The Washington Post |
-| 2026-04-21 09:39 | Iran | 通报 | Tehran | 待确认 | C | Tehran defiant as Trump refuses to lift blockade — as it happened - The Times |
-| 2026-04-21 09:15 | US | 通报 | Iran | 待确认 | C | 3 reasons the war between the US, Israel and Iran is headed for a frozen conflict - The Conversation |
-| 2026-04-21 08:57 | US | 通报 | Iran | 待确认 | C | Trump offers mixed messages about path ahead for US war against Iran - The Economic Times |
-| 2026-04-21 08:32 | Iran | 通报 | Iran | 待确认 | C | The bombs have stopped, but the Iran crisis has not yet peaked - AFR |
-| 2026-04-21 08:30 | US | 通报 | Iran | 待确认 | C | FirstUp: Next phase of Iran-US talks likely, Rajnath Singh in Germany… The news today - Firstpost |
-| 2026-04-21 08:17 | Israel | 空袭 | Israel | 待确认 | C | Israeli strike on Hezbollah more devastating than 2024 pager attack, IDF says - MSN |
-| 2026-04-21 08:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post |
-| 2026-04-21 07:29 | 未明确 | 通报 | 未明确 | 待确认 | C | Opinion / Amid Trump's War On The World, How Effective Really Is India's Strategic Autonomy? - NDTV |
-| 2026-04-21 07:28 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran war updates: 'War against Iran could only end if...' – Trump's bold stance as Middle East conflict enters 2nd week; here’s what he said - MSN |
-| 2026-04-21 07:27 | 未明确 | 通报 | 未明确 | 待确认 | C | Opinion / Mines, Submarines, Drones: Why World's Mightiest Navy Won't Get Too Close To Hormuz - NDTV |
-| 2026-04-21 07:14 | Israel | 通报 | Israel | 待确认 | C | Big Tech Is Powering Israel's AI War Machine - Zeteo |
-| 2026-04-21 07:03 | US | 通报 | Israel | 待确认 | C | US-Israel war exposes gulf security model, shatters safe haven image - Muslim Network TV |
-| 2026-04-21 06:58 | Iran | 通报 | Iran | 待确认 | C | Iran war accelerates America’s breakup with the world - Politico |
-| 2026-04-21 06:41 | US | 通报 | Iran | 待确认 | C | Iran US War News LIVE Updates: Iran warns to ‘sink American ships’ enforcing military blockade in Hormuz Strait - MSN |
-| 2026-04-21 06:22 | US | 通报 | Iran | 伤亡 | C | Department of War confirms 415 US troops wounded in raging Iran war - Daily Express US |
-| 2026-04-21 05:57 | Israel | 通报 | Israel | 待确认 | C | Israeli fire kills two in Gaza - The Express Tribune |
-| 2026-04-21 05:57 | Israel | 通报 | Israel | 待确认 | C | Lebanon-Israel Cease-Fire Goes Into Effect - The New York Times |
-| 2026-04-21 05:57 | Iran | 通报 | Iran | 待确认 | C | What’s next for U.S. war against Iran? Trump offers mixed messages - OregonLive.com |
-| 2026-04-21 05:49 | Iran | 通报 | Iran | 待确认 | C | How the Iran War Is Eroding the Gulf States’ World - The National Interest |
-| 2026-04-21 05:47 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran war live updates: Iran pulls out of round 2 peace talks with US, reports state media - MSN |
-| 2026-04-21 05:40 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran war news updates live: Trump says Iran committed 'serious violation' of ceasefire - MSN |
-| 2026-04-21 05:20 | 未明确 | 通报 | 未明确 | 待确认 | C | Middle East Conflict: Latest News, Breaking Headlines and Video - NBC News |
-| 2026-04-21 05:17 | Iran | 通报 | Iran | 待确认 | C | How is the war on Iran affecting the Russia-Ukraine conflict? - Al Jazeera |
-| 2026-04-21 04:57 | Israel | 通报 | Israel | 待确认 | C | Netanyahu: ‘Road to peace’ with Lebanon begins; Trump: Israel ‘PROHIBITED’ from bombing there - The Times of Israel |
-| 2026-04-21 04:43 | Israel | 撤离 | Israel | 命中 | C | Israel told people to evacuate Beirut’s southern suburbs — then hit city’s center - The Washington Post |
-| 2026-04-21 04:35 | US | 通报 | Iran | 待确认 | C | The Latest: Pakistan prepares for upcoming peace talks despite US seizure of Iranian cargo ship - San Antonio Express-News |
-| 2026-04-21 04:33 | US | 通报 | Israel | 待确认 | C | Lebanon, Israel to meet again Thursday for direct talks, US says - Al Jazeera |
-| 2026-04-21 04:33 | Iran | 通报 | Iran | 待确认 | C | Oil prices jump after Trump says Iranian ship seized - BBC |
-| 2026-04-21 04:25 | Iran | 通报 | Iran | 待确认 | C | Iran daily briefing: As time runs out for ceasefire, siren sends chill up my spine - Australian Broadcasting Corporation |
-| 2026-04-21 04:22 | Iran | 通报 | Iran | 待确认 | C | 'I am winning war by a lot,' claims Trump; cites military success against Iran - The Times of India |
-| 2026-04-21 04:07 | Israel | 发射 | Israel | 待确认 | C | Dramatic footage shows Hezbollah launching a swooping strike on an Israeli Merkava in Khiam - x.com |
-| 2026-04-21 03:55 | US | 通报 | Iran | 待确认 | C | US-Iran conflict and global disorder - The Express Tribune |
-| 2026-04-21 03:45 | 未明确 | 通报 | Gaza | 命中 | C | Palestinian death toll in Gaza hits 72,553 - Arab News |
-| 2026-04-21 03:39 | US | 通报 | Iran | 待确认 | C | Global fibers for nonwovens under pressure as US-Israel-Iran conflict drives costs, affects supply - Fastmarkets |
-| 2026-04-21 03:35 | US | 通报 | Iran | 待确认 | C | Iran conflict: Why regime survived US-Israel assault, analysis - Deccan Herald |
-| 2026-04-21 03:19 | US | 通报 | Iran | 待确认 | C | 'Israel never talked me into the war with Iran,' says US President Trump - MSN |
-| 2026-04-21 02:30 | US | 通报 | Iran | 待确认 | C | The US/Israel-Iran Conflict: How Digital Messaging Is Shaping Narratives – Analysis - Eurasia Review |
-| 2026-04-21 02:28 | US | 通报 | Iran | 待确认 | C | Iran, US-Israel War Live Updates / 'Lots of bombs start going off' if ceasefire ends without peace deal: Trump - Dailyhunt |
-| 2026-04-21 02:19 | US | 通报 | Iran | 待确认 | C | The Strokes End Coachella Set With Video Montage to Denounce US, Israel Bombings in Iran, Gaza - Algemeiner.com |
+| 2026-04-21 20:49 | Israel | 通报 | Iran | 待确认 | C | Iran War Timeline: Key Moments and Attacks In U.S. and Israel’s Campaign - The New York Times |
+| 2026-04-21 20:01 | US | 通报 | Iran | 待确认 | C | US and Iran signal new ceasefire talks in Islamabad as truce nears end - 9News |
+| 2026-04-21 20:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post |
+| 2026-04-21 20:00 | Iran | 通报 | Iran | 待确认 | C | What was the Iran nuclear deal Trump dumped in search of ‘better’ terms? - Al Jazeera |
+| 2026-04-21 19:55 | Israel | 通报 | Israel | 待确认 | C | Israel: Applying diplomatic, military pressure to disarm Hezbollah - Sharjah24 |
+| 2026-04-21 19:47 | Israel | 通报 | Israel | 待确认 | C | Israel will face resistance if troops stay in Lebanon, Speaker Berri says - Internazionale |
+| 2026-04-21 19:46 | Israel | 空袭 | Israel | 待确认 | C | Israel continues strikes in southern Lebanon despite ceasefire - Daily Times |
+| 2026-04-21 19:12 | Iran | 通报 | Tehran | 待确认 | C | Pakistan presses ahead with prepa­ra­tions for Iran-U.S. talks even with Tehran's par­tic­i­pation unclear - Spectrum News |
+| 2026-04-21 18:43 | US | 通报 | Israel | 待确认 | C | Israeli military analyst: Hezbollah explosive drones pose serious threat - Middle East Monitor |
+| 2026-04-21 18:34 | 未明确 | 空袭 | Lebanon | 伤亡 | C | British journalist injured during strike in southern Lebanon - Dagens.com |
+| 2026-04-21 18:30 | Iran | 通报 | Tehran | 待确认 | C | Pakistan presses ahead with preparations for Iran-U.S. talks even with Tehran's participation unclear - The Tribune-Democrat |
+| 2026-04-21 18:28 | US | 通报 | Tehran | 待确认 | C | Tehran says Iranian oil tanker entered territorial waters despite US 'warnings, threats' - Anadolu Ajansı |
+| 2026-04-21 18:27 | US | 通报 | Iran | 待确认 | C | The Latest: Doubt surrounds Iran-US talks as ceasefire is set to expire - WRAL |
+| 2026-04-21 18:23 | US | 通报 | Iran | 待确认 | C | Uncertainty surrounds Iran-US negotiations as ceasefire nears expiration - MSN |
+| 2026-04-21 18:13 | US | 通报 | Iran | 待确认 | C | IEA Executive Director warns of severe energy crisis due to Iran-US conflict - The Peninsula Qatar |
+| 2026-04-21 18:11 | US | 通报 | Iran | 待确认 | C | Doubt surrounds Iran-US talks as ceasefire is set to expire - JC Post |
+| 2026-04-21 18:11 | US | 通报 | Iran | 待确认 | C | Doubt surrounds Iran-US talks as ceasefire is set to expire - Salina Post |
+| 2026-04-21 17:50 | Israel | 通报 | Israel | 伤亡 | C | Hezbollah to bury fighters killed in war with Israel - Arab News |
+| 2026-04-21 17:28 | Iran | 通报 | Iran | 待确认 | C | Iran warns of decisive military response to any renewed hostile actions - SSBCrack |
+| 2026-04-21 17:28 | US | 通报 | Iran | 待确认 | C | Iran calls for immediate release of cargo ship seized by US - Egypt Independent |
+| 2026-04-21 17:25 | Iran | 通报 | Iran | 待确认 | C | Fires at refineries in India and four other countries. Global pattern amid Iran war? - India Today |
+| 2026-04-21 17:13 | Iran | 通报 | Iran | 待确认 | C | As Iran crisis drags on, fears of global food catastrophe grow - Al Jazeera |
+| 2026-04-21 16:56 | Hezbollah | 通报 | Lebanon | 待确认 | C | Katz threatens Hezbollah's Naim Qassem ahead of Lebanon talks - شفق نيوز |
+| 2026-04-21 16:47 | US | 通报 | Iran | 待确认 | C | The Latest: Iran threatens to respond after US Navy seizes an Iranian-flagged cargo ship - Houston Chronicle |
+| 2026-04-21 16:32 | Iran | 通报 | Iran | 伤亡 | C | My dreams in Iran were already dead before the ceasefire came - Al Jazeera |
+| 2026-04-21 16:29 | US | 通报 | Iran | 待确认 | C | US-Israel War on Iran Creates Biggest Energy Crisis in History - Marine News Magazine |
+| 2026-04-21 16:13 | US | 通报 | Iran | 待确认 | C | Lebanon gripped by uncertainty over Iran-US ceasefire - DW.com |
+| 2026-04-21 16:00 | US | 通报 | Iran | 待确认 | C | US/Israel-Iran war: All you should know about the Non-Proliferation Treaty - Dubawa |
+| 2026-04-21 15:56 | US | 通报 | Iran | 待确认 | C | The Latest: Doubt surrounds Iran-US talks as ceasefire is set to expire - The Independent |
+| 2026-04-21 15:51 | Israel | 发射 | Israel | 伤亡 | C | Israeli reservists wounded by Hezbollah missile despite ceasefire agreement - Crypto Briefing |
+| 2026-04-21 15:49 | US | 通报 | Iran | 待确认 | C | US-Iran Ceasefire Likely To Be Extended As Another Round Of Talks Approaches: Ex-CENTCOM Chief - News18 |
+| 2026-04-21 15:31 | US | 通报 | Iran | 待确认 | C | 3 reasons war between US, Israel and Iran is headed for frozen conflict - Deccan Herald |
+| 2026-04-21 15:25 | US | 通报 | Iran | 待确认 | C | Iran war: What is happening on day 53 of the US-Israel conflict? - Al Jazeera |
+| 2026-04-21 15:12 | Iran | 通报 | Iran | 待确认 | C | Iran warns of 'immediate response' as ceasefire nears expiry - The Jerusalem Post |
+| 2026-04-21 15:02 | US | 通报 | Iran | 伤亡 | C | Iran reports 3,468 dead in war with US, Israel: official - MSN |
+| 2026-04-21 14:57 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran war live news updates: Donald Trump says 'can easily open the Hormuz Strait' - MSN |
+| 2026-04-21 14:56 | US | 通报 | Iran | 待确认 | C | Iran-Israel war live updates: No dates set for second round of Iran-US talks: Pakistan - MSN |
+| 2026-04-21 14:52 | US | 通报 | Iran | 待确认 | C | Arabian Sea Image Exposes Gap Between Trump's Peace Talk, US Action On Iran - NDTV |
+| 2026-04-21 14:52 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran war live news updates: 'Lots of bombs will go off,' says Trump; Iran to send Ghalibaf for talks - MSN |
+| 2026-04-21 14:49 | Iran | 通报 | Tehran | 待确认 | C | Tehran and Trump Send Mixed Signals Ahead of Potential Talks - The New York Times |
