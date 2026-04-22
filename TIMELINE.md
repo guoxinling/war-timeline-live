@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-04-22 10:08
+更新时间（北京时间）: 2026-04-22 21:18
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-04-22 09:59 | Iran | 通报 | Tehran | 待确认 | C | Tehran and Trump Send Mixed Signals Ahead of Potential Talks - The New York Times |
-| 2026-04-22 09:40 | US | 通报 | Iran | 待确认 | C | US extends Iran ceasefire for peace talks - The Straits Times |
-| 2026-04-22 09:18 | Iran | 通报 | Iran | 待确认 | C | Day 54 / Trump says he will extend ceasefire with Iran until negotiations conclude - Roya News |
-| 2026-04-22 09:14 | Israel | 通报 | Israel | 待确认 | C | Israel unveils new artillery against Hezbollah amid fragile truce - Українські Національні Новини (УНН) |
-| 2026-04-22 08:52 | US | 通报 | Iran | 待确认 | C | UN chief welcomes US ceasefire extension with Iran - Anadolu Ajansı |
-| 2026-04-22 08:40 | Iran | 通报 | Iran | 待确认 | C | ‘Two million jobs’: Iran in doom spiral - News.com.au |
-| 2026-04-22 08:33 | US | 通报 | Iran | 待确认 | C | Trump kept out of war room after US jet downed in Iran - Muslim Network TV |
-| 2026-04-22 08:14 | 未明确 | 通报 | 未明确 | 待确认 | C | How Trump went from 'I expect to be bombing' to 'I extend the ceasefire' - Australian Broadcasting Corporation |
-| 2026-04-22 07:57 | US | 通报 | Iran | 待确认 | C | Iran Preparing for Renewed War With US, Israel as Talks Collapse: Tasnim - bloomingbit |
-| 2026-04-22 07:46 | Israel | 发射 | Israel | 待确认 | C | Israel says Hezbollah fired rockets in south Lebanon - sightmagazine.com.au |
-| 2026-04-22 07:29 | Israel | 通报 | Israel | 待确认 | C | Hezbollah Says Attacked Israel In Response To Ceasefire Violations - NDTV |
-| 2026-04-22 07:23 | Iran | 通报 | Iran | 待确认 | C | The Latest: Trump extends the ceasefire with Iran but keeps the blockade - WTOP |
-| 2026-04-22 07:18 | Iran | 通报 | Iran | 待确认 | C | The Iran war in maps and charts - The Economist |
-| 2026-04-22 07:03 | US | 通报 | Iran | 待确认 | C | With the US-Iran ceasefire about to expire, could Trump put boots on the ground? - The Guardian |
-| 2026-04-22 06:33 | Iran | 通报 | Iran | 待确认 | C | Trump says U.S. will extend ceasefire with Iran at Pakistan’s request - CTV News |
-| 2026-04-22 06:14 | Iran | 通报 | Iran | 待确认 | C | The Guardian view on the true cost of the Iran war: bombs kill – but so does the economic fallout / Editorial - The Guardian |
-| 2026-04-22 05:44 | US | 空袭 | Iran | 待确认 | C | Live Updates: War returns to Iran with Israel, US strikes - - DAWN.COM |
-| 2026-04-22 05:40 | Iran | 通报 | Iran | 待确认 | C | Trump announces Iran ceasefire extension but says blockade remains - Al Jazeera |
-| 2026-04-22 05:27 | Israel | 空袭 | Iran | 待确认 | C | Israel, U.S. Prepare to Resume Iran Strikes - 조선일보 |
-| 2026-04-22 05:13 | Iran | 通报 | Iran | 待确认 | C | The war in Iran isn’t ending — it’s becoming something new - vox.com |
-| 2026-04-22 05:09 | Israel | 空袭 | Israel | 待确认 | C | Hezbollah strikes northern Israel over ceasefire violations - Yeni Safak English |
-| 2026-04-22 04:59 | US | 发射 | Iran | 待确认 | C | US missile stockpiles drained as Iran war exposes vulnerability - Muslim Network TV |
-| 2026-04-22 04:57 | Iran | 通报 | Iran | 待确认 | C | What to know as Trump extends ceasefire in Iran war - AP News |
-| 2026-04-22 04:45 | US | 通报 | Iran | 待确认 | C | US issues more Iran sanctions on eve of possible talks in Pakistan - Al Jazeera |
-| 2026-04-22 04:42 | 未明确 | 撤离 | 未明确 | 待确认 | C | UN’s Maritime Agency Prepares Hormuz Evacuation Plan for Hundreds of Ships - gCaptain |
-| 2026-04-22 04:26 | Israel | 通报 | Iran | 待确认 | C | Israel Celebrates its 78th Independence; Netanyahu says job not complete vs Iran TV7 Israel 21 Apr. - TV7 Israel News |
-| 2026-04-22 04:25 | Iran | 通报 | Iran | 待确认 | C | Trump says U.S. will extend ceasefire with Iran at Pakistan's request - The Tribune-Democrat |
-| 2026-04-22 04:18 | Israel | 通报 | Iran | 待确认 | C | The pope, the president, the war with Iran, Ukraine, Israel, and more: April 17 - 20, 2026 Economist/YouGov Poll - YouGov |
-| 2026-04-22 04:18 | Israel | 通报 | Iran | 待确认 | C | 6 Things I Wish I Knew About the U.S. and Israeli Positions on Iran - Foreign Policy |
-| 2026-04-22 04:13 | Iran | 通报 | Iran | 待确认 | C | Trump extends ceasefire in Iran, citing 'seriously fractured' Iranian government - CNBC |
-| 2026-04-22 04:10 | US | 通报 | Israel | 待确认 | C | Hezbollah attacks northern Israel, raising doubts over US-brokered ceasefire - Crypto Briefing |
-| 2026-04-22 04:06 | Israel | 通报 | Iran | 待确认 | C | Israel unveils game-changing artillery against Iran-backed Hezbollah amid fragile ceasefire - AOL.com |
-| 2026-04-22 04:02 | Iran | 通报 | Iran | 伤亡 | C | Trump extends Iran ceasefire after talks collapse just hours before deadline - The Sun |
-| 2026-04-22 04:01 | Israel | 发射 | Israel | 待确认 | C | CEASEFIRE OVER? Hezbollah Launches Surprise Attack On Israel; Artillery Positions BOMBED / WATCH - The Times of India |
-| 2026-04-22 03:56 | Hezbollah | 通报 | Lebanon | 伤亡 | C | Photos show funerals in Lebanon for Hezbollah fighters, civilians killed before ceasefire - CityNews Halifax |
-| 2026-04-22 03:53 | Israel | 通报 | Israel | 待确认 | C | Hezbollah announces first operation since ceasefire amid Israeli breaches - شفق نيوز |
-| 2026-04-22 03:44 | Israel | 发射 | Israel | 待确认 | C | Israel claims Hezbollah fired missiles at troops in Lebanon amid ceasefire. - en.etemaaddaily.com |
-| 2026-04-22 03:28 | Israel | 通报 | Israel | 待确认 | C | Hezbollah fires at Israel, citing truce breaches - Reuters |
-| 2026-04-22 03:23 | US | 通报 | Iran | 待确认 | C | Iran conflict widens to Lebanon; Kuwait mistakenly shoots down US jets - DD News |
-| 2026-04-22 03:18 | Israel | 通报 | Israel | 待确认 | C | Hezbollah says attacked north Israel in response to Israeli truce violations - Region - World - Ahram Online |
+| 2026-04-22 21:06 | Israel | 通报 | Israel | 待确认 | C | Lebanon’s Hezbollah targets Israeli military site in response to ceasefire breaches - Middle East Monitor |
+| 2026-04-22 20:57 | US | 通报 | Iran | 命中 | C | US-Iran War: Strait of Hormuz Closure Energy Impact - Discovery Alert |
+| 2026-04-22 20:37 | US | 通报 | Iran | 待确认 | C | Iran calls US ship seizure ‘piracy’: Is it? - Al Jazeera |
+| 2026-04-22 20:35 | Israel | 发射 | Israel | 待确认 | C | Hezbollah claims drone attack on Israeli troops in southern Lebanon - The Times of Israel |
+| 2026-04-22 20:14 | Israel | 通报 | Israel | 待确认 | C | Indonesia condemns Israeli banner over ruins of Gaza hospital it funded - Pakistan Today |
+| 2026-04-22 20:09 | Israel | 通报 | Israel | 待确认 | C | INTERVIEW - Gaza-bound flotilla organizer says activists will block ships carrying supplies for Israel’s military - Anadolu Ajansı |
+| 2026-04-22 19:51 | US | 通报 | Iran | 待确认 | C | FAKE: This image of US soldiers surrendering to Iran is not authentic - PesaCheck |
+| 2026-04-22 19:42 | US | 通报 | Iran | 待确认 | C | Hormuz tensions escalate: Iran seizes ships days after US captures vessel - TRT World |
+| 2026-04-22 19:34 | Iran | 通报 | Iran | 待确认 | C | Iran says seized two ships seeking to cross Strait of Hormuz - Montana State Exponent |
+| 2026-04-22 19:34 | 未明确 | 通报 | Lebanon | 设施受损 | C | Lebanon hopes for extension of ceasefire at Washington meeting - Al-Monitor |
+| 2026-04-22 19:34 | 未明确 | 通报 | Lebanon | 设施受损 | C | Lebanon hopes for extension of ceasefire at Washington meeting - Internazionale |
+| 2026-04-22 19:33 | US | 通报 | Iran | 待确认 | C | Su-57 Jets, US-Iran And Vladimir Putin: NDTV Exclusive With Russian Ambassador - NDTV |
+| 2026-04-22 19:31 | Israel | 通报 | Israel | 待确认 | C | Lebanon: Hezbollah responds to Israeli violations ahead of talks - The New Arab |
+| 2026-04-22 19:30 | US | 通报 | Iran | 待确认 | C | How China stands to gain from the US-Israel war on Iran - The New Arab |
+| 2026-04-22 19:04 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran war live news updates: 'Lots of bombs will go off,' says Trump; Iran to send Ghalibaf for talks - MSN |
+| 2026-04-22 18:48 | Iran | 通报 | Iran | 待确认 | C | Iran war: Revolutionary Guard says seizes ships in Hormuz - dw.com |
+| 2026-04-22 18:45 | Iran | 通报 | Iran | 待确认 | C | Oil prices fluctuate as Trump extends Iran war ceasefire - BBC |
+| 2026-04-22 18:44 | Iran | 通报 | Iran | 待确认 | C | 3 ships attacked in Strait of Hormuz, complicating efforts to resume U.S.-Iran talks - CBC |
+| 2026-04-22 18:31 | 未明确 | 通报 | 未明确 | 待确认 | C | Lufthansa cuts 20,000 summer flights as fuel prices surge - BBC |
+| 2026-04-22 18:24 | US | 通报 | Iran | 待确认 | C | Iran fires on three ships in the Strait of Hormuz, complicating efforts to resume US-Iran talks - 9News |
+| 2026-04-22 18:24 | Israel | 通报 | Israel | 待确认 | C | Israeli ambassador: 'Only a strong Israel can achieve peace' - dw.com |
+| 2026-04-22 18:13 | US | 通报 | Iran | 待确认 | C | US-Israel War, Day 55: Trump Extends Ceasefire After Iran Rejects Talks In Pakistan - EA WorldView |
+| 2026-04-22 18:13 | US | 通报 | Iran | 待确认 | C | China denies US-detained ship in Middle East contained ‘gift’ for Iran - Arab News |
+| 2026-04-22 18:11 | US | 通报 | Iran | 待确认 | C | Iran claims it has ‘new cards’ to play if war resumes with US and Israel — what are they? - AOL.com |
+| 2026-04-22 18:09 | Israel | 空袭 | Lebanon | 待确认 | C | IDF reports strike on Hezbollah members in south Lebanon - Awaz The Voice |
+| 2026-04-22 18:00 | US | 通报 | Iran | 待确认 | C | At least 34 Iran-linked tankers bypassed US blockade: report - The Express Tribune |
+| 2026-04-22 17:59 | Iran | 通报 | Iran | 待确认 | C | Over 200,000 jobs could be lost due to Iran war, report says - Anadolu Ajansı |
+| 2026-04-22 17:53 | Houthis | 通报 | Jerusalem | 待确认 | C | Houthis signal return, warn of broader regional escalation - The Jerusalem Post |
+| 2026-04-22 17:51 | Iran | 通报 | Iran | 待确认 | C | Ships attacked in Gulf as Trump extends Iran ceasefire - Montana State Exponent |
+| 2026-04-22 17:49 | Israel | 通报 | Israel | 待确认 | C | U.S. senator calls for halting military aid to Israel - شبكة يافا الإخبارية |
+| 2026-04-22 17:30 | Iran | 通报 | Iran | 待确认 | C | Iran attacks ship in Strait of Hormuz, complicating diplomatic efforts to resume talks - The Tribune-Democrat |
+| 2026-04-22 17:29 | Israel | 通报 | Iran | 待确认 | C | ‘Awesome’: Connecticut Senator Chris Murphy cheers disputed report that Iranian ‘shadow fleet’ brea... - World Israel News |
+| 2026-04-22 17:26 | Israel | 通报 | Israel | 待确认 | C | Israel urges Lebanon to join forces against Hezbollah ahead of Washington talks - Moneycontrol.com |
+| 2026-04-22 17:24 | Israel | 通报 | Lebanon | 伤亡 | C | IDF Claims Two Hezbollah Fighters Killed in Southern Lebanon Amid Ceasefire Tensions - The Impressive Times |
+| 2026-04-22 17:15 | Iran | 通报 | Iran | 待确认 | C | Trump extends ceasefire, claims Iran 'collapsing financially' - The Paintsville Herald |
+| 2026-04-22 17:15 | Iran | 通报 | Iran | 待确认 | C | Iran war: World awaits next move after ceasefire extension - The Eastleigh Voice |
+| 2026-04-22 17:03 | 未明确 | 空袭 | Lebanon | 命中 | C | Tensions Rise as Drone Strike Hits Lebanon - Devdiscourse |
+| 2026-04-22 16:57 | Israel | 通报 | Israel | 待确认 | C | As internal divisions simmer, Lebanese see echoes of last century’s civil war - The Times of Israel |
+| 2026-04-22 16:50 | US | 通报 | Iran | 待确认 | C | Ceasefire Extended, But What Next? Why US-Iran War Risks Turning Into A Frozen Conflict - News18 |
+| 2026-04-22 16:35 | US | 通报 | Iran | 命中 | C | A Study on the Impact of the US-Israel-Iran Conflict on North African Countries: A Multidimensional Analysis Based on 2026 Data – MEPEI - mepei.com |
