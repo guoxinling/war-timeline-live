@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-04-22 21:18
+更新时间（北京时间）: 2026-04-23 10:12
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-04-22 21:06 | Israel | 通报 | Israel | 待确认 | C | Lebanon’s Hezbollah targets Israeli military site in response to ceasefire breaches - Middle East Monitor |
-| 2026-04-22 20:57 | US | 通报 | Iran | 命中 | C | US-Iran War: Strait of Hormuz Closure Energy Impact - Discovery Alert |
-| 2026-04-22 20:37 | US | 通报 | Iran | 待确认 | C | Iran calls US ship seizure ‘piracy’: Is it? - Al Jazeera |
-| 2026-04-22 20:35 | Israel | 发射 | Israel | 待确认 | C | Hezbollah claims drone attack on Israeli troops in southern Lebanon - The Times of Israel |
-| 2026-04-22 20:14 | Israel | 通报 | Israel | 待确认 | C | Indonesia condemns Israeli banner over ruins of Gaza hospital it funded - Pakistan Today |
-| 2026-04-22 20:09 | Israel | 通报 | Israel | 待确认 | C | INTERVIEW - Gaza-bound flotilla organizer says activists will block ships carrying supplies for Israel’s military - Anadolu Ajansı |
-| 2026-04-22 19:51 | US | 通报 | Iran | 待确认 | C | FAKE: This image of US soldiers surrendering to Iran is not authentic - PesaCheck |
-| 2026-04-22 19:42 | US | 通报 | Iran | 待确认 | C | Hormuz tensions escalate: Iran seizes ships days after US captures vessel - TRT World |
-| 2026-04-22 19:34 | Iran | 通报 | Iran | 待确认 | C | Iran says seized two ships seeking to cross Strait of Hormuz - Montana State Exponent |
-| 2026-04-22 19:34 | 未明确 | 通报 | Lebanon | 设施受损 | C | Lebanon hopes for extension of ceasefire at Washington meeting - Al-Monitor |
-| 2026-04-22 19:34 | 未明确 | 通报 | Lebanon | 设施受损 | C | Lebanon hopes for extension of ceasefire at Washington meeting - Internazionale |
-| 2026-04-22 19:33 | US | 通报 | Iran | 待确认 | C | Su-57 Jets, US-Iran And Vladimir Putin: NDTV Exclusive With Russian Ambassador - NDTV |
-| 2026-04-22 19:31 | Israel | 通报 | Israel | 待确认 | C | Lebanon: Hezbollah responds to Israeli violations ahead of talks - The New Arab |
-| 2026-04-22 19:30 | US | 通报 | Iran | 待确认 | C | How China stands to gain from the US-Israel war on Iran - The New Arab |
-| 2026-04-22 19:04 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran war live news updates: 'Lots of bombs will go off,' says Trump; Iran to send Ghalibaf for talks - MSN |
-| 2026-04-22 18:48 | Iran | 通报 | Iran | 待确认 | C | Iran war: Revolutionary Guard says seizes ships in Hormuz - dw.com |
-| 2026-04-22 18:45 | Iran | 通报 | Iran | 待确认 | C | Oil prices fluctuate as Trump extends Iran war ceasefire - BBC |
-| 2026-04-22 18:44 | Iran | 通报 | Iran | 待确认 | C | 3 ships attacked in Strait of Hormuz, complicating efforts to resume U.S.-Iran talks - CBC |
-| 2026-04-22 18:31 | 未明确 | 通报 | 未明确 | 待确认 | C | Lufthansa cuts 20,000 summer flights as fuel prices surge - BBC |
-| 2026-04-22 18:24 | US | 通报 | Iran | 待确认 | C | Iran fires on three ships in the Strait of Hormuz, complicating efforts to resume US-Iran talks - 9News |
-| 2026-04-22 18:24 | Israel | 通报 | Israel | 待确认 | C | Israeli ambassador: 'Only a strong Israel can achieve peace' - dw.com |
-| 2026-04-22 18:13 | US | 通报 | Iran | 待确认 | C | US-Israel War, Day 55: Trump Extends Ceasefire After Iran Rejects Talks In Pakistan - EA WorldView |
-| 2026-04-22 18:13 | US | 通报 | Iran | 待确认 | C | China denies US-detained ship in Middle East contained ‘gift’ for Iran - Arab News |
-| 2026-04-22 18:11 | US | 通报 | Iran | 待确认 | C | Iran claims it has ‘new cards’ to play if war resumes with US and Israel — what are they? - AOL.com |
-| 2026-04-22 18:09 | Israel | 空袭 | Lebanon | 待确认 | C | IDF reports strike on Hezbollah members in south Lebanon - Awaz The Voice |
-| 2026-04-22 18:00 | US | 通报 | Iran | 待确认 | C | At least 34 Iran-linked tankers bypassed US blockade: report - The Express Tribune |
-| 2026-04-22 17:59 | Iran | 通报 | Iran | 待确认 | C | Over 200,000 jobs could be lost due to Iran war, report says - Anadolu Ajansı |
-| 2026-04-22 17:53 | Houthis | 通报 | Jerusalem | 待确认 | C | Houthis signal return, warn of broader regional escalation - The Jerusalem Post |
-| 2026-04-22 17:51 | Iran | 通报 | Iran | 待确认 | C | Ships attacked in Gulf as Trump extends Iran ceasefire - Montana State Exponent |
-| 2026-04-22 17:49 | Israel | 通报 | Israel | 待确认 | C | U.S. senator calls for halting military aid to Israel - شبكة يافا الإخبارية |
-| 2026-04-22 17:30 | Iran | 通报 | Iran | 待确认 | C | Iran attacks ship in Strait of Hormuz, complicating diplomatic efforts to resume talks - The Tribune-Democrat |
-| 2026-04-22 17:29 | Israel | 通报 | Iran | 待确认 | C | ‘Awesome’: Connecticut Senator Chris Murphy cheers disputed report that Iranian ‘shadow fleet’ brea... - World Israel News |
-| 2026-04-22 17:26 | Israel | 通报 | Israel | 待确认 | C | Israel urges Lebanon to join forces against Hezbollah ahead of Washington talks - Moneycontrol.com |
-| 2026-04-22 17:24 | Israel | 通报 | Lebanon | 伤亡 | C | IDF Claims Two Hezbollah Fighters Killed in Southern Lebanon Amid Ceasefire Tensions - The Impressive Times |
-| 2026-04-22 17:15 | Iran | 通报 | Iran | 待确认 | C | Trump extends ceasefire, claims Iran 'collapsing financially' - The Paintsville Herald |
-| 2026-04-22 17:15 | Iran | 通报 | Iran | 待确认 | C | Iran war: World awaits next move after ceasefire extension - The Eastleigh Voice |
-| 2026-04-22 17:03 | 未明确 | 空袭 | Lebanon | 命中 | C | Tensions Rise as Drone Strike Hits Lebanon - Devdiscourse |
-| 2026-04-22 16:57 | Israel | 通报 | Israel | 待确认 | C | As internal divisions simmer, Lebanese see echoes of last century’s civil war - The Times of Israel |
-| 2026-04-22 16:50 | US | 通报 | Iran | 待确认 | C | Ceasefire Extended, But What Next? Why US-Iran War Risks Turning Into A Frozen Conflict - News18 |
-| 2026-04-22 16:35 | US | 通报 | Iran | 命中 | C | A Study on the Impact of the US-Israel-Iran Conflict on North African Countries: A Multidimensional Analysis Based on 2026 Data – MEPEI - mepei.com |
+| 2026-04-23 10:07 | US | 通报 | Iran | 待确认 | C | Iran fires on 3 ships in the Strait of Hormuz as US maintains blockade and diplomacy stalls - AP News |
+| 2026-04-23 10:05 | Israel | 空袭 | Iran | 伤亡 | C | Lebanese journalist killed in Israeli strikes; Iran seizes ships in Hormuz amid fragile ceasefire - Onmanorama |
+| 2026-04-23 10:00 | Israel | 空袭 | Israel | 伤亡 | C | Lebanese Journalist Killed In Israeli Strike In South Lebanon, Body Retrieved Hours Later - News18 |
+| 2026-04-23 09:39 | Israel | 通报 | Israel | 待确认 | C | Lebanon Meets Israel In Washington To Request Truce Extension - ETV Bharat |
+| 2026-04-23 09:18 | Israel | 空袭 | Israel | 待确认 | C | Israeli Strikes Kill a Journalist and Injure Another in Lebanon - The New York Times |
+| 2026-04-23 09:15 | US | 拦截 | Iran | 待确认 | C | US Intercepts Iranian Oil Tankers Near India, Malaysia, Sri Lanka Amid Escalating Gulf Tensions - ABP News |
+| 2026-04-23 09:09 | Iran | 通报 | Iran | 待确认 | C | Iran says Strait of Hormuz cannot be opened due to ceasefire breaches - BBC |
+| 2026-04-23 08:57 | US | 拦截 | Iran | 拦截 | C | Iran says shot down 'enemy' F-15 jet near Hormuz Island, US CENTCOM denies - MSN |
+| 2026-04-23 08:57 | Iran | 空袭 | Iran | 待确认 | C | Trump says 'not finished yet' with strikes on Iran; asks oil companies to use Strait of Hormuz - MSN |
+| 2026-04-23 08:55 | US | 通报 | Iran | 待确认 | C | Iran seizes pair of container ships, in first since start of war with US and Israel - The Times of Israel |
+| 2026-04-23 08:55 | Iran | 拦截 | Iran | 拦截 | C | Watch: Iran claims it struck 'enemy' F-15 fighter jet intercepted near Hormuz Island - MSN |
+| 2026-04-23 08:51 | Israel | 通报 | Iran | 待确认 | C | India holds repo rate amid Iran-Israel-USA conflict uncertainty - Crypto Briefing |
+| 2026-04-23 08:39 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran war live news updates: India says excise, cess tweaks aimed at prioritising domestic fuel availability - MSN |
+| 2026-04-23 08:33 | US | 通报 | Iran | 待确认 | C | Iran, US and mediators discuss potential 45 day ceasefire to 'permanently' end West Asia war - MSN |
+| 2026-04-23 08:31 | Israel | 通报 | Iran | 命中 | C | Israel Iran war: Thai ship hit in Strait of Hormuz was Gujarat-bound, confirms India; condemns attack - MSN |
+| 2026-04-23 08:30 | US | 拦截 | Iran | 待确认 | C | Watch F-15 vs Shahed duel: Viral video claims costly US jet struggling to intercept low-cost Iranian drone - MSN |
+| 2026-04-23 08:24 | Israel | 空袭 | Israel | 待确认 | C | Israeli airstrikes kill Journalist in Lebanon, Hezbollah targets Israeli artillery site - Daily Finland |
+| 2026-04-23 08:23 | US | 通报 | Iran | 待确认 | C | Troops or truce? Is the Iran–US conflict taking a new turn? Here’s what we know so far - MSN |
+| 2026-04-23 08:21 | US | 通报 | Iran | 命中 | C | US-Iran-Israel conflict hits Dubai nightlife: Footfall drops as war shakes West Asian travel hub - MSN |
+| 2026-04-23 08:06 | US | 通报 | Iran | 待确认 | C | Live updates: US citizens urged to leave Iran immediately - NewsNation |
+| 2026-04-23 08:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post |
+| 2026-04-23 07:53 | US | 通报 | Iran | 待确认 | C | Iran demands reparations from 5 Arab states over alleged role in 'US-Israeli aggression' - MSN |
+| 2026-04-23 07:51 | US | 通报 | Iran | 伤亡 | C | US-Israel-Iran war: UAE reveals identities of civilians killed in ongoing attacks - MSN |
+| 2026-04-23 07:50 | Israel | 通报 | Israel | 设施受损 | C | More than 50,000 Lebanese housing units damaged in Israel war - Free Malaysia Today |
+| 2026-04-23 07:49 | US | 通报 | Iran | 待确认 | C | US Israel-Iran war day 51: Strait of Hormuz tensions rise as Iran fires on tanker, talks continue - MSN |
+| 2026-04-23 07:48 | US | 通报 | Iran | 待确认 | C | Iran outlines 3 conditions to end war with US, Israel - MSN |
+| 2026-04-23 07:47 | US | 通报 | Iran | 待确认 | C | Iran shoots down second US F-35 fighter jet, says pilot survival unlikely - MSN |
+| 2026-04-23 07:46 | Israel | 通报 | Israel | 待确认 | C | Escalation in Israeli-Hezbollah conflict ahead of upcoming talks - MSN |
+| 2026-04-23 07:43 | Israel | 通报 | Iran | 待确认 | C | Israel–Iran war: Iran calls Trump’s move a ‘big mistake’, urges global push to halt conflict - MSN |
+| 2026-04-23 07:43 | Iran | 通报 | Iran | 待确认 | C | ‘They want it open,’ says Trump after Iran fires on more ships in strait. Follow live updates. - CTV News |
+| 2026-04-23 07:40 | Israel | 空袭 | Israel | 伤亡 | C | Michigan synagogue shooter’s brothers were Hezbollah members, fasting in Ramadan before being killed in Israeli strike - MSN |
+| 2026-04-23 07:38 | US | 通报 | Iran | 待确认 | C | Iran conducts attacks across the Middle East amid ongoing conflict with Israel and US - MSN |
+| 2026-04-23 07:38 | US | 空袭 | Iran | 待确认 | C | US-Israel-Iran war: Iranian strike in Oman claims lives of 2 Indians; big update from MEA - MSN |
+| 2026-04-23 07:36 | US | 通报 | Iran | 待确认 | C | Pakistan done playing peacemaker? May end up on US-Israel side vs Iran due to Saudi defence pact - MSN |
+| 2026-04-23 07:36 | US | 通报 | Iran | 待确认 | C | Gold price soars: US-Israel-Iran conflict drives gains / Investment strategy - MSN |
+| 2026-04-23 07:07 | Israel | 空袭 | Israel | 待确认 | C | Israeli strikes in southern Lebanon kill journalist - 香港電台新聞網 |
+| 2026-04-23 07:01 | Israel | 通报 | Israel | 待确认 | C | LIVE BLOG: Israel Kills Children in Beit Lahia, Journalist Slain in Lebanon – Day 54 - Palestine Chronicle |
+| 2026-04-23 06:59 | US | 通报 | Iran | 待确认 | C | Strait of Hormuz is hosting gunboat diplomacy as US and Iran vie for most effective blockade - The Guardian |
+| 2026-04-23 06:50 | US | 通报 | Iran | 命中 | C | US-Israel-Iran war highlights: Iran struck oil refinery in Kuwait; Trump called NATO 'cowards' - MSN |
+| 2026-04-23 06:49 | Israel | 空袭 | Israel | 伤亡 | C | Lebanese journalist Amal Khalil killed in Israeli strike on a house where she took cover, paper says - WKYC |
