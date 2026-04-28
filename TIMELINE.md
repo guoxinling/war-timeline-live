@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-04-27 21:43
+更新时间（北京时间）: 2026-04-28 10:34
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-04-27 21:16 | Israel | 通报 | Israel | 待确认 | C | Northern mayors say they will cancel school over Hezbollah attacks, despite IDF clearance - The Times of Israel |
-| 2026-04-27 21:15 | Iran | 通报 | Iran | 待确认 | C | Iran’s FM Araghchi calls his Islamabad visit ‘successful'’ after arriving in Russia - The Hindu |
-| 2026-04-27 21:13 | Israel | 通报 | Jerusalem | 待确认 | C | Hezbollah adopts advanced drone tactics from Ukraine war to counter Israel - The Jerusalem Post |
-| 2026-04-27 21:13 | US | 通报 | Iran | 待确认 | C | Germany's Merz says Iran is humiliating US as talks stall - Dunya News |
-| 2026-04-27 21:11 | Iran | 通报 | Iran | 待确认 | C | Iran to put Strait of Hormuz under ‘military control’ to block ‘hostile vessels’ - Mathrubhumi English |
-| 2026-04-27 21:07 | US | 通报 | Iran | 伤亡 | C | Have US-Iran talks failed? Why no deal yet doesn’t mean diplomacy is dead - Al Jazeera |
-| 2026-04-27 20:59 | Israel | 通报 | Israel | 待确认 | C | Hezbollah Ramps Up Operations As Israel Encounters Setbacks in Lebanon - تسنیم |
-| 2026-04-27 20:56 | US | 通报 | Iran | 待确认 | C | Iran said to offer US deal to reopen Hormuz, end war and put off nuclear talks - The Times of Israel |
-| 2026-04-27 20:53 | Israel | 通报 | Israel | 待确认 | C | What's at stake in Israel's elections? - RTE.ie |
-| 2026-04-27 20:50 | Israel | 空袭 | Israel | 待确认 | C | Israel expands fresh strikes against Hezbollah in southern Lebanon - Caliber.Az |
-| 2026-04-27 20:44 | Iran | 通报 | Iran | 待确认 | C | Iran War 2026- Live Updates: Iran offers new terms to reopen Strait of Hormuz, Axios reports - ARY News |
-| 2026-04-27 20:44 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post |
-| 2026-04-27 20:44 | US | 通报 | Iran | 待确认 | C | Iranian foreign minister in Russia for talks with Putin on US conflict - ITVX |
-| 2026-04-27 20:42 | Israel | 通报 | Israel | 待确认 | C | Explainer-Netanyahu’s rivals are joining forces. Would they shift Israel’s security policy? - Internazionale |
-| 2026-04-27 20:42 | Israel | 空袭 | Israel | 伤亡 | C | Israeli strikes in Lebanon kill 14 people, marking deadliest day since truce - Egypt Independent |
-| 2026-04-27 20:40 | US | 通报 | Iran | 待确认 | C | Iran Heads To Russia For Help on US War—Why? - Newsweek |
-| 2026-04-27 20:39 | US | 通报 | Tehran | 伤亡 | C | Germany’s Merz says US has 'no exit strategy' in Iran war, calls Tehran 'skilled negotiator' - Anadolu Ajansı |
-| 2026-04-27 20:36 | Israel | 发射 | Israel | 待确认 | C | Drone Attacks From Lebanon and Israeli Strikes Continue Despite Ceasefire; Aoun Calls Hezbollah ‘Traitors’ - The Media Line |
-| 2026-04-27 20:35 | US | 通报 | Iran | 待确认 | C | Despite major combat operations, Why Trump avoiding calling US, Israel-Iran conflict a ‘war’? - MSN |
-| 2026-04-27 20:34 | US | 通报 | Iran | 待确认 | C | Iran meet with Russia as US peace talks stall over Washington's 'excessive demands' - AOL.com |
-| 2026-04-27 20:31 | 未明确 | 通报 | Lebanon | 待确认 | C | Netanyahu's trial delayed once more over 'security meeting' on Lebanon - thecradle.co |
-| 2026-04-27 20:30 | US | 通报 | Iran | 待确认 | C | Opinion / An End To US-Iran War Is Hiding In Plain Sight - If They Can See It - NDTV |
-| 2026-04-27 20:30 | Israel | 通报 | Jerusalem | 设施受损 | C | IDF striking Hezbollah terror infrastructure in southern, eastern Lebanon - The Jerusalem Post |
-| 2026-04-27 20:23 | Israel | 空袭 | Israel | 待确认 | C | Israel expands strikes to Lebanon's Bekaa Valley despite ceasefire - Türkiye Today |
-| 2026-04-27 20:12 | Israel | 空袭 | Israel | 伤亡 | C | Hezbollah Says It Will Keep Weapons as Lebanon Says Israeli Strikes Killed 14 - The New York Times |
-| 2026-04-27 20:05 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Update: US Sends 3 Aircraft Carriers to Middle East in Largest Show of Force Since 2003 — What It Means for Iran? - The Sunday Guardian |
-| 2026-04-27 20:02 | 未明确 | 通报 | 未明确 | 待确认 | C | Trump Calls Off Witkoff and Kushner’s Travel to Pakistan for Peace Talks - The New York Times |
-| 2026-04-27 19:58 | Iran | 通报 | Iran | 待确认 | C | Iran's foreign minister travels to Pakistan and Russia after U.S. envoys' trip canceled - CBS News |
-| 2026-04-27 19:57 | Israel | 空袭 | Israel | 待确认 | C | Israeli strikes kill 14 in Lebanon despite ceasefire - Banglanews24 |
-| 2026-04-27 19:55 | Israel | 空袭 | Israel | 伤亡 | C | ‘Great Disaster’: Israeli Media Reveal Details of Hezbollah Drone Strike that Killed Soldier - Palestine Chronicle |
-| 2026-04-27 19:55 | US | 通报 | Iran | 命中 | C | US-Iran-Israel conflict hits Dubai nightlife: Footfall drops as war shakes West Asian travel hub - MSN |
-| 2026-04-27 19:52 | US | 通报 | Iran | 待确认 | C | Iran offers to reopen Strait of Hormuz if US lifts blockade - Telangana Today |
-| 2026-04-27 19:52 | Israel | 通报 | Israel | 待确认 | C | Israeli military says striking Hezbollah in Bekaa valley - Al Arabiya English |
-| 2026-04-27 19:51 | Israel | 通报 | Israel | 待确认 | C | Israel says striking 'Hezbollah sites' in south and Bekaa - Naharnet |
-| 2026-04-27 19:50 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran conflict: War crime or act of war? Decoding the legal fallout of the IRIS Dena sinking - MSN |
-| 2026-04-27 19:47 | Israel | 空袭 | Israel | 待确认 | C | IDF strikes Hezbollah sites in Beqaa Valley for first time in 3 weeks - The Times of Israel |
-| 2026-04-27 19:40 | Israel | 发射 | Israel | 待确认 | C | Israel and Lebanon agree to peace talks after IDF launch heaviest strikes against Hezbollah - MSN |
-| 2026-04-27 19:40 | US | 通报 | Iran | 待确认 | C | Live blog - US-Israeli war on Iran - TRT World |
-| 2026-04-27 19:35 | US | 通报 | Iran | 待确认 | C | US blockade: No Iranian ship allowed to cross Strait of Hormuz in last three days, 10 sent back - MSN |
-| 2026-04-27 19:33 | Iran | 通报 | Iran | 待确认 | C | Sheikh Qassem: Lebanon truce impossible without Iran’s push in Islamabad talks - PressTV |
+| 2026-04-28 10:28 | Iran | 通报 | Iran | 待确认 | C | Iran proposes reopening Strait of Hormuz, delaying nuclear talks: Report - Anadolu Ajansı |
+| 2026-04-28 10:03 | Israel | 通报 | Israel | 待确认 | C | Lebanese president accuses Hezbollah of betrayal, rejects ‘humiliating deal’ with Israel - chinadailyasia.com |
+| 2026-04-28 10:01 | US | 通报 | Iran | 待确认 | C | Trump not happy with latest Iran proposal to end the war, US official says - Reuters |
+| 2026-04-28 09:57 | US | 通报 | Iran | 待确认 | C | US warship blocks crude oil tanker from sailing to Iranian port: Central Command - Anadolu Ajansı |
+| 2026-04-28 09:46 | Iran | 通报 | Tehran | 待确认 | C | Putin praises Iranian ‘courage’ as Tehran’s foreign minister visits Russia - Al Jazeera |
+| 2026-04-28 09:26 | US | 通报 | Iran | 待确认 | C | Iran live updates: US being 'humiliated' by Iran, German chancellor says - AOL.com |
+| 2026-04-28 08:58 | Israel | 通报 | Israel | 命中 | C | Hezbollah says it hit Israeli tank, bulldozer in southern Lebanon - Anadolu Ajansı |
+| 2026-04-28 08:39 | US | 通报 | Iran | 待确认 | C | Don't want to get involved in any war - Union Home Minister Amit Shah clears India’s stance in US-Israel-Iran conflict / Times Now Summit 2026 - MSN |
+| 2026-04-28 08:30 | US | 通报 | Iran | 待确认 | C | Iranian Group Submits Evidence of US-Israeli War Crimes to International Criminal Court - NewsGram |
+| 2026-04-28 08:18 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran conflict clouds Middle East capital markets, disrupts China-Gulf investment flows - DETAILS - MSN |
+| 2026-04-28 08:16 | US | 通报 | Iran | 待确认 | C | 'Iran was no threat, Israel forced US into conflict': Former US counterterrorism chief Joe Kent - MSN |
+| 2026-04-28 08:15 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran conflict: War crime or act of war? Decoding the legal fallout of the IRIS Dena sinking - MSN |
+| 2026-04-28 08:12 | Israel | 空袭 | Israel | 伤亡 | C | Israeli strikes result in child casualties in Lebanon amid ongoing conflict with Hezbollah - MSN |
+| 2026-04-28 08:11 | Israel | 通报 | Israel | 待确认 | C | IDF restricts gatherings in northern Israel as Hezbollah attacks escalate - AOL.com |
+| 2026-04-28 08:03 | Iran | 通报 | Iran | 待确认 | C | Iran offers to reopen Strait of Hormuz if U.S. lifts its blockade and the war ends, officials say - The Tribune-Democrat |
+| 2026-04-28 07:49 | Israel | 通报 | Israel | 待确认 | C | Hezbollah rejects direct Lebanon-Israel talks - Daily Finland |
+| 2026-04-28 07:20 | Hezbollah | 通报 | 未明确 | 待确认 | C | Netanyahu says about to 'eliminate great stronghold' of Hezbollah In Bint Jbeil - MSN |
+| 2026-04-28 07:17 | Israel | 发射 | Israel | 命中 | C | Hezbollah Launches New Missile Strike, Drone Hits near Israeli Helicopter - اسلام تايمز |
+| 2026-04-28 07:00 | US | 通报 | Iran | 待确认 | C | Iran peace deal prospects dim as US-Israel conflict continues - Crypto Briefing |
+| 2026-04-28 06:39 | US | 通报 | Iran | 待确认 | C | Iran shoots down second US F-35 fighter jet, says pilot survival unlikely - MSN |
+| 2026-04-28 06:30 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran war: Washington turns back 10 vessels in Hormuz naval blockade - MSN |
+| 2026-04-28 06:22 | Israel | 通报 | Israel | 待确认 | C | Escalating conflict between Israel and Hezbollah: A comprehensive overview - MSN |
+| 2026-04-28 06:15 | US | 通报 | Iran | 待确认 | C | Iran, US clash at UN over Strait of Hormuz closure - ایران اینترنشنال |
+| 2026-04-28 06:11 | US | 空袭 | Iran | 命中 | C | Five US refuelling planes struck by Iran strikes at Saudi Arabia's Prince Sultan Air Base: Report - MSN |
+| 2026-04-28 06:00 | Iran | 通报 | Iran | 待确认 | C | Bahrain strips 69 people of citizenship over Iran support - Al Jazeera |
+| 2026-04-28 05:57 | Israel | 通报 | Israel | 待确认 | C | Israel and Hezbollah engage in intense fighting in southern Lebanon - MSN |
+| 2026-04-28 05:56 | Israel | 空袭 | Israel | 待确认 | C | Israeli strikes continue in southern Lebanon following diplomatic talks - MSN |
+| 2026-04-28 05:55 | US | 通报 | Iran | 待确认 | C | Trump provides ambiguous outlook on US strategy in Iran conflict - MSN |
+| 2026-04-28 05:51 | US | 通报 | Iran | 待确认 | C | Iran's president vows resistance amid escalating conflict with Israel and US - MSN |
+| 2026-04-28 05:30 | US | 通报 | Iran | 待确认 | C | More Tankers Come Under Attack as US-Iran Conflict Spreads in the Region - EnergyNow |
+| 2026-04-28 05:29 | Israel | 发射 | Iran | 待确认 | C | Israel targeted with over 100 rockets in Iran-Hezbollah joint strike - MSN |
+| 2026-04-28 05:24 | US | 通报 | Iran | 待确认 | C | Centre invokes Essential Commodities Act to regulate gas supply as Iran and US-Israel conflict rages on - MSN |
+| 2026-04-28 05:19 | US | 通报 | Iran | 待确认 | C | Iran FM Araghchi says US-Israel war discussed in detail with Putin in Moscow meeting - Moneycontrol.com |
+| 2026-04-28 05:11 | US | 通报 | Iran | 待确认 | C | Bad omen for Iran? CENTCOM video shows B-2 bombers taking off on Friday the 13th before Kharg Island attack / WATCH - MSN |
+| 2026-04-28 05:02 | US | 通报 | Iran | 待确认 | C | Trump asserts US can secure Strait of Hormuz without allies amid ongoing conflict with Iran - MSN |
+| 2026-04-28 04:59 | US | 通报 | Iran | 待确认 | C | The Iranian-American Conflict and The Citizens Divided - The Irvington Voice |
+| 2026-04-28 04:57 | Iran | 通报 | Iran | 待确认 | C | Trump talks with aides on Iran's proposal to end war stalemate - CBC |
+| 2026-04-28 04:51 | US | 通报 | Iran | 待确认 | C | Iran-Israel-US conflict disrupts cloud infra, exposes global digital vulnerabilities - MSN |
+| 2026-04-28 04:50 | Israel | 空袭 | Israel | 伤亡 | C | Hezbollah drone strike caught on camera as Israeli soldier killed in Lebanon - Dailyhunt |
+| 2026-04-28 04:46 | Israel | 空袭 | Israel | 待确认 | C | IDF strikes around 20 Hezbollah targets today in south Lebanon, Beqaa Valley, says military - The Times of Israel |
