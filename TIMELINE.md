@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-05-05 10:26
+更新时间（北京时间）: 2026-05-06 10:29
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-05-05 10:08 | US | 通报 | Jerusalem | 待确认 | C | US Navy escorts Maersk ship through Strait of Hormuz - The Jerusalem Post |
-| 2026-05-05 09:14 | US | 发射 | Iran | 待确认 | C | US Destroys 6 Iranian Small Boats, Shoots Down Missiles And Drones - NDTV |
-| 2026-05-05 08:11 | US | 通报 | Iran | 待确认 | C | Iran no further to nuclear weapon than it was before war, US intel agencies assess - The Times of Israel |
-| 2026-05-05 08:09 | US | 通报 | Iran | 待确认 | C | Iran-Israel-US war live updates: Trump may visit Pakistan if Iran deal is signed - MSN |
-| 2026-05-05 08:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and Middle East - The Jerusalem Post |
-| 2026-05-05 07:59 | Israel | 通报 | Iran | 待确认 | C | The Iran–U.S./Israel Conflict One Month After Its Outbreak: The Logic Of Controlled Escalation And Systemic Risk – Analysis - Eurasia Review |
-| 2026-05-05 07:59 | US | 通报 | Iran | 设施受损 | C | War with Iran: At least 16 US sites damaged across Middle East - Anadolu Ajansı |
-| 2026-05-05 07:47 | US | 通报 | Iran | 待确认 | C | Iran restarts attacks on UAE as US fights to restore traffic in Strait of Hormuz - The Times of Israel |
-| 2026-05-05 07:34 | Israel | 空袭 | Israel | 待确认 | C | Israel strikes Lebanon after Trump announces ceasefire extension - AOL.com |
-| 2026-05-05 07:23 | Iran | 通报 | Iran | 待确认 | C | U.A.E. says Iran has resumed attacks as U.S. moves to reopen Strait of Hormuz - CBC |
-| 2026-05-05 07:03 | Iran | 通报 | Iran | 待确认 | C | Asia battles rising, uneven toll of energy crisis caused by Iran war - Reuters |
-| 2026-05-05 06:55 | Israel | 通报 | Israel | 待确认 | C | Lebanese president says security deal with Israel must come before Netanyahu meeting - The Straits Times |
-| 2026-05-05 06:26 | Israel | 通报 | Israel | 待确认 | C | No ceasefire in Lebanon as Israeli attacks continue: Hezbollah chief - Qatar Tribune |
-| 2026-05-05 06:04 | US | 通报 | Iran | 待确认 | C | US prepping Iran attack again? 6,500-tonne munitions sent to Israel in 24 hours - MSN |
-| 2026-05-05 05:49 | US | 通报 | Israel | 待确认 | C | IMF warns prolonged Israeli-US war could worsen global growth outlook - Middle East Eye |
-| 2026-05-05 05:44 | Israel | 通报 | Israel | 待确认 | C | Casualty cover-up: Hezbollah suffered massive losses during war with Israel - World Israel News |
-| 2026-05-05 05:37 | US | 空袭 | Iran | 待确认 | C | Escalating conflict: US.-Israeli strikes on Iran continue following Khamenei's death - MSN |
-| 2026-05-05 05:35 | Iran | 通报 | Iran | 待确认 | C | Takeaways From Hegseth’s Second Day of Testimony on the Iran War - The New York Times |
-| 2026-05-05 05:33 | Iran | 通报 | Iran | 待确认 | C | China Seeks an Advantage With Both Trump and Iran as War Evolves - The New York Times |
-| 2026-05-05 05:24 | US | 通报 | Iran | 待确认 | C | Netanyahu got his war on Iran, says Obama, but doubts if outcome will be good for Israel and US - TRT World |
-| 2026-05-05 05:11 | Iran | 通报 | Iran | 待确认 | C | Hormuz tensions push ceasefire to the brink as Trump threatens Iran - Al Jazeera |
-| 2026-05-05 05:10 | US | 通报 | Iran | 伤亡 | C | 44 Iranian seafarers killed amid US-Israeli conflict escalation - Crypto Briefing |
-| 2026-05-05 05:06 | Israel | 通报 | Israel | 待确认 | C | Israel's Military Supremacy Has Become a Trap, Not a Solution - Haaretz |
-| 2026-05-05 05:04 | US | 发射 | Iran | 待确认 | C | US, Israel weigh strikes on Iranian missile launchers and energy sites after UAE attack - www.israelhayom.com |
-| 2026-05-05 04:43 | US | 通报 | Iran | 待确认 | C | Bennett: Iran’s attacks on UAE mean it is resuming war against allies of US, Israel - The Times of Israel |
-| 2026-05-05 04:37 | US | 通报 | Iran | 待确认 | C | Israel on high alert as Iranian regime opens fire on UAE after US navy guides ships thru Hormuz Strait - All Israel News |
-| 2026-05-05 04:20 | Iran | 发射 | Iran | 待确认 | C | UAE shoots down Iranian missiles for first time since ceasefire — as it happened - The Times |
-| 2026-05-05 04:16 | Iran | 发射 | Iran | 待确认 | C | Iran war: UAE reports first missile, drone attacks in weeks - DW.com |
-| 2026-05-05 04:10 | Israel | 空袭 | Israel | 伤亡 | C | Hezbollah ESCALATES DRONE WAR / Deadly Qantara STRIKE Kills Israeli Soldier - Mid-day |
-| 2026-05-05 03:58 | 未明确 | 通报 | Lebanon | 待确认 | C | Lebanon’s Aoun rules out Netanyahu meeting before security agreement - Türkiye Today |
-| 2026-05-05 03:50 | Israel | 通报 | Israel | 待确认 | C | Israel kills 15+ in 24 hours in Lebanon, Hezbollah reports 12 attacks - شفق نيوز |
-| 2026-05-05 03:42 | Israel | 空袭 | Israel | 待确认 | C | Israel strikes in southern Lebanon kill 10 people as a Hezbollah drone wounds 2 Israeli soldiers - WFMZ.com |
-| 2026-05-05 03:38 | US | 发射 | Iran | 待确认 | C | US-Iran War Live: Schools shift to remote learning after Iran launches new strikes against UAE - India Today |
-| 2026-05-05 03:36 | US | 通报 | Iran | 命中 | C | West Asia conflict: Israel prepares to hit Iranian oil and energy sites; awaits green signal from US - report - MSN |
-| 2026-05-05 03:34 | US | 发射 | Iran | 待确认 | C | Israel on high alert after US intercepts Iranian missiles, says military official; UAE calls Iranian attacks a 'dangerous escalation' / LIVE - L'Orient Today |
-| 2026-05-05 03:30 | Israel | 通报 | Iran | 待确认 | C | KDF gets Sh6bn Israel loan for air defence amid Iran war - Business Daily |
-| 2026-05-05 03:13 | US | 通报 | Iran | 待确认 | C | Iran confirms it is reviewing US proposal to end war - Anadolu Ajansı |
-| 2026-05-05 03:10 | 未明确 | 通报 | 未明确 | 待确认 | C | The Road Ahead in the Middle East - Middle East Forum |
-| 2026-05-05 03:05 | Iran | 通报 | Iran | 伤亡 | C | How many people have been killed in the Iran war? - DD News |
-| 2026-05-05 02:50 | US | 通报 | Iran | 待确认 | C | Yemen’s Houthis enter Iran war with attacks on Israel, while US Marines arrive in region - DD News |
+| 2026-05-06 09:51 | Iran | 通报 | Iran | 待确认 | C | Trump Says U.S. Pausing Efforts to Guide Ships Through Strait Blocked by Iran - The New York Times |
+| 2026-05-06 09:51 | US | 通报 | 未明确 | 待确认 | C | US pauses Hormuz escorts in bid for deal, as threats continue - ABS-CBN |
+| 2026-05-06 09:48 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and Middle East - The Jerusalem Post |
+| 2026-05-06 09:35 | 未明确 | 通报 | 未明确 | 待确认 | C | How the Strait of Hormuz Has Become a Weapon of War - Bloomberg.com |
+| 2026-05-06 09:30 | Iran | 通报 | Iran | 待确认 | C | Rachel Reeves and Scott Bessent argued in person about Iran war, sources say - The Guardian |
+| 2026-05-06 09:24 | Iran | 通报 | Iran | 待确认 | C | Strait Of Hormuz Tensions Ease Slightly As Trump Signals Pause In Naval Escorts, Progress With Iran - ABP News |
+| 2026-05-06 08:56 | US | 通报 | Iran | 待确认 | C | US claims Iran ceasefire intact despite escalating Gulf clashes - Muslim Network TV |
+| 2026-05-06 08:51 | Iran | 通报 | Iran | 待确认 | C | Trump says great progress in agreement with Iran, suspends Project Freedom - Business Standard |
+| 2026-05-06 08:48 | 未明确 | 通报 | 未明确 | 待确认 | C | Trump says 'Project Freedom' to be paused 'for a short period of time' - BBC |
+| 2026-05-06 08:45 | US | 通报 | Iran | 命中 | C | ISRAELIRANWAR. The Freedom Project destabilizes Iran-US-Israel negotiations. Ships and oil facilities off the coast of the UAE have been hit by Iran. Southern Lebanon is under ongoing attack. - agc communication news |
+| 2026-05-06 07:39 | Iran | 通报 | Iran | 待确认 | C | Trump says pausing Hormuz operation in push for Iran deal - Free Malaysia Today |
+| 2026-05-06 07:04 | US | 通报 | 未明确 | 命中 | C | US pushes UN resolution on Hormuz as ship hit in strait - شفق نيوز |
+| 2026-05-06 06:53 | Israel | 空袭 | Israel | 命中 | C | Hezbollah says it struck Israeli vehicles as raids hit south Lebanon - Middle East Eye |
+| 2026-05-06 06:51 | Iran | 通报 | Iran | 待确认 | C | Rubio says major military operations against Iran are over - The Korea Times |
+| 2026-05-06 06:49 | Israel | 空袭 | Israel | 命中 | C | 🇮🇱🇱🇧 New footage: Hezbollah hit three Israeli soldiers with an FPV drone strike. Every army that ignored these drones is paying for it now. - x.com |
+| 2026-05-06 06:45 | Israel | 空袭 | Israel | 命中 | C | Israeli AirStrikes Hit Multiple Sites in Southern Lebanon, Several Dead and Injured - News On AIR |
+| 2026-05-06 06:27 | Israel | 通报 | Iran | 待确认 | C | LIVE BLOG: Hezbollah Escalates Attacks as Israeli Pressure Pushes UAE toward War on Iran - Day 67 - Palestine Chronicle |
+| 2026-05-06 05:56 | Israel | 通报 | Iran | 待确认 | C | Israel ready to deploy ‘entire air force’ against Iran if needed: New chief - The Straits Times |
+| 2026-05-06 05:42 | Iran | 通报 | Iran | 待确认 | C | Trump Looks for a Silver Bullet to End the Iran War. There May Be None. - The New York Times |
+| 2026-05-06 05:22 | Israel | 通报 | Israel | 待确认 | C | 'Nothing will bring back my son': How 10 minutes of bombing by Israel shattered lives in Lebanon - BBC |
+| 2026-05-06 05:21 | Israel | 通报 | Israel | 待确认 | C | Rubio says Israel-Lebanon peace deal is achievable but Hezbollah is a problem - The Detroit News |
+| 2026-05-06 05:18 | Israel | 空袭 | Israel | 伤亡 | C | 4 killed in Israeli strikes in southern Lebanon despite ceasefire - Anadolu Ajansı |
+| 2026-05-06 05:10 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran war latest news: Trump rejects proposal to reopen Strait of Hormuz, nuclear talks delayed amid recent US-Iran peace talks - MSN |
+| 2026-05-06 04:49 | US | 通报 | 未明确 | 待确认 | C | US Army says ‘Project Freedom’ in blockaded Hormuz has ‘just begun’ - Al Jazeera |
+| 2026-05-06 04:45 | US | 通报 | Iran | 待确认 | C | Rubio says US completed offensive stage of Iran war / Daily Sabah - Daily Sabah |
+| 2026-05-06 04:37 | Israel | 通报 | Iran | 待确认 | C | Iran Warns UAE: Supporting Israel Will Equate to Targeting Strategic Interests - elciudadano.com |
+| 2026-05-06 04:30 | US | 空袭 | Iran | 待确认 | C | US-Israel-Iran War Latest Update: Iran Denies UAE Strike Claims, Hezbollah Escalates Attacks in Lebanon Amid Strait of Hormuz Crisis - The Sunday Guardian |
+| 2026-05-06 04:22 | Israel | 通报 | Israel | 待确认 | C | Path to Peace: Navigating the Israel-Lebanon Conflict Amid Hezbollah's Shadow - Devdiscourse |
+| 2026-05-06 04:06 | Israel | 通报 | Israel | 待确认 | C | Democrat lawmakers urge Trump to publicly recognize Israel's nuclear arsenal - Haaretz |
+| 2026-05-06 04:01 | Iran | 通报 | Iran | 待确认 | C | UAE comes under Iranian attacks for second consecutive day: Ministry - Al Jazeera |
+| 2026-05-06 03:47 | Israel | 通报 | Iran | 待确认 | C | Iran denies attack claims on UAE; Israel 'prepared to respond with force' amid rising tensions - WION |
+| 2026-05-06 03:45 | Iran | 通报 | Iran | 待确认 | C | Trump dismisses China friction over Iran war, touts Xi ties before summit - South China Morning Post |
+| 2026-05-06 03:44 | Israel | 通报 | Iran | 待确认 | C | How the Iran war affects Israeli actions in the Gaza Strip - JNS.org |
+| 2026-05-06 03:32 | 未明确 | 通报 | 未明确 | 待确认 | C | Latest Mumbai News / India news / Entertainment News / Latest News in Mumbai, Headlines, Live Updates and Coverage - Mid-day |
+| 2026-05-06 03:26 | Iran | 通报 | Iran | 待确认 | C | Colorado Rep. Jason Crow introduces war powers resolution to end Iran war - Denver7 |
+| 2026-05-06 03:11 | US | 通报 | Iran | 待确认 | C | US-Iran truce teeters on meltdown as stalemate takes toll on each side - The Guardian |
+| 2026-05-06 03:06 | Israel | 通报 | Iran | 待确认 | C | Draft UN resolution threatens sanctions on Iran unless it opens Strait of Hormuz - The Times of Israel |
+| 2026-05-06 02:59 | US | 通报 | Iran | 待确认 | C | Iran warns vessels in Hormuz while US boosts military posture - شفق نيوز |
+| 2026-05-06 02:47 | Iran | 通报 | Iran | 命中 | C | Centre Announces Rs 18,000-Crore Scheme For Airlines, MSMEs Hit By Iran War - NDTV |
+| 2026-05-06 02:43 | Israel | 通报 | 未明确 | 待确认 | C | Operation Roaring Lion: Hezbollah’s FPV campaign against the IDF - Calibre Defence |
