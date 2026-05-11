@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-05-10 21:09
+更新时间（北京时间）: 2026-05-11 10:45
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-05-10 21:07 | US | 通报 | Iran | 待确认 | C | War latest news. Media: Iran sent response to US peace proposal - Il Sole 24 ORE |
-| 2026-05-10 20:59 | Israel | 通报 | Israel | 待确认 | C | 🚨 Israel Secretly Built a Military Base Inside Iraq — Then Bombed Iraqi Troops Who Found It. America Supported the Whole Thing. - thenorthstar.com |
-| 2026-05-10 20:55 | US | 通报 | Iran | 待确认 | C | Iranian forces 'fully prepared' for any US-Israeli action, top commander tells Supreme Leader Khamenei - Dunya News |
-| 2026-05-10 20:45 | US | 通报 | Iran | 待确认 | C | Trump says he may move US troops from Italy amid rift with Meloni over Iran war - Firstpost |
-| 2026-05-10 20:38 | US | 通报 | Iran | 待确认 | C | Qatari premier, Iran FM discuss regional tensions amid US conflict - Yeni Safak English |
-| 2026-05-10 20:37 | Israel | 通报 | Iran | 待确认 | C | Ex-Knesset speaker: Israel failed in Gaza, Lebanon, Iran wars - The New Arab |
-| 2026-05-10 20:25 | Israel | 空袭 | Israel | 待确认 | C | Israel Intensifies Lebanon Strikes Despite Ceasefire, Hezbollah Responds - The Daily Star Lebanon |
-| 2026-05-10 20:20 | US | 发射 | Iran | 待确认 | C | US-Iran ceasefire under strain as Gulf states report drone attacks - Al Jazeera |
-| 2026-05-10 20:15 | Israel | 通报 | Israel | 待确认 | C | BBC News Continues to Sideline Hezbollah Attacks On Israel - camera.org |
-| 2026-05-10 20:13 | US | 通报 | Iran | 待确认 | C | Qatari premier, Iran’s foreign minister discuss regional tensions as conflict with US continues - Anadolu Ajansı |
-| 2026-05-10 20:02 | US | 通报 | Tehran | 待确认 | C | Iran threatens 'decisive' blow on US as Tehran brands American fighters 'terrorists' - AOL.com |
-| 2026-05-10 19:59 | US | 通报 | Iran | 待确认 | C | Mojtaba Khamenei Issues 'New Guidelines' On War To Iranian Army Chief For 'Swift, Decisive' Response To US, Israel - The Daily Jagran |
-| 2026-05-10 19:58 | Israel | 空袭 | Israel | 伤亡 | C | Lebanon says two Hezbollah-linked paramedics killed by Israeli strikes in south - The Times of Israel |
-| 2026-05-10 19:56 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: Mojtaba Khamenei Issues New Military Guidelines, IRGC Warns of Heavy Retaliation Amid Rising Tensions - The Sunday Guardian |
-| 2026-05-10 19:39 | 未明确 | 通报 | 未明确 | 待确认 | C | Graphic: Track U.S., state and county gas prices - NBC News |
-| 2026-05-10 19:13 | US | 通报 | Tehran | 待确认 | C | Iran war day 72: Tehran yet to reply to US plan; Israel bombs Lebanon - Al Jazeera |
-| 2026-05-10 19:02 | US | 通报 | Iran | 待确认 | C | How Lebanon and Gaza complicate Iran-Israel-US diplomacy - MSN |
-| 2026-05-10 18:50 | Israel | 空袭 | Israel | 待确认 | C | Israeli strikes kill 36 in Lebanon in last day, despite truce - The New Arab |
-| 2026-05-10 18:49 | US | 通报 | Iran | 待确认 | C | Qatar calls on parties to respond to Pakistan-led mediation efforts to end US-Iran conflict - Anadolu Ajansı |
-| 2026-05-10 18:39 | Iran | 通报 | Iran | 待确认 | C | Iran military warns of ‘surprising’ methods of warfare if attacked again - Al Jazeera |
-| 2026-05-10 18:36 | Israel | 空袭 | Israel | 待确认 | C | Israeli Strikes in Lebanon Kill 39 Amid Continued Clashes With Hezbollah - Daily Pioneer |
-| 2026-05-10 18:33 | Iran | 发射 | Iran | 待确认 | C | Iran war: Ceasefire tested by ship fire, drone attack - DW.com |
-| 2026-05-10 18:32 | Israel | 空袭 | Israel | 伤亡 | C | Senior Hezbollah elite commander killed in Israeli strike on Beirut — report - TRT World |
-| 2026-05-10 18:31 | Israel | 通报 | Iran | 待确认 | C | Putin drops 1st bomb after Victory Day: Israel & Iran's enemy caught off-guard amid ceasefire twist? / Videos - Hindustan Times |
-| 2026-05-10 18:30 | US | 通报 | Tehran | 待确认 | C | Tehran issues new threats against American interests in Persian Gulf following recent attacks - All Israel News |
-| 2026-05-10 18:26 | Israel | 通报 | Israel | 待确认 | C | Look: Israel is applying the Gaza model in Lebanon, flattening homes, villages - Khaleej Times |
-| 2026-05-10 18:20 | Israel | 发射 | Israel | 待确认 | C | Israeli forces strike Hezbollah launchers in Lebanon - MSN |
-| 2026-05-10 18:16 | Israel | 通报 | Israel | 待确认 | C | Hezbollah says it targeted troops in northern Israel with drones - MSN |
-| 2026-05-10 18:14 | Israel | 通报 | Iran | 待确认 | C | Israel Built Secret Military Base In Iraq During Iran War, WSJ Reports - Khaama Press |
-| 2026-05-10 18:01 | US | 通报 | Iran | 待确认 | C | Why war on Iran may be ‘accelerating end of US hegemony’ and damaging Stargate - South China Morning Post |
-| 2026-05-10 17:59 | US | 通报 | Iran | 待确认 | C | Iran says ‘clock is ticking’ for US interests amid Hormuz tensions - The Siasat Daily |
-| 2026-05-10 17:56 | US | 空袭 | Iran | 待确认 | C | US-Israel-Iran war latest updates: Iran threatens US bases after tanker strikes as Gulf tensions escalate - MSN |
-| 2026-05-10 17:56 | US | 通报 | Iran | 待确认 | C | United Arab Emirates Joins US, Saudi Arabia, Qatar, Kuwait, Bahrain, And Israel In Travel Edge As Iran Unleashes Its Fiercest Warning Yet, Threatening Catastrophic Consequences For Any Further Interference In Gulf Security - Travel And Tour World |
-| 2026-05-10 17:53 | Israel | 撤离 | Israel | 待确认 | C | Israel army issues evacuation warning for nine south Lebanon villages - MSN |
-| 2026-05-10 17:53 | Israel | 拦截 | Iran | 待确认 | C | Israel built, defended secret base in Iraq for war against Iran: Report - The Times of India |
-| 2026-05-10 17:50 | 未明确 | 通报 | 未明确 | 待确认 | C | Lessons from the new world order: Security cannot be bought, it must be built - TRT World |
-| 2026-05-10 17:45 | Israel | 通报 | Israel | 伤亡 | C | At least 9 killed as Israel pounds Lebanon despite truce - Arab News |
-| 2026-05-10 17:44 | Israel | 通报 | Iran | 待确认 | C | Israel Built Secret Iraq Base to Support Iran War Operations, Report Claims - pragativadi.com |
-| 2026-05-10 17:33 | US | 通报 | Iran | 待确认 | C | US Isreal Iran War Latest News: Global Oil Supply at Risk as Strait of Hormuz Sees Renewed Clashes and Ceasefire Pressure - The Sunday Guardian |
-| 2026-05-10 17:28 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran war live news updates: US fires on and disables two more Iranian tankers - MSN |
+| 2026-05-11 10:30 | US | 通报 | Iran | 待确认 | C | Iran responds to US ceasefire proposal but Trump rejects it as 'unacceptable' - Times West Virginian |
+| 2026-05-11 10:28 | US | 通报 | Iran | 待确认 | C | 'Unacceptable': Trump rejects Iran's response to US peace proposal - Onmanorama |
+| 2026-05-11 10:26 | Iran | 通报 | Iran | 待确认 | C | ‘Compensation for war damages’: Iran sets terms for ending conflict, reports say - The Indian Express |
+| 2026-05-11 10:13 | US | 通报 | Israel | 待确认 | C | Netanyahu wants to wean Israel off American military support, he tells US media - The Business Times |
+| 2026-05-11 10:03 | Israel | 通报 | Iran | 待确认 | C | Israel-Iran Conflict: Netanyahu Vows to Continue War - english.punjabkesari.com |
+| 2026-05-11 09:57 | US | 通报 | Iran | 待确认 | C | Trump rejects Iran’s ‘unacceptable’ response to US peace plan - The Times |
+| 2026-05-11 09:38 | Iran | 通报 | Iran | 待确认 | C | President Calls Iran’s Response to Peace Proposal ‘Unacceptable’ - The New York Times |
+| 2026-05-11 09:22 | Israel | 通报 | Iran | 待确认 | C | Iran war 'not over,' uranium must be removed: Israel's Netanyahu - The New Indian Express |
+| 2026-05-11 09:18 | US | 通报 | Iran | 待确认 | C | Iran-Israel-US war live updates: Trump may visit Pakistan if Iran deal is signed - MSN |
+| 2026-05-11 09:17 | US | 通报 | Iran | 待确认 | C | US munitions ‘shockingly’ depleted by Iran war, US Senator warns - PressTV |
+| 2026-05-11 09:16 | US | 通报 | Iran | 待确认 | C | US, Israel-Iran conflict: Jaishankar flags need to protect Indian merchant mariners amid attacks on global shipping - MSN |
+| 2026-05-11 09:06 | Iran | 通报 | Iran | 待确认 | C | Netanyahu: Iran War 'Not Over,' Nuclear Sites Need Dismantled - Newsmax |
+| 2026-05-11 08:58 | Israel | 空袭 | Israel | 待确认 | C | Hezbollah claims FPV drone strike on Israeli Iron Dome battery - Українські Національні Новини (УНН) |
+| 2026-05-11 08:55 | Iran | 通报 | Iran | 待确认 | C | Iran ‘playing games for 47 years’ says Trump; then rejects ceasefire reply as ‘totally unacceptable’ - Mathrubhumi English |
+| 2026-05-11 08:54 | Israel | 发射 | Israel | 待确认 | C | Hezbollah says it launched 24 attacks against Israeli army in southern Lebanon - Anadolu Ajansı |
+| 2026-05-11 08:53 | Israel | 发射 | Israel | 待确认 | C | Israel-Lebanon ceasefire on the brink: fresh strikes and rocket fire threaten to drag them back to war - Gulf News |
+| 2026-05-11 08:52 | US | 通报 | Iran | 待确认 | C | Iran responds to US ceasefire proposal but Trump rejects it as unacceptable - Business Standard |
+| 2026-05-11 08:48 | US | 通报 | Israel | 待确认 | C | UPDATE 1-Netanyahu wants to wean Israel off US military support, he tells CBS - Devdiscourse |
+| 2026-05-11 08:48 | Iran | 通报 | Iran | 待确认 | C | Trump Says Iran’s Response to Latest U.S. Proposal ‘Totally Unacceptable’ - The New York Times |
+| 2026-05-11 08:48 | US | 通报 | Israel | 待确认 | C | Netanyahu wants to wean Israel off US military support, he tells CBS - Internazionale |
+| 2026-05-11 08:46 | Iran | 通报 | Tehran | 待确认 | C | Trump, Tehran and a Qatari tanker transit: here’s what happened overnight - South China Morning Post |
+| 2026-05-11 08:43 | Iran | 通报 | Iran | 待确认 | C | Trump approval sinks to new low as war with Iran drives cost-of-living concerns - MSN |
+| 2026-05-11 08:43 | US | 发射 | Iran | 待确认 | C | US-Israel-Iran war latest news: UAE responds to Iranian missile and drone attacks amid rising Middle East tensions - MSN |
+| 2026-05-11 08:41 | US | 空袭 | Iran | 待确认 | C | US-Israel-Iran war latest updates: Iran threatens US bases after tanker strikes as Gulf tensions escalate - MSN |
+| 2026-05-11 08:39 | Iran | 通报 | Iran | 待确认 | C | Trump and Netanyahu Say Iran War Is Not Over - The New York Times |
+| 2026-05-11 08:37 | Iran | 通报 | Iran | 待确认 | C | Netanyahu on Iran regime change: 'Trump and I knew there was uncertainty and risk' - ynetnews |
+| 2026-05-11 08:00 | Israel | 通报 | Iran | 待确认 | C | Israel Iran War Live Updates: Trump rejects Iran’s response to peace proposal as fears of escalation mount - Firstpost |
+| 2026-05-11 08:00 | Israel | 通报 | Israel | 待确认 | C | Israel’s election may end the Netanyahu era but not the ‘forever wars’ - South China Morning Post |
+| 2026-05-11 08:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and Middle East - The Jerusalem Post |
+| 2026-05-11 07:52 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran war live news updates: US, Iran reportedly reach agreement to reopen Strait of Hormuz 'gradually' - MSN |
+| 2026-05-11 07:51 | Iran | 通报 | Tehran | 待确认 | C | Oil climbs as Netanyahu warns Iran conflict is ‘not over,’ Trump rejects Tehran's proposal to end war - CNBC |
+| 2026-05-11 07:45 | Iran | 通报 | Iran | 待确认 | C | Trump news at a glance: Trump wants to ‘go in’ to Iran to secure nuclear material, Netanyahu claims - The Guardian |
+| 2026-05-11 07:23 | 未明确 | 通报 | 未明确 | 待确认 | C | Post-War Dynamics: The Gulf at the Center of a New World Order - Middle East Council on Global Affairs |
+| 2026-05-11 07:10 | Israel | 空袭 | Israel | 待确认 | C | Hezbollah drone strike targets Israeli troops - Breakingthenews.net |
+| 2026-05-11 07:00 | US | 通报 | Israel | 待确认 | C | Netanyahu wants Israel "to draw down to zero the American financial support" - CBS News |
+| 2026-05-11 06:53 | Israel | 空袭 | Israel | 伤亡 | C | Lebanon says two Hezbollah-linked paramedics killed by Israeli strikes in south - MSN |
+| 2026-05-11 06:49 | US | 通报 | Tehran | 待确认 | C | Fact check: Is the Iran-US war ending? Tehran sets new terms as US truce hangs by a thread via Pakistan mediation - MSN |
+| 2026-05-11 06:32 | Israel | 空袭 | Israel | 伤亡 | C | Senior Hezbollah elite commander killed in Israeli strike on Beirut — report - TRT World |
+| 2026-05-11 05:57 | US | 空袭 | Tehran | 命中 | C | US-Israel-Iran War Latest Live Update: ‘Need 2 Weeks’ to Hit All Targets Trump After Tehran Responds to US Peace Proposal; Israel Expands Lebanon Strikes - The Sunday Guardian |
+| 2026-05-11 05:46 | US | 通报 | Iran | 待确认 | C | War breaking news. Iran, Trump: 'They've been playing us for 47 years, now they won't laugh'. Netanyahu: 'It's not over, there's uranium to take away' - Il Sole 24 ORE |
