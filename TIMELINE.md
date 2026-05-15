@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-05-15 10:46
+更新时间（北京时间）: 2026-05-15 21:57
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-05-15 10:29 | Iran | 通报 | Iran | 待确认 | C | Saudi Arabia and the Emirates have apparently attacked Iran - blue News |
-| 2026-05-15 10:21 | US | 通报 | Iran | 待确认 | C | Israel pushing for return to Iran war, weighing options with US: Report - Anadolu Ajansı |
-| 2026-05-15 10:18 | 未明确 | 通报 | 未明确 | 待确认 | C | Airlines cancel flights in response to Middle East conflict - Reuters |
-| 2026-05-15 10:06 | US | 通报 | Israel | 待确认 | C | Ex-CENTCOM chief gives keynote at lavish Israeli-American gala - Responsible Statecraft |
-| 2026-05-15 10:06 | 未明确 | 通报 | 未明确 | 待确认 | C | Tensions flare near Strait of Hormuz as a ship is seized and another is sunk - AP News |
-| 2026-05-15 09:31 | US | 通报 | Iran | 待确认 | C | Iran says UAE ‘active partner’ in US-Israeli war: Trump says Xi offered help to open Hormuz, vowed not to arm Iran - The News Pakistan |
-| 2026-05-15 09:30 | US | 通报 | Iran | 待确认 | C | 'Everything Has A Limit': At BRICS Summit, Iran Slams UAE For 'INVOLVEMENT' In Israeli-US War - The Times of India |
-| 2026-05-15 08:49 | US | 通报 | Iran | 待确认 | C | 'Israel never talked me into the war with Iran,' says US President Trump - MSN |
-| 2026-05-15 08:22 | US | 发射 | Iran | 待确认 | C | US-Israel-Iran war latest update: Iran displays 'Qadr' ballistic missile at rally after peace talks collapse, is a larger attack coming soon? - MSN |
-| 2026-05-15 08:19 | US | 通报 | Iran | 命中 | C | US-Israel war on Iran: Hormuz Island tourism takes a hit - MSN |
-| 2026-05-15 08:14 | US | 通报 | Iran | 待确认 | C | CENTCOM Chief: 90 Percent of Iran’s Defense Industry Gone. Kent: Attacks on U.S. Had Stopped Before Epic Fury. - thenewamerican.com |
-| 2026-05-15 08:11 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran war live updates: Oil prices rise after Iran threatens to close Strait of Hormuz 'indefinitely' - MSN |
-| 2026-05-15 07:49 | US | 通报 | Israel | 待确认 | C | US casts Israel-Lebanon talks as 'positive and productive' - RNZ |
-| 2026-05-15 07:49 | US | 通报 | Iran | 待确认 | C | Iran says UAE 'active partner' in US-Israeli war - MSN |
-| 2026-05-15 07:26 | US | 通报 | Iran | 待确认 | C | CENTCOM Chief: Iran’s Forces ‘Severely Degraded,’ Terror Proxies ‘Cut Off’ — ‘Every Objective for Epic Fury Met’ - breitbart.com |
-| 2026-05-15 07:19 | US | 通报 | Iran | 命中 | C | US–Israel–Iran Conflict, Hormuz Crisis and Global Oil Shock: Geopolitical and Economic Impact - Daily Pioneer |
-| 2026-05-15 07:18 | Israel | 空袭 | Iran | 待确认 | C | Iran permits 30 vessels to pass through Strait of Hormuz overnight; Hezbollah strikes Israel - top develo - The Times of India |
-| 2026-05-15 07:16 | US | 通报 | Iran | 待确认 | C | CENTCOM Commander: Operation Epic Fury Crippled Iran, Strengthened Regional Military Partnerships - Eurasia Review |
-| 2026-05-15 07:10 | Israel | 空袭 | Israel | 待确认 | C | Lebanon Says Israeli Strikes on Cars Kill 12 - Asharq Al-Awsat English |
-| 2026-05-15 07:07 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and Middle East - The Jerusalem Post |
-| 2026-05-15 06:53 | US | 通报 | Iran | 命中 | C | US-Israel-Iran war latest news: Chinese ships pass through Hormuz as Trump meets Xi amid escalating crisis as Lebanon war toll hits 200 children - MSN |
-| 2026-05-15 06:49 | US | 通报 | Iran | 待确认 | C | US prepping Iran attack again? 6,500-tonne munitions sent to Israel in 24 hours - MSN |
-| 2026-05-15 06:34 | US | 通报 | Iran | 伤亡 | C | US military still probing deadly attack on Iranian girls' school 11 weeks later - Anadolu Ajansı |
-| 2026-05-15 06:17 | Israel | 空袭 | Israel | 伤亡 | C | Three killed in Israeli strikes across Southern Lebanon - شفق نيوز |
-| 2026-05-15 06:15 | US | 通报 | Tehran | 待确认 | C | Iran urges BRICS to condemn US war as Tehran, UAE spar - The Express Tribune |
-| 2026-05-15 06:12 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran-War Latest News: Netanyahu's UAE Visit Claim Sparks Diplomatic Controversy During Iran Tensions - Dailyhunt |
-| 2026-05-15 05:52 | US | 通报 | Iran | 待确认 | C | Iran says UAE ‘active partner’ in US-Israeli war - Free Malaysia Today |
-| 2026-05-15 05:51 | US | 通报 | Tehran | 伤亡 | C | US-Israel-Iran war live news updates: US targets Kharg Island ahead of Trump's deadline; huge explosions heard in Tehran - MSN |
-| 2026-05-15 05:47 | Israel | 空袭 | Israel | 待确认 | C | LIVE BLOG: Hezbollah Drone Strike Shuts Northern Coast as Lebanon-Israel Talks End in Washington - Day 76 - Palestine Chronicle |
-| 2026-05-15 05:40 | US | 通报 | 未明确 | 待确认 | C | US military says it redirected 72 ships from transiting Strait of Hormuz - Anadolu Ajansı |
-| 2026-05-15 05:36 | Israel | 空袭 | Israel | 待确认 | C | Hezbollah Drone Strike Injures Four In Israel - newscentraltv.com |
-| 2026-05-15 05:25 | US | 通报 | Iran | 待确认 | C | Iran says UAE “active partner” in US-‘Israeli’ war - Roya News |
-| 2026-05-15 05:21 | US | 通报 | Iran | 待确认 | C | US CENTCOM chief: Hamas, Hezbollah and Houthis 'all cut-off' from Iranian weapons and support - MSN |
-| 2026-05-15 05:16 | Iran | 通报 | Iran | 待确认 | C | Xi may help Trump on Iran, but at a price - ایران اینترنشنال |
-| 2026-05-15 04:46 | Iran | 通报 | Iran | 待确认 | C | Netanyahu: "Iran Weaker Than Ever"... Signals Continued Military Pressure - 아시아경제 |
-| 2026-05-15 04:45 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran war latest update: Iran expands Strait of Hormuz into 'vast operational area' - how big is the new Strait of Hormuz zone? - MSN |
-| 2026-05-15 04:45 | Israel | 空袭 | Israel | 伤亡 | C | 4 Wounded, One Critically, in Rosh Hanikra Drone Strike as Israel-Lebanon Talks Resume in Washington - The Media Line |
-| 2026-05-15 04:33 | US | 发射 | Iran | 待确认 | C | CENTCOM Commander Dismisses Reports That Iran Retains Most Of Its Missile And Drone Arsenal (Updated) - The War Zone |
-| 2026-05-15 04:32 | US | 通报 | Israel | 待确认 | C | Cautious optimism in Lebanon as direct talks with Israel progress - Al Jazeera |
-| 2026-05-15 04:26 | US | 通报 | Iran | 待确认 | C | CENTCOM chief: Iran had 60% enriched uranium before war - Yeni Safak English |
+| 2026-05-15 21:30 | Israel | 通报 | Israel | 待确认 | C | Lebanon-Israel talks resume in Washington as Hezbollah denounces negotiations as ‘plot’ against it / LIVE - L'Orient Today |
+| 2026-05-15 21:05 | US | 通报 | Iran | 待确认 | C | CENTCOM Says U.S. Forces Redirected 72 Ships in Iran Blockade - Kurdistan24 |
+| 2026-05-15 21:00 | US | 通报 | Tehran | 待确认 | C | LIVE News / US-Israel-Iran War: Iran’s Abbas Araghchi Says 'Tehran Never Wanted Nuclear Weapons' Amid Renewed Diplomatic Push in New Delhi - The Sunday Guardian |
+| 2026-05-15 20:50 | Israel | 通报 | Israel | 待确认 | C | Netanyahu says Israel controls 60 percent of Gaza Strip - The Korea Times |
+| 2026-05-15 20:44 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Live Updates: Is the UAE Building a Massive New Oil Pipeline to Bypass the Strait of Hormuz Amid Rising Iran-US-Israel Tensions? - The Sunday Guardian |
+| 2026-05-15 20:32 | US | 通报 | Iran | 待确认 | C | US ambassador confirms Israel's military support to UAE amid Iran tensions - MSN |
+| 2026-05-15 20:25 | Iran | 通报 | Iran | 待确认 | C | Why the Iran conflict is becoming a problem for BRICS - Al Jazeera |
+| 2026-05-15 20:20 | US | 通报 | Iran | 待确认 | C | Iran: US willing to continue talks, open to China's help - Aaj English TV |
+| 2026-05-15 20:03 | Iran | 通报 | Iran | 待确认 | C | Reordering the Nuclear Regime in the Wake of the Iran War - The National Interest |
+| 2026-05-15 20:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and Middle East - The Jerusalem Post |
+| 2026-05-15 19:48 | Israel | 通报 | Israel | 待确认 | C | Israel Broadens Occupied Zone in Gaza to 64% Amid Ceasefire - Tempo.co English |
+| 2026-05-15 19:41 | Iran | 通报 | Iran | 待确认 | C | Trump warns ‘decimation’ of Iran to go on as Xi 'loses patience' with regime - the-sun.com |
+| 2026-05-15 19:31 | US | 空袭 | Israel | 待确认 | C | Israel strikes Lebanon as talks in US enter second day - Al-Monitor |
+| 2026-05-15 19:29 | Israel | 空袭 | Israel | 待确认 | C | Hezbollah Mortar Strike Kills ’Israeli’ Soldier in South Lebanon - اسلام تايمز |
+| 2026-05-15 19:27 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran war latest news: US-Iran peace talks to resume next week in Islamabad, '14 point memo' sparks hopes of ceasefire - MSN |
+| 2026-05-15 19:08 | Israel | 通报 | Israel | 伤亡 | C | Israeli Soldier Killed amid Hezbollah Escalation, Drone Fears Grip Northern Israel - Palestine Chronicle |
+| 2026-05-15 18:45 | 未明确 | 通报 | 未明确 | 待确认 | C | Middle East: Palestinians mark Nakba anniversary - DW.com |
+| 2026-05-15 18:42 | Israel | 通报 | Tehran | 待确认 | C | Israel Prepares for Imminent Resumption of War with Iran as Tehran Vows to Fight "to the Last Drop of Blood" - JFeed |
+| 2026-05-15 18:41 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran war latest news: Netanyahu's UAE visit claim sparks diplomatic controversy during Iran tensions - MSN |
+| 2026-05-15 18:37 | US | 通报 | Iran | 待确认 | C | US–Israel–Iran War Latest Update: Trump Claims Xi Jinping Agrees Iran Must Not Become Nuclear-Armed; Though Official US–China Summit Deals Yet to Be Released - The Sunday Guardian |
+| 2026-05-15 18:33 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran war latest update: 'Ceasefire on life support' Trump rejects Iran proposal, calls it 'garbage' as tensions rise - MSN |
+| 2026-05-15 18:31 | US | 通报 | Iran | 待确认 | C | Hormuz not blocked by Iran, 'unprovoked aggression' by US & Israel led to it: Russian FM Lavrov - Odisha TV |
+| 2026-05-15 18:25 | Israel | 空袭 | Israel | 伤亡 | C | Hezbollah Avenges Israeli Strike On Beirut, 20-Year-Old IDF Soldier Killed In Mortar Attack - The Times of India |
+| 2026-05-15 18:24 | Israel | 通报 | Israel | 待确认 | C | Israel escalates military actions in Lebanon, dims diplomatic meeting prospects - Crypto Briefing |
+| 2026-05-15 18:19 | US | 空袭 | Iran | 待确认 | C | US-Israel-Iran War Latest News: Israel Strikes Southern Lebanon as Gaza Attack Kills Two, Strait of Hormuz Tensions Escalate - The Sunday Guardian |
+| 2026-05-15 18:19 | Iran | 通报 | Iran | 待确认 | C | India hikes fuel prices as Iran crisis bites - Al Jazeera |
+| 2026-05-15 18:18 | US | 通报 | Iran | 伤亡 | C | CENTCOM announces 14 American servicemen killed since start of war with Iran - Egypt Independent |
+| 2026-05-15 18:17 | Israel | 通报 | Iran | 待确认 | C | Shadow Alliances: Israel's Military Chief Made Secret Visit to UAE Amid Rising Iran Tensions - JFeed |
+| 2026-05-15 18:10 | Israel | 空袭 | Israel | 命中 | C | Israeli strikes hit Hezbollah sites as oil tops $100 - MSN |
+| 2026-05-15 18:09 | US | 发射 | Iran | 待确认 | C | US-Israel-Iran war latest update: Iran warns of 90% uranium enrichment to weapons-grade levels if US launches another attack - MSN |
+| 2026-05-15 18:04 | 未明确 | 通报 | 未明确 | 待确认 | C | Trump leaves Beijing with few wins, many warm words for Xi - The Express Tribune |
+| 2026-05-15 18:00 | US | 通报 | Iran | 待确认 | C | No Exit Door in the Iran–US-Israel War - KBA News |
+| 2026-05-15 17:59 | Israel | 拦截 | Israel | 待确认 | C | Pakistani activists join new Gaza-bound aid flotilla weeks after Israeli interception - Arab News |
+| 2026-05-15 17:55 | US | 通报 | Israel | 待确认 | C | US casts Israel-Lebanon talks as ‘positive’ amid delegations’ conflicting demands - The Arab Weekly |
+| 2026-05-15 17:55 | Israel | 通报 | Israel | 待确认 | C | Israeli army says striking Hezbollah sites in Tyre area of South Lebanon - LBCI Lebanon |
+| 2026-05-15 17:42 | US | 通报 | Tehran | 待确认 | C | US-Israel-Iran war latest news: Global energy markets on edge after Trump rejects Iran proposal & Israel declares war against Tehran is 'not over' - MSN |
+| 2026-05-15 17:41 | US | 通报 | Iran | 待确认 | C | US CENTCOM Commander Claims Iran Needs a Generation to Rebuild Its Navy - VOI.id |
+| 2026-05-15 17:38 | Israel | 发射 | Israel | 待确认 | C | Explosive drones launched by Hezbollah strike Israeli territory; no injuries - The Times of Israel |
+| 2026-05-15 17:32 | 未明确 | 通报 | 未明确 | 待确认 | C | Tensions flare near Strait of Hormuz as one ship seized and another sunk - The Tribune-Democrat |
+| 2026-05-15 17:31 | US | 通报 | Israel | 待确认 | C | US says Israel-Lebanon talks were 'positive, productive'; discussions to continue - Khaleej Times |
