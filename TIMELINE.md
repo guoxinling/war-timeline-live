@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-05-22 22:30
+更新时间（北京时间）: 2026-05-23 10:39
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-05-22 21:52 | Iran | 通报 | Iran | 待确认 | C | U.S. says 'slight progress' in Iran talks amid uncertainty about whether war will resume - PBS |
-| 2026-05-22 21:47 | Israel | 通报 | Israel | 命中 | C | Hezbollah drone hits Israeli post as sirens sound in Galilee - Shafaq News / Latest breaking news in Iraq and the world - شفق نيوز |
-| 2026-05-22 21:41 | Israel | 空袭 | Iran | 待确认 | C | Satellite images show damage at Israeli bases during Iran strikes - Muslim Network TV |
-| 2026-05-22 21:34 | US | 通报 | Tehran | 待确认 | C | US Iran War News Live Updates: Asim Munir travels to Tehran for meetings with senior Iranian officials, says report - The Indian Express |
-| 2026-05-22 21:27 | US | 通报 | Tehran | 待确认 | C | Exclusive: Qatari negotiating team in Tehran to help secure US-Iran deal to end war, says source - Reuters |
-| 2026-05-22 21:15 | Israel | 通报 | Israel | 待确认 | C | Israeli attacks kill several in Lebanon, with health workers targeted - Al Jazeera |
-| 2026-05-22 21:03 | Israel | 空袭 | Israel | 待确认 | C | Hezbollah drone strike targets Israeli military border gear - Latest news from Azerbaijan |
-| 2026-05-22 21:03 | US | 发射 | Iran | 待确认 | C | US used significant number of missiles to protect Israel in Iran war; Washington and allies now rendered much - India.Com |
-| 2026-05-22 21:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and Middle East - The Jerusalem Post |
-| 2026-05-22 20:55 | Israel | 拦截 | Tel Aviv | 待确认 | C | Washington spent 'far more' interceptors than Tel Aviv to defend Israel during war: Report - thecradle.co |
-| 2026-05-22 20:46 | Israel | 通报 | Israel | 待确认 | C | Israel: From Neutralizing the Frontline States to Neutralizing the Axis of Resistance - Middle East Monitor |
-| 2026-05-22 20:45 | US | 通报 | Lebanon | 命中 | C | US widens sanctions to hit Lebanon's powerful deep state - The National |
-| 2026-05-22 20:39 | US | 通报 | Iran | 待确认 | C | Most Democrats now oppose US aid to Israel and war on Iran - thecanary.co |
-| 2026-05-22 20:30 | Israel | 空袭 | Israel | 伤亡 | C | At Least 10 Killed in Israeli Strikes in Lebanon, Health Ministry Says - Haaretz |
-| 2026-05-22 20:20 | Israel | 发射 | Israel | 命中 | C | Israel-Lebanon border: Hezbollah’s chilling footage as drone swarms and rockets hit Israeli forces - Mid-day |
-| 2026-05-22 20:00 | Iran | 通报 | Iran | 待确认 | C | Counterpoint / Our wars haven’t been worth it, and not just in Iran / Guest Commentary - Santa Ynez Valley News |
-| 2026-05-22 19:25 | US | 通报 | Iran | 待确认 | C | Uranium and control of strait of Hormuz key as talks to end US-Iran war continue - The Guardian |
-| 2026-05-22 19:20 | Israel | 空袭 | Israel | 伤亡 | C | Lebanon says 10 killed in Israeli strikes on south, including 6 Hezbollah- and Amal-linked rescuers - The Times of Israel |
-| 2026-05-22 19:11 | Iran | 空袭 | Iran | 待确认 | C | LIVE BLOG: Iran Rejects Pressure as Gaza Demolitions, Lebanon Strikes Continue – Day 83 - Palestine Chronicle |
-| 2026-05-22 19:09 | Israel | 发射 | Iran | 待确认 | C | U.S. Used Nearly Half Its Missile Interceptors Defending Israel Against Iran –Report - Sahara Reporters |
-| 2026-05-22 19:05 | US | 通报 | Iran | 待确认 | C | Iran retains uranium stockpile, US-Iran negotiations encounter obstacles - Laodong.vn |
-| 2026-05-22 19:05 | US | 通报 | 未明确 | 待确认 | C | US sanctions Lebanese MPs, security officials over Hezbollah ties - Saudi Gazette |
-| 2026-05-22 19:03 | 未明确 | 通报 | 未明确 | 待确认 | C | Middle East war enters fourth day in 'smoke and blood' - The Canberra Times |
-| 2026-05-22 18:49 | Israel | 空袭 | Israel | 伤亡 | C | Two killed in Israeli strikes on southern Lebanon - Saudi Gazette |
-| 2026-05-22 18:48 | Israel | 空袭 | Israel | 伤亡 | C | Israeli military says it killed Hezbollah fighters in strike on command centre - VIDEO - Caliber.Az |
-| 2026-05-22 18:43 | Israel | 通报 | Israel | 待确认 | C | The humiliation of finding secret Israeli bases in Iraq - Responsible Statecraft |
-| 2026-05-22 18:35 | 未明确 | 通报 | 未明确 | 待确认 | C | Data: Track county, state and national gas prices - NBC News |
-| 2026-05-22 18:30 | Iran | 拦截 | Iran | 待确认 | C | U.S. Reportedly Used Most Of Its Advanced Interceptors During Iran War - Inkl |
-| 2026-05-22 18:20 | Israel | 空袭 | Israel | 待确认 | C | Lebanon says Israeli strike kills six, including child - RTE.ie |
-| 2026-05-22 18:19 | US | 通报 | Iran | 待确认 | C | ‘The Numbers Are Striking’ – Iran War Exposes Strain on US Military Readiness - Palestine Chronicle |
-| 2026-05-22 18:18 | Israel | 空袭 | Israel | 待确认 | C | Lebanon says Israeli strikes kill civilians as Hezbollah condemns talks - MSN |
-| 2026-05-22 18:15 | US | 通报 | Iran | 待确认 | C | Iran’s War With Israel and the United States / Global Conflict Tracker - Council on Foreign Relations |
-| 2026-05-22 18:00 | Israel | 空袭 | Israel | 待确认 | C | Lebanon Says Israeli Strike Kills Six, Including Two Rescuers and Child - Asharq Al-Awsat English |
-| 2026-05-22 17:16 | US | 通报 | Tehran | 待确认 | C | Draft of agreement between Iran and US ready reports Al Arabiya; Marco Rubio indicates 'progress' in deal with Tehran - ANI News |
-| 2026-05-22 17:00 | Israel | 通报 | Israel | 待确认 | C | The GOP has been a pro-Israel party for decades. Is that changing? - The Christian Science Monitor |
-| 2026-05-22 16:56 | Israel | 空袭 | Israel | 待确认 | C | Israeli Strike Kills 2 in South Lebanon: Military - The Defense Post |
-| 2026-05-22 16:50 | 未明确 | 通报 | Lebanon | 待确认 | C | Lebanon’s economy struggles under renewed war and global fuel crisis - Al Jazeera |
-| 2026-05-22 16:45 | Israel | 拦截 | Israel | 拦截 | C | Gaza aid flotilla says Israeli forces intercepted 39 boats, remaining ships continuing - The Business Standard |
-| 2026-05-22 16:44 | US | 通报 | Israel | 待确认 | C | US sanctions aim to boost Israel after failures in Lebanon: Hezbollah - Türkiye Today |
-| 2026-05-22 16:40 | US | 拦截 | Iran | 待确认 | C | US said to fire more interceptors to protect Israel in latest Iran war than Israel did - The Times of Israel |
+| 2026-05-23 10:33 | Israel | 空袭 | Israel | 待确认 | C | Lebanon says Israeli strikes kill 10 - Bangladesh Sangbad Sangstha (BSS) |
+| 2026-05-23 10:31 | US | 通报 | Iran | 待确认 | C | Trump softens tone toward Iran as negotiations gain momentum - ArabAmericanNews |
+| 2026-05-23 10:13 | US | 空袭 | Iran | 待确认 | C | US prepares for new military strikes against Iran - MSN |
+| 2026-05-23 09:59 | Israel | 通报 | Israel | 待确认 | C | Hamas official says Israel aims to end Palestinian presence in Gaza - Middle East Eye |
+| 2026-05-23 09:41 | 未明确 | 通报 | 未明确 | 待确认 | C | Marco Rubio lands in Kolkata on first India visit ahead of Quad meeting in Delhi - Firstpost |
+| 2026-05-23 09:27 | Iran | 通报 | Iran | 待确认 | C | Regional Mediators Rush to Save U.S.-Iran Cease-Fire - The New York Times |
+| 2026-05-23 09:21 | Iran | 通报 | Iran | 待确认 | C | As Trump Weighs Return to Conflict in Iran, Here’s What Could Be Targeted Next - The New York Times |
+| 2026-05-23 09:17 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran war latest news: Israeli military shells South Lebanon's Marjayoun as Iran tightens grip on Strait of Hormuz amid escalation - MSN |
+| 2026-05-23 09:12 | Israel | 通报 | Israel | 待确认 | C | Flotilla activists allege abuse and sexual assault in Israeli custody after Gaza aid mission - Firstpost |
+| 2026-05-23 08:58 | US | 发射 | Iran | 待确认 | C | WP: ‘Israel’ Saved Missiles while US Burned Through its Stocks during Iran War - اسلام تايمز |
+| 2026-05-23 08:21 | US | 发射 | Iran | 待确认 | C | US Iran War News Live Updates: Trump ‘seriously considering’ launching new strikes against Iran - The Indian Express |
+| 2026-05-23 08:12 | US | 发射 | Iran | 待确认 | C | US used nearly half its missile defence interceptors in Israel-Iran conflict: Report - MSN |
+| 2026-05-23 08:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and Middle East - The Jerusalem Post |
+| 2026-05-23 07:46 | Israel | 空袭 | Israel | 待确认 | C | Israeli airstrikes on southern Lebanon kill 10, including paramedics and a child, officials say - Stamford Advocate |
+| 2026-05-23 07:21 | Israel | 通报 | Tehran | 待确认 | C | Qatari team in Tehran for talks; Trump says skipping son’s wedding to stay in capital - The Times of Israel |
+| 2026-05-23 07:11 | US | 通报 | Iran | 待确认 | C | Iran’s Cyber War: Hackers Use Fake Hiring Scams to Go After US Aviation Engineers - Times Now |
+| 2026-05-23 05:56 | Iran | 通报 | Iran | 待确认 | C | Iran war: 'Slight progress' in peace talks, Rubio says - DW.com |
+| 2026-05-23 05:36 | Israel | 空袭 | Israel | 待确认 | C | Israeli strikes kill six Lebanese medics in 24 hours, health ministry says - Reuters |
+| 2026-05-23 05:31 | US | 通报 | Iran | 待确认 | C | War, latest news. Al Arabya: US towards agreement. But Iran denies it - Il Sole 24 ORE |
+| 2026-05-23 05:30 | Israel | 通报 | Israel | 待确认 | C | Fragile Israel–Lebanon Talks Enter Military Track as Border War Deepens - slguardian.org |
+| 2026-05-23 05:28 | Iran | 通报 | Iran | 待确认 | C | LIVE BLOG: Iran Warns of ‘Third Confrontation’ as Fighting Escalates across Lebanon and Gaza - Day 84 - Palestine Chronicle |
+| 2026-05-23 05:17 | Iran | 通报 | Iran | 待确认 | C | Trump cancels trip to son's wedding, returns to Washington amid key moment on Iran negotiations - The Jerusalem Post |
+| 2026-05-23 05:09 | Israel | 空袭 | Israel | 待确认 | C | Middle East Latest: Israel strikes Lebanon despite extended truce - African Insider |
+| 2026-05-23 04:55 | Israel | 通报 | Iran | 待确认 | C | Trump says Iran war ‘will be over with soon’ as progress reported in ongoing talks - The Times of Israel |
+| 2026-05-23 04:40 | US | 通报 | Iran | 待确认 | C | Live blog - US-Israeli war on Iran - TRT World |
+| 2026-05-23 04:13 | US | 空袭 | Iran | 待确认 | C | US, Israel may strike Iran soon amid rising tensions: WSJ - Crypto Briefing |
+| 2026-05-23 04:11 | US | 通报 | Tehran | 待确认 | C | Iran, US-Israel War LIVE Updates / Pakistan Army Chief Asim Munir reaches Tehran to expedite efforts to end US-Iran war - Dailyhunt |
+| 2026-05-23 04:02 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran war latest news: US freezes $14 billion Taiwan arms deal amid Iran war, Trump's China remarks spark political storm - MSN |
+| 2026-05-23 04:01 | US | 通报 | 未明确 | 待确认 | C | US intelligence chief Tulsi Gabbard resigns - Yeni Safak English |
+| 2026-05-23 03:57 | US | 通报 | Tehran | 待确认 | C | Qatar delegation in Tehran for talks to end Iran-US war - Yeni Safak English |
+| 2026-05-23 03:48 | Israel | 空袭 | Israel | 待确认 | C | Israeli Strike Kills Six in Southern Lebanon Village - Nigeria Info FM |
+| 2026-05-23 03:47 | US | 通报 | Iran | 待确认 | C | No deal in sight if US insists on discussing nuclear issue, Iranian FM spokesperson says - report - The Jerusalem Post |
+| 2026-05-23 03:45 | Iran | 通报 | Tehran | 待确认 | C | Pakistan military chief arrives in Tehran in push to end Iran war - eNCA |
+| 2026-05-23 03:45 | 未明确 | 空袭 | Lebanon | 待确认 | C | Trump urges Netanyahu to limit Lebanon strikes amid trial - MSN |
+| 2026-05-23 03:43 | Iran | 通报 | Iran | 待确认 | C | Senior UAE Official To RFE/RL: Restart Of Iran War Would Be 'Catastrophic' - Radio Free Europe/Radio Liberty |
+| 2026-05-23 03:35 | Israel | 通报 | Iran | 待确认 | C | Viral claim about Kim threat to Israel over Iran conflict is false, fact-check finds - Pakistan Today |
+| 2026-05-23 03:31 | US | 通报 | 未明确 | 待确认 | C | 97 ships redirected during blockade: US Central Command - The National News Desk |
+| 2026-05-23 03:07 | Israel | 空袭 | Israel | 待确认 | C | Israeli strikes on southern Lebanon kill 10, including paramedics, child - MillenniumPost |
+| 2026-05-23 03:04 | Israel | 空袭 | Israel | 待确认 | C | Israeli strikes kill 10 in Lebanon, Including six rescuers and a child - Aaj English TV |
+| 2026-05-23 03:04 | US | 通报 | Iran | 待确认 | C | American Jews Fear Rise in Anti-Semitism From Israel’s Gaza, Iran Wars - richardsilverstein.com |
