@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-05-23 21:16
+更新时间（北京时间）: 2026-05-24 10:51
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-05-23 21:01 | Iran | 通报 | Iran | 待确认 | C | War breaking news. Iran, Ghalibaf: 'Rebuild military capabilities during ceasefire' - Il Sole 24 ORE |
-| 2026-05-23 20:53 | 未明确 | 通报 | 未明确 | 待确认 | C | The pollution that outlives war - Al Jazeera |
-| 2026-05-23 20:50 | Israel | 通报 | Israel | 伤亡 | C | IDF says it attacked Hezbollah sites, as at least 5 reported killed in south Lebanon - The Times of Israel |
-| 2026-05-23 20:45 | US | 通报 | Iran | 待确认 | C | Iran sets conditions to end war with US and Israel - 112.ua |
-| 2026-05-23 20:42 | US | 通报 | Iran | 待确认 | C | Calm before the storm: Iran-US tensions rise as Hajj nears end - News Arena India |
-| 2026-05-23 20:39 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and Middle East - The Jerusalem Post |
-| 2026-05-23 20:21 | Israel | 空袭 | Israel | 待确认 | C | Israel Warns Of Imminent Strikes On 10 Lebanese Villages - Channels Television |
-| 2026-05-23 20:06 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran Latest News: Iran Warns US Against ‘Restarting War,’ Says Consequences Would Be More Bitter - The Sunday Guardian |
-| 2026-05-23 20:05 | Israel | 空袭 | Israel | 待确认 | C | Israel warns of imminent strikes on 10 Lebanese villages - 24NewsHD |
-| 2026-05-23 19:57 | Israel | 空袭 | Israel | 设施受损 | C | South Lebanon hospital damaged as Israel keeps up strikes - The Straits Times |
-| 2026-05-23 19:43 | Iran | 通报 | Iran | 待确认 | C | An ever-expanding catastrophe over Iran is not inevitable. Trump can and must be stopped / Simon Tisdall - The Guardian |
-| 2026-05-23 19:27 | US | 通报 | Iran | 待确认 | C | US Iran War News Live Updates: Iran’s armed forces have rebuilt themselves during ceasefire, Ghalibaf tells Asim Munir - The Indian Express |
-| 2026-05-23 19:26 | Iran | 通报 | Iran | 待确认 | C | Field Marshal Asim Munir holds key talks with Iranian president - Aaj English TV |
-| 2026-05-23 19:15 | US | 通报 | Iran | 待确认 | C | Iran’s top negotiator warns of ‘crushing, bitter’ consequences if US ‘foolishly’ restarts war - The Times of Israel |
-| 2026-05-23 18:51 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran war latest news: Israeli military shells South Lebanon's Marjayoun as Iran tightens grip on Strait of Hormuz amid escalation - MSN |
-| 2026-05-23 18:47 | US | 通报 | Iran | 待确认 | C | Iran-US talks: CDF Munir, Araghchi discuss efforts to ‘prevent further escalation’ - Islamabad Post |
-| 2026-05-23 18:41 | Israel | 通报 | Israel | 待确认 | C | Majority of Lebanese civilians want peace agreement with Israel, Hezbollah disarmed - MSN |
-| 2026-05-23 18:30 | Israel | 通报 | Iran | 待确认 | C | Three months in, is Trump losing the war against Iran? - The Times of Israel |
-| 2026-05-23 18:26 | US | 通报 | Iran | 待确认 | C | World's most advanced fighter jet, most-expensive drone: US lost 42 aircraft worth $29 billion in Iran war in less than 2 months - MSN |
-| 2026-05-23 18:18 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Update: Pakistan Army Chief Meets Iranian FM Amid Strait of Hormuz Blockage - The Sunday Guardian |
-| 2026-05-23 18:14 | Israel | 拦截 | Israel | 拦截 | C | Gaza aid flotilla says Israeli forces intercepted 39 boats, remaining ships continuing - The Business Standard |
-| 2026-05-23 18:07 | US | 通报 | Iran | 待确认 | C | Jordan Joins Bahrain, Qatar, Azerbaijan, UAE, Saudi Arabia, Kuwait, Oman, Egypt, and Other Countries as the Iran-Israel-US Conflict Negatively Reshapes Middle East Tourism Habits and Collapses Travel Demand Across the Region: New Update You Need - Travel And Tour World |
-| 2026-05-23 18:03 | Israel | 通报 | Iran | 待确认 | C | Europe’s Diplomatic Asymmetry Toward Israel and Iran - Middle East Forum |
-| 2026-05-23 17:56 | Israel | 通报 | Israel | 设施受损 | C | Israel says it targeted Hezbollah infrastructure in Lebanon - MSN |
-| 2026-05-23 17:54 | US | 通报 | Iran | 待确认 | C | US weighs fresh attacks on Iran amid ongoing negotiations: Report / Daily Sabah - Daily Sabah |
-| 2026-05-23 17:48 | US | 通报 | Iran | 待确认 | C | Iran’s parliamentary speaker accuses US secretly planning ground invasion / Akashvani News - Newsonair |
-| 2026-05-23 17:41 | US | 通报 | Iran | 待确认 | C | War in the Middle East: US-Iran talks make headway - France 24 |
-| 2026-05-23 17:41 | Israel | 空袭 | Israel | 待确认 | C | Israel strikes Bekaa and Tyre as other raids kill 10 - Naharnet |
-| 2026-05-23 17:26 | US | 发射 | 未明确 | 待确认 | C | Missiles to munitions: Does the US risk running out of key weapons? - Al Jazeera |
-| 2026-05-23 17:22 | Iran | 通报 | Iran | 待确认 | C | LIVE BLOG: Iran Warns of ‘Third Confrontation’ as Fighting Escalates across Lebanon and Gaza - Day 84 - Palestine Chronicle |
-| 2026-05-23 17:20 | US | 空袭 | Tehran | 待确认 | C | US-Israel-Iran war latest news: US prepares for another strike at Iran amid late-night Tehran talks - MSN |
-| 2026-05-23 16:35 | US | 通报 | Tehran | 待确认 | C | US Israel Iran War Latest Update: Diplomacy Continues Between Washington and Tehran But No Deal Finalized Yet - The Sunday Guardian |
-| 2026-05-23 16:30 | Israel | 通报 | Israel | 待确认 | C | Hezbollah MASTERS FPV Drone, BLOWS Up Israel’s Merkava Tank on Military Base; Netanyahu In PANIC - Oneindia |
-| 2026-05-23 16:18 | Israel | 空袭 | Israel | 待确认 | C | Israeli strikes kill ten in Lebanon despite ceasefire - Northwest Arkansas Democrat-Gazette |
-| 2026-05-23 16:06 | Israel | 空袭 | Israel | 待确认 | C | Israel Defense Forces says Hezbollah weapons production site targeted in Lebanon strikes - Apa.az |
-| 2026-05-23 16:02 | Israel | 通报 | Israel | 待确认 | C | Israel causes major damage to Hiram Hospital in Lebanon’s Tyre - شفق نيوز |
-| 2026-05-23 16:00 | US | 通报 | Iran | 待确认 | C | The US-Israel War With Iran Is Tearing Iraq Apart - Newsweek |
-| 2026-05-23 15:59 | Iran | 通报 | Iran | 待确认 | C | Persian Gulf States Are Obliged to Fully Compensate for Damages Against Iran - WANA News Agency |
-| 2026-05-23 15:45 | US | 通报 | Iran | 待确认 | C | Iran weighs peace proposal, accuses US of 'excessive demands' - ABS-CBN |
-| 2026-05-23 15:25 | Israel | 通报 | Israel | 待确认 | C | Hezbollah underground weapons production site targeted in Lebanon’s Beqaa, IDF says - The Times of Israel |
+| 2026-05-24 10:27 | Israel | 发射 | Israel | 伤亡 | C | ‘Israeli’ soldier killed in Hezbollah drone attack near Lebanese border - Roya News |
+| 2026-05-24 10:22 | Israel | 发射 | Israel | 待确认 | C | Hezbollah Launches 12 Attacks Targeting Israeli Iron Dome Launchers, Drone Defense Systems - Bernama |
+| 2026-05-24 10:05 | US | 通报 | Tehran | 待确认 | C | US Iran War News Live Updates: Pakistan hopes to host US-Iran peace talks ‘very soon’, says PM, after Trump claims Tehran deal ‘largely negotiated’ - The Indian Express |
+| 2026-05-24 09:53 | Iran | 通报 | Iran | 待确认 | C | Iran agrees to give up enriched uranium as deal with Donald Trump 'largely negotiated': Report - The Times of India |
+| 2026-05-24 09:53 | Iran | 通报 | Iran | 待确认 | C | Trump says Iran deal ‘largely negotiated’ including reopening Strait of Hormuz - Ada Derana |
+| 2026-05-24 09:37 | Israel | 通报 | Iran | 待确认 | C | Iran-Israel war LIVE: Pakistan hopes to host new round of Iran-U.S. talks 'very soon' - The Hindu |
+| 2026-05-24 09:18 | Iran | 通报 | Iran | 待确认 | C | Trump says Iran agreement ‘largely negotiated’, awaiting finalisation - Al Jazeera |
+| 2026-05-24 09:07 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran latest news: Iran warns US against 'restarting war,' says consequences would be more bitter - MSN |
+| 2026-05-24 09:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and Middle East - The Jerusalem Post |
+| 2026-05-24 08:58 | Israel | 通报 | Israel | 设施受损 | C | Israel says it targeted Hezbollah infrastructure in Lebanon - MSN |
+| 2026-05-24 08:21 | US | 通报 | Iran | 待确认 | C | Inside story: Iran-US deal takes shape but thorniest contentions lie ahead - Amwaj.media |
+| 2026-05-24 08:13 | US | 通报 | Iran | 待确认 | C | Live: Iran, US and Pakistan say ceasefire talks progressing - Middle East Eye |
+| 2026-05-24 08:11 | Israel | 通报 | Iran | 待确认 | C | ‘Nightmare for Israel’: Senior GOP senators criticize alleged terms of emerging Iran deal - The Times of Israel |
+| 2026-05-24 07:57 | US | 通报 | Iran | 待确认 | C | Iran-US War Agreement: Nine Things Everyone Needs to Know About the Historic Deal - inkl |
+| 2026-05-24 07:08 | Iran | 通报 | Iran | 待确认 | C | Trump & Iran Near Peace After 84-Day War - Latin Times |
+| 2026-05-24 07:00 | Iran | 通报 | Iran | 待确认 | C | Trump says a deal with Iran and opening of Strait of Hormuz are 'largely negotiated' - NPR |
+| 2026-05-24 06:46 | Iran | 通报 | Iran | 待确认 | C | U.S. Military Redirects 100 Ships In Six-Week Naval Blockade Choking Iranian Ports - Benzinga |
+| 2026-05-24 06:43 | Iran | 通报 | Iran | 待确认 | C | Live - Trump says Iran deal largely negotiated, announcement expected shortly - ایران اینترنشنال |
+| 2026-05-24 06:24 | Israel | 空袭 | Iran | 待确认 | C | More Israeli strikes on Lebanon amid Iran war pressure - MSN |
+| 2026-05-24 06:22 | Israel | 空袭 | Iran | 命中 | C | LIVE BLOG: Trump Signals Iran Breakthrough as Israeli Strikes Hit Lebanon and Gaza - Day 85 - Palestine Chronicle |
+| 2026-05-24 06:17 | Iran | 通报 | Tehran | 待确认 | C | As U.S.-Iran deal nears, Trump ally warns against creating perception Tehran controls Hormuz - Fortune |
+| 2026-05-24 06:10 | Israel | 通报 | Israel | 伤亡 | C | Israeli Soldier Killed in Hezbollah Attack amid Reports of Growing Military Frustration - Palestine Chronicle |
+| 2026-05-24 06:06 | Iran | 通报 | Iran | 待确认 | C | Iran says Trump’s Hormuz reopening claim ‘far from reality’ - Gulf News |
+| 2026-05-24 06:06 | Iran | 通报 | Iran | 待确认 | C | Trump says framework of Iran deal 'largely negotiated,' with provision to reopen strait - Reuters |
+| 2026-05-24 05:53 | Iran | 通报 | Iran | 待确认 | C | Trump says deal with Iran and opening of Strait of Hormuz ‘largely negotiated’ - BreakingNews.ie |
+| 2026-05-24 05:26 | Israel | 空袭 | Lebanon | 待确认 | C | Hezbollah Drone Strike Kills IDF Soldier Noam Hamburger Near Lebanon Border - The Media Line |
+| 2026-05-24 05:25 | Iran | 通报 | Iran | 待确认 | C | Agreement on Iran war ‘largely negotiated,’ Trump says amid fragile ceasefire - NBC News |
+| 2026-05-24 05:17 | US | 通报 | Iran | 待确认 | C | Iran, US edge toward deal to end war and reopen Hormuz - ایران اینترنشنال |
+| 2026-05-24 05:09 | Iran | 通报 | Iran | 待确认 | C | Trump Announces Iran Deal ‘Largely Negotiated’, Strait of Hormuz to Be Opened - breitbart.com |
+| 2026-05-24 04:52 | Iran | 通报 | Iran | 待确认 | C | Trump says a deal with Iran that would reopen the Strait of Hormuz has been 'largely negotiated' - Fortune |
+| 2026-05-24 04:49 | US | 通报 | Iran | 待确认 | C | Iran Calls on UNSC To Hold Gulf States Accountable For Aiding US-’Israeli’ Aggression - اسلام تايمز |
+| 2026-05-24 04:42 | Israel | 通报 | Israel | 待确认 | C | Israel kills nearly 15 people, injures rescue crews in southern Lebanon - شفق نيوز |
+| 2026-05-24 04:11 | US | 通报 | Iran | 待确认 | C | Iran’s warning to Trump turns darker after Pak's Munir visit, next US war will be far more brutal? / Videos - Hindustan Times |
+| 2026-05-24 04:03 | Israel | 通报 | Iran | 待确认 | C | Israel Believes Iran Is Misleading U.S., Nuclear Agreement Unlikely, Sources Say - Haaretz |
+| 2026-05-24 03:42 | Israel | 通报 | Israel | 伤亡 | C | Soldier killed in northern Israel by Hezbollah drone from Lebanon - The Times of Israel |
+| 2026-05-24 03:28 | Iran | 通报 | Iran | 待确认 | C | Trump says chances of Iran peace deal remain ‘50-50’ - Pakistan Today |
+| 2026-05-24 03:28 | Israel | 空袭 | Israel | 待确认 | C | Israeli strikes kill 10 in Lebanon - Daily Tribune |
+| 2026-05-24 03:28 | Iran | 通报 | Iran | 待确认 | C | Middle East search for stability amid rollercoaster of Iran conflict - The Jerusalem Post |
+| 2026-05-24 03:27 | Israel | 通报 | Israel | 待确认 | C | Israel’s War on Lebanon Pushes Death Toll Beyond 3,100 - The Eastern Herald |
+| 2026-05-24 03:24 | Israel | 空袭 | Iran | 待确认 | C | Israel strikes south Lebanon as Hezbollah says Iran won’t abandon group - Firstpost |
