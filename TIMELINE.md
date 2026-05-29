@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-05-29 10:49
+更新时间（北京时间）: 2026-05-29 22:53
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-05-29 10:44 | Iran | 通报 | Iran | 待确认 | C | U.S., Iran nearing deal to end war and reopen Strait of Hormuz - The Washington Post |
-| 2026-05-29 10:30 | Israel | 空袭 | Israel | 待确认 | C | Israeli military strikes southern suburb of Beirut before crucial Lebanon-Israel talks in Washington - Pittsburgh Post-Gazette |
-| 2026-05-29 10:03 | Iran | 通报 | Iran | 待确认 | C | Iran War Updates: U.S. Officials Say They Are Closing In on Arrangement to Reopen Strait of Hormuz - The New York Times |
-| 2026-05-29 10:01 | 未明确 | 通报 | Lebanon | 待确认 | C | Residents in Lebanon's south caught in the middle as fighting intensifies - Australian Broadcasting Corporation |
-| 2026-05-29 10:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and Middle East - The Jerusalem Post |
-| 2026-05-29 09:28 | Israel | 通报 | Israel | 命中 | C | Israel ‘hits ancient site’ as it pushes deeper into southern Lebanon - The Times |
-| 2026-05-29 09:08 | Israel | 通报 | Israel | 命中 | C | Learning from Ukraine, Hezbollah is now using fibre-optic drones to hit Israel - MSN |
-| 2026-05-29 09:06 | Israel | 通报 | Israel | 待确认 | C | Guerilla Warfare 101: Israel Has Fallen into Hezbollah Trap in Lebanon - Palestine Chronicle |
-| 2026-05-29 07:51 | US | 通报 | Iran | 待确认 | C | Iran Israel War Live Updates: Trump yet to sign off on US-Iran ceasefire extension deal as talks continue, says Vance - Firstpost |
-| 2026-05-29 07:29 | Israel | 空袭 | Iran | 待确认 | C | Israel expands strikes against Iran-backed Hezbollah in Beirut - Fox News |
-| 2026-05-29 07:28 | US | 通报 | Iran | 待确认 | C | Iran, US reportedly agree to deal, pending Trump approval - dw.com |
-| 2026-05-29 06:50 | Israel | 空袭 | Israel | 待确认 | C | LIVE BLOG: Hezbollah Strikes Israeli Forces as Attacks Intensify in Lebanon, Gaza – Day 90 - Palestine Chronicle |
-| 2026-05-29 06:29 | Israel | 发射 | Israel | 伤亡 | C | Israel launches wave of deadly strikes near Beirut, kills woman and two children amid truce violations - WION |
-| 2026-05-29 06:06 | Israel | 空袭 | Israel | 待确认 | C | Israeli strikes kill at least eight in Lebanon’s fourth largest city - Borneo Bulletin |
-| 2026-05-29 05:55 | US | 通报 | Iran | 待确认 | C | Axios: Iran-US agreement reached, could be made public on Sunday - Il Sole 24 ORE |
-| 2026-05-29 05:53 | Israel | 通报 | Israel | 待确认 | C | Netanyahu Says Israel Will Control 70 Percent of Gaza, Squeezing Hamas - The New York Times |
-| 2026-05-29 05:41 | US | 通报 | Iran | 待确认 | C | US and Iran reach tentative deal for 60-day truce extension, officials say - Al Jazeera |
-| 2026-05-29 05:31 | US | 通报 | Iran | 待确认 | C | US, Iran reach deal to extend ceasefire; Trump’s signoff needed - NewsNation |
-| 2026-05-29 05:30 | Israel | 通报 | Israel | 待确认 | C | Israel intensifies attacks on Lebanon, killing at least 19 people - Al Jazeera |
-| 2026-05-29 04:52 | US | 通报 | Israel | 待确认 | C | Hezbollah in focus as Lebanon and Israel resume talks in US - The National |
-| 2026-05-29 04:00 | Israel | 空袭 | Israel | 待确认 | C | Israel strikes near Beirut, widening Lebanon offensive - Al-Monitor |
-| 2026-05-29 04:00 | Israel | 空袭 | Israel | 待确认 | C | Israel strikes Lebanon to target Hezbollah - Australian Broadcasting Corporation |
-| 2026-05-29 03:39 | US | 通报 | Iran | 待确认 | C | Iran, US reach tentative deal - The Daily Star |
-| 2026-05-29 03:31 | Israel | 空袭 | Israel | 待确认 | C | LEBANON – ISRAEL Israeli strike Tyre and Aoun's 'crazy gamble' on negotiations - AsiaNews.it |
-| 2026-05-29 03:27 | Israel | 空袭 | Israel | 伤亡 | C | At least 25 killed by Israeli strikes across Lebanon Thursday; al-Rissala halts operations in Nabatieh Fawqa - L'Orient Today |
-| 2026-05-29 03:21 | Israel | 通报 | Jerusalem | 待确认 | C | One-third of Hezbollah’s pre-2023 force eliminated, IDF reports - The Jerusalem Post |
-| 2026-05-29 03:09 | Israel | 发射 | Iran | 待确认 | C | Iran could launch stronger attacks on Israel's home front in future wars, IDF fears - The Jerusalem Post |
-| 2026-05-29 03:02 | Israel | 通报 | Iran | 待确认 | C | Egypt Is in the Gulf, but It Won’t Fight Alongside Israel — And Iran Knows It - Middle East Forum |
-| 2026-05-29 02:55 | Israel | 空袭 | Israel | 待确认 | C | Hezbollah confronts Israeli ground war, escalates drone strikes - thecradle.co |
-| 2026-05-29 02:44 | Israel | 通报 | Israel | 待确认 | C | As Israel widens war against Hezbollah, northern town of Shlomi hunkers down - The Times of Israel |
-| 2026-05-29 02:44 | Israel | 通报 | Israel | 待确认 | C | Lebanese Army Unable to Disarm Hezbollah, Israeli Army Sources Say - Haaretz |
-| 2026-05-29 02:42 | US | 通报 | Iran | 待确认 | C | US-Iran deal awaits Trump nod; Gaza and Lebanon tensions escalate; Swiss attack injures three - Mid-day |
-| 2026-05-29 02:40 | US | 通报 | Iran | 待确认 | C | Rebuilding US weapons stockpile may ‘take years’ post-Iran war - Al Jazeera |
-| 2026-05-29 02:38 | US | 通报 | Israel | 待确认 | C | IRGC fires at US assets in Gulf; Sa’ar: No peace while Hezbollah exists TV7 Israel News 28 May - TV7 Israel News |
-| 2026-05-29 02:12 | Israel | 通报 | Israel | 待确认 | C | Netanyahu says he directed Israel’s military to take over 70% of Gaza - Washington Examiner |
-| 2026-05-29 02:06 | Israel | 空袭 | Israel | 待确认 | C | Strikes kill family of 6 after Israel declares south Lebanon ‘combat zone’ - South China Morning Post |
-| 2026-05-29 01:59 | Israel | 通报 | Israel | 待确认 | C | Netanyahu directs Israeli forces to expand Gaza control to 70 percent - Al-Monitor |
-| 2026-05-29 01:51 | Israel | 通报 | Israel | 待确认 | C | Netanyahu orders Israeli military to move toward occupying 70% of Gaza: Report - Firstpost |
-| 2026-05-29 01:48 | Iran | 发射 | Iran | 待确认 | C | U.S. Central Command accuses Iran of ceasefire violation after missile launch toward Kuwait - Florida’s Voice |
-| 2026-05-29 01:39 | Israel | 空袭 | Israel | 命中 | C | Israel hits Lebanese capital in 'targeted strike' - BBC |
+| 2026-05-29 22:32 | Iran | 通报 | Iran | 待确认 | C | U.S., Iran nearing deal to end war and reopen Strait of Hormuz - The Washington Post |
+| 2026-05-29 22:26 | Israel | 通报 | Israel | 待确认 | C | Hezbollah warns of possible Israeli attack on Lebanon’s Qaraoun Dam - Middle East Monitor |
+| 2026-05-29 22:10 | Israel | 通报 | Israel | 待确认 | C | Netanyahu says military crossed Lebanon’s Litani River as Israel-Hezbollah conflict escalates - Firstpost |
+| 2026-05-29 21:51 | Israel | 通报 | Iran | 待确认 | C | Israel Reacts to U.S.-Iran Talks with Escalation - The Soufan Center |
+| 2026-05-29 21:30 | Iran | 通报 | Iran | 待确认 | C | What we know and don't know about possible deal to end Iran war - The Tribune-Democrat |
+| 2026-05-29 21:06 | Israel | 空袭 | Israel | 待确认 | C | Israel’s Chief of General Staff threatens new strikes on Hezbollah - Caliber.Az |
+| 2026-05-29 21:03 | Iran | 通报 | Iran | 待确认 | C | Marco Rubio to meet Pakistan's FM Dar in DC to discuss Iran war, negotiations - The Jerusalem Post |
+| 2026-05-29 21:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and Middle East - The Jerusalem Post |
+| 2026-05-29 20:39 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Update: US-Iran 60-Day Proposal to Open Strait of Hormuz Soon? Here’s What the 60 Day Proposal Includes - The Sunday Guardian |
+| 2026-05-29 20:24 | Israel | 通报 | Israel | 待确认 | C | Why U.S. allies aren’t taking Trump seriously after his push for Arab-Israel normalization - NBC News |
+| 2026-05-29 20:04 | Israel | 通报 | Israel | 待确认 | C | Hezbollah lawmaker says no choice but resistance as Israel expands aggression in Lebanon - PressTV |
+| 2026-05-29 19:58 | US | 通报 | Iran | 待确认 | C | US and Iranian negotiators reach tentative deal to extend ceasefire and start new nuclear talks - KAKE |
+| 2026-05-29 19:46 | Israel | 空袭 | Iran | 待确认 | C | Israeli Chief of Staff: Every strike against Hezbollah is a strike against Iran and its investments - MTV Lebanon |
+| 2026-05-29 19:37 | US | 通报 | Iran | 待确认 | C | US, Israel facing 'decline' after Ramadan war: Senior Iranian cleric - PressTV |
+| 2026-05-29 19:34 | US | 通报 | Tehran | 待确认 | C | US-Israel-Iran war latest news: Global energy markets on edge after Trump rejects Iran proposal & Israel declares war against Tehran is 'not over' - MSN |
+| 2026-05-29 19:32 | US | 通报 | Iran | 待确认 | C | Closer to war or to peace? US, Iran near deal on 60-day ceasefire - France 24 |
+| 2026-05-29 19:21 | Israel | 通报 | Iran | 待确认 | C | War breaking news. Iran, Trump shares draft agreement with Israel and other allies - Il Sole 24 ORE |
+| 2026-05-29 19:17 | Israel | 通报 | Israel | 待确认 | C | Israel’s Most Lethal Battlefield Challenge: Hezbollah’s Drone Warfare – WSJ - Palestine Chronicle |
+| 2026-05-29 19:15 | Israel | 通报 | Israel | 待确认 | C | 'History Is on My Side': Why One of Israel's Harshest Internal Critics Still Has Hope - Haaretz |
+| 2026-05-29 18:54 | Israel | 通报 | Iran | 待确认 | C | How Human Rights Concerns Are Reshaping Tourism in the USA, Israel, Gaza, Ukraine, Russia, Lebanon, and Iran - eTurboNews |
+| 2026-05-29 18:50 | Israel | 空袭 | Israel | 待确认 | C | LIVE BLOG: Hezbollah Strikes Israeli Forces as Attacks Intensify in Lebanon, Gaza – Day 90 - Palestine Chronicle |
+| 2026-05-29 18:46 | US | 通报 | Iran | 待确认 | C | The US/Israel-Iran conflict has fundamentally changed oil supply chains - Offshore Technology |
+| 2026-05-29 18:42 | Iran | 通报 | Iran | 待确认 | C | Iran War Updates: U.S. Officials Say They Are Closing In on Arrangement to Reopen Strait of Hormuz - The New York Times |
+| 2026-05-29 18:35 | US | 空袭 | Iran | 伤亡 | C | Us Israel Iran War Latest Live News: 3 Palestinians Killed in Israeli Airstrikes Amid US Iran Ceasefire Efforts - The Sunday Guardian |
+| 2026-05-29 18:28 | Israel | 通报 | Israel | 待确认 | C | How Israel Has Turned Much of Southern Lebanon Into a Civilian No-go Zone - Haaretz |
+| 2026-05-29 18:25 | US | 通报 | Iran | 待确认 | C | US-Iran 60-day proposal: What we know - Al Jazeera |
+| 2026-05-29 18:15 | Israel | 通报 | Israel | 待确认 | C | IDF: One-third of Hezbollah force eliminated, ‘we will not relent’ - israeltoday.co.il |
+| 2026-05-29 18:04 | US | 发射 | Iran | 待确认 | C | US, Iran Near Deal To Reopen Strait Of Hormuz, Launch Nuclear Talks - ABP News |
+| 2026-05-29 17:56 | 未明确 | 通报 | Lebanon | 伤亡 | C | On average 11 children killed or injured every 24 hours in past week in Lebanon, says UN children's agency - Al-Monitor |
+| 2026-05-29 17:51 | Israel | 通报 | Israel | 待确认 | C | Netanyahu directs Israeli forces to expand Gaza control to 70 percent - France 24 |
+| 2026-05-29 17:36 | Iran | 通报 | Iran | 待确认 | C | Iran promises ‘utter ruin’ if war restarts. Here’s what could happen if diplomacy fails - CNN |
+| 2026-05-29 17:28 | Israel | 空袭 | Israel | 待确认 | C | Israel carries out strike on Beirut suburbs, first near capital in weeks - MSN |
+| 2026-05-29 17:08 | US | 发射 | Iran | 待确认 | C | UAE Air Defences Intercept Missiles and Drones Amid US-Israel-Iran Conflict - Newsonair |
+| 2026-05-29 17:05 | US | 空袭 | Israel | 待确认 | C | Lebanon warns IDF strikes on Hezbollah put heritage sites in ‘serious danger’ - The Times of Israel |
+| 2026-05-29 17:00 | Israel | 空袭 | Israel | 命中 | C | Israeli Strike Hits Beirut as Fighting in Lebanon Intensifies - News of Bahrain |
+| 2026-05-29 16:49 | US | 通报 | Iran | 待确认 | C | 50,000 US troops await Trump’s crucial decisions regarding Iran - صوت الإمارات |
+| 2026-05-29 16:41 | Israel | 发射 | 未明确 | 伤亡 | C | IDF officer wounded in Hezbollah drone attack vows return to battlefield - JNS.org |
+| 2026-05-29 16:39 | Israel | 通报 | Israel | 待确认 | C | Israel's military tells residents across southern Lebanon to leave as it fights Hezbollah - AOL.com |
+| 2026-05-29 16:20 | 未明确 | 通报 | 未明确 | 待确认 | C | Middle East war enters fourth day in 'smoke and blood' - The Canberra Times |
+| 2026-05-29 16:19 | Israel | 通报 | Iran | 待确认 | C | Live Coverage of the Iran–U.S.–Israel Conflict / May 29 - WANA News Agency |
