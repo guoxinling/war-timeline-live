@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-06-01 11:37
+更新时间（北京时间）: 2026-06-02 01:30
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-06-01 11:23 | US | 通报 | Iran | 设施受损 | C | Iran war live: US forces fire at ship ‘running Hormuz blockade’ - MSN |
-| 2026-06-01 11:15 | Israel | 通报 | Israel | 待确认 | C | Hezbollah claims attack on Israeli troops in Lebanon - Breakingthenews.net |
-| 2026-06-01 10:56 | Israel | 空袭 | Israel | 待确认 | C | Israeli strike kills at least two at Gaza seaport cafe, medics say - Business Recorder |
-| 2026-06-01 10:53 | US | 通报 | Iran | 待确认 | C | Day 94 / Iran signals progress in US talks as 'Israel' pushes deeper into Lebanon - Roya News |
-| 2026-06-01 10:45 | US | 通报 | Israel | 待确认 | C | US proposes new plan to ease Israel-Lebanon tensions amid fighting - The Straits Times |
-| 2026-06-01 10:39 | Israel | 通报 | Israel | 待确认 | C | Israel Captures Crusader Castle That Symbolized Its Long Lebanon Occupation - The New York Times |
-| 2026-06-01 10:21 | Israel | 通报 | Iran | 待确认 | C | What To Know As Israel's Lebanon Incursion In 25 Years Complicates Iran Deal - NDTV |
-| 2026-06-01 10:19 | Israel | 通报 | Israel | 待确认 | C | Zohran Mamdani skips Israel Day Parade, becoming first NYC mayor in 62 years to break tradition - Firstpost |
-| 2026-06-01 10:12 | US | 通报 | 未明确 | 待确认 | C | Gujarat Titans players survive massive scare as team bus catches fire after IPL 2026 final against RCB - Firstpost |
-| 2026-06-01 10:10 | Israel | 通报 | Israel | 待确认 | C | Israel's targeted killings of Hamas leaders fail to shift Gaza conflict dynamics - MSN |
-| 2026-06-01 10:03 | US | 通报 | Iran | 待确认 | C | 118 vessels redirected, 5 disabled: Centcom gives update on US's naval blockade of Iranian ports - Firstpost |
-| 2026-06-01 09:50 | 未明确 | 通报 | West Bank | 伤亡 | C | Palestinian man shot dead at West Bank barrier - AAP News |
-| 2026-06-01 09:37 | US | 通报 | Iran | 待确认 | C | Central Asia’s forgotten stakes in Iran-Israel-US peace - Amwaj.media |
-| 2026-06-01 09:30 | Iran | 通报 | Iran | 待确认 | C | Could Trump’s Iran ‘excursion’ be a bigger global turning point than Vietnam? - The Guardian |
-| 2026-06-01 09:17 | 未明确 | 通报 | 未明确 | 待确认 | C | Brazil monitors 2 patients for possible Ebola infection in São Paulo and Rio de Janeiro - Firstpost |
-| 2026-06-01 08:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and Middle East - The Jerusalem Post |
-| 2026-06-01 07:58 | US | 通报 | Tehran | 待确认 | C | Fact check: Is the Iran-US war ending? Tehran sets new terms as US truce hangs by a thread via Pakistan mediation - MSN |
-| 2026-06-01 07:28 | Iran | 通报 | Iran | 待确认 | C | Iran restores gas production at three offshore platforms - Business Recorder |
-| 2026-06-01 07:23 | US | 通报 | Iran | 伤亡 | C | Fourth US service member killed in Iran operation - MSN |
-| 2026-06-01 07:17 | 未明确 | 通报 | Lebanon | 待确认 | C | 'Castle capture a dramatic shift in Lebanon offensive' - 香港電台新聞網 |
-| 2026-06-01 06:48 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran war latest news: Will the Strait of Hormuz blockade continue until an Iran deal is signed? - MSN |
-| 2026-06-01 06:39 | Israel | 通报 | Israel | 待确认 | C | Israel seizes castle in Lebanon as it expands ground offensive - BBC |
-| 2026-06-01 06:26 | Israel | 通报 | Israel | 待确认 | C | Hezbollah's 'game changing' night-hunting weapon punches through Israel's defenses: expert - Fox News |
-| 2026-06-01 06:17 | Israel | 通报 | Israel | 待确认 | C | Israeli forces push further into south Lebanon, seize Beaufort castle - upi.com |
-| 2026-06-01 05:39 | Israel | 通报 | Israel | 待确认 | C | Israel PM says capturing Beaufort ‘dramatic shift’ in Lebanon offensive - Free Malaysia Today |
-| 2026-06-01 05:34 | US | 通报 | Iran | 待确认 | C | The US war in Iran and its consequences - The Express Tribune |
-| 2026-06-01 05:27 | US | 通报 | Iran | 待确认 | C | Geopolitical Shockwaves: How the US-Israel-Iran War is Disrupting Global Markets - MarketExpress |
-| 2026-06-01 05:19 | Israel | 空袭 | Israel | 待确认 | C | Israeli strikes and Hezbollah attacks escalate as political tensions grow - MSN |
-| 2026-06-01 05:05 | Israel | 通报 | Israel | 命中 | C | Netanyahu orders deeper Israeli incursion into Lebanon to hit Hezbollah - Japan Today |
-| 2026-06-01 04:48 | 未明确 | 通报 | 未明确 | 待确认 | C | U.S. Military Is Quietly Guiding Ships Through the Strait of Hormuz - The New York Times |
-| 2026-06-01 04:29 | US | 通报 | Iran | 待确认 | C | Israel crosses deeper into Lebanon as Iran-US negotiations continue / World News - Hindustan Times |
-| 2026-06-01 04:28 | Israel | 通报 | Iran | 待确认 | C | Israel expands Lebanon assault with Iran-U.S. talks in balance - Fortune |
-| 2026-06-01 04:27 | 未明确 | 通报 | 未明确 | 待确认 | C | Supreme leader hard to find as Trump wants peace plan rewrites - Australian Broadcasting Corporation |
-| 2026-06-01 04:21 | US | 发射 | Iran | 设施受损 | C | Iran-Israel war: US launches another strike on Iran, targeting military facility and drones - MSN |
-| 2026-06-01 04:19 | Israel | 通报 | Israel | 待确认 | C | Israeli army captures strategic castle in Lebanon in deepest incursion into the country in a quarter-century - CBC |
-| 2026-06-01 04:15 | Israel | 发射 | Iran | 命中 | C | Iran reopens most entrances to 18 underground missile sites struck in war – report - The Times of Israel |
-| 2026-06-01 04:07 | Israel | 通报 | Iran | 待确认 | C | Qatar provides lifeline to Iran's collapsing economy - www.israelhayom.com |
-| 2026-06-01 04:06 | US | 撤离 | Iran | 待确认 | C | US-Israel-Iran war latest news: Trump chairs cabinet meeting amid Iran 'hybrid warfare' claims; Israel issues fresh evacuation warning in Nabatieh - MSN |
-| 2026-06-01 04:03 | 未明确 | 通报 | 未明确 | 待确认 | C | Asia's Premier News Agency - India News, Business & Political, National & International, Bollywood, Sports - ANI News |
-| 2026-06-01 04:01 | Israel | 通报 | Israel | 待确认 | C | ‘Dramatic shift’: Israel pushes into Lebanon, seizes historic castle - Herald Sun |
+| 2026-06-02 01:28 | Israel | 通报 | Iran | 待确认 | C | War breaking news. Iran: 'Stop talks until Israel stops in Lebanon and Gaza' - Il Sole 24 ORE |
+| 2026-06-02 01:19 | Israel | 通报 | Iran | 待确认 | C | Iran Guards threaten 'new fronts' over Israel's Lebanon offensive - Region - World - Ahram Online |
+| 2026-06-02 01:15 | US | 通报 | Jerusalem | 待确认 | C | Hezbollah wants ceasefire with Israel, Lebanese parliament speaker tells US - The Jerusalem Post |
+| 2026-06-02 01:11 | US | 通报 | Israel | 待确认 | C | The reality of US-Israel relations—Part 2 - World Socialist Web Site |
+| 2026-06-02 01:09 | Israel | 通报 | Iran | 待确认 | C | Iran's Supreme Leader adviser warns Lebanon escalation will not be tolerated amid Israeli offensive - Moneycontrol.com |
+| 2026-06-02 01:08 | US | 空袭 | Iran | 待确认 | C | Iran warns US ceasefire could collapse over Israeli strikes in Lebanon - Moneycontrol.com |
+| 2026-06-02 01:07 | Israel | 通报 | Israel | 待确认 | C | Hezbollah prepared to accept truce that would allow IDF to remain in south Lebanon — report - The Times of Israel |
+| 2026-06-02 01:06 | Israel | 空袭 | Israel | 命中 | C | Israeli strikes hit southern Lebanon as Hezbollah steps up attacks - شفق نيوز |
+| 2026-06-02 00:57 | Israel | 通报 | Israel | 待确认 | C | IRGC threatens to open 'new fronts' amid Israel’s offensive in Lebanon; Hezbollah will not stop shelling northern Israel, source close to party says - L'Orient Today |
+| 2026-06-02 00:46 | Israel | 通报 | Israel | 待确认 | C | Houthis said to be ready to join Hezbollah fight against Israel - AzerNews |
+| 2026-06-02 00:45 | Hezbollah | 通报 | 未明确 | 待确认 | C | Hezbollah ready for 'full and immediate ceasefire,' Lebanese official says - ynetnews |
+| 2026-06-02 00:45 | Israel | 发射 | Israel | 命中 | C | Israel orders strikes on Beirut’s southern suburbs as Hezbollah rockets hit northern Israel - The Tribune-Democrat |
+| 2026-06-02 00:33 | US | 发射 | Iran | 待确认 | C | U.S. Intercepts Iran Missiles Aimed At American Forces In Kuwait - Floridian Press |
+| 2026-06-02 00:27 | Israel | 发射 | Israel | 伤亡 | C | IDF says it killed Hezbollah missile commander in Monday south Lebanon strike - The Times of Israel |
+| 2026-06-02 00:23 | Israel | 通报 | Israel | 待确认 | C | Israel's Netanyahu orders attacks in Beirut's southern suburbs - Reuters |
+| 2026-06-02 00:10 | Israel | 通报 | Iran | 待确认 | C | LIVE BLOG: Iran Adds Gaza to Agenda, Suspends Talks as Hezbollah Targets Israeli Command HQ - Day 93 - Palestine Chronicle |
+| 2026-06-01 23:58 | US | 通报 | Iran | 待确认 | C | Iran suspends talks with US over Israel’s attacks on Hezbollah, - media reports - Цензор.НЕТ |
+| 2026-06-01 23:55 | US | 空袭 | Iran | 待确认 | C | Iran live updates: IRGC claims airbase attack after US 'self-defense' strikes - MSN |
+| 2026-06-01 23:51 | US | 通报 | Iran | 待确认 | C | Iran suspends US talks over Israel's attacks in Lebanon, reports say - Journal & Courier |
+| 2026-06-01 23:46 | US | 通报 | Iran | 待确认 | C | Iran halts talks with US, says it will close Bab el-Mandeb Strait: Report - Middle East Eye |
+| 2026-06-01 23:41 | US | 通报 | Israel | 待确认 | C | European diplomat warns Israel is ignoring US red lines in Lebanon - www.israelhayom.com |
+| 2026-06-01 23:34 | Israel | 通报 | Israel | 待确认 | C | Lebanese official told U.S. that Hezbollah ready for full ceasefire with Israel - Axios |
+| 2026-06-01 23:31 | Israel | 空袭 | Israel | 待确认 | C | Israel Orders New Strikes on Beirut Suburbs as Lebanon Fighting Escalates - Kurdistan24 |
+| 2026-06-01 23:22 | Israel | 空袭 | Israel | 待确认 | C | Israel orders strikes on Beirut’s southern suburbs as Hezbol... - Standard Democrat |
+| 2026-06-01 23:13 | US | 通报 | Iran | 待确认 | C | Iran suspends negotiations via mediators with US – Report - Vanguard News |
+| 2026-06-01 23:12 | Israel | 空袭 | Iran | 待确认 | C | Iran stopping indirect talks with U.S. in protest of Israeli strikes on Lebanon - CBC |
+| 2026-06-01 23:12 | Israel | 空袭 | Israel | 待确认 | C | Hezbollah drone strikes IDF post near northern town of Rosh Hanikra - The Times of Israel |
+| 2026-06-01 23:07 | US | 通报 | Iran | 待确认 | C | Iran halts peace talks with US over Israeli operations in Lebanon - Firstpost |
+| 2026-06-01 23:05 | US | 发射 | Iran | 待确认 | C | Iranian State Media Says Talks With US Suspended as Missiles Fired at US Forces During Ceasefire - Mediaite |
+| 2026-06-01 23:04 | Israel | 通报 | Iran | 待确认 | C | Israel orders evacuation of southern Beirut as Iran reportedly suspends talks - Al-Monitor |
+| 2026-06-01 23:03 | Israel | 通报 | Israel | 待确认 | C | TV7 Editor’s Note: Jonathan hosts Mossad’s former Intelligence Chief BGEN Dr. Amnon Sofrin - TV7 Israel News |
+| 2026-06-01 22:56 | Iran | 通报 | Tehran | 待确认 | C | Iranian media: Tehran suspends peace negotiations - The Australian |
+| 2026-06-01 22:50 | Israel | 发射 | Israel | 伤亡 | C | IDF soldier killed, three others wounded in Hezbollah drone attack in south Lebanon - The Times of Israel |
+| 2026-06-01 22:50 | US | 通报 | Iran | 命中 | C | US says it struck Iranian military targets in recent days after drone downed in international waters - The Times of Israel |
+| 2026-06-01 22:48 | Israel | 通报 | Iran | 待确认 | C | Iran truce on the rocks as Israel presses into Lebanon - Free Malaysia Today |
+| 2026-06-01 22:38 | US | 通报 | Iran | 待确认 | C | Iran Freezes US Peace Talks, Ramps Up Waterway Blockade Threats As Israel Advances In Lebanon - Tampa Free Press |
+| 2026-06-01 22:33 | Israel | 撤离 | Beirut | 待确认 | C | IDF issues rare Dahieh evacuation warning as Beirut residents flee Hezbollah stronghold - ynetnews |
+| 2026-06-01 22:28 | US | 通报 | Iran | 待确认 | C | Iran breaks off negotiations with the US until Israel stops its attacks in Lebanon - Demócrata |
+| 2026-06-01 22:27 | US | 通报 | Iran | 待确认 | C | Iran stopping messages to US, may block Hormuz - Tasnim news agency - Arab News |
+| 2026-06-01 22:26 | US | 空袭 | Israel | 待确认 | C | Israel says it will renew strikes on Hezbollah in Beirut after lobbying for US green light - The Times of Israel |
