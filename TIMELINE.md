@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-06-03 00:14
+更新时间（北京时间）: 2026-06-03 11:40
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-06-03 00:11 | Israel | 空袭 | Israel | 待确认 | C | Israel strikes southern Lebanon but partial truce with Hezbollah appears to hold - BBC |
-| 2026-06-02 23:43 | Israel | 通报 | Israel | 待确认 | C | Israel, Hezbollah trade blows despite Trump declaring deal - Yahoo |
-| 2026-06-02 23:42 | Israel | 空袭 | Israel | 伤亡 | C | Israel Threatens to Strike Beirut; Four Killed in Lebanon, Report Says - Haaretz |
-| 2026-06-02 23:41 | 未明确 | 通报 | Lebanon | 待确认 | C | Escalation in southern Lebanon eases - Shafaq News / Latest breaking news in Iraq and the world - شفق نيوز |
-| 2026-06-02 23:41 | US | 通报 | Israel | 命中 | C | Trump claims Israel and Hezbollah will de-escalate; White House narrows Medicaid work exemption; Kenya protests U.S. Ebola quarantine facility - Drop Site News |
-| 2026-06-02 23:33 | Israel | 通报 | Israel | 待确认 | C | Israel says it is holding off on striking Beirut after U.S. request - The Washington Post |
-| 2026-06-02 23:32 | Iran | 通报 | Iran | 待确认 | C | Iran reviewing proposed Trump deal to halt war as Lebanon attacks continue - CBC |
-| 2026-06-02 23:27 | Israel | 通报 | Iran | 待确认 | C | Iran stops talking to mediators over Israel fighting Hezbollah in Lebanon, Iranian reports say - The Tribune-Democrat |
-| 2026-06-02 23:17 | Israel | 通报 | Israel | 待确认 | C | Hezbollah Repels Israeli Advance in Hadatha; Hospital Attack Toll Rises - Palestine Chronicle |
-| 2026-06-02 23:17 | Israel | 通报 | Israel | 待确认 | C | Why is Israel escalating attacks in Lebanon - China Military Online |
-| 2026-06-02 23:10 | Israel | 空袭 | Israel | 待确认 | C | Netanyahu faces criticism after Trump halts Israeli strikes on Beirut - Reuters |
-| 2026-06-02 22:55 | Israel | 通报 | Israel | 待确认 | C | Israel kills 8 in attacks on Lebanon after Trump announces de-escalation - Al Jazeera |
-| 2026-06-02 22:52 | Israel | 空袭 | Israel | 待确认 | C | Israel Strikes Southern Lebanon After Pulling Back From Threat to Beirut - GV Wire |
-| 2026-06-02 22:18 | Israel | 空袭 | Israel | 待确认 | C | Israel strikes south Lebanon after stepping back from Beirut attack - Reuters |
-| 2026-06-02 22:02 | Israel | 通报 | Israel | 待确认 | C | Israel, Hezbollah exchange fresh attacks despite Trump's promise of de-escalation - India Today |
-| 2026-06-02 21:58 | Israel | 空袭 | Israel | 待确认 | C | Israel strikes south Lebanon after holding off Beirut attack - Devdiscourse |
-| 2026-06-02 21:51 | Israel | 通报 | Iran | 待确认 | C | Israel and Iran Step Back From Threats After Day of Tension - The New York Times |
-| 2026-06-02 21:47 | Israel | 通报 | Jerusalem | 待确认 | C | Israel will not attack Hezbollah, no IDF troops to attack Beirut, Donald Trump declares - The Jerusalem Post |
-| 2026-06-02 21:34 | Israel | 通报 | Israel | 待确认 | C | Trump said to yell at Netanyahu: ‘You’re f**king crazy. You’d be in prison if not for me’ - The Times of Israel |
-| 2026-06-02 21:10 | Israel | 通报 | Israel | 待确认 | C | Israel kills 8 in Lebanon, a day after Trump said Israel and Hezbollah will de-escalate - AP News |
-| 2026-06-02 21:07 | Israel | 空袭 | Israel | 待确认 | C | Israel strikes south Lebanon after holding off Beirut attack - Internazionale |
-| 2026-06-02 20:52 | US | 通报 | Israel | 待确认 | C | Israel says US backs striking Beirut suburbs if Hezbollah attacks north - Arab News |
-| 2026-06-02 20:41 | Israel | 空袭 | Iran | 待确认 | C | Iran Suspends U.S. Talks And Threatens Full Hormuz Blockade After Israeli Strikes In Lebanon - Marine Insight |
-| 2026-06-02 20:40 | Israel | 通报 | Israel | 待确认 | C | Israel kills 8 in southern Lebanon, a day after Trump said Israel and Hezbollah will de-escalate - Audacy |
-| 2026-06-02 20:30 | US | 通报 | Israel | 待确认 | C | Israel says US backs striking Beirut suburbs if Hezbollah attacks - Al-Monitor |
-| 2026-06-02 20:30 | US | 通报 | Israel | 待确认 | C | Israel says US backs striking Beirut suburbs if Hezbollah attacks north - Naharnet |
-| 2026-06-02 20:29 | Israel | 发射 | Israel | 待确认 | C | Israeli defense minister again threatens to strike Beirut in response to Hezbollah launches - JNS.org |
-| 2026-06-02 20:23 | Israel | 空袭 | Israel | 待确认 | C | Israeli strikes kills 8 in southern Lebanon after Trump says Hezbollah agreed to halt fire - KTUL |
-| 2026-06-02 20:04 | Israel | 空袭 | Israel | 待确认 | C | Israeli strikes kill 8 in southern Lebanon after Trump says Hezbollah agreed to halt fire - National News Desk |
-| 2026-06-02 20:03 | US | 通报 | Iran | 待确认 | C | CENTCOM has redirected 121 vessels, disabled 5 in Iran blockade - JNS.org |
-| 2026-06-02 19:53 | Israel | 空袭 | Israel | 待确认 | C | Israel strikes south Lebanon after holding off Beirut attack - Forth.News |
-| 2026-06-02 19:50 | Israel | 空袭 | Israel | 待确认 | C | Israel strikes southern Lebanon after holding off Beirut attack - The Straits Times |
-| 2026-06-02 19:50 | Israel | 空袭 | Israel | 待确认 | C | Israel strikes south Lebanon after holding off Beirut attack - The Straits Times |
-| 2026-06-02 19:47 | Israel | 通报 | Iran | 待确认 | C | Iran latest: Trump says Israel and Hezbollah have agreed to scale back fighting amid negotiations - LiveNOW from FOX |
-| 2026-06-02 19:37 | Israel | 通报 | Israel | 待确认 | C | Hezbollah and IDF trade fire despite nominal truce as Lebanon-Israel talks to resume - The Times of Israel |
-| 2026-06-02 19:35 | US | 通报 | Israel | 待确认 | C | Israel says US backs striking Beirut suburbs if Hezbollah attacks north - Bangladesh Sangbad Sangstha (BSS) |
-| 2026-06-02 19:34 | Israel | 通报 | Israel | 待确认 | C | Israel and Hezbollah trade new attacks despite Trump promise of de-escalation - NBC News |
-| 2026-06-02 19:30 | Israel | 通报 | Israel | 待确认 | C | Trump says Israel, Hezbollah to stop fighting: What we know - Al Jazeera |
-| 2026-06-02 19:17 | Israel | 通报 | Israel | 待确认 | C | Israel kills 8 in Lebanon after Trump said Israel and Hezbollah agreed to de-escalate - MS NOW |
-| 2026-06-02 19:01 | Israel | 通报 | Israel | 待确认 | C | Lebanon parliament speaker says he would guarantee Hezbollah’s commitment to ‘global ceasefire’ with Israel - Middle East Eye |
+| 2026-06-03 11:28 | Israel | 通报 | Israel | 待确认 | C | Clashes Continue In Lebanon Despite Israel-Hezbollah Ceasefire Deal - Arise News |
+| 2026-06-03 11:27 | US | 拦截 | Iran | 待确认 | C | US-Iran War Live Updates: US intercepts Iranian drones in Kuwait after conducting ‘self-defence’ strikes - The Indian Express |
+| 2026-06-03 10:54 | US | 通报 | Iran | 待确认 | C | West Asia Conflict: CENTCOM Disables Iran-Bound Oil Tanker Amid US Naval Blockade; Israel-Hezbollah Clashes - Free Press Journal |
+| 2026-06-03 10:40 | Iran | 通报 | Iran | 待确认 | C | Hostilities flare up again in Iran war; talks at a stalemate - The Straits Times |
+| 2026-06-03 10:33 | US | 通报 | Iran | 待确认 | C | Iran attacks US targets in the Gulf - US military reports counterattacks - blue News |
+| 2026-06-03 10:30 | US | 发射 | Iran | 拦截 | C | Successfully Defeated: CENTCOM Says Iranian Missile & Drone Attacks On Kuwait & Bahrain Were Intercepted; US - Free Press Journal |
+| 2026-06-03 10:17 | US | 发射 | Iran | 设施受损 | C | Iran fires missiles and US strikes Iran facility after reports of faltering peace talks - AP News |
+| 2026-06-03 10:06 | 未明确 | 通报 | Lebanon | 待确认 | C | Lebanon conflict rages despite partial truce - China Daily - Global Edition |
+| 2026-06-03 09:56 | Iran | 发射 | Iran | 待确认 | C | U.S. military says it has ‘defeated’ Iran missile, drone attacks in Gulf - The Hindu |
+| 2026-06-03 09:55 | US | 空袭 | Iran | 待确认 | C | US conducts ‘defensive’ strikes against Iran after attacks across Gulf - The Times |
+| 2026-06-03 09:54 | US | 通报 | Tehran | 待确认 | C | Iran war: Tehran evaluates US peace proposal as Israel-Lebanon talks get underway - Anadolu Ajansı |
+| 2026-06-03 09:48 | Israel | 通报 | Israel | 待确认 | C | Israel, Hezbollah trade blows as diplomats meet in Washington - arabnews.jp |
+| 2026-06-03 09:45 | US | 通报 | Iran | 待确认 | C | CENTCOM says it downed multiple drones during fresh Iranian attack on US troops in Kuwait - The Times of Israel |
+| 2026-06-03 09:43 | US | 发射 | Iran | 待确认 | C | US intercepts Iranian missiles targeting Kuwait, Bahrain; launches strike on Qeshm Island - MSN |
+| 2026-06-03 09:41 | Israel | 通报 | Iran | 待确认 | C | Israel and Iran Step Back From Threats After Day of Tension - The New York Times |
+| 2026-06-03 09:39 | Iran | 通报 | Iran | 待确认 | C | Iran's active nuclear operations have halted amid conflict: IAEA chief - Business Standard |
+| 2026-06-03 09:37 | Iran | 通报 | Iran | 待确认 | C | Why Lebanon remains a threat to Trump’s Iran diplomacy - Gulf News |
+| 2026-06-03 09:32 | US | 通报 | Iran | 待确认 | C | Iran Targets US Bases in Kuwait and Bahrain After US Bombs Oil Tanker and Qeshm Island - news.antiwar.com |
+| 2026-06-03 09:30 | US | 通报 | Tehran | 命中 | C | Did Iran hit the US Fifth Fleet in Bahrain? Tehran says yes, Centcom says no - Firstpost |
+| 2026-06-03 09:30 | US | 通报 | Iran | 待确认 | C | Why Benjamin Netanyahu poses an obstacle to US and Iran peace deal - The Guardian |
+| 2026-06-03 09:30 | Israel | 空袭 | Israel | 待确认 | C | Israel strikes southern Lebanon despite Trump’s effort to shore up ceasefire - The Guardian |
+| 2026-06-03 09:23 | US | 发射 | Iran | 待确认 | C | Gulf hostilities flare as US swats down Iranian missiles and drones - SBS Australia |
+| 2026-06-03 09:18 | US | 发射 | Iran | 待确认 | C | US and Iran launch new strikes as ceasefire negotiations stall - BBC |
+| 2026-06-03 09:14 | US | 通报 | Iran | 待确认 | C | US and Iran exchange new attacks as sides locked in stalemate - South China Morning Post |
+| 2026-06-03 09:08 | US | 发射 | Iran | 待确认 | C | US says thwarts Iranian missile and drone attacks after strikes on target in Strait of Hormuz - Le Monde.fr |
+| 2026-06-03 08:50 | Iran | 通报 | Iran | 待确认 | C | U.S., Iran intensify attacks as ceasefire frays, peace talks stall - CNBC |
+| 2026-06-03 08:46 | Iran | 空袭 | Iran | 待确认 | C | U.S. and Iran trade strikes amid talks to end war - AOL.com |
+| 2026-06-03 08:42 | US | 发射 | Iran | 待确认 | C | US forces intercept Iranian missiles and drones — CENTCOM - TRT World |
+| 2026-06-03 08:35 | Iran | 通报 | Iran | 待确认 | C | Rubio details U.S. demands as Iran peace talks falter - The Washington Post |
+| 2026-06-03 08:20 | US | 发射 | Iran | 待确认 | C | US, partner forces intercept Iranian missiles, drones: Central Command - Anadolu Ajansı |
+| 2026-06-03 08:12 | US | 发射 | Iran | 待确认 | C | Iran fires missiles at Kuwait, Bahrain after US strikes oil tanker trying to breach naval blockade - The Times of Israel |
+| 2026-06-03 08:04 | Iran | 通报 | Iran | 待确认 | C | Hostilities flare again in Iran war, talks at a stalemate - GMA Network |
+| 2026-06-03 08:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and Middle East - The Jerusalem Post |
+| 2026-06-03 07:55 | US | 发射 | Iran | 待确认 | C | US says Iranian missile attacks on Kuwait and Bahrain failed, confirms striking Qeshm Island - The Times of Israel |
+| 2026-06-03 07:48 | Israel | 通报 | Iran | 待确认 | C | Growing Israel-Hezbollah Conflict Complicates U.S.-Iran Negotiations - The Washington Stand |
+| 2026-06-03 07:42 | Iran | 通报 | Iran | 待确认 | C | Iran studying deal to halt war as stalemate persists - arabnews.jp |
+| 2026-06-03 07:39 | US | 通报 | Iran | 待确认 | C | US-Iran talks appear stalled as Trump claims otherwise - DW.com |
+| 2026-06-03 07:36 | US | 发射 | Iran | 待确认 | C | US and Iran launch fresh strikes amid stalled ceasefire talks - The Guardian |
+| 2026-06-03 07:34 | Israel | 通报 | Israel | 待确认 | C | Israel, Hezbollah trade blows as diplomats meet in Washington - The Korea Times |
+| 2026-06-03 07:26 | Iran | 发射 | Iran | 待确认 | C | Explosions rock Iran's Qeshm Island as Kuwait intercepts a wave of missile attacks - TRT World |
