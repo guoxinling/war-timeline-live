@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-06-04 22:49
+更新时间（北京时间）: 2026-06-05 10:58
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-06-04 22:41 | US | 通报 | Iran | 待确认 | C | Expansion / Khamenei claims unity and firmness before the "hybrid war" of the US and Israel to "weaken" Iran - Demócrata |
-| 2026-06-04 22:37 | Israel | 通报 | Israel | 待确认 | C | Hezbollah denounces Israel-Lebanon ceasefire deal as a ‘farce’ - The Washington Post |
-| 2026-06-04 22:32 | Israel | 通报 | Iran | 待确认 | C | Media: Israeli Mossad used captured Hamas arms in anti-Iran operation - Caliber.Az |
-| 2026-06-04 22:31 | Israel | 通报 | Israel | 待确认 | C | Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon - BBC |
-| 2026-06-04 22:29 | US | 通报 | Iran | 待确认 | C | West Asia conflict / US, Israel faced 'decisive blow', says Iranian leader Mojtaba Khamenei - Deccan Herald |
-| 2026-06-04 22:23 | Israel | 撤离 | Israel | 待确认 | C | Hezbollah chief rejects truce, demands Israeli withdrawal from Lebanon - Yahoo |
-| 2026-06-04 22:16 | US | 通报 | Iran | 待确认 | C | Iran footballers describe how war with US-Israel affects their World Cup - Al Jazeera |
-| 2026-06-04 22:11 | Israel | 通报 | Lebanon | 伤亡 | C | War breaking news. Blue helmet killed in Lebanon. Idf: it was Hezbollah (which rejects truce agreement) - Il Sole 24 ORE |
-| 2026-06-04 22:11 | Iran | 通报 | Iran | 待确认 | C | Hezbollah rejection clouds Lebanon ceasefire and prospects for ending Iran war - The Straits Times |
-| 2026-06-04 22:07 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and Middle East - The Jerusalem Post |
-| 2026-06-04 22:07 | US | 通报 | Israel | 待确认 | C | Hezbollah noncommittal to Lebanon-Israel ceasefire after US breakthrough - Al-Monitor |
-| 2026-06-04 22:05 | Israel | 撤离 | Israel | 待确认 | C | Hezbollah rejects ceasefire agreement and demands Israel withdraw from Lebanon - Hackney Gazette |
-| 2026-06-04 21:56 | Iran | 通报 | Iran | 待确认 | C | Trump slams bid to curb war powers, says Iran talks in 'final' phase - Australian Broadcasting Corporation |
-| 2026-06-04 21:56 | Israel | 通报 | Israel | 待确认 | C | Sirens sound in northern Israel amid Hezbollah attack - Breakingthenews.net |
-| 2026-06-04 21:52 | Israel | 通报 | Israel | 待确认 | C | Israel continues bombing Lebanon despite ceasefire extension: ‘We have freedom of action’ - EL PAÍS English |
-| 2026-06-04 21:52 | Israel | 通报 | Israel | 待确认 | C | Israel and Lebanon agree to conditional ceasefire - Al Jazeera |
-| 2026-06-04 21:51 | 未明确 | 通报 | 未明确 | 待确认 | C | Lebanese Ceasefire Anticipated as Ben-Gvir Calls Agreement a 'Big Mistake' – Key Developments - Palestine Chronicle |
-| 2026-06-04 21:50 | Israel | 通报 | Iran | 待确认 | C | Iran war: Hezbollah rejects Lebanon-Israel ceasefire terms - dw.com |
-| 2026-06-04 21:37 | US | 发射 | Israel | 待确认 | C | Hezbollah rejects US-backed ceasefire as Israel launches new attacks on Lebanon - India Today |
-| 2026-06-04 21:33 | Israel | 通报 | Israel | 待确认 | C | Hezbollah calls for comprehensive ceasefire in Lebanon without 'Israel having freedom to kill' - The New Indian Express |
-| 2026-06-04 21:31 | Israel | 通报 | Jerusalem | 待确认 | C | Hezbollah warns northern Israel unsafe as Lebanon villages bombed - The Jerusalem Post |
-| 2026-06-04 21:30 | Israel | 通报 | Israel | 待确认 | C | Lebanon watches helplessly as ceasefire between Israel and Hezbollah unravels within a day - The Straits Times |
-| 2026-06-04 21:29 | Israel | 撤离 | Iran | 待确认 | C | Iran demands Israeli withdrawal to pre-war positions in Lebanon - TRT World |
-| 2026-06-04 21:25 | Israel | 空袭 | Israel | 待确认 | C | Hezbollah rejects ceasefire plan declared in Washington, Israel keeps up strikes - Reuters |
-| 2026-06-04 21:20 | Hezbollah | 通报 | 未明确 | 待确认 | C | Hezbollah rejects ceasefire plan declared in Washington - The Korea Times |
-| 2026-06-04 21:19 | Israel | 空袭 | Israel | 待确认 | C | Hezbollah rejects latest ceasefire agreement as Israeli strikes kill 4 in Lebanon - MSN |
-| 2026-06-04 21:17 | US | 空袭 | Iran | 待确认 | C | Live Updates: War returns to Iran with Israel, US strikes - Dawn |
-| 2026-06-04 21:17 | US | 撤离 | Iran | 待确认 | C | US-Israel-Iran War Latest News: ‘Eliminating Israel Is Achievable,’ Says IRGC as It Backs Hezbollah & Demands Israeli Withdrawal – What Does It Mean for Ceasefire Efforts? - The Sunday Guardian |
-| 2026-06-04 21:15 | Israel | 空袭 | Israel | 待确认 | C | Hezbollah rejects latest ceasefire agreement as Israeli strikes kill 4 in Lebanon - The Tribune-Democrat |
-| 2026-06-04 21:11 | Hezbollah | 通报 | Lebanon | 待确认 | C | Did Trump really secure Hezbollah backing for Lebanon ceasefire? - The New Arab |
-| 2026-06-04 21:07 | Israel | 通报 | Israel | 待确认 | C | Hezbollah rejects Lebanon ceasefire brokered by U.S., Israeli military says it will continue attacks - CBC |
-| 2026-06-04 21:07 | US | 通报 | Iran | 待确认 | C | Trump slams ‘unpatriotic’ vote to end US military action in Iran - Anadolu Ajansı |
-| 2026-06-04 21:00 | Israel | 空袭 | Israel | 待确认 | C | Hezbollah Rejects Latest Ceasefire Agreement As Israeli Strikes Kill 4 In Lebanon - ETV Bharat |
-| 2026-06-04 20:58 | US | 通报 | Jerusalem | 待确认 | C | US brokers Israel-Lebanon ceasefire and military 'pilot zones' plan - The Jerusalem Post |
-| 2026-06-04 20:54 | Israel | 空袭 | Israel | 待确认 | C | Hezbollah rejects ceasefire deal as Israeli strikes kill 4 in Lebanon - United News of Bangladesh |
-| 2026-06-04 20:48 | Israel | 通报 | Israel | 待确认 | C | Israel pulls out of southern Lebanese town under ceasefire framework - شفق نيوز |
-| 2026-06-04 20:47 | Iran | 通报 | Iran | 待确认 | C | Oil prices fall 3% on report Trump reluctant to restart Iran war - CNBC |
-| 2026-06-04 20:41 | Israel | 撤离 | Israel | 待确认 | C | Hezbollah rejects latest ceasefire agreement and demands Israel withdraw from Lebanon - NBC News |
-| 2026-06-04 20:40 | Israel | 空袭 | Israel | 待确认 | C | Hezbollah rejects latest ceasefire agreement as Israeli strikes kill 4 in Lebanon - WFMZ.com |
-| 2026-06-04 20:28 | 未明确 | 通报 | 未明确 | 待确认 | C | Gulf Leaders Push Washington Away From Netanyahu’s War Strategy - The Media Line |
+| 2026-06-05 10:45 | US | 通报 | Iran | 待确认 | C | US Israel Iran War Latest Update: Iran Threatens Retaliation, Suspends US Negotiations Over Israeli Attacks in Lebanon - HinduPost |
+| 2026-06-05 10:15 | Israel | 通报 | Israel | 待确认 | C | Hezbollah rejects ‘humiliating’ cease-fire deal secured by Israel and Lebanon - AOL.com |
+| 2026-06-05 10:04 | Israel | 通报 | Israel | 待确认 | C | Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon - Somoy News |
+| 2026-06-05 09:44 | Israel | 通报 | Israel | 待确认 | C | Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon - BBC |
+| 2026-06-05 09:35 | Israel | 发射 | Israel | 待确认 | C | On Cam: Israeli Army Searches, Hunts, Advances; Then Comes Unexpected Hezbollah Missile Attack - The Times of India |
+| 2026-06-05 09:31 | US | 通报 | Iran | 待确认 | C | Oman resists US pressure to break ties with Iran over strait of Hormuz - The Guardian |
+| 2026-06-05 09:01 | Iran | 通报 | Iran | 待确认 | C | What Does Iran Want? An Expert Explains - Zeteo / Substack |
+| 2026-06-05 09:00 | US | 通报 | Iran | 待确认 | C | US-Iran War Live Updates: Trump open to meeting Iran's Supreme Leader, says he's 'not his favorite person' - CNBC TV18 |
+| 2026-06-05 08:59 | Israel | 空袭 | Israel | 待确认 | C | Hezbollah Rejects Latest Ceasefire Agreement as Israeli Strikes Kill 4 in Lebanon - Deccan Chronicle |
+| 2026-06-05 08:39 | Israel | 通报 | Israel | 待确认 | C | Hezbollah Rejects Cease-Fire Deal Between Lebanon and Israel - The New York Times |
+| 2026-06-05 08:23 | Israel | 通报 | Israel | 待确认 | C | Hezbollah rejects Israel-Lebanon ceasefire as Trump attempts to ease tensions in West Asia - Firstpost |
+| 2026-06-05 08:10 | US | 通报 | Iran | 待确认 | C | US House votes for measure that would end Iran war, in blow to Trump - The Business Standard |
+| 2026-06-05 08:02 | Israel | 空袭 | Israel | 待确认 | C | Lebanon ceasefire unravels as Hezbollah rejects truce; Israeli strikes kill eight a day after announcement - WION |
+| 2026-06-05 07:57 | US | 空袭 | Israel | 待确认 | C | 'Emerged From Rubble': Araghchi's Chilling Survival Story, Reveals How He Escaped Us-Israeli Strike - The Times of India |
+| 2026-06-05 07:39 | US | 通报 | Israel | 待确认 | C | Democrat fails to block US measure to deepen Israel military cooperation - Al Jazeera |
+| 2026-06-05 07:37 | Israel | 通报 | Israel | 待确认 | C | Lebanon and Israel have agreed to a ceasefire, but what about Hezbollah? - Unpacked |
+| 2026-06-05 07:30 | US | 通报 | Israel | 待确认 | C | Hezbollah rejects US-mediated ceasefire as ‘surrender to Israel’ - The Times |
+| 2026-06-05 07:21 | Iran | 空袭 | Tehran | 待确认 | C | Iranians strike wartime tone of defiance in massive Tehran rally - TRT World |
+| 2026-06-05 07:13 | US | 通报 | Lebanon | 待确认 | C | Dems help defeat Rashida Tlaib's puzzling Lebanon war powers resolution — where US is 'not in conflict' - New York Post |
+| 2026-06-05 07:13 | Israel | 通报 | Iran | 命中 | C | The United Nations says one of its peacekeepers was killed and two others wounded when their base in southern Lebanon was hit by mortar shells. The man a Serbian national was killed amid fighting between Israel and the Iran-backed militant group Hezboll - facebook.com |
+| 2026-06-05 07:11 | Iran | 通报 | Iran | 待确认 | C | Hezbollah rejects Lebanon truce, dims Iran peace hopes - Neos Kosmos |
+| 2026-06-05 07:09 | US | 通报 | Israel | 待确认 | C | Lebanon latest: Hezbollah rejects US plan as Israel continues attacks / AJ #shorts - Modern Ghana |
+| 2026-06-05 07:03 | Hezbollah | 撤离 | 未明确 | 待确认 | C | Hezbollah’s threat after rejecting truce: ‘Full withdrawal or new attacks’ - Daily Telegraph Sydney |
+| 2026-06-05 06:50 | US | 通报 | Iran | 待确认 | C | Progress in US-Iran talks stalls after Hezbollah rejects truce - The Straits Times |
+| 2026-06-05 06:50 | US | 通报 | Iran | 待确认 | C | US-Iran talks stall as Hezbollah rejects truce - The Straits Times |
+| 2026-06-05 06:39 | Israel | 发射 | Iran | 待确认 | C | Qatar Joins Saudi Arabia, United Arab Emirates, Kuwait, Bahrain, Oman, Israel and More on U.S. Travel Advisory List as Iran Conflict Spurs Heightened Security Risks, Missile Threats and Regional Travel Disruptions Across the Middle East - Travel And Tour World |
+| 2026-06-05 06:39 | Israel | 通报 | Israel | 待确认 | C | As Israel And Lebanon Come To An Agreement, Hezbollah Has Other Plans - AOL.com |
+| 2026-06-05 06:35 | Israel | 通报 | Israel | 待确认 | C | LIVE BLOG: Hezbollah Destroys Tank, Kills Israeli Officer as Fighting Escalates in Lebanon - Day 97 - Palestine Chronicle |
+| 2026-06-05 06:28 | Iran | 通报 | Iran | 待确认 | C | Trump says he would be 'honoured' to meet Iran's supreme leader if deal is reached - TRT World |
+| 2026-06-05 06:12 | Israel | 通报 | Israel | 待确认 | C | Hind Rajab Foundation seeks arrest of Israeli reservist visiting India - The Business Standard |
+| 2026-06-05 06:01 | Iran | 通报 | Iran | 待确认 | C | Iran Insists Ceasefire Talks Ongoing, Denies Bombing Kuwait - breitbart.com |
+| 2026-06-05 05:31 | Iran | 通报 | Iran | 伤亡 | C | Iran Inflicts U.S. Casualties, Halts Talks and Challenges Trump’s Authority in the Gulf - mintpressnews.com |
+| 2026-06-05 05:24 | Iran | 通报 | Iran | 待确认 | C | Rice: Iran war has left ‘weaker, more confused’ regime - The Hill |
+| 2026-06-05 05:23 | Israel | 通报 | Israel | 待确认 | C | Hezbollah denounces Israel-Lebanon ceasefire deal as a ‘farce’ - The Washington Post |
+| 2026-06-05 05:21 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live Updates: Iran Leader Claims America & Israel Suffered ‘Decisive Blow’ as Talks Face Fresh Uncertainty - The Sunday Guardian |
+| 2026-06-05 05:17 | Israel | 通报 | Israel | 待确认 | C | Israel Will Continue Operations in Lebanon Despite Ceasefire, Defense Minister Says - mb.ntd.com |
+| 2026-06-05 05:01 | Israel | 空袭 | Israel | 待确认 | C | Hezbollah rejects latest ceasefire agreement as Israeli strikes kill 4 in Lebanon - MSN |
+| 2026-06-05 05:00 | US | 通报 | Iran | 待确认 | C | 'Militarily Or On Paper': Trump Says US Will Win Iran War, Hints At Meeting Mojtaba Khamenei - News18 |
+| 2026-06-05 05:00 | Israel | 空袭 | Israel | 待确认 | C | Hezbollah rejects latest ceasefire agreement as Israeli strikes kill 4 in Lebanon - AP News |
+| 2026-06-05 04:53 | Israel | 通报 | Israel | 伤亡 | C | Lebanon drama: 127,000 displaced people. Hezbollah refuses truce with Israel. Blue helmet killed - Il Sole 24 ORE |
