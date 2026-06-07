@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-06-06 21:23
+更新时间（北京时间）: 2026-06-07 11:28
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-06-06 21:02 | US | 发射 | Iran | 待确认 | C | US Israel Iran War Latest Live News: Trump Says Iran Still Has 21% to 22% of Its Missiles Despite Months of Conflict and Strikes - The Sunday Guardian |
-| 2026-06-06 21:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and Middle East - The Jerusalem Post |
-| 2026-06-06 20:48 | 未明确 | 通报 | 未明确 | 待确认 | C | Gill becomes first Indian to achieve rare feat after slamming century on Day 1 against Afghanistan - Firstpost |
-| 2026-06-06 20:48 | Israel | 空袭 | Israel | 待确认 | C | Israeli airstrike on southern Lebanon kills Lebanese troops days after ceasefire began - CBC |
-| 2026-06-06 20:45 | Israel | 空袭 | Israel | 待确认 | C | Israeli strike kills three Lebanese soldiers - France 24 |
-| 2026-06-06 20:44 | US | 空袭 | Iran | 待确认 | C | Kuwait, Bahrain under fire after US's fresh strikes on Hormuz, Iranian islands - India Today |
-| 2026-06-06 20:42 | Israel | 空袭 | Israel | 待确认 | C | Israeli strike kills three Lebanese soldiers, army says - The Straits Times |
-| 2026-06-06 20:38 | US | 通报 | 未明确 | 待确认 | C | US blocks Pakistan-China bid to list BLA, Majeed Brigade under UN terror sanctions: Report - Firstpost |
-| 2026-06-06 20:30 | 未明确 | 通报 | 未明确 | 待确认 | C | FIFA World Cup 2026: Why experts are warning fans not to drink alcohol - Firstpost |
-| 2026-06-06 20:26 | 未明确 | 通报 | 未明确 | 待确认 | C | A blood test that predicts lung cancer 5 years early? What we know so far - Firstpost |
-| 2026-06-06 20:19 | Israel | 空袭 | Israel | 伤亡 | C | Lebanese soldiers killed in Israeli strike, as military probe incident - Irish Independent |
-| 2026-06-06 20:11 | Israel | 空袭 | Israel | 伤亡 | C | General among three Lebanese soldiers killed by Israeli strike in south Lebanon - The National |
-| 2026-06-06 20:02 | Israel | 空袭 | Israel | 待确认 | C | Israeli strikes kill 9 in south Lebanon, including 3 army officers; Aoun condemns - The Indian Express |
-| 2026-06-06 20:00 | 未明确 | 拦截 | 未明确 | 拦截 | C | Russia says 25 drones shot down over Leningrad as St Petersburg hosts economic forum - Firstpost |
-| 2026-06-06 20:00 | US | 发射 | Iran | 待确认 | C | US Israel Iran War Latest Update: US Shoots Down Four Iranian Drones, Launches Strikes on Radar Sites at Qeshm Island and Goruk - The Sunday Guardian |
-| 2026-06-06 19:58 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live Updates: Will Trump Meet Iran’s Supreme Leader Mojtaba Khamenei? Iranian Foreign Minister Abbas Araghchi Responds: ‘Live in the Real World’ - The Sunday Guardian |
-| 2026-06-06 19:58 | 未明确 | 发射 | 未明确 | 待确认 | C | Ukraine launches massive drone attack on Russia as Putin rules out meeting with Zelenskyy - Firstpost |
-| 2026-06-06 19:45 | 未明确 | 通报 | 未明确 | 待确认 | C | Ebola outbreak nears 500 cases in Central Africa as WHO warns epidemic is accelerating - Firstpost |
-| 2026-06-06 19:38 | Israel | 通报 | Israel | 命中 | C | Lebanon slams Israel for killing 2 officers, soldier as IDF says it struck LAF vehicle suspecting Hezbollah activity - i24NEWS |
-| 2026-06-06 19:38 | US | 空袭 | Iran | 待确认 | C | Bahrain, Kuwait condemn Iranian attacks after US strikes, warn of dangerous escalation - Firstpost |
-| 2026-06-06 19:25 | Israel | 空袭 | Israel | 待确认 | C | Israeli strike kills two Lebanese army officers, soldier - The New Region |
-| 2026-06-06 19:18 | Israel | 空袭 | 未明确 | 待确认 | C | IDF: Strike targeted Hezbollah, not Lebanese army - Breakingthenews.net |
-| 2026-06-06 19:17 | Israel | 空袭 | Israel | 待确认 | C | Tensions Surge as Israeli Strike Kills Lebanese Officers - Devdiscourse |
-| 2026-06-06 19:17 | Israel | 空袭 | Israel | 待确认 | C | Israeli strike kills three Lebanese soldiers, military probes incident - Reuters |
-| 2026-06-06 19:15 | US | 空袭 | Iran | 待确认 | C | US-Israel-Iran war latest update: Who are the 4 Republicans Trump slammed for backing a resolution to limit Iran military strikes? - MSN |
-| 2026-06-06 19:13 | US | 空袭 | Iran | 待确认 | C | Iran and US trade strikes in further test of ceasefire - The Times |
-| 2026-06-06 19:11 | Israel | 空袭 | Israel | 伤亡 | C | Hezbollah condemns Israeli strike that killed Lebanese Army officers and soldier - LBCI Lebanon |
-| 2026-06-06 19:09 | US | 发射 | Iran | 待确认 | C | U.S. attacks Iranian sites after Iran launches drones, in latest Gulf flare-up - CNBC |
-| 2026-06-06 19:03 | US | 发射 | Iran | 待确认 | C | Trump says Iran retains only 21%-22% of missile stockpile after US strikes - Anadolu Ajansı |
-| 2026-06-06 18:57 | Israel | 通报 | Israel | 伤亡 | C | Lebanon says three soldiers killed in Israeli attack on car - BBC |
-| 2026-06-06 18:56 | US | 通报 | Iran | 伤亡 | C | The Heat: Middle East Conflict / US-Iran talks deadlocked - Modern Ghana |
-| 2026-06-06 18:55 | Israel | 空袭 | Israel | 伤亡 | C | Lebanese Soldiers Killed in Israeli Strike Despite Truce - Enab Baladi |
-| 2026-06-06 18:53 | Israel | 空袭 | Israel | 待确认 | C | Israeli airstrikes kill 9 including Lebanese army officers after ceasefire deal - The Tribune-Democrat |
-| 2026-06-06 18:40 | Israel | 通报 | Israel | 待确认 | C | Israel, Hezbollah continue to trade attacks - Naharnet |
-| 2026-06-06 18:39 | Israel | 空袭 | Israel | 待确认 | C | Israeli strike kills Lebanese army general, two soldiers; IDF says incident under review - The Times of Israel |
-| 2026-06-06 18:35 | US | 通报 | Iran | 待确认 | C | From manufacturing consent to masking defeat: Iran International in service of US-Israeli war machine - PressTV |
-| 2026-06-06 18:33 | US | 通报 | Tehran | 待确认 | C | US-Israel-Iran war latest news: Iran-US peace talks stall over $24 billion in frozen assets - Tehran warns of escalation & Strait of Hormuz tensions - MSN |
-| 2026-06-06 18:33 | Israel | 空袭 | Israel | 伤亡 | C | Lebanese soldiers, officer killed in Israeli strike on their vehicle - Naharnet |
-| 2026-06-06 18:31 | Israel | 空袭 | Israel | 伤亡 | C | Lebanese soldiers killed in Israeli strike, says army - ARY News |
-| 2026-06-06 18:21 | Iran | 发射 | Iran | 待确认 | C | Air raid sirens in Bahrain as Iranian missiles, drones head for Gulf neighbors - The Tribune-Democrat |
+| 2026-06-07 11:04 | US | 发射 | Iran | 待确认 | C | Day 100 / Ceasefire faces further strain as US and Iran launch new strikes - Roya News |
+| 2026-06-07 10:43 | Iran | 通报 | Iran | 待确认 | C | live U.S. weighs Iranian assets for Gulf reconstruction - AnewZ |
+| 2026-06-07 10:41 | US | 通报 | Iran | 待确认 | C | US Plans To Tap Seized Iranian Funds for Gulf Allies’ War Recovery Amid Faltering Ceasefire: Report - LatestLY |
+| 2026-06-07 10:33 | Israel | 通报 | Israel | 待确认 | C | Hezbollah claims fresh attacks on Israeli forces in southern Lebanon - Middle East Eye |
+| 2026-06-07 10:25 | Israel | 空袭 | Israel | 待确认 | C | Israeli strike kills three Lebanese soldiers - The Korea Herald |
+| 2026-06-07 10:16 | Iran | 发射 | Iran | 待确认 | C | Iran launched missiles and drones toward Strait of Hormuz, U.S. military says - The Washington Post |
+| 2026-06-07 10:14 | US | 通报 | Iran | 待确认 | C | CENTCOM shoots down two Iranian drones over Strait of Hormuz - Israel National News |
+| 2026-06-07 10:10 | Israel | 通报 | Israel | 待确认 | C | Israel, Lebanon agree to conditional ceasefire - MSN |
+| 2026-06-07 09:59 | Israel | 通报 | Iran | 待确认 | C | Lebanese Leaders Rebuke Iran as Israel, Hezbollah Trade Attacks - Asharq Al-Awsat English |
+| 2026-06-07 09:49 | 未明确 | 空袭 | Beirut | 待确认 | C | Netanyahu faces backlash after shelving Beirut strike plans following Trump call - The Business Standard |
+| 2026-06-07 09:45 | Israel | 空袭 | Israel | 待确认 | C | Hezbollah Drone Swarm Targets Israeli Military Base Near Lebanon Border; 'Search, Spot & Strike' - The Times of India |
+| 2026-06-07 09:38 | Israel | 空袭 | Israel | 待确认 | C | Israel PM orders strikes on Beirut suburbs as Hezbollah conflict escalates - AOL.com |
+| 2026-06-07 09:35 | US | 通报 | Iran | 待确认 | C | Pope Leo says US-Israeli war against Iran does not qualify as a ‘just war’ - Firstpost |
+| 2026-06-07 09:24 | US | 空袭 | Iran | 待确认 | C | Live Updates: War returns to Iran with Israel, US strikes - Dawn |
+| 2026-06-07 09:20 | US | 通报 | Iran | 待确认 | C | US likely to use Iranian assets to help Gulf allies recover from war - Business Standard |
+| 2026-06-07 09:18 | US | 空袭 | Iran | 待确认 | C | Iran and US trade strikes in further test of ceasefire - The Times |
+| 2026-06-07 09:09 | US | 通报 | Iran | 待确认 | C | Live - US forces down two Iranian drones near Strait of Hormuz, CENTCOM says - ایران اینترنشنال |
+| 2026-06-07 09:02 | Iran | 通报 | Iran | 待确认 | C | Iran studying deal to halt war, as Trump says talks going on continuously - The Business Standard |
+| 2026-06-07 08:52 | Israel | 空袭 | Israel | 待确认 | C | Israeli strike kills three soldiers in south Lebanon - Dawn |
+| 2026-06-07 08:28 | Israel | 通报 | Iran | 待确认 | C | Diverging Allies: Is Israel Driving America Toward Endless Conflict With Iran? – OpEd - Eurasia Review |
+| 2026-06-07 08:09 | Israel | 通报 | Israel | 待确认 | C | Trump’s Defense Department Sees Growing Espionage Threat From Israel - The New York Times |
+| 2026-06-07 08:09 | Israel | 通报 | Israel | 命中 | C | After Trump's call, Netanyahu says Israel will hit Beirut if Hezbollah does not stop attacks - MSN |
+| 2026-06-07 08:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and Middle East - The Jerusalem Post |
+| 2026-06-07 07:55 | US | 通报 | Iran | 待确认 | C | US flags Israeli spying risk at highest level as differences grow over Iran conflict - The Indian Express |
+| 2026-06-07 06:58 | US | 通报 | Iran | 待确认 | C | Iran says for conflict to end, the US and Israel must stop fighting with Hezbollah - Modern Ghana |
+| 2026-06-07 06:55 | US | 通报 | Iran | 待确认 | C | Iranian regime will fall sooner or later, but US stopped war too early, ex-Mossad agent says - The Times of Israel |
+| 2026-06-07 06:52 | Israel | 发射 | Israel | 待确认 | C | LIVE BLOG: Hezbollah Launches 25 Operations as Israel Intensifies Strikes on Lebanon - Day 99 - Palestine Chronicle |
+| 2026-06-07 06:50 | US | 通报 | Iran | 待确认 | C | US and Israel clash with Iran at emergency UN meeting - The Canberra Times |
+| 2026-06-07 06:47 | Israel | 通报 | Israel | 待确认 | C | Israel and Lebanon agree to renew ceasefire if Hezbollah cuts off attacks - MSN |
+| 2026-06-07 06:25 | US | 通报 | Iran | 待确认 | C | Blackouts, hyperinflation, dissent: Iran considers perilous prospect of peace - The Guardian |
+| 2026-06-07 06:22 | Iran | 通报 | Iran | 待确认 | C | Treasury Department plans to use Iranian assets to help U.S. Gulf allies recover, source says - CBS News |
+| 2026-06-07 06:16 | Israel | 通报 | Iran | 命中 | C | Bahrain, Kuwait hit by Iran salvoes; Israel bombs South Lebanon - The New Arab |
+| 2026-06-07 06:09 | US | 通报 | Israel | 待确认 | C | Hezbollah rejection throws US-brokered Lebanon-Israel truce into doubt - MSN |
+| 2026-06-07 06:04 | Israel | 通报 | Israel | 待确认 | C | Israeli attacks in Lebanon kill 12 people, including high-ranking officers - Al Jazeera |
+| 2026-06-07 06:00 | Israel | 通报 | Israel | 待确认 | C | Israel’s new assault lets Hezbollah tighten its grip on Lebanon - The Times |
+| 2026-06-07 05:30 | US | 通报 | Iran | 待确认 | C | Pope criticizes US-Israeli war on Iran - Daily Times |
+| 2026-06-07 05:23 | Israel | 通报 | Israel | 伤亡 | C | Lebanese general among three soldiers killed in Israeli attack on car - BBC |
+| 2026-06-07 05:22 | US | 通报 | Israel | 待确认 | C | Pentagon said to raise threat level on Israel spying to ‘critical’ - Al Jazeera |
+| 2026-06-07 05:20 | Israel | 发射 | Tehran | 设施受损 | C | Iran launches missile and drone attacks across Gulf as Israel strikes Tehran infrastructure - News On AIR |
+| 2026-06-07 05:04 | Israel | 通报 | Israel | 待确认 | C | Analysis: What happens next in Lebanon as Hezbollah rejects ceasefire with Israel? - Arab News |
