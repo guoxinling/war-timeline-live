@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-06-10 10:57
+更新时间（北京时间）: 2026-06-10 23:23
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-06-10 10:17 | Israel | 空袭 | Israel | 伤亡 | C | Lebanon says 11 dead in Israeli strikes on Tyre - Free Malaysia Today |
-| 2026-06-10 10:11 | US | 空袭 | Iran | 待确认 | C | Trump blocks Netanyahu's Iran strike, exposing US-Israel rift / Videos - Hindustan Times |
-| 2026-06-10 10:03 | Israel | 通报 | Israel | 待确认 | C | Ben-Gvir's kidnap plot exposes Israel's struggles against Hezbollah / Videos - Hindustan Times |
-| 2026-06-10 09:52 | US | 通报 | Iran | 待确认 | C | US attacks Iran after Apache helicopter downed in Strait of Hormuz - Al Jazeera |
-| 2026-06-10 09:49 | US | 发射 | Iran | 待确认 | C | US launches new strikes on Iran after helicopter downed - Yahoo |
-| 2026-06-10 09:38 | US | 空袭 | Tehran | 待确认 | C | US strikes Iran after Trump blames Tehran for downing Army helicopter - AP News |
-| 2026-06-10 09:08 | US | 空袭 | Iran | 待确认 | C | US has completed retaliatory strikes against Iran, CENTCOM says - The Times of Israel |
-| 2026-06-10 08:46 | US | 空袭 | Iran | 待确认 | C | Live Updates: War returns to Iran with Israel, US strikes - Dawn |
-| 2026-06-10 08:38 | Israel | 通报 | Israel | 待确认 | C | Israeli displacement strategy empties Tyre's Christian quarter for first time - The National |
-| 2026-06-10 08:33 | US | 空袭 | Iran | 待确认 | C | US strikes Iran in response to downing of helicopter, military says - BBC |
-| 2026-06-10 08:33 | US | 发射 | Iran | 待确认 | C | Oil rises nearly 1% as US launches new strikes against Iran, supply tightens - Reuters |
-| 2026-06-10 08:05 | US | 发射 | Iran | 待确认 | C | US military launches ‘self-defence strikes’ targeting Iran - Al Jazeera |
-| 2026-06-10 07:46 | Israel | 发射 | Israel | 待确认 | C | Israeli Military Authorized To Strike Beirut In Response To Rocket Fire From Lebanon - Eurasia Review |
-| 2026-06-10 07:25 | Iran | 通报 | Iran | 待确认 | C | Trump Warns Netanyahu Against Escalating Conflict With Iran - Tempo.co English |
-| 2026-06-10 07:17 | US | 空袭 | Iran | 待确认 | C | US Strikes Iran After Helicopter Downing Near Strait of Hormuz - Kyiv Post |
-| 2026-06-10 06:43 | US | 发射 | Iran | 待确认 | C | US launches new strikes on Iran after helicopter downed - The Detroit News |
-| 2026-06-10 06:32 | US | 通报 | Iran | 待确认 | C | BREAKING: U.S. Attacks Iran - The American Conservative |
-| 2026-06-10 06:28 | Iran | 空袭 | Iran | 待确认 | C | U.S. Strikes Iran After Trump Vows to Retaliate for Downed Helicopter - The New York Times |
-| 2026-06-10 06:20 | Iran | 通报 | Iran | 待确认 | C | ‘Hezbollah Was Meant To Help Iran, Not the Opposite,’ Haifa University Professor Tells TML - The Media Line |
-| 2026-06-10 06:19 | US | 通报 | Iran | 待确认 | C | JD Vance claims US ‘very close’ to peace deal with Iran - The Guardian |
-| 2026-06-10 06:12 | Iran | 空袭 | Iran | 待确认 | C | U.S. says it has begun strikes against Iran following crash of Army Apache helicopter off Oman coast - PBS |
-| 2026-06-10 06:05 | US | 通报 | 未明确 | 待确认 | C | LIVE BLOG: Trump Says Deal is Close as US Helicopter Crashes near Strait of Hormuz - Day 101 - Palestine Chronicle |
-| 2026-06-10 05:50 | US | 通报 | Iran | 设施受损 | C | Senior Iranian lawmaker says regional energy infrastructure could be targeted if US attacks Iran - Anadolu Ajansı |
-| 2026-06-10 05:46 | US | 空袭 | Iran | 待确认 | C | US Responds To Downing Of Helicopter With Strikes On Iran - Radio Free Europe/Radio Liberty |
-| 2026-06-10 05:39 | US | 发射 | Iran | 待确认 | C | US launches strikes on Iran after Apache helicopter attack - World Israel News |
-| 2026-06-10 05:38 | US | 空袭 | Iran | 待确认 | C | US strikes Iran in response to helicopter downing - www.israelhayom.com |
-| 2026-06-10 05:34 | Israel | 通报 | Iran | 待确认 | C | To Bring Down Iran, America and Israel Must Change Tack - Middle East Forum |
-| 2026-06-10 05:31 | US | 发射 | Iran | 待确认 | C | US launches strikes on Iran after Apache helicopter downing, says CENTCOM - Moneycontrol.com |
-| 2026-06-10 05:27 | US | 发射 | Iran | 待确认 | C | CENTCOM launches strikes on Iran following Apache helicopter downing - Israel National News |
-| 2026-06-10 05:23 | US | 发射 | Iran | 拦截 | C | US Launches Strikes Against Iran After Helicopter Shot Down - Bloomberg.com |
-| 2026-06-10 05:00 | 未明确 | 通报 | 未明确 | 待确认 | C | Opinion / Everybody Is a Loser in This Middle East War - The New York Times |
-| 2026-06-10 04:56 | Israel | 通报 | Iran | 待确认 | C | Analysis: Iran, Israel use Lebanon to test deterrence, negotiating power - upi.com |
-| 2026-06-10 04:50 | Iran | 通报 | Iran | 待确认 | C | Trump and Netanyahu Clash over Iran War Exit Strategy - 조선일보 |
-| 2026-06-10 04:42 | Israel | 通报 | Iran | 待确认 | C | The Resistance Responds: Iran, Yemen and Hezbollah Reshape Battlefield in Lebanon Against Israeli attacks - mintpressnews.com |
-| 2026-06-10 04:40 | US | 通报 | Iran | 待确认 | C | DEVELOPING / Trump vows response after Iran shoots down US helicopter - News24 |
-| 2026-06-10 04:14 | 未明确 | 通报 | 未明确 | 待确认 | C | Bowen: Trump and Netanyahu wanted to reshape the Middle East - now they risk a permacrisis - BBC |
-| 2026-06-10 04:02 | Iran | 拦截 | Iran | 拦截 | C | War, latest news. Al Jazeera: ‘Panic in Tiro; the Christian neighbourhood had never been evacuated before’. Trump: ‘Iran shot down our helicopter; we will respond’ - Il Sole 24 ORE |
-| 2026-06-10 03:58 | Israel | 空袭 | Iran | 待确认 | C | Israeli strike on Tyre kills eight amid Iran warning - MSN |
-| 2026-06-10 03:45 | Israel | 空袭 | Iran | 待确认 | C | DW News. . After Israel and Iran attacked each other following Israeli strikes in Beirut, people in Tel Aviv are trying to go back to a tense 'normal.' Many say they are tired of what they feel is an 'endless' war, but are skeptical a lasting agreement is possible. #dwc - facebook.com |
-| 2026-06-10 03:26 | US | 通报 | Tehran | 待确认 | C | Trump says 'US must respond' to Iran downing army helicopter near Hormuz; Tehran warns of 'risks' - The New Indian Express |
+| 2026-06-10 23:19 | Iran | 空袭 | Iran | 待确认 | C | Middle East peace talks in doubt as Iran says it needs to ‘reassess’ after overnight strikes - The Guardian |
+| 2026-06-10 23:17 | Iran | 空袭 | Iran | 待确认 | C | Latest war news. Trump set to order new strikes against Iran - Il Sole 24 ORE |
+| 2026-06-10 23:05 | Israel | 空袭 | Iran | 待确认 | C | Netanyahu called off major Iran strike after Trump warned Israel would be on its own — reports - The Times of Israel |
+| 2026-06-10 23:03 | US | 通报 | Iran | 待确认 | C | How does the Iran war end? US and Israeli leaders at odds over priorities - Middle East Matters - France 24 |
+| 2026-06-10 22:44 | Israel | 空袭 | Israel | 待确认 | C | Israeli strikes in southern Lebanon kill 17, reports say - BBC |
+| 2026-06-10 22:29 | US | 通报 | Iran | 待确认 | C | US-BROKERED TRUCE HOLDS AS ISRAEL, IRAN STEP BACK FROM FULL-SCALE WAR - PressReader |
+| 2026-06-10 22:23 | Israel | 通报 | Iran | 待确认 | C | Live Coverage of the Iran–U.S.–Israel Conflict / June 10 - WANA News Agency |
+| 2026-06-10 22:15 | Israel | 通报 | Iran | 命中 | C | How has the U.S. and Israel-Iran war impacted goods globally? / story / Kids News - CBC |
+| 2026-06-10 21:58 | US | 通报 | Iran | 待确认 | C | Live blog - US-Israeli war on Iran - TRT World |
+| 2026-06-10 21:48 | Israel | 通报 | Israel | 待确认 | C | Israel's Netanyahu to seek re-election despite Trump doubts, war strains - Bangladesh Sangbad Sangstha (BSS) |
+| 2026-06-10 21:45 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Update: FM Abbas Araghchi Calls US-Backed UN Resolution on Iran’s Nuclear Programme ‘Politically Motivated’, Warns IAEA Not to Become a ‘US Political Instrument’ - The Sunday Guardian |
+| 2026-06-10 21:42 | Iran | 通报 | Tehran | 待确认 | C | Trump says Iran will 'pay the price' for stalled talks, as U.S. and Tehran trade fire - PBS |
+| 2026-06-10 21:37 | Iran | 通报 | Iran | 待确认 | C | Qatari delegation arrives in Iran for talks on bilateral ties, regional developments - Anadolu Ajansı |
+| 2026-06-10 21:24 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: UN High Commissioner for Human Rights Volker Türk Says, ‘Investigators Will Probe Possible International Law Breaches by All Sides in Lebanon Conflict’ - The Sunday Guardian |
+| 2026-06-10 21:19 | US | 空袭 | Tehran | 待确认 | C | As US and Iran trade strikes, Trump says Tehran will ‘pay the price’ for stalled talks - AP News |
+| 2026-06-10 21:15 | US | 通报 | Iran | 待确认 | C | US-Israel Conflict with Iran Expected to Last Until October - Tempo.co English |
+| 2026-06-10 21:03 | US | 发射 | Tehran | 待确认 | C | US launches airstrikes on Iran after blaming Tehran for helicopter crash, prompting retaliation - MSN |
+| 2026-06-10 21:02 | Israel | 通报 | Iran | 待确认 | C | Iran war 'back at square one', says former Israeli prime minister Olmert - The National |
+| 2026-06-10 20:47 | 未明确 | 通报 | 未明确 | 待确认 | C | 'Last person to preach morality': Netanyahu's explosive attack on Turkey's Erdoğan - Mathrubhumi English |
+| 2026-06-10 20:45 | Israel | 通报 | Israel | 待确认 | C | Netanyahu will stand in Israel's next national election, his party says - Modern Ghana |
+| 2026-06-10 20:29 | Iran | 通报 | Iran | 待确认 | C | Why is Hezbollah still important for Iran? - DW.com |
+| 2026-06-10 20:17 | Israel | 空袭 | Israel | 待确认 | C | Israeli strike kills three Lebanese soldiers - The Business Standard |
+| 2026-06-10 20:09 | US | 空袭 | Iran | 待确认 | C | US strikes and Iran fires back as Trump says it will pay price for stalled talks - BreakingNews.ie |
+| 2026-06-10 20:09 | Iran | 通报 | Iran | 待确认 | C | Trump accuses Iran of taking 'too long' to negotiate peace deal - Yahoo |
+| 2026-06-10 20:07 | US | 发射 | Iran | 待确认 | C | Jordan Joins Qatar, Saudi Arabia, Bahrain, Kuwait, Israel, Oman, Turkey and Others as Iran Launches Massive Retaliatory Attacks Against US Bases Across the Gulf Raising Fears of a Wider Middle East War Threatening Aviation, Energy Routes and Regional - Travel And Tour World |
+| 2026-06-10 20:00 | US | 通报 | Iran | 待确认 | C | Netanyahu caught between the US, Lebanon war, and Iran ceasefire - Al Jazeera |
+| 2026-06-10 19:52 | US | 通报 | Iran | 待确认 | C | Apache down, fighting up: What the latest US-Iran attacks mean - Al Jazeera |
+| 2026-06-10 19:47 | Israel | 通报 | Iran | 待确认 | C | A Timeline of the Escalating Tensions Between Iran and Israel over Lebanon - Asharq Al-Awsat English |
+| 2026-06-10 19:35 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: Iran President Masoud Pezeshkian Says ‘War is Definitely Not in the Country’s Interest,’ Cites Khamenei’s Support for Continued Talks - The Sunday Guardian |
+| 2026-06-10 19:33 | Israel | 通报 | Iran | 待确认 | C | Lebanese leaders rebuke Iran as Israel, Hezbollah trade attacks - MSN |
+| 2026-06-10 19:30 | Israel | 通报 | Iran | 待确认 | C | U.S.-Iran-Israel Conflict Escalates After Ceasefire Breaks Down - The Maine Wire |
+| 2026-06-10 19:11 | US | 空袭 | Iran | 待确认 | C | US completes wave of retaliatory strikes against Iran - JNS.org |
+| 2026-06-10 19:00 | Israel | 通报 | Israel | 待确认 | C | Hebrew newspaper: Israeli army is drawing up plans for a large-scale invasion of Gaza - صوت الإمارات |
+| 2026-06-10 18:58 | Israel | 空袭 | Iran | 待确认 | C | Iran and Israel Exchange Strikes for First Time Since April Cease-Fire - The New York Times |
+| 2026-06-10 18:49 | Israel | 通报 | Iran | 待确认 | C | Hezbollah Becomes the Tripwire in Israel-Iran Escalation - The Media Line |
+| 2026-06-10 18:46 | US | 通报 | Iran | 待确认 | C | Iran Attacks US Bases In Jordan And Bahrain - Channels Television |
+| 2026-06-10 18:33 | Israel | 空袭 | Israel | 待确认 | C | Israeli airstrike kills eight in historic Lebanese city of Tyre - Big News Network.com |
+| 2026-06-10 18:30 | Iran | 通报 | Iran | 待确认 | C | How the Iran war could drive conflicts in countries thousands of miles away - vox.com |
+| 2026-06-10 18:25 | Iran | 通报 | Iran | 待确认 | C | Hamas pushes to link Gaza to Iran war deals, but Palestinians unconvinced - The New Arab |
+| 2026-06-10 18:25 | US | 发射 | Tehran | 待确认 | C | War, latest news. Iran: US strikes on naval bases, radar stations and artillery batteries. Tehran responds with missile strikes on Bahrain, Kuwait and Jordan - Il Sole 24 ORE |
