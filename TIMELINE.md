@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-06-13 10:57
+更新时间（北京时间）: 2026-06-13 21:50
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-06-13 10:35 | US | 拦截 | Iran | 待确认 | C | US military intercepts Iran attack drones over Strait of Hormuz - The News International |
-| 2026-06-13 09:49 | Iran | 通报 | Iran | 待确认 | C | Iran peace deal looms while new military action flares near Strait of Hormuz - Free Malaysia Today |
-| 2026-06-13 09:30 | US | 通报 | Tehran | 待确认 | C | US-Iran peace deal remains elusive as Trump and Tehran trade conflicting claims - The Guardian |
-| 2026-06-13 08:53 | Iran | 通报 | Iran | 待确认 | C | EXCLUSIVE: The Iran War Critic Under Investigation by the Trump Administration - The Free Press |
-| 2026-06-13 08:51 | Iran | 通报 | Iran | 待确认 | C | Deal to end fighting would lead to Hormuz reopening, Iran says - BBC |
-| 2026-06-13 08:30 | Israel | 撤离 | Iran | 待确认 | C | Israel rules out withdrawal from Lebanon, Syria and Gaza; Iran says proposed deal includes all fronts - WION |
-| 2026-06-13 08:16 | Israel | 通报 | Iran | 待确认 | C | How Netanyahu's war on Iran redraws Israel's political fault lines - news.cgtn.com |
-| 2026-06-13 07:52 | US | 通报 | Iran | 待确认 | C | Strategic Analysis Australia Director Michael Shoebridge claims Hezbollah and Israel not being included in the deal between the US and Iran is a “big problem”. - facebook.com |
-| 2026-06-13 07:41 | US | 通报 | Iran | 待确认 | C | UAE to unlock frozen Iranian funds amid US ceasefire push: Sources - Al Jazeera |
-| 2026-06-13 07:38 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Update: US-Iran Nuclear Negotiations Will Go On for ‘Long Time’, Says Ex-US Ambassador - The Sunday Guardian |
-| 2026-06-13 07:15 | US | 通报 | Iran | 待确认 | C | From Escalation to Fragile Ceasefire: The US-Israel-Iran Standoff - Il Mattino |
-| 2026-06-13 07:10 | Iran | 通报 | Iran | 待确认 | C | The U.S. and Iran Might Actually Have a Deal - The Atlantic |
-| 2026-06-13 07:06 | Iran | 通报 | Tehran | 待确认 | C | U.S. and Iran signal peace deal close as reports suggest terms appear to favour Tehran - CBC |
-| 2026-06-13 06:45 | US | 通报 | Iran | 待确认 | C | Iran’s war of attrition with the US leaves Israel stuck between delay and decision - Ynetnews |
-| 2026-06-13 06:36 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: ‘Just Days Away?’ Iranian FM Abbas Araghchi Drops Major Hint on US Memorandum Amid Strait of Hormuz Tensions - The Sunday Guardian |
-| 2026-06-13 06:34 | Iran | 通报 | Tehran | 待确认 | C | U.S., Iran signal peace deal near as Tehran claims victory - Reuters |
-| 2026-06-13 06:30 | Israel | 空袭 | Israel | 待确认 | C | Hezbollah drone strikes military zone in northern Israel; no injuries reported - MSN |
-| 2026-06-13 06:29 | Iran | 通报 | Iran | 待确认 | C | Is a U.S.-Iran Deal Within Reach? Six Key Issues That Could Shape a Ceasefire - Council on Foreign Relations |
-| 2026-06-13 06:13 | US | 空袭 | Iran | 待确认 | C | LIVE BLOG: US-Iran Draft Agreement Expands to Lebanon amid Ongoing Israeli Strikes - Day 105 - Palestine Chronicle |
-| 2026-06-13 05:58 | Iran | 通报 | Iran | 待确认 | C | Washington Roundup: Trump seeks off-ramp for Iran war; pro-lifers seek Planned Parenthood defund - OSV News |
-| 2026-06-13 05:49 | US | 通报 | Iran | 待确认 | C | US and Iran have agreed to wording of a deal to end their war, Pakistan’s prime minister says - The Miami Times |
-| 2026-06-13 05:30 | US | 通报 | Iran | 待确认 | C | Pakistan says US and Iran agree on 'final text' to end war - Yeni Şafak English |
-| 2026-06-13 05:29 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Update: Iran Demands IRR 12.6 Quadrillion Deal to End Conflict, Rejects Strait of Hormuz Concessions as Trump Calls Regime ‘Pathetic’ - The Sunday Guardian |
-| 2026-06-13 05:29 | US | 发射 | 未明确 | 伤亡 | C | 'Two Hellfire missiles fired': US admits attack on tanker that killed three Indian seafarers - MSN |
-| 2026-06-13 05:22 | Israel | 通报 | Israel | 待确认 | C | How Israel's operation 'Eternal Darkness' in southern Lebanon is expanding - Australian Broadcasting Corporation |
-| 2026-06-13 05:21 | Israel | 通报 | Israel | 待确认 | C | As Israel And Lebanon Come To An Agreement, Hezbollah Has Other Plans - AOL.com |
-| 2026-06-13 05:09 | US | 通报 | Iran | 待确认 | C | Iran's foreign minister details proposed memorandum with US, says war would end across all fronts - Anadolu Ajansı |
-| 2026-06-13 05:07 | Israel | 通报 | Iran | 待确认 | C | 'Israel', Iran almost dragged Trump into all-out war: Axios - Roya News |
-| 2026-06-13 05:05 | US | 通报 | Iran | 待确认 | C | Latest war news. UAE releases billions of dollars for Iran. US-Iran agreement set to be signed on Sunday - Il Sole 24 ORE |
-| 2026-06-13 05:03 | Israel | 通报 | Israel | 待确认 | C | Hezbollah’s spider’s web is unraveling - www.israelhayom.com |
-| 2026-06-13 05:03 | Israel | 通报 | Israel | 待确认 | C | Hezbollah says it confronted Israeli troops advancing in south Lebanon - CNA |
-| 2026-06-13 04:50 | Iran | 空袭 | Iran | 待确认 | C | U.S. Military Conducts Another Strike Against Iran After Trump Says Iran Negotiating On Fumes - Daily Excelsior |
-| 2026-06-13 04:33 | Israel | 通报 | Iran | 待确认 | C | Trump and Netanyahu in lockstep over Iran war, U.S. ambassador to Israel says - CBC |
-| 2026-06-13 04:16 | Iran | 通报 | Iran | 待确认 | C | Trump slams Iran over leaked deal claims - Rolling Out |
-| 2026-06-13 04:08 | Iran | 通报 | Iran | 待确认 | C | As officials again say Iran war could soon end, some Trump objectives are unfulfilled - PBS |
-| 2026-06-13 03:57 | US | 通报 | Iran | 待确认 | C | Israel trying to derail emerging US-Iran agreement, says Iran's FM Araghchi - Moneycontrol.com |
-| 2026-06-13 03:16 | Iran | 通报 | Iran | 待确认 | C | Day 105 / Trump says the war with Iran ended today - Roya News |
-| 2026-06-13 03:11 | Israel | 空袭 | Israel | 待确认 | C | Israeli Warplanes Strike Hezbollah Positions in Southern Lebanon - News On AIR |
-| 2026-06-13 02:55 | Iran | 通报 | Iran | 待确认 | C | How the Gulf will manage collective security after the Iran war ends - Al Jazeera |
-| 2026-06-13 02:51 | US | 通报 | Iran | 待确认 | C | UAE agrees to release billions for Iran amid US-Israeli war: Report - Middle East Eye |
+| 2026-06-13 21:40 | US | 通报 | Tehran | 待确认 | C | US-Iran peace deal within 24 hours? Pakistan says final text ready, Tehran cautious - Mathrubhumi English |
+| 2026-06-13 21:29 | US | 通报 | Tehran | 待确认 | C | US-Israel-Iran War Latest Update: Iran Announces Former Supreme Leader Ayatollah Ali Khamenei Funeral Dates Across Tehran, Qom & Mashhad – Check Where & How Ali Khamenei Will Be Buried - The Sunday Guardian |
+| 2026-06-13 21:10 | US | 通报 | Iran | 待确认 | C | ‘US-Iran Truce Deal Likely To Be Finalised in 24 Hours’: Pakistan - LatestLY |
+| 2026-06-13 20:43 | Israel | 发射 | Israel | 待确认 | C | Israel kills +3 in southern Lebanon, Hezbollah responds with drones and rockets - شفق نيوز |
+| 2026-06-13 20:26 | US | 通报 | Iran | 待确认 | C | US and Iran Reach Final Pact; Electronic Signing Imminent, Says Pakistan PM Shehbaz Sharif - LatestLY |
+| 2026-06-13 20:24 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: Iran-US Deal ‘Electronic Signing’ Expected Within ‘Next 24 Hours’, Says Pakistan PM – Will the US-Israel-Iran War End on Trump’s 80th Birthday? - The Sunday Guardian |
+| 2026-06-13 20:09 | Israel | 通报 | Israel | 命中 | C | IDF says it hit over 70 Hezbollah sites over past day - The Times of Israel |
+| 2026-06-13 20:01 | Israel | 撤离 | Israel | 待确认 | C | Lebanese army withdraws from southern village after Israeli troops advance nearby - NBC News |
+| 2026-06-13 19:57 | Iran | 通报 | Iran | 待确认 | C | Iran war: Pakistan PM says peace deal expected in 24 hours - DW |
+| 2026-06-13 19:51 | US | 通报 | Iran | 待确认 | C | PM Shehbaz says US-Iran peace deal signing expected within 24 hours - Aaj English TV |
+| 2026-06-13 19:46 | Iran | 通报 | Iran | 待确认 | C | Iran Supreme Leader Ali Khamenei Funeral Set For July 9 After Delay - zoomnews.in |
+| 2026-06-13 19:30 | US | 通报 | Iran | 待确认 | C | Iranian drones downed in Hormuz US - Big News Network.com |
+| 2026-06-13 19:26 | US | 通报 | Iran | 待确认 | C | Iran War: What We Know So Far About the Reported US-Iran Peace Deal - LatestLY |
+| 2026-06-13 19:26 | US | 通报 | Iran | 待确认 | C | Final Iran-US peace deal to be finalised in next 24 hours: PM Shehbaz - Business Recorder |
+| 2026-06-13 19:23 | Israel | 撤离 | Iran | 待确认 | C | Israel and Hezbollah Trade Fire; Iran: Lebanon Truce Includes IDF Withdrawal - Haaretz |
+| 2026-06-13 19:22 | Israel | 通报 | Israel | 命中 | C | Mayor among dead as Israeli attacks hit south Lebanon districts - The New Arab |
+| 2026-06-13 19:16 | US | 通报 | Iran | 待确认 | C | Live - Iran edges toward US deal but hardliners and Hormuz tensions cloud path - ایران اینترنشنال |
+| 2026-06-13 19:06 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Update: Pakistan PM Shehbaz Sharif Says Final Agreement Text Ready Amid Middle East Tensions - The Sunday Guardian |
+| 2026-06-13 19:00 | Israel | 通报 | Israel | 命中 | C | Five killed as Israel hits south Lebanon, issues forced displacement orders - Al Jazeera |
+| 2026-06-13 18:20 | 未明确 | 通报 | 未明确 | 待确认 | C | Cease-Fire Deal Appears Within Reach, Officials Say - The New York Times |
+| 2026-06-13 18:14 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: ‘We Absolutely Do Not Trust Americans,’ Says Iran’s Chief Justice Gholam-Hossein Mohseni-Ejei Amid Escalating Tensions - The Sunday Guardian |
+| 2026-06-13 18:08 | Israel | 空袭 | Israel | 待确认 | C | Israel strikes southern Lebanon after mass evacuation warning - Türkiye Today |
+| 2026-06-13 18:07 | Israel | 发射 | Israel | 命中 | C | Israeli Raids Hit Multiple Areas in Lebanon as Hezbollah Launches Drone Attacks - Palestine Chronicle |
+| 2026-06-13 18:00 | Iran | 通报 | Iran | 待确认 | C | EXCLUSIVE: The Iran War Critic Under Investigation by the Trump Administration - The Free Press |
+| 2026-06-13 17:45 | US | 通报 | Iran | 待确认 | C | US, Iran say peace deal near despite Hormuz attacks - DW |
+| 2026-06-13 17:42 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Updates: Pakistan FM Ishaq Dar Holds Key Call With Egypt’s Badr Abdelatty After Talks With Swiss FM Ignazio Cassis as Mediation Efforts Intensify to End Ongoing Conflict - The Sunday Guardian |
+| 2026-06-13 17:21 | US | 通报 | Iran | 待确认 | C | Iran war day 106: US and Iran say deal close but Lebanon fighting continues - Al Jazeera |
+| 2026-06-13 17:12 | US | 通报 | Iran | 待确认 | C | Latest war news. UAE releases billions of dollars for Iran. US-Iran agreement set to be signed on Sunday - Il Sole 24 ORE |
+| 2026-06-13 17:02 | Iran | 通报 | Iran | 待确认 | C | With a Deal Seemingly Close, the U.S. Faces an Iran More Willing to Withstand Pressure - The New York Times |
+| 2026-06-13 16:42 | US | 空袭 | Iran | 待确认 | C | US-Israel-Iran War Latest News: Trump Rejects Iran’s ‘Leaked Deal’ Claims, Tells Netanyahu ‘Time to End War’ Amid Fresh Israeli Strikes on Lebanon - The Sunday Guardian |
+| 2026-06-13 16:31 | Iran | 通报 | Iran | 待确认 | C | JUST IN: Initial Targets In Iran Attack Revealed Klm (JLCVtSLjLs) - Fathom Journal |
+| 2026-06-13 15:50 | Iran | 通报 | Tehran | 待确认 | C | Iran, Pakistani Prime Minister: ‘Agreement to be finalised within 24 hours’. But Tehran denies this - Il Sole 24 ORE |
+| 2026-06-13 15:49 | US | 通报 | Iran | 待确认 | C | US Israel Iran War Latest Update: Trump Tells Netanyahu ‘It’s Time to End This War’ as Iran Peace Deal Nears - The Sunday Guardian |
+| 2026-06-13 15:40 | US | 通报 | Iran | 待确认 | C | Iran will dismantle nuclear programme and transfer enriched uranium under draft deal: US - Aaj English TV |
+| 2026-06-13 15:39 | 未明确 | 通报 | 未明确 | 待确认 | C | ‘It’s Time To End This War’: Trump tells Netanyahu as historic moves closer to reality - Dynamite News |
+| 2026-06-13 15:30 | Israel | 空袭 | Israel | 待确认 | C | Israeli military warns of imminent strikes on south Lebanon - Al Arabiya English |
+| 2026-06-13 15:25 | 未明确 | 通报 | 未明确 | 待确认 | C | Pakistani Prime Minister Says Peace Deal Expected Within 24 Hours - Radio Free Europe/Radio Liberty |
+| 2026-06-13 15:15 | US | 通报 | Iran | 待确认 | C | Day 106 of US-Israel War on Iran: US Says It Downed Iranian Drones Targeting Ships as Peace Deal Remains Inconclusive - TheWire.in |
+| 2026-06-13 15:11 | Israel | 撤离 | Israel | 待确认 | C | Israel rules out withdrawal from Lebanon, Syria, Gaza “security zones”, Katz says - Caliber.Az |
+| 2026-06-13 15:07 | US | 空袭 | Iran | 待确认 | C | LIVE BLOG: US-Iran Draft Agreement Expands to Lebanon amid Ongoing Israeli Strikes - Day 105 - Palestine Chronicle |
