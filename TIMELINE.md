@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-06-15 11:46
+更新时间（北京时间）: 2026-06-16 01:09
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-06-15 11:33 | US | 通报 | Iran | 待确认 | C | Israel avoids Iran clash, but warns US deal cannot tie its hands in Lebanon - Ynetnews |
-| 2026-06-15 11:26 | Israel | 通报 | Israel | 待确认 | C | Israel expanded control over 1,000 sq km since Gaza war: Report - Daijiworld |
-| 2026-06-15 11:02 | US | 通报 | Iran | 待确认 | C | US IRAN WAR Comes To An End But What Are Trump's Intentions Behind The Peace Deal / News18 - News18 |
-| 2026-06-15 11:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and Middle East - The Jerusalem Post |
-| 2026-06-15 10:58 | US | 通报 | Iran | 待确认 | C | US and Iran agree deal to end war and reopen Strait of Hormuz, Trump says - Gulf Business |
-| 2026-06-15 10:55 | US | 通报 | Iran | 待确认 | C | WAR IS OVER! US-Iran Peace Deal Explained In Detail / Strait of Hormuz Reopens / Trump / News18 - News18 |
-| 2026-06-15 10:51 | US | 通报 | Iran | 待确认 | C | It's a deal: US and Iran end conflict in Middle East, including Lebanon - NZ Herald |
-| 2026-06-15 10:44 | US | 通报 | Iran | 待确认 | C | From Nuclear Programme To Sanctions: What The US-Iran Peace Deal Leaves Unresolved - News18 |
-| 2026-06-15 10:43 | Israel | 空袭 | Israel | 伤亡 | C | Three dead as Israel says strikes Beirut’s suburbs - Dawn |
-| 2026-06-15 10:30 | US | 通报 | Iran | 待确认 | C | What do we know about the US-Iran peace deal – and what questions remain? - The Guardian |
-| 2026-06-15 10:29 | US | 通报 | Iran | 伤亡 | C | The Iranian leaders killed in Israeli-US war - France 24 |
-| 2026-06-15 10:07 | US | 通报 | Iran | 待确认 | C | A tentative deal is reached to end the Iran war and Trump orders a stop to the US naval blockade - AP News |
-| 2026-06-15 09:57 | US | 通报 | Tehran | 待确认 | C | US-Israel-Iran War Latest Update: Ceasefire Deal Between Washington and Tehran ‘Now Complete’ – Here’s What Both Sides Have Agreed Upon - The Sunday Guardian |
-| 2026-06-15 09:55 | Iran | 通报 | Iran | 待确认 | C | Trump veers toward exit in Iran war but risks loom - Rappler |
-| 2026-06-15 09:52 | US | 通报 | Iran | 待确认 | C | Trump Calls Netanyahu ‘A Very Difficult Guy’, Says He Should Be ‘Thankful’ For US-Iran Diplomacy - News18 |
-| 2026-06-15 09:49 | US | 通报 | Iran | 待确认 | C | US-Iran ‘peace deal’ announced; Trump says Strait of Hormuz reopening - Al Jazeera |
-| 2026-06-15 09:49 | US | 通报 | Iran | 待确认 | C | US, Iran reach deal to end war, reportedly including Lebanon conflict; Trump: Hormuz to open - The Times of Israel |
-| 2026-06-15 09:46 | US | 通报 | Tehran | 待确认 | C | US-Iran War News LIVE: Trump Announces Iran Deal, US To Release $12 Billion Frozen Assets To Tehran - News18 |
-| 2026-06-15 09:40 | Iran | 通报 | Iran | 待确认 | C | Iran, U.S. have a deal of sorts. What happens next? - CBC |
-| 2026-06-15 09:37 | 未明确 | 通报 | 未明确 | 待确认 | C | The uncertainty partially lifted but the signing of deal is still days away - BBC |
-| 2026-06-15 09:33 | US | 通报 | Iran | 待确认 | C | Oil prices slide after Pakistan announces deal between US and Iran - BBC |
-| 2026-06-15 09:30 | US | 通报 | Iran | 待确认 | C | US-Iran Peace Deal Announced With 'Permanent' End To Military Action, Official Signing On June 19 - News18 |
-| 2026-06-15 09:30 | US | 空袭 | Iran | 待确认 | C | Israel's strike in Beirut triggers Iranian warnings of retaliation, casting shadow over emerging US-Iran deal - China.org.cn |
-| 2026-06-15 09:27 | Iran | 通报 | Iran | 待确认 | C | Trump's Iran announcement may ease pressure but uncertainty lingers - BBC |
-| 2026-06-15 09:21 | Iran | 通报 | Iran | 待确认 | C | Grief and destruction in the Middle East amid Iran War ceasefire - The Detroit News |
-| 2026-06-15 09:19 | US | 通报 | Iran | 待确认 | C | US and Iran agree to memorandum of understanding and immediate end to military operations - France 24 |
-| 2026-06-15 09:18 | US | 空袭 | Iran | 待确认 | C | Live Updates: War returns to Iran with Israel, US strikes - Dawn |
-| 2026-06-15 09:11 | Iran | 通报 | Iran | 待确认 | C | U.S. and Iran say they have finally reached a deal, but details are still emerging - MS NOW |
-| 2026-06-15 09:07 | Israel | 通报 | Israel | 待确认 | C | Hezbollah Reports Wave of Attacks on Israeli Troops, Vehicles along Border - Palestine Chronicle |
-| 2026-06-15 08:52 | 未明确 | 通报 | Gaza | 待确认 | C | Sundar Pichai booed as hundreds walk out of Stanford graduation over Gaza protests - Firstpost |
-| 2026-06-15 08:50 | US | 通报 | Iran | 待确认 | C | Guterres welcomes US-Iran peace deal as ‘critical step’ toward ending conflict - UN News |
-| 2026-06-15 08:50 | US | 通报 | Iran | 待确认 | C | Stock markets soar, oil falls as US, Iran confirm deal to end war - Al Jazeera |
-| 2026-06-15 08:32 | US | 通报 | Iran | 待确认 | C | 'Enemy had no choice but surrender': Iran claims victory as US agrees to 'permanently' end war - WION |
-| 2026-06-15 08:27 | US | 通报 | Tehran | 待确认 | C | Who won the Iran-US war: Trump, Tehran or Pakistan? And who lost? - The Indian Express |
-| 2026-06-15 08:13 | US | 通报 | Iran | 待确认 | C | US, Iran reach peace deal; Strait of Hormuz set to reopen after months of fighting - The Indian Express |
-| 2026-06-15 08:09 | Israel | 通报 | Iran | 待确认 | C | DW News. . Growing antisemitism and brutal attacks targeting London's Jewish community are raising widespread concern, but its members remain divided over Israel’s wars in Iran and Lebanon as well as its policies toward Palestinians in Gaza and the West - facebook.com |
-| 2026-06-15 07:58 | Iran | 通报 | Iran | 待确认 | C | Haviv Rettig Gur: When Will the War with Iran End? - The Free Press |
-| 2026-06-15 07:57 | US | 拦截 | Iran | 拦截 | C | Trump says Iran shot down US Apache helicopter over Strait of Hormuz, vows response - MSN |
-| 2026-06-15 07:56 | US | 通报 | Iran | 待确认 | C | ‘Let the oil flow’: US and Iran ready to sign peace deal - AFR |
-| 2026-06-15 07:54 | US | 通报 | Iran | 待确认 | C | US, Iran reach deal to end war; signing set for June 19 in Switzerland - Business Standard |
+| 2026-06-16 01:04 | US | 通报 | Iran | 待确认 | C | Interim US-Iran peace deal sparks anger among Israelis, who lash out at Netanyahu - Audacy |
+| 2026-06-16 00:59 | US | 通报 | Iran | 待确认 | C | The Iran war ended terribly for the US, and even worse for Israel - The Forward |
+| 2026-06-16 00:49 | Iran | 通报 | Iran | 待确认 | C | U.S. and Iran Reach Framework for Peace - The New York Times |
+| 2026-06-16 00:34 | US | 通报 | Iran | 待确认 | C | Will US-Iran peace deal hold? - The Latest - The Guardian |
+| 2026-06-16 00:34 | Israel | 空袭 | Israel | 待确认 | C | Israel Strikes Beirut Outskirts as Fighting With Hezbollah Escalates - The New York Times |
+| 2026-06-16 00:34 | US | 通报 | Iran | 待确认 | C | Israeli leaders refuse to support US-Iran deal, citing 'dismantling' Hezbollah aim - Washington Examiner |
+| 2026-06-16 00:22 | US | 通报 | Iran | 待确认 | C | 'Idea of invincible US has eroded; Iran showed maturity' / AI With Sanket - The Federal |
+| 2026-06-16 00:20 | Israel | 通报 | Iran | 待确认 | C | Renewed fighting between Israel and Hezbollah could scupper the U.S-Iran deal - NBC News |
+| 2026-06-16 00:17 | US | 通报 | Iran | 待确认 | C | Israeli officials defiant over apparent inclusion of Lebanon ceasefire in US-Iran deal - The Guardian |
+| 2026-06-16 00:10 | US | 通报 | Iran | 待确认 | C | The $300-billion weak link in US-Iran peace deal that could restart the war - India Today |
+| 2026-06-16 00:08 | US | 通报 | Iran | 待确认 | C | US and Iran virtually sign framework MoU to end nearly four months of conflict - Firstpost |
+| 2026-06-16 00:08 | Israel | 通报 | Iran | 待确认 | C | Israelis denounce Trump’s deal with Iran - The Washington Post |
+| 2026-06-16 00:07 | US | 通报 | Iran | 待确认 | C | Lebanon is a critical part of Iran-US peace deal, Iran FM spokesperson says - The Jerusalem Post |
+| 2026-06-16 00:00 | US | 通报 | Iran | 伤亡 | C | Lebanese journalist wounded in first Israeli attack since Iran-US agreement - Anadolu Ajansı |
+| 2026-06-15 23:49 | Israel | 通报 | Iran | 待确认 | C | U.S. announces agreement with Iran as Israel vows to maintain military presence in Lebanon, Syria, and Gaza - SyriacPress |
+| 2026-06-15 23:49 | US | 通报 | Iran | 待确认 | C | France, Britain push Hormuz mission as Iran, US agree to end war - The New Arab |
+| 2026-06-15 23:45 | US | 通报 | Iran | 待确认 | C | Iran, US agree to halt war and reopen Hormuz - New Orleans CityBusiness |
+| 2026-06-15 23:40 | Iran | 通报 | Iran | 待确认 | C | Iranian president says war-ending memorandum could become source of national pride - Anadolu Ajansı |
+| 2026-06-15 23:33 | Iran | 通报 | Iran | 待确认 | C | What to know about the finalized deal to end the Iran war - AP News |
+| 2026-06-15 23:30 | Iran | 通报 | Iran | 待确认 | C | Hezbollah casts Iran as Lebanon’s protector, complicating Beirut’s sovereignty push - Ynetnews |
+| 2026-06-15 23:22 | US | 通报 | Iran | 待确认 | C | Is Lebanon included? Country hopeful for US-Iran ceasefire, despite doubts - Al Jazeera |
+| 2026-06-15 23:20 | US | 通报 | Iran | 待确认 | C | How could the US-Iran deal affect oil prices and the cost of food? - BBC |
+| 2026-06-15 23:16 | US | 通报 | Iran | 待确认 | C | Iran–US Peace Deal: Is The War Over? - Patheos |
+| 2026-06-15 23:11 | Iran | 通报 | Iran | 待确认 | C | Guy Benson says trusting Iran regime is a 'fool's errand' - Washington Examiner |
+| 2026-06-15 23:06 | Iran | 通报 | Iran | 待确认 | C | We need a long-term strategy to deal with Iran - JNS.org |
+| 2026-06-15 23:05 | Iran | 通报 | Iran | 待确认 | C | As Iran war’s said to end, Kissinger’s joke finally has come true - Asia Times |
+| 2026-06-15 23:04 | Israel | 通报 | Iran | 待确认 | C | Ministers say Israel won’t be bound by Iran deal, as opposition castigates Netanyahu’s ‘absolute failure’ - The Times of Israel |
+| 2026-06-15 23:02 | US | 通报 | Iran | 待确认 | C | TIMELINE – How the US-Israel war with Iran unfolded over 108 days - Anadolu Ajansı |
+| 2026-06-15 22:59 | US | 通报 | Iran | 待确认 | C | US and Iran agree deal to end war as Trump says Strait of Hormuz to reopen - BBC |
+| 2026-06-15 22:54 | US | 撤离 | Iran | 待确认 | C | Hezbollah welcomes Iran-US agreement, calls for complete Israeli withdrawal from Lebanon - Anadolu Ajansı |
+| 2026-06-15 22:40 | US | 通报 | Iran | 待确认 | C | Lebanon fighting eases after US-Iran deal but displaced warned not to rush home - Reuters |
+| 2026-06-15 22:36 | US | 空袭 | Iran | 待确认 | C | Conflict in West Asia escalates as exchange of strikes intensifies between US-Israel & Iran - News On AIR |
+| 2026-06-15 22:34 | US | 通报 | Iran | 待确认 | C | West Asia conflict enters its fourteenth day with no signs of easing, as intense fighting continues between US, Israel & Iran / Akashvani News - News On AIR |
+| 2026-06-15 22:34 | Israel | 通报 | Iran | 待确认 | C | Gulf states can contain the threat from Iran and Israel. But they’ll need help - Chatham House |
+| 2026-06-15 22:26 | US | 通报 | Iran | 待确认 | C | Bowen: Iran deal ends Trump's war that revealed limit of US dominance - BBC |
+| 2026-06-15 22:21 | Israel | 空袭 | Iran | 待确认 | C | Israel Strikes Lebanon After Trump Touts Emerging Peace Deal with Iran - Democracy Now! |
+| 2026-06-15 22:21 | US | 通报 | Iran | 待确认 | C | Oil prices fall and shares jump after US-Iran deal announced - BBC |
+| 2026-06-15 22:17 | Israel | 撤离 | Tel Aviv | 待确认 | C | Israeli defence minister says Tel Aviv won’t withdraw from land seized in Lebanon, Syria, Gaza - Free Press Kashmir |
+| 2026-06-15 22:17 | US | 通报 | Iran | 待确认 | C | How Iran gained the strategic upper hand in the war with the US and Israel - The Conversation |
+| 2026-06-15 22:07 | Israel | 通报 | Iran | 待确认 | C | Live Coverage of the Iran–U.S.–Israel Conflict / June 15 - WANA News Agency |
