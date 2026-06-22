@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-06-22 11:45
+更新时间（北京时间）: 2026-06-23 00:47
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-06-22 11:34 | US | 通报 | Iran | 待确认 | C | US-Iran negotiations end for the day, continue tomorrow in Switzerland - NewsNation |
-| 2026-06-22 11:29 | Israel | 通报 | Iran | 待确认 | C | Trump faces new hurdles after deal: Iran’s leverage, Israel’s attacks, MAGA’s backlash - The Washington Post |
-| 2026-06-22 11:20 | Iran | 空袭 | Iran | 待确认 | C | Iran pauses talks after Trump threatens to strike over Hezbollah - The Australian |
-| 2026-06-22 11:04 | US | 通报 | Iran | 待确认 | C | Key points from the first round of Iran-US talks - The Daily Star |
-| 2026-06-22 10:53 | US | 通报 | Iran | 待确认 | C | Israel’s security cannot rest on incomplete Iran-US deal - The Jerusalem Post |
-| 2026-06-22 10:44 | US | 通报 | Iran | 待确认 | C | 'Progress', say mediators, after Iran-US talks on ending war - Yahoo |
-| 2026-06-22 10:29 | US | 通报 | Iran | 待确认 | C | Iran, US hold tense peace talks after Trump’s bombing outburst - AFR |
-| 2026-06-22 10:23 | Iran | 通报 | Iran | 待确认 | C | ‘Italy, And Its Prime Minister...’: Trump's Swipe At Giorgia Meloni Over Iran Conflict - News18 |
-| 2026-06-22 10:18 | Iran | 通报 | Iran | 待确认 | C | Switzerland summit ends abruptly after Iran delegation walks out on U.S. - FOX 13 Tampa Bay |
-| 2026-06-22 10:16 | Iran | 通报 | Iran | 待确认 | C | The Latest: Iran says ‘major progress’ to end Lebanon war during talks - WHEC.com |
-| 2026-06-22 10:16 | Iran | 通报 | Iran | 待确认 | C | Iran Mediators Offer Plan to Ease Lebanon, Hormuz Tensions - WSJ |
-| 2026-06-22 10:09 | Iran | 通报 | Iran | 待确认 | C | Shipping stalls in Strait of Hormuz after Iran declares key waterway shut - Al Jazeera |
-| 2026-06-22 10:05 | US | 通报 | Iran | 待确认 | C | Iran’s foreign minister says ‘major progress’ made to end Lebanon war in talks with US - The Times of Israel |
-| 2026-06-22 09:56 | US | 通报 | Iran | 待确认 | C | US-Iran negotiations end, technical talks will continue after Trump shakes talks with threats - CTV News |
-| 2026-06-22 09:52 | US | 通报 | Iran | 待确认 | C | Iran, US to set up ‘de-confliction cell’ to stop military ops in Lebanon, mediators say - The Times of Israel |
-| 2026-06-22 09:32 | US | 通报 | Iran | 待确认 | C | Iran, US agree on roadmap to reach deal in 60 days and will continue talks all week, mediators say - The Times of Israel |
-| 2026-06-22 09:32 | US | 通报 | Iran | 待确认 | C | Live - US, Iran agree on roadmap for final deal despite early tensions / Iran International - ایران اینترنشنال |
-| 2026-06-22 09:28 | US | 空袭 | Iran | 待确认 | C | Live Updates: War returns to Iran with Israel, US strikes - Dawn |
-| 2026-06-22 09:24 | Israel | 通报 | Israel | 待确认 | C | Israel Eyes Strategic Dolphin-Class Submarine Base in Somaliland as Red Sea Tensions Threaten Global Shipping Routes - Defence Security Asia |
-| 2026-06-22 09:20 | 未明确 | 通报 | 未明确 | 待确认 | C | Netanyahu Rejects Claims He Follows Trump's Lead: 'We're Leaders Of Independent, Proud Countries' - News18 |
-| 2026-06-22 08:45 | Israel | 通报 | Israel | 待确认 | C | Israeli military chief says Lebanon ceasefire ‘fragile’ - The Hans India |
-| 2026-06-22 08:20 | US | 通报 | Iran | 待确认 | C | US-Iran talks go into Day 2 after Trump threats, Hormuz closure - Al-Monitor |
-| 2026-06-22 08:15 | 未明确 | 通报 | 未明确 | 待确认 | C | Live Channels - The Times of India |
-| 2026-06-22 08:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and Middle East - The Jerusalem Post |
-| 2026-06-22 07:55 | US | 通报 | Iran | 待确认 | C | First round of direct US-Iran talks since deal expected to continue through the night - BBC |
-| 2026-06-22 07:31 | Iran | 空袭 | Iran | 待确认 | C | Trump threatens to strike Iran over Hezbollah as Lebanon snarls talks - MSN |
-| 2026-06-22 07:19 | US | 通报 | Iran | 待确认 | C | Iran’s parliamentary speaker accuses US secretly planning ground invasion - Newsonair |
-| 2026-06-22 06:27 | Iran | 通报 | Iran | 命中 | C | Trump threatens to ‘hit Iran very hard again’ over support for Hezbollah - CTV News |
-| 2026-06-22 06:16 | Israel | 通报 | Israel | 待确认 | C | Hezbollah rejects 'free rein' for Israel in Lebanon ceasefire - Yeni Şafak English |
-| 2026-06-22 06:07 | Iran | 通报 | Iran | 待确认 | C | Netanyahu Says as Long as He’s PM, ‘Iran … Will Never Have a Nuclear Weapon’ - The Media Line |
-| 2026-06-22 05:59 | Iran | 通报 | Tehran | 待确认 | C | Iran peace talks stumble over Trump’s threats to Tehran’s delegation - NBC News |
-| 2026-06-22 05:53 | Israel | 通报 | Israel | 待确认 | C | Inside Israel’s intimidating Iron Dome is a nation simply ‘fighting for survival’ - New York Post |
-| 2026-06-22 05:36 | US | 通报 | Iran | 待确认 | C | ‘High drama’ over Trump threats and Lebanon at US-Iran talks in Switzerland - Al Jazeera |
-| 2026-06-22 05:32 | Israel | 通报 | Iran | 待确认 | C | 56.4% of Israelis say Netanyahu failed in Iran war, new poll finds - A News |
-| 2026-06-22 05:01 | Israel | 通报 | Israel | 待确认 | C | Israel’s Red Lines despite pressure to weaken its military goals - The Times of Israel |
-| 2026-06-22 05:00 | 未明确 | 通报 | Lebanon | 待确认 | C | Some southern Lebanon residents trickle back as fighting pauses - Arab News |
-| 2026-06-22 04:57 | Israel | 通报 | Israel | 待确认 | C | Israel Directs Its Military to Limit Its Actions in Lebanon, but Tensions Persist - The New York Times |
-| 2026-06-22 04:48 | US | 通报 | Iran | 待确认 | C | Iran, US finalize draft on temporary oil sanctions relief - Yeni Şafak English |
-| 2026-06-22 04:43 | US | 通报 | Iran | 待确认 | C | Turkey's Fidan warns Israel could sabotage US-Iran deal - ایران اینترنشنال |
-| 2026-06-22 04:33 | Iran | 通报 | Iran | 待确认 | C | 'You won't make it back': Trump's threat to Iran reps at peace talks - Australian Broadcasting Corporation |
+| 2026-06-23 00:31 | Iran | 通报 | Iran | 待确认 | C | Vance says talks with Iranian officials set ‘good foundation’ for a deal to end the war - ABC Columbia |
+| 2026-06-23 00:19 | Israel | 通报 | Iran | 待确认 | C | Trump faces new hurdles after deal: Iran’s leverage, Israel’s attacks, MAGA’s backlash - The Washington Post |
+| 2026-06-23 00:03 | Israel | 通报 | Jerusalem | 待确认 | C | Judge orders pro-Palestine 'legal' body to pay UK-Israeli IDF soldier it attempted to prosecute - The Jerusalem Post |
+| 2026-06-22 23:57 | Iran | 通报 | Iran | 待确认 | C | Iran turning Strait of Hormuz into strategic leverage tool, expert warns - The Jerusalem Post |
+| 2026-06-22 23:47 | US | 通报 | Iran | 待确认 | C | US partially lifts Iran oil sanctions amid ‘encouraging’ talks - Al Jazeera |
+| 2026-06-22 23:45 | Israel | 通报 | Iran | 待确认 | C | Why the Israel-Hezbollah Fight Complicates Resolving the Iran War - Bloomberg.com |
+| 2026-06-22 23:15 | Israel | 通报 | Israel | 待确认 | C | War-mongering Israel must be reined in - middle-east-online.com |
+| 2026-06-22 23:10 | US | 通报 | Iran | 待确认 | C | After the Iran War, How the US and Israel Must Manage Nuclear Risk - Algemeiner.com |
+| 2026-06-22 23:03 | Israel | 通报 | Israel | 待确认 | C | The New Middle East Alliance: Inside the Secret "STEP" - TV7 Israel News |
+| 2026-06-22 22:58 | Israel | 通报 | Israel | 待确认 | C | Israel Holds to Lebanon Truce, With Troops Kept on Defense - The New York Times |
+| 2026-06-22 22:30 | US | 通报 | Iran | 待确认 | C | Will the US-Iran talks in Switzerland deliver peace? It’s unlikely - The Conversation |
+| 2026-06-22 22:26 | Iran | 通报 | Iran | 待确认 | C | Spirit of resistance Iran most important strengths during war - Mehr News Agency |
+| 2026-06-22 22:21 | US | 通报 | Iran | 待确认 | C | Live blog - US-Israeli war on Iran - TRT World |
+| 2026-06-22 22:11 | US | 通报 | Iran | 待确认 | C | Key outcomes of Iran-US talks in Switzerland; what next? - Al Jazeera |
+| 2026-06-22 22:08 | Iran | 通报 | Iran | 待确认 | C | U.S. Treasury waives sanctions on Iranian oil as part of interim agreement to end war - CTV News |
+| 2026-06-22 22:07 | Iran | 通报 | Iran | 待确认 | C | First Round of U.S.-Iran Talks Concludes, Mediators Say - The New York Times |
+| 2026-06-22 21:39 | Iran | 通报 | Iran | 待确认 | C | Talks with Iranian officials set ‘good foundation’ for deal to end war – Vance - BreakingNews.ie |
+| 2026-06-22 21:38 | 未明确 | 通报 | 未明确 | 伤亡 | C | Qatar says gas export terminal blast killed 13 as workers tried to resume operations - The Tribune-Democrat |
+| 2026-06-22 21:17 | 未明确 | 通报 | 未明确 | 待确认 | C | How Qatar Became the World's Most Trusted Mediator — Without an Army - Frontline Magazine |
+| 2026-06-22 21:09 | Israel | 通报 | Iran | 待确认 | C | U.S. and Iran announce direct Lebanon track without Israel - Jewish Telegraphic Agency |
+| 2026-06-22 20:59 | Israel | 通报 | Iran | 待确认 | C | Poll Shows 92% of Israelis Think Iran Won the War and U.S. Deal - Kurdistan24 |
+| 2026-06-22 20:40 | US | 通报 | Iran | 待确认 | C | Oil falls more than 3% after Iran, US signal progress in talks - Al-Monitor |
+| 2026-06-22 20:28 | Israel | 空袭 | Israel | 待确认 | C | Israeli strikes leave Lebanon’s ancient coastal city of Tyre shaken - myMotherLode.com |
+| 2026-06-22 19:48 | Israel | 通报 | Iran | 待确认 | C | Majority of Israelis say Netanyahu failed in Iran war, new poll finds - Muslim Network TV |
+| 2026-06-22 19:48 | US | 通报 | Tehran | 待确认 | C | Switzerland talks yield ‘important steps’ toward Iran–US final deal, Tehran says - Muslim Network TV |
+| 2026-06-22 19:33 | US | 通报 | Iran | 待确认 | C | US-Israel Wars, Day 116: Trump-Iran Talks Falter After 80 Minutes - EA WorldView |
+| 2026-06-22 19:19 | Iran | 通报 | Iran | 待确认 | C | Vance says Iran talks set 'good foundation' for deal to end war - Spectrum News |
+| 2026-06-22 19:04 | US | 通报 | Iran | 待确认 | C | "Israel exists only on paper" - Netanyahu in a strategic "quagmire," no Trump victory – Iran gets billions... US brought to its knees - Bankingnews |
+| 2026-06-22 18:57 | US | 通报 | Israel | 待确认 | C | Vance’s warning to Israel signals a new phase in US-Israeli relations - Al Jazeera |
+| 2026-06-22 18:51 | US | 通报 | Iran | 待确认 | C | US Bombs Iran Again! Strait Of Hormuz Closed? Trump Issues New Warning / Ajmal Jami Tbnewswatch (mbkfFxAnzG) - Fathom Journal |
+| 2026-06-22 18:49 | Iran | 通报 | Iran | 待确认 | C | U.S., Iran wrap high-level talks in Switzerland after making 'encouraging progress,' mediators say - The Tribune-Democrat |
+| 2026-06-22 18:46 | US | 通报 | Iran | 待确认 | C | First round of US-Iran talks ends with encouraging progress, mediators say - BBC |
+| 2026-06-22 18:40 | Israel | 通报 | Iran | 待确认 | C | Over 92% Israelis see Iran as winner of Middle East war: Poll / Daily Sabah - Daily Sabah |
+| 2026-06-22 18:39 | Israel | 通报 | Israel | 待确认 | C | Israel, Hezbollah reach ceasefire: Reports - India Tribune - Chicago |
+| 2026-06-22 18:22 | Iran | 通报 | Iran | 待确认 | C | Catholic leaders hope end to Iran war is near after Trump, Iran reach agreement - Catholic Standard |
+| 2026-06-22 18:14 | US | 通报 | Iran | 待确认 | C | Lebanon discusses ceasefire mechanism with US, Qatar as Iran-US deal faces first test - Moneycontrol.com |
+| 2026-06-22 17:58 | Iran | 通报 | Iran | 待确认 | C | Iran Mediators Offer Plan to Ease Lebanon, Hormuz Tensions - WSJ |
+| 2026-06-22 17:56 | US | 空袭 | Iran | 命中 | C | West Asia conflict escalates as US‑Israel strikes hit Iran, US Embassy attacked in Riyadh - News On AIR |
+| 2026-06-22 17:52 | Israel | 撤离 | Israel | 待确认 | C | Israel orders new evacuations as forces push deeper into Lebanon - The Rising Nepal |
+| 2026-06-22 17:46 | Israel | 通报 | Israel | 待确认 | C | Donald Trump has limited capacity to deter Israel, says Michael Kugelman - Open Magazine |
