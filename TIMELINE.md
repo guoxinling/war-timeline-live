@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-06-24 22:21
+更新时间（北京时间）: 2026-06-25 10:50
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-06-24 22:03 | Israel | 通报 | Iran | 待确认 | C | Israel might not be able to collapse Iran, Hamas regimes, expert say - The Jerusalem Post |
-| 2026-06-24 22:00 | Israel | 通报 | Israel | 待确认 | C | Israel Targets Hezbollah Operatives in Southern Lebanon - Oz Arab Media |
-| 2026-06-24 22:00 | US | 通报 | Iran | 待确认 | C | US war-ending deal a 'declaration of America’s defeat': Iran - The Business Standard |
-| 2026-06-24 21:56 | US | 通报 | Tehran | 待确认 | C | Tehran labels framework deal 'US defeat' as Trump threatens to halt talks - Yahoo News Singapore |
-| 2026-06-24 21:53 | Israel | 发射 | Israel | 待确认 | C | Israeli troops bomb four rocket sites on cam in Gaza, says launchers were ready to attack - Mid-day |
-| 2026-06-24 21:51 | US | 空袭 | Beirut | 待确认 | C | US Military Kills Senior ISIS Leader in Northwest Syria Airstrike - Daily Beirut |
-| 2026-06-24 21:38 | Israel | 通报 | Israel | 待确认 | C | Israel Continues Genocide by Targeting Palestinian Children, UN Finds - Tempo.co English |
-| 2026-06-24 21:12 | US | 通报 | Iran | 待确认 | C | Katz threatens to maintain Israeli occupation of southern Lebanon, even against US demand; Talks between Iran, Gulf states expected in Saudi Arabia - L'Orient Today |
-| 2026-06-24 20:32 | Iran | 通报 | Iran | 待确认 | C | UN nuclear chief says inspectors will visit Iran sites as part of war deal - BBC |
-| 2026-06-24 20:30 | Israel | 通报 | Iran | 待确认 | C | Israel, Hezbollah agree to renewed ceasefire as Iran peace talks postponed - MSN |
-| 2026-06-24 20:20 | Israel | 撤离 | Iran | 待确认 | C | Israel Rejects Withdrawal From Southern Lebanon Despite U.S.-Iran Deal - The Whistler Newspaper |
-| 2026-06-24 20:16 | US | 通报 | Iran | 待确认 | C | Trump slams US Senate for 'poorly timed' Iran war powers vote, calling it 'meaningless' - The Express Tribune |
-| 2026-06-24 20:16 | 未明确 | 发射 | 未明确 | 待确认 | C | Missiles, drones and nukes: What Trump's war has gained − and cost - USA Today |
-| 2026-06-24 20:10 | Israel | 通报 | Israel | 待确认 | C | In beachside city, Lebanese try to shake off Israel-Hezbollah war - Al-Monitor |
-| 2026-06-24 20:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and Middle East - The Jerusalem Post |
-| 2026-06-24 19:59 | Israel | 通报 | Iran | 待确认 | C | Iran war latest: Israel and Lebanon discuss plan to hand over parts of south to Lebanese army - The National |
-| 2026-06-24 19:29 | US | 空袭 | Iran | 待确认 | C | Live Updates: War returns to Iran with Israel, US strikes - Dawn |
-| 2026-06-24 19:26 | US | 通报 | Iran | 待确认 | C | US Senate approves Iran war powers resolution: What that means for Trump - Al Jazeera |
-| 2026-06-24 19:20 | 未明确 | 通报 | 未明确 | 待确认 | C | Project Ufo - Sighting 4001: The Washington D.C. Incident Susan Boyle (o0cLfiI4fN) - Fathom Journal |
-| 2026-06-24 18:52 | US | 通报 | Iran | 待确认 | C | Iran claims US defeat in Middle East war deal - The Straits Times |
-| 2026-06-24 18:48 | US | 通报 | Tehran | 待确认 | C | Iran-US war latest: Trump’s deal a ‘declaration of defeat’ says Tehran - MSN |
-| 2026-06-24 18:48 | US | 通报 | Israel | 待确认 | C | Has the US-Israeli honeymoon ended? - Open Magazine |
-| 2026-06-24 18:48 | Israel | 通报 | Iran | 待确认 | C | Stark map shows how Israel has taken over large swaths of 3 neighbors amid Iran war - MSN |
-| 2026-06-24 18:47 | US | 通报 | Iran | 待确认 | C | US Senate votes to end Iran war, pressuring Trump - MSN |
-| 2026-06-24 18:47 | US | 通报 | Iran | 待确认 | C | Pakistan’s Successful Tightrope Diplomacy Helps Settle US-Iran War - Ujyaalo Nepal |
-| 2026-06-24 18:45 | 未明确 | 通报 | 未明确 | 待确认 | C | 'All the Jews are sick of you': New book reveals Trump's reported warning to Netanyahu - TRT World |
-| 2026-06-24 18:41 | 未明确 | 通报 | 未明确 | 待确认 | C | Middle East Aviation Recovery: Flight Activity Rebounds at Gulf Hubs in 2026 - News and Statistics - IndexBox |
-| 2026-06-24 18:37 | US | 通报 | Iran | 待确认 | C | Not just Lebanon: Iran pushing to include Gaza in US nuke deal - World Israel News |
-| 2026-06-24 18:37 | Israel | 通报 | Iran | 待确认 | C | The war on Iran was a strategic disaster for America and Israel - Middle East Eye |
-| 2026-06-24 18:33 | US | 空袭 | Iran | 待确认 | C | Israeli strikes kill 16 in Lebanon after truce, with prospect of US-Iran talks unclear - The Business Standard |
-| 2026-06-24 18:27 | 未明确 | 通报 | Lebanon | 待确认 | C | Lebanon’s lose-lose: Is there another way out of conflict? - Dhaka Tribune |
-| 2026-06-24 18:04 | Iran | 通报 | Iran | 待确认 | C | India advises against non-essential travel to Iran despite easing situation - Business Standard |
-| 2026-06-24 17:57 | US | 发射 | Iran | 待确认 | C | US launches more air strikes against Iran after Trump threats - The Impartial Reporter |
-| 2026-06-24 17:54 | Iran | 通报 | Iran | 待确认 | C | Iran walks out of Swiss talks after Trump threat - MSN |
-| 2026-06-24 17:51 | 未明确 | 通报 | Gaza | 待确认 | C | Trump reportedly blasted Netanyahu over Gaza ceasefire negotiations: ‘Jews are sick of you’ - The Indian Express |
-| 2026-06-24 17:50 | Israel | 通报 | Israel | 伤亡 | C | Gaza terror groups reveal multiple 'journalists' among their dead fighters - All Israel News |
-| 2026-06-24 17:50 | US | 通报 | Israel | 待确认 | C | US defense firm Anduril considers Israel expansion, potential partnerships with local defense firms - All Israel News |
-| 2026-06-24 17:50 | Israel | 通报 | Iran | 待确认 | C | Turkey’s Rise After Iran War Opens New Strategic Fault Line With Israel - The Media Line |
-| 2026-06-24 17:44 | US | 通报 | Iran | 待确认 | C | Few in US say Iran war was worth it; Trump approval ties lowest of term - Aaj English TV |
-| 2026-06-24 17:18 | US | 空袭 | Iran | 待确认 | C | Iran claims strike on US ‘hideouts’ in Dubai amid West Asia conflict - News On AIR |
+| 2026-06-25 10:00 | Iran | 通报 | Tehran | 待确认 | C | IRGC says safe Hormuz passage only via Tehran-approved routes - Free Malaysia Today |
+| 2026-06-25 10:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and Middle East - The Jerusalem Post |
+| 2026-06-25 10:00 | US | 通报 | Iran | 待确认 | C | Crude oil prices extend decline, reach pre-US-Iran war level; Brent slips to $73 per barrel - Mint |
+| 2026-06-25 09:39 | US | 通报 | Israel | 待确认 | C | Nearly half of Americans think US is ‘too supportive’ of Israel — poll - The Times of Israel |
+| 2026-06-25 08:40 | 未明确 | 通报 | 未明确 | 待确认 | C | Trump accuses big oil firms of price-gouging drivers - BBC |
+| 2026-06-25 08:37 | US | 通报 | 未明确 | 待确认 | C | Strait of Hormuz closing again, IRGC announces — as US Central Command says commercial traffic has increased - MSN |
+| 2026-06-25 08:31 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: Trump Claims Iran Is Making ‘Very Big Concessions’ as US Talks Intensify Across the Middle East - The Sunday Guardian |
+| 2026-06-25 08:06 | Israel | 通报 | Israel | 待确认 | C | Cost of Israel's wars since October 7 nears $205Bn: report - TRT World |
+| 2026-06-25 07:57 | 未明确 | 通报 | 未明确 | 待确认 | C | The Middle East War: A Stress Test For India’s Multi-Alignment? – Analysis - Eurasia Review |
+| 2026-06-25 07:53 | Iran | 通报 | Iran | 待确认 | C | Trump slams NATO over lax participation in Iran war in talk with Mark Rutte - Al Jazeera |
+| 2026-06-25 07:50 | Israel | 空袭 | Iran | 待确认 | C | Lebanon says Israeli strikes on south kill 14 as attacks persist despite Iranian threat - MSN |
+| 2026-06-25 07:24 | US | 通报 | Iran | 待确认 | C | Iran claims US trying to reinterpret war-ending MoU - Israel National News |
+| 2026-06-25 07:01 | Israel | 通报 | Israel | 待确认 | C | Israel war costs reach $205B since October 2023 - Yeni Safak English |
+| 2026-06-25 06:55 | Israel | 空袭 | Israel | 待确认 | C | Hezbollah says Israeli strike on civilians a ‘flagrant’ ceasefire violation despite its own commitment to truce - Anadolu Ajansı |
+| 2026-06-25 06:29 | 未明确 | 通报 | 未明确 | 待确认 | C | West Asia conflict enters more intense phase with military activity spreading across several fronts - News On AIR |
+| 2026-06-25 05:42 | Israel | 通报 | Israel | 待确认 | C | Israel-Lebanon war: Hezbollah slams Israeli attacks as 'blatant truce violation' - MSN |
+| 2026-06-25 05:42 | US | 通报 | Iran | 待确认 | C | Israel creates more trouble for US with new Lebanon declaration as Iran watches Hezbollah war unfold / Hindustan Times - Hindustan Times |
+| 2026-06-25 05:33 | 未明确 | 通报 | Red Sea | 待确认 | C | Another Hormuz? The Red Sea’s Threat to the Global Economy - Council on Foreign Relations |
+| 2026-06-25 05:33 | US | 通报 | Iran | 待确认 | C | Rubio tries to reassure Gulf allies on US-Iran deal details - Al Jazeera |
+| 2026-06-25 05:27 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: Why is Donald Trump Calling Strait of Hormuz Transit Fees ‘Unacceptable’? Says ‘It Would Be a Game-Changer’ for Global Trade - The Sunday Guardian |
+| 2026-06-25 05:17 | Israel | 空袭 | Israel | 待确认 | C | Israeli Strikes Kill 2 In Lebanon, Hezbollah Accuses It Of Truce Violation - NDTV |
+| 2026-06-25 05:17 | Israel | 通报 | Israel | 待确认 | C | Israeli attacks kill 2 in southern Lebanon despite ongoing Washington talks - Al Jazeera |
+| 2026-06-25 05:06 | US | 通报 | Iran | 待确认 | C | Netanyahu's political brand may be the biggest casualty of the US-Iran deal - Ynetnews |
+| 2026-06-25 04:41 | US | 通报 | Israel | 待确认 | C | Why does Israel want to be less dependent on US weapons? / Inside Story - Modern Ghana |
+| 2026-06-25 04:31 | Iran | 通报 | Iran | 待确认 | C | Iran War Transforms Gulf Arab Region - الحرة |
+| 2026-06-25 04:13 | Iran | 通报 | Iran | 待确认 | C | U.S. and Iran Offer Conflicting Accounts of Nuclear Discussions - The New York Times |
+| 2026-06-25 04:05 | US | 通报 | Iran | 待确认 | C | US-Iran Peace Accord Challenged by Lebanon Conflict & Nuclear Disputes - businesstimes-bd.com |
+| 2026-06-25 03:53 | Israel | 通报 | Israel | 待确认 | C | Israeli military: Dozens of Hezbollah fighters trapped underground - upi.com |
+| 2026-06-25 03:46 | Israel | 通报 | Israel | 待确认 | C | Traffic disruptions spread across Israel as ultra-Orthodox protest military draft - World Israel News |
+| 2026-06-25 03:38 | Israel | 通报 | Iran | 待确认 | C | Netanyahu says he didn’t ask for Trump’s approval before striking Iran - World Israel News |
+| 2026-06-25 03:24 | Iran | 空袭 | Iran | 待确认 | C | Netanyahu: "I never asked Trump for permission to strike Iran in June 2025." - Agenzia Nova |
+| 2026-06-25 03:23 | US | 通报 | Iran | 待确认 | C | US-Iran talks - conclusions and implications - The Express Tribune |
+| 2026-06-25 03:23 | US | 通报 | Iran | 待确认 | C | ‘I Never Asked Trump’: Defiant Netanyahu’s Stunning Iran War Confession As Rift With US Explodes - The Times of India |
+| 2026-06-25 03:08 | Israel | 空袭 | Iran | 待确认 | C | Netanyahu said he informed Trump Israel would strike Iran, didn’t ask for approval - World Israel News |
+| 2026-06-25 03:07 | 未明确 | 通报 | Gaza | 待确认 | C | Trump Reportedly Threatened Netanyahu With ‘Divorce’ Over Gaza Deal, New Book Claims - TFIGlobal |
+| 2026-06-25 03:05 | US | 通报 | Israel | 待确认 | C | Rubio: Israel-Lebanon talks focus on Hezbollah-free army zones - Ynetnews |
+| 2026-06-25 02:49 | Israel | 通报 | Israel | 待确认 | C | Israel surrounds Hezbollah underground tunnel in Lebanon, militants reportedly trapped: Report - Moneycontrol.com |
+| 2026-06-25 02:37 | Israel | 空袭 | Iran | 待确认 | C | Katz: IDF ready to strike Iran again; Oman, Iran discuss Hormuz transit fees TV7 Israel News 24 June - TV7 Israel News |
+| 2026-06-25 02:36 | US | 空袭 | Syria | 伤亡 | C | Senior IS leader killed by US airstrike on northwest Syria - MillenniumPost |
+| 2026-06-25 02:29 | Iran | 通报 | Iran | 待确认 | C | Iran’s President Masoud Pezeshkian Says Neighbouring Countries Will No Longer Be Targeted Unless Provoked - News On AIR |
