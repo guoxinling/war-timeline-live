@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-07-02 21:49
+更新时间（北京时间）: 2026-07-03 10:33
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-07-02 21:46 | US | 空袭 | Iran | 命中 | C | Two Ships Hit, Five Days of Strikes: How the US-Iran Ceasefire Nearly Collapsed Before Doha - The Eastern Herald |
-| 2026-07-02 21:28 | Israel | 通报 | Lebanon | 待确认 | C | Katz Declares IDF Will Stay in Lebanon, Syria and Gaza Indefinitely - The Eastern Herald |
-| 2026-07-02 21:07 | Israel | 通报 | Israel | 待确认 | C | Gaza faces uncertain future as Palestinians and Israelis mark 1,000 days of war - Chicago Tribune |
-| 2026-07-02 20:57 | US | 发射 | Iran | 待确认 | C | US-Israel-Iran War Latest News: Iran Warns of ‘Harsh Retaliation’ if Trump and Israel Launch Fresh Strikes During Ayatollah Khamenei’s Funeral - The Sunday Guardian |
-| 2026-07-02 20:36 | Iran | 通报 | Iran | 待确认 | C | 'Only way for USA to win now is to drop nuclear dirty bomb on Iran…': Waiel Awwad's scary prediction / Hindustan Times - Hindustan Times |
-| 2026-07-02 20:30 | US | 通报 | Iran | 待确认 | C | Iran Warns Against US-Israel Attacks During Khamenei Funeral, Vows ‘Harsh Response’ - VINnews |
-| 2026-07-02 20:22 | US | 通报 | Iran | 待确认 | C | As Iran-US talks conclude in Doha, what comes next? - The New Arab |
-| 2026-07-02 20:18 | Israel | 通报 | Israel | 待确认 | C | Hamas says it executed a man who collaborated with Israel - Apa.az |
-| 2026-07-02 20:10 | Iran | 空袭 | Iran | 待确认 | C | Washington is considering moving its military bases from the Gulf to the Negev following Iranian strikes - صوت الإمارات |
-| 2026-07-02 20:06 | Iran | 通报 | Iran | 待确认 | C | Trump-backed truce in Lebanon, key to Iran peace deal, risks new civil war - The Washington Post |
-| 2026-07-02 19:40 | Israel | 通报 | Israel | 待确认 | C | “Israel’s” War Minister: We’re to Occupy Parts of Gaza, Lebanon and Syria Indefinitely - اسلام تايمز |
-| 2026-07-02 19:35 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: Lebanon PM Nawaf Salam Says US-Backed Israel Framework Sets the Stage for Peace Talks, Not a Peace Treaty - The Sunday Guardian |
-| 2026-07-02 19:17 | Israel | 空袭 | Israel | 待确认 | C | IDF eliminates Hamas platoon commander in Gaza strike - World Israel News |
-| 2026-07-02 19:10 | 未明确 | 通报 | 未明确 | 待确认 | C | Trump hails "very good meetings" in Qatar as indirect negotiations resume - CBS News |
-| 2026-07-02 19:06 | Israel | 通报 | Israel | 待确认 | C | IDF dismantles Hezbollah terror tunnel complex near Israeli border - AOL.com |
-| 2026-07-02 18:53 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: Pakistan PM Shehbaz Sharif to Attend Khamenei Funeral as Iran Warns US Over Strait of Hormuz - The Sunday Guardian |
-| 2026-07-02 18:50 | US | 通报 | Iran | 待确认 | C | Next indirect US-Iran talks after Khamenei funeral: mediators - Region - World - Ahram Online |
-| 2026-07-02 18:47 | US | 通报 | Iran | 待确认 | C | US evaluates moving CENTCOM forces and naval assets to Israel after Iran war - The Jerusalem Post |
-| 2026-07-02 18:45 | US | 通报 | Iran | 待确认 | C | 'Will be forced to militarily complete the job': US President Donald Trump confirms another military attack on Iran - MSN |
-| 2026-07-02 18:42 | Iran | 通报 | Tehran | 待确认 | C | Trump Faces Fresh Iran Challenge as Tehran Says Strait of Hormuz Is Under 'Iranian Command' - inkl |
-| 2026-07-02 18:25 | Iran | 通报 | Tehran | 待确认 | C | Tehran vows Hormuz ‘under our command’ as Qatar reports progress in talks - thecradle.co |
-| 2026-07-02 18:15 | US | 通报 | Iran | 待确认 | C | CENTCOM considers relocating US bases to Israel’s Negev after Iran attacks - Crypto Briefing |
-| 2026-07-02 18:15 | US | 通报 | Iran | 待确认 | C | CENTCOM mulls moving US bases to Israel’s Negev after Iran attacks - Crypto Briefing |
-| 2026-07-02 18:11 | 未明确 | 通报 | Gaza | 待确认 | C | 1,000 Days Of War In Gaza: Palestinians Still Isolated From Humanitarian Aid - Outlook India |
-| 2026-07-02 17:27 | Iran | 通报 | Iran | 待确认 | C | Iran Diplomacy Advances as U.S. Emphasizes Military Strength - cbn.com |
-| 2026-07-02 17:27 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Update: ‘We Have Total Control of Everything’; Why Did Donald Trump Claim Strait of Hormuz Traffic is at Record Levels? - The Sunday Guardian |
-| 2026-07-02 17:20 | US | 通报 | Iran | 待确认 | C | US-Iran talks in Doha: What were the outcomes and what’s next? - Al Jazeera |
-| 2026-07-02 17:15 | US | 通报 | Iran | 待确认 | C | US-Iran talks conclude in Doha; outcome uncertain, Strait of Hormuz key issue - Onmanorama |
-| 2026-07-02 17:08 | Israel | 通报 | Israel | 待确认 | C | Hezbollah threatens to blow up Lebanon-Israel peace framework as protests grip Beirut - AOL.com |
-| 2026-07-02 16:50 | Israel | 通报 | Iran | 待确认 | C | Live Coverage of the Iran–U.S.–Israel Conflict / July 02 - WANA News Agency |
-| 2026-07-02 16:46 | US | 通报 | Iran | 待确认 | C | Iran warns US, Israel against attacks ahead of funeral processions for Khamenei - Awani International |
-| 2026-07-02 16:23 | Iran | 通报 | Iran | 待确认 | C | Iran calls for massive funeral turnout to demand vengeance for Ali Khamenei - Türkiye Today |
-| 2026-07-02 15:48 | Israel | 空袭 | Israel | 命中 | C | Israeli strikes hit several commercial and residential areas in central Beirut, Lebanon - News On AIR |
-| 2026-07-02 15:30 | 未明确 | 空袭 | Lebanon | 待确认 | C | West Asia Conflict: Two-week ceasefire holding despite recent strikes on Lebanon - News On AIR |
-| 2026-07-02 15:27 | US | 通报 | Iran | 待确认 | C | 'Positive progress' in US-Iran indirect talks in Doha; next round after Khamenei's funeral: mediators - The New Indian Express |
-| 2026-07-02 15:00 | Israel | 通报 | Israel | 待确认 | C | Israel to keep troops in Lebanon, Syria and Gaza indefinitely - Middle East Monitor |
-| 2026-07-02 14:45 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: Iran Prepares for Ayatollah Ali Khamenei 6 Days Funeral Across, 20 Million Mourners Expected & Security on High Alert – US-Iran Peace Talks to Resume After Burial - The Sunday Guardian |
-| 2026-07-02 14:32 | Israel | 通报 | Israel | 待确认 | C | Israel Decrees Permanent Military Occupation of Lebanon, Syria, and Gaza Buffer Zones - streamlinefeed.co.ke |
-| 2026-07-02 14:21 | US | 通报 | Iran | 待确认 | C | US naval forces protect supertanker transits in Strait of Hormuz amid Iran conflict - Crypto Briefing |
-| 2026-07-02 14:19 | US | 空袭 | Iran | 待确认 | C | Iran Strikes US Bases, Explosions In Abu Dhabi, Jeddah, Kuwait, Qatar / Firstpost LIVE / N18G Brandon Aiyuk (hDKrwcEQRp) - Mshale |
+| 2026-07-03 09:44 | 未明确 | 通报 | 未明确 | 待确认 | C | Holding the peace - The News Pakistan |
+| 2026-07-03 09:11 | US | 通报 | Iran | 待确认 | C | US officials feared Israel planned to kill Iran’s top negotiators mid-talks - Crypto Briefing |
+| 2026-07-03 08:46 | US | 通报 | Iran | 待确认 | C | Oil Falls Below $71 for First Time Since US-Israel War on Iran as Doha Talks Signal Pause - The Eastern Herald |
+| 2026-07-03 08:45 | Israel | 发射 | Iran | 待确认 | C | ISRAELIRANWAR. Gaza Plan: Palestinian Displacement, Egypt Under Pressure. Drone Attacks in Southern Lebanon. Bombing of Khamenei's Funeral Called - agc communication news |
+| 2026-07-03 08:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and Middle East - The Jerusalem Post |
+| 2026-07-03 07:26 | US | 空袭 | Iran | 待确认 | C | US Vows To Shift Middle East Bases To Israel After Iranian Strikes Inflict Heavy Damage On 20 Military Sites - Republic World |
+| 2026-07-03 07:15 | Israel | 空袭 | Israel | 命中 | C | Israeli Drone Strikes Near Ghandour Hospital as Warplanes Hit Braashit in Bint Jbeil: 28 Sources (West Asian: 17) - NewsCord |
+| 2026-07-03 07:15 | Iran | 通报 | Iran | 待确认 | C | Strait of Hormuz: BBC sees seized ships and stranded tankers on visit to Iran - BBC |
+| 2026-07-03 07:02 | US | 空袭 | Iran | 待确认 | C | Iran live updates: US and Iran agree to stop strikes, US official says - MSN |
+| 2026-07-03 06:00 | US | 通报 | Israel | 待确认 | C | Former Lebanon foreign minister backs Israel talks, calls US-brokered framework agreement 'flawed' - Moneycontrol.com |
+| 2026-07-03 05:43 | Israel | 通报 | Iran | 命中 | C | Trump: Iran ‘loser of the Middle East,’ will be ‘hit very hard today’; IDF downs 110 drones since start of war - Ynetnews |
+| 2026-07-03 05:11 | Iran | 空袭 | Iran | 待确认 | C | Trump sticks with Iran diplomacy but keeps strike option - MSN |
+| 2026-07-03 05:10 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: Pardoned Iranian Nuclear Negotiator Sues FIFA Over Iran’s World Cup 2026 Loss to Egypt as Peace Talks Stall - The Sunday Guardian |
+| 2026-07-03 05:09 | US | 通报 | Iran | 待确认 | C | 'Has CENTCOM Brought Security?': Iran Slams US-Led Regional Security Meeting In Bahrain - News18 |
+| 2026-07-03 05:05 | US | 通报 | Iran | 待确认 | C | A misguided war, a flawed deal, and a dangerous future. Here’s what to do next on Iran. - Atlantic Council |
+| 2026-07-03 05:05 | US | 通报 | Iran | 待确认 | C | US Military Shoots Down Two Iranian Drones Over Strait Of Hormuz - Bernama |
+| 2026-07-03 04:56 | US | 通报 | Iran | 待确认 | C | Day 125 / Trump optimistic of US-Iran talks in Qatar - Roya News |
+| 2026-07-03 04:38 | Iran | 通报 | Iran | 待确认 | C | ‘Indirect’ Qatar Talks with Iran Conclude Quietly, with No Breakthrough on Strait of Hormuz - breitbart.com |
+| 2026-07-03 04:20 | Israel | 空袭 | Israel | 伤亡 | C | IDF says strike killed Hezbollah operative who emerged from tunnel in south Lebanon - The Times of Israel |
+| 2026-07-03 04:13 | Israel | 撤离 | Iran | 待确认 | C | The Framework Israel Signed With Lebanon Doesn't Require Withdrawal. That's Iran's Problem With It. - The Eastern Herald |
+| 2026-07-03 03:58 | US | 通报 | Iran | 待确认 | C | US officials suspect Israel plotted to kill Iran’s nuclear negotiators during peace talks - Crypto Briefing |
+| 2026-07-03 03:46 | Israel | 空袭 | Iran | 待确认 | C | Israel's Katz tells military to prepare for possible Iran strike - Shafaq News / Latest breaking news in Iraq and the world - شفق نيوز |
+| 2026-07-03 03:29 | Israel | 通报 | Israel | 待确认 | C | Trump presses Syria to take on Hezbollah, raising alarm in Lebanon and Israel - AOL.com |
+| 2026-07-03 03:18 | Israel | 通报 | Israel | 待确认 | C | Finance and Defense ministries reach deal to give IDF an extra NIS 15 billion - The Times of Israel |
+| 2026-07-03 03:11 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: Strait of Hormuz Ship Traffic Continues to Rebound Following Interim US-Iran Peace Agreement - The Sunday Guardian |
+| 2026-07-03 03:11 | US | 通报 | Iran | 待确认 | C | Report: US feared Israel would kill Iran negotiators during peace talks - Ynetnews |
+| 2026-07-03 02:59 | Israel | 通报 | Iran | 待确认 | C | 186-mile vulnerability: How Israel plans to defend itself from Iranian attack via Jordan - World Israel News |
+| 2026-07-03 02:53 | Israel | 通报 | Israel | 待确认 | C | Gaza's future remains uncertain as Palestinians and Israelis mark 1,000 days of war - PBS |
+| 2026-07-03 02:47 | Israel | 通报 | Iran | 待确认 | C | U.S. Officials Believed Israel Was Plotting to Kill Iranian Negotiators - The New York Times |
+| 2026-07-03 02:39 | Iran | 通报 | Iran | 待确认 | C | After U.S.-Iran War, Oman Is Said to Propose Strait of Hormuz Fee Plan - The New York Times |
+| 2026-07-03 01:58 | Israel | 通报 | Israel | 待确认 | C | Countries supplying arms to Israel cannot escape charge of aiding war crimes: Justice Muralidhar - The Business Standard |
+| 2026-07-03 01:50 | US | 通报 | Iran | 待确认 | C | Iran Warns US Over Strait of Hormuz Interference, Demands Ships Follow Iranian Routes - LatestLY |
+| 2026-07-03 01:47 | 未明确 | 发射 | 未明确 | 待确认 | C | The Aims of NATO/U.S.-Organized Missile Attacks Inside Russia Go Far Beyond Russia Alone - mronline.org |
+| 2026-07-03 01:47 | US | 通报 | Iran | 待确认 | C | US fighter jets presence over Hormuz threatens regional security: Iranian army - Middle East Monitor |
+| 2026-07-03 01:38 | US | 通报 | Iran | 待确认 | C | How US-Iran war may push Gulf countries to ‘diversify’ security alliances - Al Jazeera |
+| 2026-07-03 01:37 | US | 通报 | Tehran | 待确认 | C | US-Israel-Iran War Latest News: US Envoy Warns Trump’s Patience with Iran ‘Not Unlimited’ Amid Accusing Tehran & Disrupting Shipping Through Strait of Hormuz - The Sunday Guardian |
+| 2026-07-03 01:35 | Iran | 通报 | Iran | 待确认 | C | Trump-backed truce in Lebanon, key to Iran peace deal, risks new civil war - The Washington Post |
+| 2026-07-03 01:24 | Israel | 通报 | Israel | 待确认 | C | Israeli Envoy: Lebanese Army ‘Sidelining’ Shi’ites in Confrontation With Hezbollah - news.antiwar.com |
+| 2026-07-03 01:20 | US | 通报 | Iran | 待确认 | C | Iran’s parliamentary speaker accuses US secretly planning ground invasion - News On AIR |
+| 2026-07-03 01:20 | Israel | 通报 | Israel | 待确认 | C | Netanyahu pushes buffer zones as Israel faces isolation - MSN |
