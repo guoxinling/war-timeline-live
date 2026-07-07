@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-07-06 23:21
+更新时间（北京时间）: 2026-07-07 10:41
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
+| 2026-07-07 10:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and Middle East - The Jerusalem Post |
+| 2026-07-07 09:34 | Israel | 空袭 | Israel | 待确认 | C | Israeli Drone Strike Kills Four Civilians in South Lebanon Despite Ceasefire - Kurdistan24 |
+| 2026-07-07 08:45 | 未明确 | 通报 | 未明确 | 待确认 | C | A Thousand Days After October 7, Washington Still Has No Strategic Plan - Carnegie Endowment for International Peace |
+| 2026-07-07 07:34 | Israel | 空袭 | Israel | 待确认 | C | Lebanon says Israeli strike on south kills 4, including 3 women - South China Morning Post |
+| 2026-07-07 07:32 | Iran | 通报 | Iran | 待确认 | C | The Heat: Middle East Conflict / Iran's defiance - Modern Ghana |
+| 2026-07-07 07:18 | US | 通报 | Lebanon | 待确认 | C | Pentagon Plans US Ground Troop Deployment to Lebanon to Disarm Hezbollah, PressTV Says - NewsCord |
+| 2026-07-07 05:53 | 未明确 | 通报 | 未明确 | 待确认 | C | UAE reportedly funding secret Berbera military base in Somaliland - Muslim Network TV |
+| 2026-07-07 05:00 | Israel | 空袭 | Israel | 待确认 | C | Israeli strike on Lebanon kills 4, including 3 women / Gulf Times - Gulf Times |
+| 2026-07-07 04:45 | Israel | 通报 | Israel | 待确认 | C | While Hamas rebuilds, Israel must keep Gaza an active front - www.israelhayom.com |
+| 2026-07-07 04:27 | US | 通报 | Iran | 待确认 | C | 'Low likelihood' of a full Iran-US agreement - www.israelhayom.com |
+| 2026-07-07 04:18 | US | 通报 | Iran | 待确认 | C | Trump says there will either be a deal with Iran or US will 'finish the job' - Reuters |
+| 2026-07-07 04:06 | US | 通报 | Israel | 待确认 | C | US needs to move bases from Gulf to Israel, former Centcom commander says - Middle East Eye |
+| 2026-07-07 04:01 | Iran | 通报 | Tehran | 待确认 | C | Iran envoy to Houthis signals Tehran backed escalation in Yemen - The Jerusalem Post |
+| 2026-07-07 03:47 | Israel | 通报 | Iran | 待确认 | C | Israel fortifies border with Jordan as Iran seeks new terror path - Fox News |
+| 2026-07-07 03:47 | Israel | 发射 | Israel | 命中 | C | Hitting two apartments: Israel strikes south Beirut after intercepting Hezbollah launches - RTL Today |
+| 2026-07-07 03:42 | US | 通报 | Israel | 待确认 | C | Israel Quits South Lebanon Under US Pressure — Did Washington Just Hand Hezbollah a Survival It Never Earned? - indiaherald.com |
+| 2026-07-07 03:40 | US | 通报 | Iran | 待确认 | C | Did the US-Israeli war against Iran save the Islamic Republic? - The Christian Science Monitor |
+| 2026-07-07 03:12 | Iran | 通报 | Iran | 待确认 | C | Where to Go Next After the Memorandum of Understanding with Iran? - Algemeiner.com |
+| 2026-07-07 03:06 | US | 通报 | Iran | 待确认 | C | Iran’s parliamentary speaker accuses US secretly planning ground invasion - News On AIR |
+| 2026-07-07 02:45 | US | 空袭 | Qom | 命中 | C | US-Israel-Iran War Latest News: Israeli Strikes Hit Southern Lebanon as Khamenei’s Body Taken to Qom for Funeral Rites - The Sunday Guardian |
+| 2026-07-07 02:23 | Israel | 空袭 | Israel | 待确认 | C | Israeli strike on Lebanon kills four - Newagebd.net |
+| 2026-07-07 01:44 | Israel | 通报 | Israel | 伤亡 | C | Headteacher among four killed in deadliest Israeli attack on Lebanon since latest ceasefire - BBC |
+| 2026-07-07 01:15 | Iran | 通报 | Iran | 待确认 | C | Iran's New Supreme Leader Missed His Father's Funeral. Reports Say It Could Be Due To Assassination Fears Or Not Show His Wounds - International Business Times |
+| 2026-07-07 01:15 | Israel | 空袭 | Israel | 待确认 | C | Israeli strike kills 4, including school principal, in south Lebanon: Health Ministry - CBC |
+| 2026-07-07 01:03 | Israel | 通报 | Israel | 待确认 | C | Rumors of Khamenei's Death & The Chaos Splitting the Middle East - TV7 Israel News |
+| 2026-07-07 01:00 | 未明确 | 通报 | 未明确 | 待确认 | C | West Asia conflict enters more intense phase with military activity spreading across several fronts - News On AIR |
+| 2026-07-07 00:55 | US | 通报 | Iran | 待确认 | C | Trump says US prefers nuclear deal with Iran but warns military action remains an option - Anadolu Ajansı |
+| 2026-07-07 00:53 | US | 通报 | Israel | 待确认 | C | Netanyahu denies rift with Trump, says US and Israel 'see eye-to-eye on just about everything' - Moneycontrol.com |
+| 2026-07-07 00:53 | Israel | 空袭 | Iran | 命中 | C | BREAKING: Israel PREPARES Iran Strike; Hezbollah Drones Hit IDF; Region Braces For War / TBN Israel Dna (WqAZ06ZjN7) - Mshale |
+| 2026-07-07 00:37 | Israel | 通报 | Israel | 待确认 | C | Israel's 'Same Fate' Warning Rocks Khamenei Funeral - Mid-day |
+| 2026-07-07 00:35 | 未明确 | 通报 | Lebanon | 待确认 | C | Middle East: Khamenei Funeral, Lebanon Deal and Regional Tension Keep the Region on Edge - The Daily Scrum News |
+| 2026-07-07 00:19 | Israel | 通报 | Israel | 待确认 | C | Israel kills 4, including school principal, in south Lebanon, health ministry says - Reuters |
+| 2026-07-07 00:19 | 未明确 | 通报 | Lebanon | 待确认 | C | Heartbreaking Attack in Lebanon: Tragedy Amid Ceasefire - Devdiscourse |
+| 2026-07-06 23:50 | US | 通报 | Iran | 待确认 | C | Israel to quit parts of South Lebanon? US deal forces Bibi into major concession after Iran defeat / Videos - Hindustan Times |
+| 2026-07-06 23:38 | Israel | 通报 | Iran | 待确认 | C | Israel-Iran Tensions Escalate As Leaders Exchange Threats Amid Lebanon Ceasefire Challenges - Daily - Daily Parliament Times |
+| 2026-07-06 23:27 | Iran | 通报 | Iran | 待确认 | C | PrimeTime: Iran-U.S. tensions, Ukraine and Gaza reconstruction - AnewZ |
 | 2026-07-06 23:17 | 未明确 | 通报 | 未明确 | 待确认 | C | Netanyahu urges Trump to block F-35 sale to Türkiye ahead of NATO summit - İlke Haber Ajansı |
-| 2026-07-06 23:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and Middle East - The Jerusalem Post |
-| 2026-07-06 22:59 | 未明确 | 通报 | 未明确 | 待确认 | C | Oil prices ease as OPEC+ increases production, Hormuz traffic rebounds - Al-Monitor |
-| 2026-07-06 22:36 | 未明确 | 通报 | Lebanon | 待确认 | C | Lebanon's south takes a breath as families return to shattered homes and lives - The Straits Times |
-| 2026-07-06 22:36 | Israel | 通报 | Israel | 待确认 | C | Israel Approves New West Bank Settlements and Continues Attacks on Gaza - Democracy Now! |
-| 2026-07-06 22:35 | Israel | 通报 | Israel | 待确认 | C | IDF chief: Lebanese army ‘needs to fulfill commitments’; Israel prepares handover of south Lebanon pilot zones - All Israel News |
-| 2026-07-06 22:28 | US | 通报 | Iran | 待确认 | C | Why Israel has more to fear from US-Iran peace than war - The Daily Star |
-| 2026-07-06 22:26 | Israel | 通报 | Israel | 待确认 | C | Israeli attack on vehicle in Lebanon kills at least four - Al Jazeera |
-| 2026-07-06 22:07 | Israel | 通报 | Iran | 待确认 | C | Israeli documents undermine claim Iran and Hezbollah helped plan 7 October attack - Middle East Monitor |
-| 2026-07-06 21:37 | Israel | 通报 | Iran | 待确认 | C | Israeli defense minister threatens Iranian leaders as Iranians mourn Khamenei - Middle East Monitor |
-| 2026-07-06 21:34 | Israel | 空袭 | Israel | 伤亡 | C | Lebanon: School principal among four killed in Israeli strike - Shafaq News / Latest breaking news in Iraq and the world - شفق نيوز |
-| 2026-07-06 21:32 | 未明确 | 通报 | 未明确 | 待确认 | C | Malaysia Airlines, Batik Air cut routes amid Middle East conflict - thetraveler.org |
-| 2026-07-06 21:15 | US | 通报 | Iran | 待确认 | C | US-Iran War Latest News: Israelis See ‘Real’ Risk of Civil War ‘Kill Trump’ & ‘There Will Be Blood’ Poster Seen in Procession – Here’s What’s Happening - The Sunday Guardian |
-| 2026-07-06 21:08 | Israel | 空袭 | Israel | 待确认 | C | Israel tests ceasefire after drone strike reportedly kills four in Lebanon - The Globe and Mail |
-| 2026-07-06 21:08 | Israel | 空袭 | Israel | 待确认 | C | Israeli Drone Strike Kills Four Civilians in South Lebanon Despite Ceasefire - Kurdistan24 |
-| 2026-07-06 20:56 | Israel | 空袭 | Israel | 待确认 | C | Lebanon says Israeli strike on south kills 4, including 3 women - RFI |
-| 2026-07-06 20:34 | US | 通报 | Iran | 待确认 | C | Dollar Falls Below EGP 49 For First Time Since US-Israel War on Iran - CairoScene |
-| 2026-07-06 20:28 | Iran | 通报 | Tehran | 待确认 | C | Mourners throng funeral procession in Tehran for Iran's Supreme Leader Ayatollah Ali Khamenei - Times West Virginian |
-| 2026-07-06 20:12 | Iran | 通报 | Iran | 待确认 | C | Fox’s Brian Kilmeade Presses Netanyahu on Iran War: ‘Why Is That Government Still Standing?’ - Mediaite |
-| 2026-07-06 20:09 | 未明确 | 空袭 | Lebanon | 伤亡 | C | Deadly Drone Strike in Southern Lebanon - Devdiscourse |
-| 2026-07-06 20:04 | Israel | 通报 | Iran | 待确认 | C | Trump Says He Will Press Israel to Hold Back after Iran Retaliates for Beirut Attack - The Washington Stand |
-| 2026-07-06 20:01 | 未明确 | 空袭 | Lebanon | 伤亡 | C | Deadliest Drone Strike Triggers Renewed Tensions in Lebanon - Devdiscourse |
-| 2026-07-06 20:01 | Israel | 通报 | Israel | 待确认 | C | 1,000 targets a day: Israel's digital army detected 850,000 entries during Gaza, Lebanon wars - The Times of India |
-| 2026-07-06 19:58 | Israel | 通报 | Israel | 待确认 | C | Millions of Indians don’t support Israel's Gaza actions: Congress - madhyamamonline.com |
-| 2026-07-06 19:55 | Israel | 空袭 | Israel | 待确认 | C | Lebanon state media says Israeli strike on south kills 4, including 3 women - Business Recorder |
-| 2026-07-06 19:51 | Israel | 通报 | Israel | 待确认 | C | Israel, Greece Resume Joint Air Drills After Wartime Pause - Menafn |
-| 2026-07-06 19:49 | Israel | 通报 | Israel | 待确认 | C | Israel elections: Who is Gadi Eisenkot? Former IDF chief and centrist leader emerges as Netanyahu’s main opponent, resigned from Israel PM’s war cabinet due to…; can he beat Netanyahu? - news24online.com |
-| 2026-07-06 19:46 | 未明确 | 通报 | 未明确 | 待确认 | C | Trump, Mamdani give contrasting July 4th speeches. And, U.S. faces Belgium in World Cup - NPR |
-| 2026-07-06 19:45 | US | 通报 | Tehran | 伤亡 | C | US-Israel-Iran War Latest News: ‘US Killed Our Father,’ Mourners Chant Revenge Slogans Against Trump During Ayatollah Ali Khamenei’s Funeral in Tehran - The Sunday Guardian |
-| 2026-07-06 19:39 | Israel | 通报 | Israel | 待确认 | C | Israeli, Greek Air Forces Restart Joint Military Training - Menafn |
-| 2026-07-06 19:20 | Israel | 空袭 | Lebanon | 待确认 | C | IDF strikes Hezbollah cell near Southern Lebanon security zone - JNS |
-| 2026-07-06 19:16 | Israel | 通报 | Israel | 待确认 | C | Why renewed Egypt-Turkey military cooperation concerns Israel - The New Arab |
-| 2026-07-06 19:05 | 未明确 | 通报 | 未明确 | 待确认 | C | Zionist lobby calls UAE the model ally for skipping Khamenei’s funeral - thecanary.co |
-| 2026-07-06 19:00 | US | 发射 | Iran | 待确认 | C | US-Israel-Iran War Latest News: Israeli Drone Attacks Nabatieh Al-Fawqa, Southern Lebanon Despite ‘Ceasefire’ - The Sunday Guardian |
-| 2026-07-06 18:56 | Iran | 通报 | Iran | 待确认 | C | Huge crowd joins funeral procession for Iran’s Supreme Leader Khamenei - Al Jazeera |
-| 2026-07-06 18:51 | US | 通报 | Iran | 待确认 | C | Iran claims US forced to include Lebanon in MOU after 2026 Iran War - Crypto Briefing |
-| 2026-07-06 18:51 | 未明确 | 通报 | 未明确 | 待确认 | C | Fühlinger See Snorkeling - 14.06.2019 2-5 Joshua Van (lA7nHEH8Um) - Fathom Journal |
-| 2026-07-06 18:48 | Israel | 空袭 | Tehran | 待确认 | C | Israel reports fresh airstrikes on Iranian targets east of Tehran - News On AIR |
-| 2026-07-06 18:46 | US | 通报 | Iran | 待确认 | C | Iranian parliament speaker: We have no peace with US and will not recognise Israel - Middle East Monitor |
-| 2026-07-06 18:36 | US | 通报 | Israel | 待确认 | C | Fissures between the US and Israel Limit Expansion of Conflict, Gold Breaks Free from Interest Rate Hikes - Bitget |
+| 2026-07-06 23:04 | Israel | 空袭 | Israel | 待确认 | C | Israel strikes southern Lebanon as Hezbollah condemns new deal - MSN |
+| 2026-07-06 23:02 | Iran | 通报 | Iran | 待确认 | C | Trump’s weekend war approach to Iran might never end - Salon.com |
+| 2026-07-06 23:00 | 未明确 | 通报 | 未明确 | 待确认 | C | Daybreak: EU engagement, Middle East diplomacy and NATO - AnewZ |
