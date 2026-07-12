@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-07-11 21:08
+更新时间（北京时间）: 2026-07-12 10:22
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-07-11 21:05 | US | 通报 | Iran | 待确认 | C | US-Iran War & Power of Communication! - Countercurrents.org |
-| 2026-07-11 20:18 | US | 通报 | Iran | 待确认 | C | US-Israel war on Iran - The Guardian |
-| 2026-07-11 20:17 | US | 通报 | Israel | 待确认 | C | Israel freezes ’sensitive’ ops in south Lebanon at behest of US - The New Arab |
-| 2026-07-11 20:14 | Iran | 通报 | Iran | 待确认 | C | Trump Says Talks With Iran Will Continue Despite Declaring Ceasefire Over - Arise News |
-| 2026-07-11 19:49 | US | 通报 | Iran | 待确认 | C | Q&A: US War on Iran — Why Clashes Resumed in Strait of Hormuz…and What Happens Next - EA WorldView |
-| 2026-07-11 19:32 | Iran | 通报 | Iran | 待确认 | C | Trump and Iranian leaders trade threats as interim deal falls apart - The Tribune-Democrat |
-| 2026-07-11 19:23 | 未明确 | 通报 | 未明确 | 待确认 | C | Mojtaba Khamenei threatens Washington with "comprehensive revenge" - صوت الإمارات |
-| 2026-07-11 19:00 | Iran | 通报 | Iran | 待确认 | C | The U.S. war of choice against Iran has now become the War of Hormuz - Mondoweiss |
-| 2026-07-11 18:16 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: Is Iran Moving Oil Tankers Faster Through the Strait of Hormuz After the US Final Ultimatum? - The Sunday Guardian |
-| 2026-07-11 18:03 | Iran | 通报 | Iran | 待确认 | C | EU economy battered by illegal war on Iran - PressTV |
-| 2026-07-11 18:00 | US | 通报 | Iran | 待确认 | C | The US was overconfident before the war. Iran may be overconfident now. - vox.com |
-| 2026-07-11 17:00 | Iran | 发射 | Iran | 待确认 | C | ‘Decimate and destroy:’ Trump threatens Iran with ‘1,000 missiles’ - Herald Sun |
-| 2026-07-11 17:00 | Israel | 通报 | Iran | 待确认 | C | Iran Fears the Israel Factor: Why Washington Must Fully Integrate Jerusalem in Every Move - gatestoneinstitute.org |
-| 2026-07-11 16:49 | US | 通报 | Iran | 待确认 | C | US Israel Iran War Latest News: Pakistan PM Seeks Fresh Iran-Qatar Dialogue After Islamabad Memorandum of Understanding Was Violated - The Sunday Guardian |
-| 2026-07-11 16:48 | Iran | 发射 | Iran | 待确认 | C | Trump warns 1,000 missiles ‘locked and loaded’ if Iran tries to assassinate him - Muslim Network TV |
-| 2026-07-11 16:39 | Israel | 空袭 | Israel | 待确认 | C | Israeli strike on south Lebanon kills one - Naharnet |
-| 2026-07-11 16:36 | Israel | 通报 | Israel | 待确认 | C | Hamas says it will dissolve Gaza government, but Israel warns group still seeks Hezbollah-style control - AOL.com |
-| 2026-07-11 16:25 | US | 通报 | Lebanon | 待确认 | C | US military team to visit Lebanon to support ceasefire implementation - Türkiye Today |
-| 2026-07-11 16:11 | Iran | 通报 | Iran | 待确认 | C | Trump threatens Iran after chants for his death erupted at Khamenei funeral - Al Jazeera |
-| 2026-07-11 16:10 | US | 通报 | Tehran | 待确认 | C | US-Israel-Iran War Latest News: ‘We Screwed Up,’ Iran Reportedly Calls Attacks on Ships in Strait of Hormuz a ‘Mistake’ – Iran, Oman Hold Talks as Tehran Reaffirms Safe Shipping - The Sunday Guardian |
-| 2026-07-11 15:50 | Israel | 通报 | Israel | 待确认 | C | Inside the Combat Zone: Why Thai Agricultural Workers Refuse to Abandon Israeli Farms - streamlinefeed.co.ke |
-| 2026-07-11 15:27 | US | 通报 | Iran | 待确认 | C | Trump agrees to fresh iran talks as us imposes new sanctions amid rising middle east tensions - WION |
-| 2026-07-11 15:16 | US | 通报 | Tehran | 待确认 | C | War with Iran, Tehran: "We kept our word to the US on the ceasefire." - L'Unione Sarda.it |
-| 2026-07-11 14:48 | US | 通报 | Iran | 待确认 | C | US, Israel Blast Iran Amid Talks; UAE: Finish The Job / CBN NewsWatch - March 26, 2026 Joan Collins (j4Mp3m7iAh) - Mshale |
-| 2026-07-11 14:45 | US | 通报 | Iran | 待确认 | C | Iran war latest: Iran and US to resume talks in Oman amid regional de-escalation efforts - thenationalnews.com |
-| 2026-07-11 14:42 | Iran | 通报 | Tehran | 待确认 | C | Breaking – Iran: Explosions rock eastern Tehran - صوت الإمارات |
-| 2026-07-11 14:29 | Israel | 空袭 | Israel | 伤亡 | C | One killed, several injured in Israeli airstrikes on southern Lebanon - PressTV |
-| 2026-07-11 14:05 | US | 通报 | Tehran | 待确认 | C | US-Israel-Iran War Latest Update: ‘War Won’t End With Iran’s Surrender,’ Tehran Warns US of ‘Reciprocal Action’- Rejects Trump’s Talks Claim as US-Iran Negotiations Continue - The Sunday Guardian |
-| 2026-07-11 14:00 | 未明确 | 通报 | 未明确 | 待确认 | C | Trump looks like a mobster past his peak - The i Paper |
-| 2026-07-11 13:45 | Israel | 通报 | Iran | 待确认 | C | Question Emerge After Iran State Media Warns Kenya Could Join U.S., Israel War - Kenyans.co.ke |
-| 2026-07-11 13:33 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: Trump Warns Iran, ‘Assassinate Me & You’ll Be Bombed Like Never Before,’ Says He Has ‘Left Instructions’ for Military Action – US-Iran Talks to Continue? - The Sunday Guardian |
-| 2026-07-11 13:16 | Iran | 发射 | Tehran | 待确认 | C | Trump warns Iran of 1,000 missiles if Tehran "touches" him, as ceasefire declared over - ProtoThema English |
-| 2026-07-11 13:12 | US | 通报 | Iran | 待确认 | C | Are the US and Iran at war again? - Al Jazeera |
-| 2026-07-11 12:56 | US | 通报 | Iran | 待确认 | C | US wants Iran to pledge to stop shooting at ships in Strait of Hormuz - BBC |
-| 2026-07-11 12:55 | US | 发射 | Iran | 待确认 | C | US Israel Iran War Latest News: Why Did Donald Trump Warn Iran That '1,000 Missiles' Are Locked and Loaded Over an Alleged Assassination Plot? - The Sunday Guardian |
-| 2026-07-11 12:54 | US | 通报 | Iran | 待确认 | C | Trump restarts Iran war but pulls F-22 raptors out of Israel; abandons US support for Netanyahu? / Videos - Hindustan Times |
-| 2026-07-11 12:50 | US | 通报 | Iran | 待确认 | C | Iran says US conflict won’t end through surrender - Minute Mirror |
-| 2026-07-11 12:08 | Iran | 空袭 | Iran | 待确认 | C | War, latest news. Trump: ‘If Iran kills me, I have left instructions to strike them with unprecedented force’ - Il Sole 24 ORE |
-| 2026-07-11 11:51 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: Iran Reportedly Admits ‘Mistake’ Over Strait of Hormuz Attacks as US-Oman Talks Resume - The Sunday Guardian |
-| 2026-07-11 11:47 | US | 通报 | Israel | 待确认 | C | Report: Centcom team in Beirut to help implement Lebanon-Israel deal - Middle East Eye |
+| 2026-07-12 09:56 | 未明确 | 通报 | 未明确 | 待确认 | C | SMOKERS’ CORNER: HOW THE WEST LOST THE NARRATIVE - Dawn |
+| 2026-07-12 09:54 | Israel | 通报 | Iran | 待确认 | C | Motsai Shabbos Updates: Israel Vs. Hezbollah & USA Vs. Iran - 5 Towns Central |
+| 2026-07-12 09:31 | US | 空袭 | Tehran | 待确认 | C | 'Iran Made A Poor Choice, Now They Pay': Pete Hegseth As US Strikes Tehran After Hormuz Ship Attack - News18 |
+| 2026-07-12 09:31 | Israel | 发射 | Lebanon | 待确认 | C | IDF Strikes Hezbollah Terrorists Transferring Anti-Tank Missiles in Southern Lebanon Security Zone - VINnews |
+| 2026-07-12 09:25 | US | 发射 | Iran | 待确认 | C | US launches fresh strikes on Iran after maritime attack - Minute Mirror |
+| 2026-07-12 09:25 | US | 发射 | Iran | 待确认 | C | US Launches Fresh Strikes On Iran After IRGC Attacks Cyprus-Flagged Ship, Shuts Strait Of Hormuz - ABP Live English |
+| 2026-07-12 08:57 | US | 发射 | Iran | 待确认 | C | Iran Closes Strait of Hormuz as US Launches Fresh Airstrikes - Tempo.co English |
+| 2026-07-12 08:45 | Iran | 通报 | Iran | 待确认 | C | U.S. military says it is striking Iran in response to attack on civilian vessel in Strait of Hormuz - The Tribune-Democrat |
+| 2026-07-12 08:36 | Iran | 发射 | Iran | 待确认 | C | U.S. launches new strikes on Iran after attack on ship in Strait of Hormuz - BNO News |
+| 2026-07-12 08:22 | US | 发射 | Iran | 待确认 | C | US launches third wave of strikes on Iran, Centcom says - Firstpost |
+| 2026-07-12 08:21 | US | 通报 | Iran | 待确认 | C | Iran shuts Strait of Hormuz amid fresh hostilities with US - Daily Trust |
+| 2026-07-12 08:15 | US | 发射 | Iran | 待确认 | C | US launches fresh strikes as Iran closes Strait of Hormuz - BBC |
+| 2026-07-12 08:02 | 未明确 | 通报 | 未明确 | 待确认 | C | Renewed Gulf Hostilities, Elevated Regional And Global Uncertainty – OpEd - Eurasia Review |
+| 2026-07-12 07:58 | US | 发射 | Iran | 待确认 | C | US launches fresh strikes on Iran after IRGC "blatantly" attacks Cyprus flagged ship in Hormuz - Big News Network.com |
+| 2026-07-12 07:49 | US | 通报 | Iran | 待确认 | C | US military says it is striking Iran after IRGC ‘blatantly attacked’ a civilian ship in Hormuz - The Times of Israel |
+| 2026-07-12 07:42 | Iran | 通报 | Iran | 待确认 | C | Iran snatching defeat from the jaws of victory - The Nation Newspaper |
+| 2026-07-12 07:36 | US | 通报 | Israel | 待确认 | C | Explosions reported in Bushehr and Asaluyeh amid US-Israel military campaign - Crypto Briefing |
+| 2026-07-12 07:28 | Iran | 通报 | Iran | 待确认 | C | Fate of Strait of Hormuz challenges talks as Trump and Iran's supreme leader trade threats - The Tribune-Democrat |
+| 2026-07-12 07:25 | Iran | 通报 | Iran | 待确认 | C | Iran says Strait of Hormuz closed until further notice - The New Arab |
+| 2026-07-12 07:12 | Iran | 通报 | Iran | 待确认 | C | Trump suggests a standing order to attack Iran if it assassinates him, but Vance would make the call - The Tribune-Democrat |
+| 2026-07-12 06:44 | Israel | 撤离 | Israel | 待确认 | C | U.S. Delegation Meets Lebanon Army in Beirut to Implement Israel Pilot Zone Withdrawal: 24 Sources (West Asian: 16) - NewsCord |
+| 2026-07-12 06:24 | US | 通报 | Iran | 待确认 | C | UPDATE: Iran's supreme leader on Saturday vowed revenge for the US-Israeli killing of his father and predecessor, hours after President Donald Trump threatened severe reprisals in the event of any attempt on his life. / via Agence France-Presse - facebook.com |
+| 2026-07-12 05:41 | US | 通报 | Iran | 待确认 | C | Iran Says Drone Production Tripled During US, “Israeli” War - اسلام تايمز |
+| 2026-07-12 05:33 | US | 通报 | Iran | 待确认 | C | US lifts Strait of Hormuz blockade after Iran deal - MSN |
+| 2026-07-12 05:03 | US | 空袭 | Iran | 待确认 | C | US officials wait for Iran’s response to strikes, Israeli forces thwart Hezbollah plot - Fox News |
+| 2026-07-12 04:22 | Iran | 通报 | Iran | 待确认 | C | Trump trades threats with Iran’s leader, Araghchi holds talks with Omani FM - Al Jazeera |
+| 2026-07-12 04:07 | US | 通报 | Iran | 待确认 | C | US readies new pressure campaign as Iran talks hang in the balance - www.israelhayom.com |
+| 2026-07-12 04:06 | US | 通报 | Israel | 待确认 | C | Americans' view of Israelis turns negative amid steady Palestinian favorability - Türkiye Today |
+| 2026-07-12 03:57 | Israel | 通报 | Israel | 待确认 | C | Not just oil: Why the Strait of Hormuz has become a global battleground? - www.israelhayom.com |
+| 2026-07-12 03:50 | US | 通报 | Iran | 待确认 | C | US demands Iran publicly declare it will cease attacks on ships in Strait of Hormuz by Saturday - World Israel News |
+| 2026-07-12 03:45 | Iran | 通报 | Iran | 待确认 | C | How popular is the Iran War? - Silver Bulletin |
+| 2026-07-12 03:33 | US | 通报 | Iran | 命中 | C | Israel warns of Iranian plot as White House suspects push for war - www.israelhayom.com |
+| 2026-07-12 03:30 | Iran | 通报 | Iran | 待确认 | C | Iran supreme leader calls for revenge for father's killing - BBC |
+| 2026-07-12 03:24 | Iran | 通报 | Iran | 命中 | C | ‘Revenge Is Certain’: Iranian Newspaper Publishes ‘hit List’ Naming Trump, Netanyahu - i24NEWS |
+| 2026-07-12 03:20 | US | 通报 | Iran | 待确认 | C | To win the war against Iran, the United States must seize Qeshm Island – opinion - World Israel News |
+| 2026-07-12 03:20 | Israel | 发射 | Iran | 待确认 | C | Trump: 1,000 missiles are locked and loaded and aimed at Iran - World Israel News |
+| 2026-07-12 03:03 | Israel | 发射 | Israel | 命中 | C | Israel hits Hezbollah members ‘moving missiles’ in southern Lebanon - شفق نيوز |
+| 2026-07-12 02:41 | Israel | 通报 | Israel | 命中 | C | Israeli army says it struck Hezbollah operatives moving arms - Report.az |
+| 2026-07-12 02:37 | Israel | 通报 | Israel | 待确认 | C | EU countries to discuss trade ban on Israeli settlements - Arab News |
+| 2026-07-12 02:33 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: Iran’s Abbas Araghchi Meets Oman’s Foreign Minister in Muscat to Discuss Safe Passage for Ships Through Strait of Hormuz - The Sunday Guardian |
