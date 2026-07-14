@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-07-13 22:24
+更新时间（北京时间）: 2026-07-14 10:03
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-07-13 22:14 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and Middle East - The Jerusalem Post |
-| 2026-07-13 22:00 | 未明确 | 通报 | Jerusalem | 待确认 | C | Beyond the battlefield: Why the Abraham Accords matter more than ever - The Jerusalem Post |
-| 2026-07-13 21:47 | Iran | 通报 | Iran | 待确认 | C | U.S. and Iran are locked in a power struggle over the Strait of Hormuz - NBC News |
-| 2026-07-13 21:24 | US | 通报 | Iran | 待确认 | C | Middle East rocked by heaviest attacks since US-Iran ceasefire - Aaj English TV |
-| 2026-07-13 21:23 | Iran | 通报 | Iran | 待确认 | C | Trump faces tough choices in defining victory over Iran amid rising tensions - Crypto Briefing |
-| 2026-07-13 21:02 | 未明确 | 通报 | Gaza | 待确认 | C | WMA Renews Alarm Over Detained Gaza Doctor - NewsGhana |
-| 2026-07-13 20:53 | US | 通报 | Iran | 伤亡 | C | Today’s Headlines: Iran’s Stark Warning / US Renews Aggression / Killed, Injured in Gaza - Palestine Chronicle |
-| 2026-07-13 20:51 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: Ship Traffic Through Strait of Hormuz Drops Over 50% as Ceasefire Between US-Iran Unravels - The Sunday Guardian |
-| 2026-07-13 20:38 | Iran | 空袭 | Iran | 命中 | C | Iran-backed Houthi rebels in Yemen say Saudi airstrikes hit Sanaa International Airport - The Tribune-Democrat |
-| 2026-07-13 20:26 | US | 通报 | Iran | 待确认 | C | Trump declares US control of Strait of Hormuz amid Iran conflict - Crypto Briefing |
-| 2026-07-13 20:13 | US | 通报 | Iran | 待确认 | C | Stock market today: Why is Indian stock market down today? BSE Sensex, NSE Nifty fall as US-Israel-Iran conflict weighs on investor sentiment - MSN |
-| 2026-07-13 20:13 | US | 通报 | Iran | 待确认 | C | March to July: What’s different as US-Iran fighting escalates again? - Al Jazeera |
-| 2026-07-13 20:12 | Israel | 通报 | Israel | 待确认 | C | USA and Israel: From Support to Accountability - dailyindependent.com.pk |
-| 2026-07-13 20:06 | US | 通报 | Iran | 待确认 | C | The US-Iran deal is under pressure: What could happen next? - The New Arab |
-| 2026-07-13 20:01 | US | 通报 | Iran | 命中 | C | Renewed US-Iran war is hitting Gulf countries hard - dw.com |
-| 2026-07-13 19:57 | Iran | 通报 | Iran | 待确认 | C | U.S., Iran each assert they control Strait of Hormuz after another heavy exchange of fire - The Tribune-Democrat |
-| 2026-07-13 19:54 | Israel | 通报 | Iran | 待确认 | C | He’s Pete Hegseth’s Wealth Manager. He Also Pushes “Pro Israel Policies” Like War With Iran. - Mother Jones |
-| 2026-07-13 19:42 | Iran | 通报 | Iran | 待确认 | C | Iran war latest: Britain ⁠⁠proscribes ​Iran's IRGC as a terroritst organisation - thenationalnews.com |
-| 2026-07-13 19:25 | US | 通报 | Iran | 待确认 | C | Dubai and Middle East flight disruption: Gulf countries face fresh wave of attacks as US-Iran tensions deepen - Condé Nast Traveller Middle East |
-| 2026-07-13 19:15 | Israel | 通报 | Iran | 待确认 | C | Lindsey Graham leaves behind a legacy of support for ‘Israel’ and pressure on Iran - Roya News |
-| 2026-07-13 19:09 | US | 空袭 | Iran | 待确认 | C | US-Israel-Iran War Latest News: Explosions Heard Near Strait of Hormuz After New US Military Strikes on Iran - The Sunday Guardian |
-| 2026-07-13 19:03 | Israel | 通报 | Israel | 待确认 | C | Israel kills 8 Palestinians in Gaza - Muslim Network TV |
-| 2026-07-13 19:03 | US | 通报 | Israel | 待确认 | C | Israel grants illegal settlement in occupied West Bank ‘city status’ - Muslim Network TV |
-| 2026-07-13 19:03 | US | 通报 | 未明确 | 待确认 | C | Austria court rules alpine hotel’s burkini ban was religious discrimination against Muslims - Muslim Network TV |
-| 2026-07-13 19:03 | Israel | 通报 | Iran | 待确认 | C | Lebanon trapped in Iran-Israel crossfire - Firstpost |
-| 2026-07-13 18:23 | Israel | 通报 | Israel | 待确认 | C | West Asia conflict widens in past few hours as Israel confirmed expansion of its ground operations in southern Lebanon - News On AIR |
-| 2026-07-13 18:15 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: ‘Get Ready for Sudden Death,’ Iranian Newspaper Targets Trump After Lindsey Graham’s Death – 13 Foreign Leaders On the List Amid Escalating Tensions - The Sunday Guardian |
-| 2026-07-13 18:05 | US | 通报 | 未明确 | 待确认 | C | Saudi Arabia suspends US military access to its bases and airspace - News On AIR |
-| 2026-07-13 17:45 | US | 通报 | Iran | 待确认 | C | US attacks dozens of military targets in Iran. Again - israeltoday.co.il |
-| 2026-07-13 17:32 | Israel | 空袭 | Israel | 伤亡 | C | Israeli strike in Lebanon killed 12 medical workers in Bint Jbeil / Akashvani News - News On AIR |
-| 2026-07-13 17:23 | 未明确 | 通报 | 未明确 | 待确认 | C | West Asia conflict enters more intense phase with military activity spreading across several fronts - News On AIR |
-| 2026-07-13 17:19 | US | 空袭 | Iran | 待确认 | C | New Iran strikes on Gulf as US attacks escalate: What we know - Al Jazeera |
-| 2026-07-13 17:14 | US | 空袭 | Iran | 待确认 | C | US attacks Iran with sea-borne suicide drones for 1st time as strikes escalate - The Sun |
-| 2026-07-13 17:12 | US | 空袭 | Tehran | 待确认 | C | US carries out fresh wave of strikes on Iran, insists Tehran doesn’t control Hormuz - The Times of Israel |
-| 2026-07-13 17:09 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: Iran Warns It Will No Longer Honor US Memorandum If Washington Fails to Fulfill Commitments to End Conflict - The Sunday Guardian |
-| 2026-07-13 17:02 | Israel | 通报 | Israel | 待确认 | C | Inside Israel’s Secret Operation to Cultivate Ahmadinejad - The New York Times |
-| 2026-07-13 16:56 | US | 空袭 | Iran | 待确认 | C | US uses one-way attack sea drones for first time in Iran strikes, CENTCOM says - Egypt Independent |
-| 2026-07-13 16:47 | US | 空袭 | Tehran | 待确认 | C | US strikes Iran as Tehran targets US bases across Mideast as standoff continues - World Israel News |
-| 2026-07-13 16:46 | Israel | 空袭 | Israel | 伤亡 | C | Palestinian killed in Israeli airstrike on Gaza home amid fragile ceasefire - Crypto Briefing |
-| 2026-07-13 16:28 | Israel | 通报 | Israel | 待确认 | C | A historic Israel-Lebanon deal is closer than it appears - Ynetnews |
+| 2026-07-14 09:20 | Israel | 通报 | Israel | 待确认 | C | The Israel-Lebanon recipe for never-ending war - The Korea Times |
+| 2026-07-14 08:58 | US | 通报 | Iran | 待确认 | C | Escalation in Gulf: UAE blames Iran for tanker attacks as US reinstates Strait blockade - Mathrubhumi English |
+| 2026-07-14 08:47 | US | 空袭 | Iran | 命中 | C | ISRAELIRANWAR. 140 US strikes against Iran. Bases hit in Kuwait, Oman, Jordan, and Bahrain. No agreement on Hormuz. Israel strikes Hamas weapons factory in Gaza. KSA strikes Sanaa. - agc communication news |
+| 2026-07-14 08:16 | US | 发射 | Iran | 待确认 | C | US launches third night of strikes on Iran as Trump announces Hormuz blockade - The Guardian |
+| 2026-07-14 08:11 | US | 通报 | Iran | 待确认 | C | Trump notifies Congress as US resumes military action against Iran - World Israel News |
+| 2026-07-14 08:11 | US | 通报 | Iran | 待确认 | C | West Asia Conflict enters seventh day; US President Trump rules out any deal with Iran and calls for unconditional surrender / Akashvani News - News On AIR |
+| 2026-07-14 08:10 | Israel | 通报 | Israel | 待确认 | C | Live updates • IDF says it detained Israeli civilians after Syria border crossing attempt - Haaretz |
+| 2026-07-14 08:00 | 未明确 | 通报 | Gaza | 待确认 | C | A strategic shift in Gaza - Business Recorder |
+| 2026-07-14 07:43 | Israel | 通报 | Iran | 待确认 | C | A yearslong effort to groom Mahmoud Ahmadinejad, the former Iranian president, as an intelligence asset culminated in a dramatic effort to take him to an Israeli safe house in the early days of the U.S.-Israeli war on Iran. Here's how the plan fell apart. https://nyt - facebook.com |
+| 2026-07-14 07:39 | Iran | 空袭 | Iran | 待确认 | C | U.S. begins new Iran strikes after Trump says ships will be charged to use Strait of Hormuz - The Tribune-Democrat |
+| 2026-07-14 07:06 | US | 通报 | Iran | 待确认 | C | US, Iran exchange attacks around Strait of Hormuz - Al Jazeera |
+| 2026-07-14 06:24 | US | 通报 | Iran | 待确认 | C | Explosions reported in Hormozgan and Bushehr amid Iran-US-Israel tensions - Crypto Briefing |
+| 2026-07-14 05:54 | US | 空袭 | Iran | 待确认 | C | US said to target Iran's coastal surveillance in new strike - Breakingthenews.net |
+| 2026-07-14 05:47 | Israel | 通报 | Iran | 待确认 | C | Inside Israel’s Secret Operation to Install Ahmadinejad, Iran’s Former President, as Leader - The New York Times |
+| 2026-07-14 05:35 | Israel | 通报 | Israel | 待确认 | C | Graham death leaves Israel with a DC void - Politico |
+| 2026-07-14 05:34 | US | 发射 | Iran | 待确认 | C | US launches 3rd consecutive night of strikes against Iran: CENTCOM - Anadolu Ajansı |
+| 2026-07-14 05:32 | US | 空袭 | Natanz | 设施受损 | C | Iran confirms US and Israel carried out joint strike on its Natanz nuclear facility - News On AIR |
+| 2026-07-14 05:31 | US | 发射 | Iran | 待确认 | C | US military launches third night of strikes on Iran - Business Recorder |
+| 2026-07-14 05:31 | US | 发射 | Iran | 待确认 | C | US Army launches third consecutive night of airstrikes against Iranian targets - Israel National News |
+| 2026-07-14 05:24 | US | 通报 | Iran | 命中 | C | UK two-year gilt yield hits 1-month high amid Iran-US tensions - Crypto Briefing |
+| 2026-07-14 05:09 | Israel | 通报 | Israel | 待确认 | C | Will the Israel-Lebanon framework agreement ease the agony of south Lebanon’s displaced? - Arab News |
+| 2026-07-14 05:07 | US | 通报 | Iran | 命中 | C | Renewed US-Iran war is hitting Gulf countries hard - dw.com |
+| 2026-07-14 05:06 | Israel | 通报 | Iran | 待确认 | C | Lindsey Graham’s legacy: Israel advocate, Trump ally, Iran war supporter - Al Jazeera |
+| 2026-07-14 05:00 | 未明确 | 通报 | 未明确 | 待确认 | C | 1,000 Days of War and Upheaval That Reshaped the Middle East - Bloomberg.com |
+| 2026-07-14 04:57 | Israel | 空袭 | Israel | 命中 | C | Israeli strikes hit several commercial and residential areas in central Beirut, Lebanon - News On AIR |
+| 2026-07-14 04:52 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: Explosions Reported in Bandar Abbas as US Confirms Blockade of Iranian Ports Amid Oil Prices Surge Nearly 9% - The Sunday Guardian |
+| 2026-07-14 04:39 | US | 通报 | Israel | 待确认 | C | US forces abandoning Israel at the worst moment? IDF prepares for all-out war while Trump holds back / Videos - Hindustan Times |
+| 2026-07-14 04:32 | US | 空袭 | Iran | 待确认 | C | Donald Trump says US military will strike Iran 'hard' tonight after MoU collapses - The Jerusalem Post |
+| 2026-07-14 04:32 | Israel | 通报 | Iran | 待确认 | C | Israel courted Iran’s former hardline president for post-regime role, reports claim - The Guardian |
+| 2026-07-14 04:25 | US | 通报 | Iran | 待确认 | C | Oman engages Iran to secure Strait of Hormuz navigation amid US-Iran tensions - Crypto Briefing |
+| 2026-07-14 04:03 | 未明确 | 空袭 | Yemen | 待确认 | C | No compromise on sovereignty: Yemen Presidential Council puts military on high alert after Sanaa airport strike - The Tribune |
+| 2026-07-14 03:51 | Iran | 空袭 | Iran | 待确认 | C | Iranian Hard-Liners Threaten Trump as U.S.-Iran Strikes Continue - The New York Times |
+| 2026-07-14 03:50 | Israel | 通报 | Israel | 待确认 | C | Israel’s Buffer-Zone Military Strategy - Middle East Forum |
+| 2026-07-14 02:40 | US | 通报 | Iran | 伤亡 | C | Today’s Headlines: Iran’s Stark Warning / US Renews Aggression / Killed, Injured in Gaza - Palestine Chronicle |
+| 2026-07-14 02:39 | 未明确 | 通报 | 未明确 | 设施受损 | C | Trump Demands Halt to Energy Facility Attacks as Prices Soar - EnergyNow.com |
+| 2026-07-14 02:38 | Israel | 通报 | Israel | 待确认 | C | Israel sets October date for first elections since Hamas attacks in 2023 - AOL.co.uk |
+| 2026-07-14 02:25 | US | 空袭 | Iran | 伤亡 | C | 24 dead in Iran as US strikes escalate conflict with Israel - Crypto Briefing |
+| 2026-07-14 02:17 | US | 通报 | Iran | 待确认 | C | US-Israel ties face accountability debate amid Gaza, Iran - Pakistan Today |
+| 2026-07-14 02:14 | US | 通报 | Israel | 待确认 | C | Trump says US ‘taking over’ Strait of Hormuz - World Israel News |
+| 2026-07-14 02:14 | Iran | 通报 | Iran | 待确认 | C | UK to list Iran’s IRGC as ‘terror’ threat - Al Jazeera |
