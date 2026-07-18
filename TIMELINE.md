@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-07-18 10:02
+更新时间（北京时间）: 2026-07-18 21:04
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-07-18 09:58 | Iran | 通报 | Iran | 待确认 | C | Iran No Longer Bound By MoU, Adjusts Tactics - tippinsights |
-| 2026-07-18 09:00 | 未明确 | 通报 | 未明确 | 待确认 | C | Cal Thomas - The more things don't change - The Crescent-News |
-| 2026-07-18 08:51 | US | 空袭 | Iran | 伤亡 | C | US strikes in Iran leave 38 dead and over 400 injured, reports state media - Mathrubhumi English |
-| 2026-07-18 08:19 | Israel | 空袭 | Israel | 命中 | C | Israeli strikes hit several commercial and residential areas in central Beirut, Lebanon - News On AIR |
-| 2026-07-18 08:01 | US | 发射 | Iran | 命中 | C | US-Israel-Iran War Live News: US Launches Seventh Consecutive Night of Strikes on Iran as IRGC Claims Two Tankers Hit Mines in Strait of Hormuz - The Sunday Guardian |
-| 2026-07-18 08:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and Middle East - The Jerusalem Post |
-| 2026-07-18 08:00 | Israel | 通报 | Iran | 待确认 | C | U.S. to Send Refueling Aircraft to Israel Amid Iran Escalation Fears - Haaretz |
-| 2026-07-18 08:00 | Iran | 空袭 | Iran | 待确认 | C | U.S. Strikes Iran for Seventh Night as Gulf Tensions Escalate - Haaretz |
-| 2026-07-18 07:40 | US | 拦截 | Iran | 拦截 | C | Iran's Revolutionary Guard Corps says it shot down US drone over southern province: Report - Anadolu Ajansı |
-| 2026-07-18 07:35 | Israel | 通报 | Israel | 待确认 | C | West Asia conflict widens in past few hours as Israel confirmed expansion of its ground operations in southern Lebanon - News On AIR |
-| 2026-07-18 07:14 | Israel | 空袭 | Israel | 伤亡 | C | Israeli strike in Lebanon killed 12 medical workers in Bint Jbeil - News On AIR |
-| 2026-07-18 07:14 | Israel | 通报 | Israel | 伤亡 | C | Rahm Emanuel Warns Israel faces ‘Dead End,’ Proposes New ’23-State’ Middle East Plan - AOL.com |
-| 2026-07-18 06:33 | US | 空袭 | Iran | 待确认 | C | Iran warns of 'offensive and destructive' phase if US strikes continue - Israel National News |
-| 2026-07-18 06:32 | US | 空袭 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: IRGC Claims Strike on US Drone Depot in Bahrain as Six Vessels Cross the Strait of Hormuz in Past 24 Hours - The Sunday Guardian |
-| 2026-07-18 06:14 | US | 发射 | Iran | 待确认 | C | US launches seventh straight night of strikes on Iran - Al Jazeera |
-| 2026-07-18 06:09 | US | 空袭 | Iran | 待确认 | C | Trump orders new strikes "to hold Iranian forces accountable," CENTCOM says - AOL.com |
-| 2026-07-18 06:04 | Israel | 通报 | Israel | 待确认 | C | The Graham doctrine: How unconditional support for Israel reshaped America's image in the Muslim World - middle-east-online.com |
-| 2026-07-18 05:49 | US | 通报 | Iran | 待确认 | C | President Herzog: 'Diplomatic solution' remains Israel's goal, but US response to Iran must be 'firm and clear' - All Israel News |
-| 2026-07-18 05:48 | US | 空袭 | Iran | 待确认 | C | US Strikes Iran for Seventh Straight Night, IRGC Targets US Unmanned Boat Storage in Bahrain - NewsCord |
-| 2026-07-18 05:32 | US | 发射 | Iran | 伤亡 | C | US-Israel-Iran War Latest News: Iranian Missiles Strike Kuwait Desalination Plant and Military Facilities; Soldiers Injured, Critical Water Infrastructure Damaged - The Sunday Guardian |
-| 2026-07-18 05:30 | US | 通报 | Iran | 待确认 | C | Axios: US Expands Military Support to Israel Amid Potential Wider Conflict with Iran - Kurdistan24 |
-| 2026-07-18 05:07 | Iran | 空袭 | Iran | 设施受损 | C | U.S.-Iran Fight Heats Up With Mutual Strikes On Infrastructure Targets - TWZ |
-| 2026-07-18 05:06 | US | 空袭 | Iran | 待确认 | C | US-Israel-Iran War Live News: New Satellite Images Show Fresh Strike Damage Near Iran’s Bushehr Nuclear Power Plant as US Military Campaign Expands - The Sunday Guardian |
-| 2026-07-18 04:59 | US | 通报 | Iran | 命中 | C | White House says Trump 'certainly agrees' with Vance's remark on Israeli govt elements influencing US opinion on Iran conflict - MSN |
-| 2026-07-18 04:59 | US | 空袭 | Iran | 命中 | C | US strikes in Iran hit airport, bridges and railway station - The Express Tribune |
-| 2026-07-18 04:41 | US | 发射 | Iran | 待确认 | C | US launches 7th consecutive night of strikes on Iran - Anadolu Ajansı |
-| 2026-07-18 04:35 | Israel | 空袭 | Israel | 待确认 | C | Gaza health officials: Israeli airstrike near market kills 8 - HESPRESS English - Morocco News |
-| 2026-07-18 04:33 | Israel | 通报 | Iran | 待确认 | C | Live Coverage of the Iran–U.S.–Israel Conflict / July 18 - WANA News Agency |
-| 2026-07-18 04:15 | US | 空袭 | Iran | 待确认 | C | US military confirms carrying out 7th consecutive night of strikes on Iran - The Times of Israel |
-| 2026-07-18 04:12 | Israel | 通报 | Israel | 待确认 | C | Hezbollah now has reason to worry - www.israelhayom.com |
-| 2026-07-18 04:06 | US | 发射 | Iran | 待确认 | C | Seventh consecutive night: US launches strikes targeting Iranian military assets - Israel National News |
-| 2026-07-18 03:54 | US | 空袭 | Iran | 待确认 | C | Iran vows to defend ‘every inch’ of territory after US strikes - Anadolu Ajansı |
-| 2026-07-18 03:49 | US | 通报 | Iran | 设施受损 | C | US and Iran attack infrastructure, raising fears of escalation - Al-Monitor |
-| 2026-07-18 03:29 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Live Update: Trump Considers Wider Military Offensive as US Sends More Refuelling Aircraft to Israel, Report Claims - The Sunday Guardian |
-| 2026-07-18 03:14 | Israel | 通报 | Israel | 待确认 | C | Blank cheque to breaking point: House vote signals erosion of Democratic support for Israel - News24 |
-| 2026-07-18 03:04 | US | 通报 | Iran | 待确认 | C | Iran and US widen attacks with no end in sight - Rolling Out |
-| 2026-07-18 03:00 | 未明确 | 通报 | 未明确 | 待确认 | C | Statecraft lessons - The News Pakistan |
-| 2026-07-18 02:49 | 未明确 | 通报 | 未明确 | 待确认 | C | Venice protests greet U.S. Ambassador Fertitta's arrival on superyacht - Al-Monitor |
-| 2026-07-18 02:42 | US | 通报 | Israel | 待确认 | C | Attack, not defend: Israel’s rock-solid security consensus replaces passive ‘stability’ – opinion - Crypto Briefing |
-| 2026-07-18 02:33 | US | 空袭 | Iran | 命中 | C | US denies Iranian claims it hit civilian infrastructure in latest strikes - BBC |
+| 2026-07-18 20:56 | US | 空袭 | Iran | 待确认 | C | US, Iran exchange strikes as Israel remains on sidelines - War on low flame - Caliber.Az |
+| 2026-07-18 20:04 | 未明确 | 通报 | 未明确 | 待确认 | C | Belgium approves import ban on goods from occupied Palestinian territories - Anadolu Ajansı |
+| 2026-07-18 20:03 | US | 通报 | Iran | 待确认 | C | US issues fresh Middle East travel advisory amid escalating Iran conflict - Moneycontrol.com |
+| 2026-07-18 19:44 | US | 通报 | Iran | 待确认 | C | Legal action underway against US, Israel over war crimes: Iran - نورنیوز |
+| 2026-07-18 19:38 | Iran | 空袭 | Iran | 设施受损 | C | U.S., Iran trade strikes over Strait of Hormuz; Kuwait suffers infrastructure damage - The Tribune-Democrat |
+| 2026-07-18 19:16 | US | 空袭 | Iran | 命中 | C | US-Israel-Iran War Latest News: US Completes 7th Straight Night of Strikes on Iran, CENTCOM Says Surveillance Sites, Weapons Storage & Maritime Targets Hit - The Sunday Guardian |
+| 2026-07-18 19:16 | US | 通报 | Iran | 待确认 | C | US Issues New West Asia Advisory As War With Iran Escalates: What Travellers Need To Know - News18 |
+| 2026-07-18 19:13 | Israel | 通报 | Israel | 待确认 | C | Israel Plans New Settlements In Gaza And West Bank. Here's What We Know - News18 |
+| 2026-07-18 18:59 | Israel | 通报 | Israel | 待确认 | C | 'It Can Only Be Perceived As A CALAMITY For Israel': Former Peace Negotiator On Netanyahu & Lebanon Pedro Pascal (w4qrsyjUNJ) - Mshale |
+| 2026-07-18 18:48 | US | 通报 | Iran | 伤亡 | C | Today's Headlines: US War Crimes in Iran / Palestinian Teenager Killed / Gaza Massacres Continue - Palestine Chronicle |
+| 2026-07-18 18:46 | US | 通报 | Iran | 命中 | C | US-Israel-Iran War Latest Live News: Kuwait Vital Oil Facility Site Hit by ‘Repeated’ Iranian Attack Causing Multiple Injuries and Significant Material Losses - The Sunday Guardian |
+| 2026-07-18 18:42 | US | 通报 | Iran | 待确认 | C | US-Iran war: US sends dozens of refueling jets to Israel as Iran targets Trump's properties: Reports - WION |
+| 2026-07-18 18:40 | Iran | 空袭 | Iran | 待确认 | C | Bigger Gulf War Ahead? Iran Sounds 'Zero Hour' Warning, Trump Weighs Wider Strikes - The Daily Jagran |
+| 2026-07-18 18:27 | US | 拦截 | Iran | 待确认 | C | Jordanian army intercepts 4 drones amid Iran-US-Israel conflict - Crypto Briefing |
+| 2026-07-18 18:10 | US | 发射 | Iran | 待确认 | C | US strikes Iran for seventh night in a row; Iranian forces launch strikes across Gulf - The Times of Israel |
+| 2026-07-18 18:10 | Iran | 通报 | Iran | 待确认 | C | U.S., Iran have blown past red lines as they lurch back toward all-out war - The Tribune-Democrat |
+| 2026-07-18 18:00 | Israel | 通报 | Iran | 待确认 | C | Iran gains if Israel stops fighting; health care inequality / Letters - The Providence Journal |
+| 2026-07-18 17:31 | US | 空袭 | Iran | 待确认 | C | US-Israel-Iran War Latest News: Iran Claims Strike on Kuwait Desalination Plant, Issues Warning; ‘Prepare for a Response’ - The Sunday Guardian |
+| 2026-07-18 17:26 | Iran | 空袭 | Iran | 命中 | C | Iran War Updates: Bridges and Water Plants Hit as Strikes Stretch to 7th Straight Day - The New York Times |
+| 2026-07-18 17:14 | US | 空袭 | Iran | 待确认 | C | Iran strikes US military bases after 7th night of American bombardment - Muslim Network TV |
+| 2026-07-18 17:11 | US | 通报 | 未明确 | 待确认 | C | US warns citizens against Middle East travel after fueling regional escalation - Muslim Network TV |
+| 2026-07-18 17:11 | Israel | 通报 | Israel | 待确认 | C | Israel advances over 1,000 illegal settlement units in occupied West Bank - Muslim Network TV |
+| 2026-07-18 17:11 | US | 通报 | Iran | 设施受损 | C | UN condemns brutal US attacks on Iranian civilian infrastructure - Muslim Network TV |
+| 2026-07-18 17:11 | Israel | 通报 | Israel | 待确认 | C | Anadolu submits updated Gaza trilogy to ICC as evidence of Israeli genocide - Muslim Network TV |
+| 2026-07-18 17:11 | Iran | 拦截 | Iran | 待确认 | C | Iranian strikes trigger fires, airport shutdown and air defense response in Kuwait - Muslim Network TV |
+| 2026-07-18 17:09 | US | 空袭 | Iran | 待确认 | C | US sends dozens of refueling aircraft to Israel ahead of potential expansion of military operations against Iran as nuclear strike plan on Mount Pickaxe looms - bankingnews.gr |
+| 2026-07-18 17:06 | US | 通报 | Iran | 伤亡 | C | US-Israel-Iran War Latest News: US Attacks on Hormozgan Province in Southern Iran Killed At Least Seven Civilians Amid US-Iran Escalation - The Sunday Guardian |
+| 2026-07-18 17:02 | US | 通报 | Iran | 待确认 | C | Bahrain, Kuwait suffer attacks as Iran war escalates with US - News24 |
+| 2026-07-18 17:02 | Iran | 通报 | Iran | 待确认 | C | Why is Trump risking midterm disaster by resuming an already unpopular war with Iran? - The Guardian |
+| 2026-07-18 17:00 | Iran | 通报 | Iran | 待确认 | C | That sinking feeling: Iranians feel the strain as Trump ramps up war again over Hormuz - NBC News |
+| 2026-07-18 17:00 | Iran | 通报 | Iran | 待确认 | C | Iranian Regime's Insatiable Drive to Wipe Out Jews, Christians, Minorities: World Turns a Blind Eye - gatestoneinstitute.org |
+| 2026-07-18 16:57 | Israel | 通报 | Israel | 待确认 | C | Direct talks with Israel while aggression persists ‘meaningless’: Lebanese MP - PressTV |
+| 2026-07-18 16:48 | US | 通报 | Iran | 待确认 | C | Iran war: US embassy warns its citizens against traveling to Israel - صوت الإمارات |
+| 2026-07-18 16:47 | 未明确 | 通报 | Gaza | 待确认 | C | EU leaders slammed by MEPs for failing to address Gaza's reconstruction costs - PressTV |
+| 2026-07-18 16:37 | US | 通报 | Iran | 待确认 | C | US sending more refuelling tankers to Israel as Iran conflict deepens - Aaj English TV |
+| 2026-07-18 16:22 | Israel | 通报 | Iran | 待确认 | C | Ex-CIA Agent John Kiriakou On Israel, Iran, Mossad, Middle East & More Bbc News (EKoDdXpulN) - Mshale |
+| 2026-07-18 16:14 | 未明确 | 通报 | 未明确 | 待确认 | C | Conflict in West Asia escalates as several countries are becoming involved; Fighting is spreading across different parts of region / Akashvani News - News On AIR |
+| 2026-07-18 16:06 | US | 通报 | Iran | 待确认 | C | US Turns Israel’s Ben Gurion Airport into Forward Base for War Against Iran - Defensemirror.com |
+| 2026-07-18 16:02 | US | 通报 | Iran | 待确认 | C | Latest war news. US sends tanker aircraft to Israel amid escalation. Iran: all-out offensive if this continues - Il Sole 24 ORE |
+| 2026-07-18 15:50 | US | 通报 | Iran | 待确认 | C | Iran-US Conflict Deals Double Blow to India: Migrant Workers’ Jobs at Risk in Gulf - Patrika News |
