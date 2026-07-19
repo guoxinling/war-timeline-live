@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-07-19 10:13
+更新时间（北京时间）: 2026-07-19 21:07
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-07-19 10:00 | Iran | 通报 | Iran | 待确认 | C | 'He talks peace, destroys deals': Iran envoy's sharp swipe at Trump - Mathrubhumi English |
-| 2026-07-19 09:38 | US | 空袭 | Iran | 待确认 | C | Live Updates: War returns to Iran with Israel, US strikes - Dawn |
-| 2026-07-19 09:38 | US | 发射 | Iran | 待确认 | C | US-Iran war: Donald Trump calls soldier deaths ‘a shame’ as US launches retaliatory strikes against Iran - Nine.com.au |
-| 2026-07-19 09:30 | Iran | 发射 | Iran | 待确认 | C | U.S. military launches new airstrikes to 'swiftly punish' Iran for deaths of U.S. troops - The Tribune-Democrat |
-| 2026-07-19 09:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and Middle East - The Jerusalem Post |
-| 2026-07-19 08:57 | 未明确 | 通报 | 未明确 | 待确认 | C | Gulf Aviation Squeezed as Conflict Grows, Tourism Holds Firm - thetraveler.org |
-| 2026-07-19 07:46 | US | 通报 | Tehran | 待确认 | C | US-Iran clashes enter 7th day as Tehran threatens wider regional conflict - All Israel News |
-| 2026-07-19 07:30 | US | 通报 | 未明确 | 待确认 | C | Saudi Arabia suspends US military access to its bases and airspace - News On AIR |
-| 2026-07-19 07:24 | US | 发射 | Iran | 伤亡 | C | US launches revenge strikes at Iran after two soldiers killed & 3rd MIA - the-sun.com |
-| 2026-07-19 07:21 | US | 空袭 | Iran | 伤亡 | C | US renews strikes on Iran after two military personnel killed by Iranian attack - Reuters |
-| 2026-07-19 07:12 | US | 通报 | Iran | 待确认 | C | Iran: US attacks show Trump's word is 'utterly worthless' - DW.com |
-| 2026-07-19 07:03 | US | 通报 | Iran | 待确认 | C | Why Jordan Is Becoming a New Focus in the U.S.-Iran War - The New York Times |
-| 2026-07-19 06:53 | US | 通报 | Iran | 待确认 | C | Deaths of 2 U.S. Troops in Jordan Brings American Toll in the War With Iran to 16 - The New York Times |
-| 2026-07-19 06:39 | US | 发射 | Iran | 待确认 | C | US forces launch new strikes on Iran, targeting IRGC units: CENTCOM - Anadolu Ajansı |
-| 2026-07-19 06:30 | Iran | 通报 | Iran | 待确认 | C | 16 U.S. service members have died in Iran war, reflecting a conflict fought largely in the air - The Tribune-Democrat |
-| 2026-07-19 06:30 | US | 发射 | Iran | 待确认 | C | Eighth consecutive night: US launches new wave of airstrikes against Iran - Israel National News |
-| 2026-07-19 06:29 | Iran | 发射 | Iran | 待确认 | C | U.S. military launches new airstrikes to punish Iran for deaths of U.S. troops - The Tribune-Democrat |
-| 2026-07-19 06:22 | US | 通报 | Iran | 待确认 | C | TRAVEL ALERT: US Renews Strong Warning for Israel and Middle East Amid Iran Tensions - Greek City Times |
-| 2026-07-19 06:13 | Iran | 通报 | Iran | 待确认 | C | Why is Trump risking midterm disaster by resuming the unpopular Iran war? - The Guardian |
-| 2026-07-19 05:31 | US | 空袭 | Iran | 伤亡 | C | Iran suggests MoU ‘suspended’ as 50 killed in US strikes in July - Al Jazeera |
-| 2026-07-19 05:30 | US | 通报 | Iran | 伤亡 | C | US says two military personnel killed by Iranian attack in Jordan - Reuters |
-| 2026-07-19 05:19 | Iran | 通报 | Iran | 设施受损 | C | Harrowing video shows Kuwait military facility on fire after Iranian attacks - Daily Express US |
-| 2026-07-19 05:12 | US | 通报 | Iran | 伤亡 | C | Two US troops killed and one missing after Iranian attack in Jordan - BBC |
-| 2026-07-19 05:11 | US | 通报 | Iran | 待确认 | C | Iran-Israel-US Conflict Disrupts Gulf Aviation While Tourism Shows Resilience - eTurboNews |
-| 2026-07-19 05:08 | US | 空袭 | Tehran | 待确认 | C | Iranian strike kills 2 US troops in Jordan, 3rd is MIA, as Tehran vows ‘unforgettable lessons’ - The Times of Israel |
-| 2026-07-19 05:01 | US | 通报 | Iran | 待确认 | C | Iran claims attack on US base in Jordan, killing two service members - Crypto Briefing |
-| 2026-07-19 04:50 | US | 发射 | Iran | 待确认 | C | Middle East Violence Escalates as Iran and Joint US‑Israel Forces Launch New Missile & Drone Waves - News On AIR |
-| 2026-07-19 04:47 | US | 通报 | Iran | 待确认 | C | Israel’s air force says it dropped over 1,200 munitions across 24 of Iran’s 31 provinces over past day in its joint attack with US / Akashvani News - News On AIR |
-| 2026-07-19 04:39 | Israel | 空袭 | Israel | 命中 | C | Israeli strikes hit several commercial and residential areas in central Beirut, Lebanon - News On AIR |
-| 2026-07-19 04:32 | US | 通报 | Iran | 命中 | C | US hits Iran for eighth consecutive night after deadly Jordan attack - Ynetnews |
-| 2026-07-19 04:29 | US | 通报 | Israel | 待确认 | C | US sends dozens of refueling aircraft to Israel as attacks across Mideast intensify - worldisraelnews.com |
-| 2026-07-19 04:29 | US | 发射 | Iran | 伤亡 | C | Two US soldiers killed, one missing after Iranian missile and drone attack on Jordan base - worldisraelnews.com |
-| 2026-07-19 04:29 | US | 通报 | Iran | 待确认 | C | Iran warns public to avoid US bases across Middle East - worldisraelnews.com |
-| 2026-07-19 04:29 | Israel | 通报 | Iran | 待确认 | C | Iran orders Hezbollah to prepare for wider regional war which might include Israel - worldisraelnews.com |
-| 2026-07-19 04:24 | Iran | 通报 | Iran | 待确认 | C | Iranian attack in Jordan kills 2 U.S. troops; 1 remains missing - WIBC 93.1 FM |
-| 2026-07-19 04:23 | Israel | 通报 | Israel | 待确认 | C | Israel expands Gaza control, breaching ceasefire agreement - Crypto Briefing |
-| 2026-07-19 04:17 | Israel | 通报 | Iran | 待确认 | C | Israel prepares for possible escalation with Iran in coming days - www.israelhayom.com |
-| 2026-07-19 04:08 | Iran | 通报 | Iran | 伤亡 | C | UPDATED: U.S. military says 2 troops are dead, 1 is missing after Iran attacks base in Jordan - The Tribune-Democrat |
-| 2026-07-19 04:05 | 未明确 | 通报 | Lebanon | 待确认 | C | Lebanon's president departs for Washington to meet Trump - HESPRESS English - Morocco News |
-| 2026-07-19 03:47 | US | 通报 | Tehran | 设施受损 | C | Tehran suspends commitments under US MoU; Gulf states call Iranian attacks on civilian infrastructure ‘war crimes’ - L'Orient Today |
+| 2026-07-19 21:02 | US | 发射 | Iran | 待确认 | C | US intercepts Iranian missile aimed at Aqaba amid rising conflict tensions - Crypto Briefing |
+| 2026-07-19 20:58 | Iran | 发射 | Iran | 待确认 | C | Jordan intercepts Iranian missiles amid rising regional tensions - Crypto Briefing |
+| 2026-07-19 20:54 | US | 发射 | Iran | 待确认 | C | US-Israel-Iran War Live News: Israel Detects Iranian Missiles Toward Jordan’s Aqaba City, Iran Condemns US Strike on Under-Construction ‘Darkhovin Nuclear Plant’ – Is Iran Facing a Power Crisis? - The Sunday Guardian |
+| 2026-07-19 20:47 | Israel | 通报 | Israel | 待确认 | C | Why Israel's Haredi Draft Row Has Become A Battle Over Religion, Politics And War - Outlook India |
+| 2026-07-19 20:46 | US | 通报 | Iran | 待确认 | C | Israel to receive more US refuelling planes as Iran attacks intensify - The New Arab |
+| 2026-07-19 20:45 | US | 发射 | Iran | 命中 | C | Iran hits US allies as Israel warns missiles headed for Jordan could land on its territory - KTVN |
+| 2026-07-19 20:41 | Israel | 发射 | Iran | 待确认 | C | Israel Says Iran Launches Missiles Toward Jordan And Warns Fire Could Spill Over - ETV Bharat |
+| 2026-07-19 20:36 | US | 通报 | Iran | 待确认 | C | Spiraling US-Iran conflict risks turning into a broader regional war - Egypt Independent |
+| 2026-07-19 20:22 | US | 空袭 | Iran | 待确认 | C | US says it completed 8th ‘consecutive night’ of strikes against Iran - Muslim Network TV |
+| 2026-07-19 20:22 | US | 通报 | Iran | 待确认 | C | Pakistan reviews diplomatic efforts as US aggression fuels widening Iran conflict - Muslim Network TV |
+| 2026-07-19 20:22 | Israel | 通报 | Israel | 待确认 | C | Israel kills at least 2 Palestinians in Gaza - Muslim Network TV |
+| 2026-07-19 20:22 | 未明确 | 通报 | 未明确 | 待确认 | C | NYC Mayor Says Netanyahu Belongs in The Hague, Calls for Accountability - Muslim Network TV |
+| 2026-07-19 20:22 | US | 空袭 | Iran | 待确认 | C | Iran strikes US bases, downs MQ-9 drone as US kills more Iranian civilians - Muslim Network TV |
+| 2026-07-19 20:22 | 未明确 | 通报 | 未明确 | 待确认 | C | 5 rescued after surviving 4 days at sea in Indonesia - Muslim Network TV |
+| 2026-07-19 20:16 | Israel | 通报 | Iran | 待确认 | C | Iran firing at Aqaba in Jordan, may spillover into Israel, IDF warns - The Times of Israel |
+| 2026-07-19 20:11 | Iran | 通报 | Iran | 命中 | C | Live updates • Report: Iran says U.S. struck Darkhovin nuclear power plant under construction - Haaretz |
+| 2026-07-19 19:59 | US | 通报 | Iran | 待确认 | C | US-Israel Wars, Day 143: Iran Kills 2 US Soldiers, 1 Missing in Jordan - EA WorldView |
+| 2026-07-19 19:52 | US | 通报 | Iran | 待确认 | C | Israel to Receive More US Refueling Planes as Iran Attacks Intensify, Israeli Officials Say - Newsmax |
+| 2026-07-19 19:21 | Iran | 通报 | Iran | 待确认 | C | Iranians suffer from power blackouts during war and heatwave - Al Jazeera |
+| 2026-07-19 19:15 | Israel | 空袭 | Israel | 命中 | C | Israeli strikes hit several commercial and residential areas in central Beirut, Lebanon - News On AIR |
+| 2026-07-19 19:14 | US | 通报 | Israel | 命中 | C | Lebanon's Aoun to meet Trump at White House, hoping to generate pressure on Israel - Reuters |
+| 2026-07-19 19:00 | US | 发射 | Iran | 伤亡 | C | US-Israel-Iran War Latest Live News: US Vows to ‘Swiftly Punish’ Iran After 2 Troops Killed, Bahrain & Kuwait Intercept Iranian Missiles – Jordan Evacuates Aqaba Airport & Seaport - The Sunday Guardian |
+| 2026-07-19 18:55 | Israel | 空袭 | Israel | 待确认 | C | Israel continues air raids on southern Lebanon in violation of ceasefire - PressTV |
+| 2026-07-19 18:45 | Iran | 通报 | Iran | 待确认 | C | Kuwait, Bahrain respond to Iranian attacks - The New Arab |
+| 2026-07-19 18:22 | US | 通报 | Iran | 待确认 | C | US war on Iran drives hunger crisis for Nigerian children, aid workers warn - Muslim Network TV |
+| 2026-07-19 18:13 | Iran | 空袭 | Iran | 伤亡 | C | U.S. strikes Iran's Revolutionary Guard over an attack that killed troops in Jordan - The Tribune-Democrat |
+| 2026-07-19 17:55 | Israel | 通报 | Iran | 待确认 | C | U.S.-Israeli regime’s declared goals in the unprovoked war against Iran keep shifting: A clear sign of reckless policy - taghribnews.com |
+| 2026-07-19 17:34 | US | 通报 | Iran | 伤亡 | C | US Soldiers Killed in Iranian Attack on Jordan. Middle East Conflict Spreads - International Business Times |
+| 2026-07-19 17:27 | Israel | 通报 | Israel | 待确认 | C | UK public demand change in policy toward Israel - PressTV |
+| 2026-07-19 17:26 | Israel | 通报 | Iran | 待确认 | C | Iranian regime’s insatiable drive to wipe out Jews and other minorities while the world turns a blind... - worldisraelnews.com |
+| 2026-07-19 17:20 | US | 通报 | Israel | 待确认 | C | Mojtaba Khamenei killing US soldiers from...? the shocking truth leaked by Israeli intelligence / Hindustan Times - Hindustan Times |
+| 2026-07-19 17:15 | Israel | 通报 | Israel | 待确认 | C | Israel Sets October 27 Vote, First Ballot Since October 7 Attacks And Regional Wars - The Friday Times |
+| 2026-07-19 17:09 | US | 通报 | Iran | 待确认 | C | Iran hardliners slam leadership over US deal as West Asia conflict worsens again - The Federal |
+| 2026-07-19 17:04 | Hamas | 通报 | 未明确 | 待确认 | C | Hamas begins secret vote to choose Sinwar’s successor - Ynetnews |
+| 2026-07-19 16:52 | US | 发射 | Iran | 伤亡 | C | US launches new Iran strikes after two soldiers killed: What’s the latest? - Al Jazeera |
+| 2026-07-19 16:50 | US | 拦截 | Iran | 待确认 | C | WATCH: US bombs strategic Iranian coastal sites, air defense systems - worldisraelnews.com |
+| 2026-07-19 16:33 | US | 通报 | Iran | 待确认 | C | US military buildup signals possible major escalation with Iran - Ynetnews |
+| 2026-07-19 16:30 | US | 发射 | Iran | 待确认 | C | U.S. Launches Strikes After Iranian Attack Kills 2 American Soldiers - The New York Times |
+| 2026-07-19 16:28 | Israel | 通报 | Israel | 待确认 | C | Protesters in Sweden denounce Israeli attacks on Gaza, Lebanon - Middle East Monitor |
+| 2026-07-19 16:12 | US | 通报 | Iran | 待确认 | C | Iran says it downed US MQ-9 drone in Ahvaz: Report - Anadolu Ajansı |
