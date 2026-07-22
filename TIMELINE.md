@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-07-22 10:11
+更新时间（北京时间）: 2026-07-22 21:41
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-07-22 09:58 | Israel | 通报 | Israel | 待确认 | C | As truce stalls, Israel is redrawing Gaza with a giant earthen barrier - The Economic Times |
-| 2026-07-22 09:55 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and Middle East - The Jerusalem Post |
-| 2026-07-22 09:52 | US | 通报 | Iran | 待确认 | C | SACP condemns US-Israel attacks on Iran - CAJ News Africa |
-| 2026-07-22 09:42 | US | 通报 | Israel | 待确认 | C | The Collapse Of The Bipartisan Consensus Over US-Israel Ties – OpEd - Eurasia Review |
-| 2026-07-22 09:00 | US | 空袭 | Iran | 待确认 | C | CENTCOM says latest US strikes on Iran targeted military ops centers, aircraft hangers and drone storage sites - The Times of Israel |
-| 2026-07-22 08:58 | US | 通报 | Tabriz | 待确认 | C | US-Israel-Iran War Latest News: Explosions Reported Near Iran’s Tabriz as IRGC Vows to Continue Operations Against ‘Aggressors’ Amid Regional Tensions Escalate - The Sunday Guardian |
-| 2026-07-22 08:57 | US | 空袭 | Iran | 待确认 | C | US military completes 11th night of strikes on Iran as attacks overshadow diplomacy efforts - AP News |
-| 2026-07-22 08:44 | Iran | 通报 | Iran | 待确认 | C | Live updates • Iran warns U.S. attacks on nuclear sites would expand war, trigger retaliation - Haaretz |
-| 2026-07-22 07:50 | US | 通报 | Iran | 待确认 | C | US war in Iran has cost US$37.5 billion so far, Pentagon chief Hegseth says - South China Morning Post |
-| 2026-07-22 07:47 | US | 通报 | Iran | 命中 | C | 11th consecutive night: CENTCOM hits Iranian hangars and logistics - Israel National News |
-| 2026-07-22 07:46 | US | 发射 | Iran | 待确认 | C | Explosions in Iran as US launches new strikes - Al Jazeera |
-| 2026-07-22 07:33 | US | 通报 | Iran | 待确认 | C | War in Iran has cost the US $37.5 billion so far, Pentagon says - Internazionale |
-| 2026-07-22 07:20 | US | 通报 | Iran | 待确认 | C | Iran war has cost US $37.5 billion so far, Hegseth tells Senate as he asks for more funds - The Times of Israel |
-| 2026-07-22 07:05 | 未明确 | 通报 | 未明确 | 待确认 | C | West Asia conflict enters more intense phase with military activity spreading across several fronts - News On AIR |
-| 2026-07-22 07:05 | US | 通报 | Iran | 伤亡 | C | US-Israel-Iran War Latest News: US Congresswoman Slams ‘Illegal War’ After 19-Year-Old American Soldier Killed, Calls for End to Conflict - The Sunday Guardian |
-| 2026-07-22 06:49 | US | 空袭 | Iran | 待确认 | C | Trump claims US will strike Iran’s Pickaxe Mountain ‘probably pretty soon’ - The Times of Israel |
-| 2026-07-22 06:46 | US | 通报 | Iran | 待确认 | C | Why Israel is sitting out the latest US bombing campaign in Iran - The Australian |
-| 2026-07-22 06:32 | US | 通报 | Iran | 设施受损 | C | US-Israel-Iran War Latest News: Kuwaitis Cut Electricity Use as Iranian Attacks on Regional Power Infrastructure Spark Energy Security Concerns - The Sunday Guardian |
-| 2026-07-22 06:05 | Israel | 撤离 | Israel | 待确认 | C | Trump Meets Joseph Aoun, Promises Help for Lebanon Without Timeline for Israeli Withdrawal - NewsCord |
-| 2026-07-22 05:40 | US | 发射 | Iran | 待确认 | C | After exchange of threats: US launches another wave of attacks on Iran - Ynetnews |
-| 2026-07-22 05:27 | US | 通报 | Iran | 待确认 | C | US war in Iran has cost $48b so far, Pentagon says - The Straits Times |
-| 2026-07-22 05:27 | Israel | 通报 | Israel | 待确认 | C | Trump vows to help Lebanon pursue peace with Israel - South China Morning Post |
-| 2026-07-22 05:24 | 未明确 | 空袭 | Lebanon | 待确认 | C | West Asia Conflict: Two-week ceasefire holding despite recent strikes on Lebanon - News On AIR |
-| 2026-07-22 05:23 | US | 通报 | Iran | 待确认 | C | US defence chief Hegseth puts Iran war cost at $37.5bn so far - Al Jazeera |
-| 2026-07-22 05:11 | US | 通报 | Iran | 待确认 | C | US war in Iran has cost $37.5 billion so far, Pentagon says - Internazionale |
-| 2026-07-22 05:05 | Iran | 通报 | Iran | 待确认 | C | Under Iranian fire, Jordan faces a balancing act ... and messaging challenge - The Christian Science Monitor |
-| 2026-07-22 05:01 | US | 通报 | 未明确 | 命中 | C | Aoun Walks Hezbollah Tightrope at White House - الحرة |
-| 2026-07-22 04:59 | US | 通报 | Iran | 待确认 | C | US war in Iran has cost $37.5 billion so far, Pentagon says - Yahoo News UK |
-| 2026-07-22 04:58 | Iran | 通报 | Iran | 待确认 | C | To Base or Not to Base: The Iran War Exposes Flaws of U.S. Basing in the Middle East - Council on Foreign Relations |
-| 2026-07-22 04:55 | US | 通报 | Iran | 待确认 | C | War in Iran has cost the US $37.5 billion so far, Pentagon says - Reuters |
-| 2026-07-22 04:49 | US | 通报 | Iran | 待确认 | C | US escalation against Iran could draw Israel into joining campaign - www.israelhayom.com |
-| 2026-07-22 04:38 | Israel | 通报 | Iran | 待确认 | C | Why Israel Is Sitting Out the Latest U.S. Bombing Campaign in Iran - WSJ |
-| 2026-07-22 04:08 | Israel | 通报 | Iran | 待确认 | C | U.S. Bets Israel-Lebanon Deal Can Survive an Iran Breakdown - الحرة |
-| 2026-07-22 04:04 | US | 通报 | Iran | 待确认 | C | Israel remains on sidelines of US-Iran fight, which for Jerusalem is just fine for now - The Times of Israel |
-| 2026-07-22 03:58 | US | 空袭 | Iran | 待确认 | C | Burnham Approves Use Of UK Bases For Some US Strikes On Iran - i24NEWS |
-| 2026-07-22 03:52 | Israel | 通报 | Iran | 待确认 | C | Trump may expand attacks on Iran, Israel braces for possible retaliation: Report - Anadolu Ajansı |
-| 2026-07-22 03:46 | US | 通报 | Iran | 待确认 | C | US to start using British bases for attacks against Iran, following PM Burnham's approval - report - The Jerusalem Post |
-| 2026-07-22 03:43 | US | 通报 | Iran | 伤亡 | C | 18 US troops killed, 447 wounded in Iran War. How that compares to past conflicts - WDSU |
-| 2026-07-22 03:36 | US | 通报 | Iran | 待确认 | C | Jordan caught in widening US-Iran conflict - dw.com |
-| 2026-07-22 03:33 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: Pete Hegseth Testifies Before Senate as Trump Administration Seeks Billions for Iran War Funding - The Sunday Guardian |
+| 2026-07-22 21:12 | US | 通报 | Iran | 待确认 | C | Trump says US will destroy a bridge or power plant for each Iranian attack in the Strait of Hormuz - AP News |
+| 2026-07-22 21:11 | Israel | 通报 | Iran | 待确认 | C | Regime change needed to avoid a nuclear Iran, retired Israel Navy commander says - The Jerusalem Post |
+| 2026-07-22 21:04 | US | 通报 | 未明确 | 伤亡 | C | The Latest: Trump will attend dignified transfer of 4 US service members killed in the Middle East - Source ONE News |
+| 2026-07-22 21:02 | US | 通报 | Iran | 待确认 | C | Israel Says It Has 'No Interest' In US-Iran War, But One Call From Trump... - News18 |
+| 2026-07-22 21:00 | US | 发射 | Iran | 命中 | C | US-Israel-Iran War Latest News: US Missile Attacks Larak Island in Strait of Hormuz & Investigations Have Launched Where Missile Hit & Possible Damage Caused - The Sunday Guardian |
+| 2026-07-22 20:56 | US | 空袭 | Iran | 待确认 | C | Iran strikes Jordanian city near Israel as US carries out another wave of strikes - AOL.com |
+| 2026-07-22 20:08 | US | 通报 | Iran | 待确认 | C | Iran war’s $37bn price tag: Why does the Pentagon want $67bn more? - Al Jazeera |
+| 2026-07-22 20:06 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: 3 Explosions Reported Near Sirik in Hormozgan Province of Southern Iran, Rubio Says ‘Iran is the Main Troublemaker’ Amid Escalating Tensions - The Sunday Guardian |
+| 2026-07-22 19:32 | US | 发射 | Iran | 待确认 | C | US-Israel-Iran War Latest News: Iran Warns of ‘Powerful Attack’ After Trump’s Nuclear Stockpile Warning, Expands Retaliation With Drone Attacks on US Bases Across Gulf Region - The Sunday Guardian |
+| 2026-07-22 19:18 | US | 空袭 | Iran | 待确认 | C | 11th consecutive night of US strikes on Iran - israeltoday.co.il |
+| 2026-07-22 19:16 | Iran | 通报 | Iran | 待确认 | C | Oil surges past $95 as U.S. downplays Iran diplomacy and a 2nd key trade route is disrupted - NBC News |
+| 2026-07-22 19:15 | Israel | 通报 | Israel | 待确认 | C | Pro-Israel activists writhe over Ms. Rachel post on army funding - The New Arab |
+| 2026-07-22 19:13 | US | 空袭 | Iran | 命中 | C | West Asia conflict escalates as US‑Israel strikes hit Iran, US Embassy attacked in Riyadh - News On AIR |
+| 2026-07-22 18:59 | US | 通报 | Iran | 伤亡 | C | US-Israel-Iran War Latest Live News: Trump to Receive Bodies of Four US Troops Killed in Iran War at Dover Ceremony; Rubio Reaffirms Diplomacy as Regional Tensions Escalate - The Sunday Guardian |
+| 2026-07-22 18:46 | Iran | 通报 | Iran | 待确认 | C | U.S. and Iranian attacks continue as tensions mount on a key waterway in the Red Sea - NPR |
+| 2026-07-22 18:10 | US | 通报 | Iran | 待确认 | C | Has Trump dragged the US into a forever war in Iran? / Mohamad Bazzi - The Guardian |
+| 2026-07-22 18:05 | US | 通报 | Iran | 伤亡 | C | Trump to attend ceremony as bodies of four US soldiers killed in Iran war are returned to US - The Jerusalem Post |
+| 2026-07-22 17:58 | US | 发射 | Iran | 待确认 | C | US-Israel-Iran War Live News: Jordan Intercepts 4 Of 6 Iranian Missiles After Explosions Heard Near Aqaba – Check Aqaba Airport Open or Closed, Flights Diversion & More - The Sunday Guardian |
+| 2026-07-22 17:44 | US | 通报 | Iran | 待确认 | C | US War on Iran, Day 146: The Ceasefire Collapses - EA WorldView |
+| 2026-07-22 17:42 | US | 通报 | Iran | 伤亡 | C | Trump says 18 US troops killed during war with Iran - Middle East Monitor |
+| 2026-07-22 17:29 | US | 空袭 | Iran | 待确认 | C | Iran strikes Bahrain, Kuwait, Jordan after fresh US attacks - The Siasat Daily |
+| 2026-07-22 17:28 | US | 通报 | 未明确 | 待确认 | C | Saudi Arabia suspends US military access to its bases and airspace / Akashvani News - News On AIR |
+| 2026-07-22 17:27 | US | 发射 | Iran | 待确认 | C | Middle East Violence Escalates as Iran and Joint US‑Israel Forces Launch New Missile & Drone Waves - News On AIR |
+| 2026-07-22 17:22 | US | 通报 | Iran | 待确认 | C | Dubai and Middle East flight disruption: the latest flight cancellations as US-Iran attacks continue across the region - Condé Nast Traveller Middle East |
+| 2026-07-22 17:20 | Israel | 空袭 | Iran | 设施受损 | C | Trump weighs joint Israeli military op, vows to strike Iran nuclear facility - Herald Sun |
+| 2026-07-22 17:16 | US | 通报 | Iran | 待确认 | C | US attacks Iran for 11th consecutive night - Al Jazeera |
+| 2026-07-22 17:10 | US | 通报 | Iran | 待确认 | C | CNN: Israel draws up plans for possible escalation in US-Iran conflict - Caliber.Az |
+| 2026-07-22 17:06 | US | 通报 | Iran | 待确认 | C | Amid Iran conflict, US to back Saudi Arabia's nuclear ambitions with landmark deal - The New Indian Express |
+| 2026-07-22 17:05 | US | 通报 | Iran | 待确认 | C | WATCH: US pounds Iranian targets in eleventh straight day of attacks - World Israel News |
+| 2026-07-22 16:54 | Iran | 通报 | Iran | 命中 | C | Iran, Gulf hit as Hormuz, Bab al-Mandeb close: What’s the latest? - Al Jazeera |
+| 2026-07-22 16:51 | Iran | 空袭 | Iran | 待确认 | C | U.S. says open to talks with Iran after 11th consecutive night of strikes - Haaretz |
+| 2026-07-22 16:48 | US | 通报 | Iran | 待确认 | C | Iran’s IRGC vows to target US, Israeli commanders in homes amid conflict escalation - Crypto Briefing |
+| 2026-07-22 16:46 | US | 通报 | Iran | 待确认 | C | Smotrich says renewed US-Iran war is 'best scenario' for Israel - AzerNews |
+| 2026-07-22 16:01 | US | 通报 | Tehran | 待确认 | C | US-Israel-Iran War Latest News: Trump Says US Will Attack Iran’s Pickaxe Mountain ‘Pretty Soon’ as Pentagon Reveals $37.5 Billion War Cost – Is Tehran Really ‘Not Serious’ About Talks? - The Sunday Guardian |
+| 2026-07-22 16:00 | US | 通报 | Iran | 待确认 | C | US-Iran military conflict escalates amid ongoing 2026 Iran War - Crypto Briefing |
+| 2026-07-22 15:51 | US | 通报 | 未明确 | 待确认 | C | New Hamas chief Khalil al-Hayya faces ‘dangerous, complex’ challenges - Arab News |
+| 2026-07-22 15:30 | US | 空袭 | Iran | 待确认 | C | US Reportedly Relocates Military Aircraft to “Israel” Amid Iranian Strikes - اسلام تايمز |
+| 2026-07-22 15:30 | US | 空袭 | 未明确 | 伤亡 | C | Pentagon identifies 4th service member killed in recent days as U.S. carries out more strikes - CBS News |
+| 2026-07-22 15:29 | Israel | 通报 | Israel | 待确认 | C | West Asia conflict widens in past few hours as Israel confirmed expansion of its ground operations in southern Lebanon - News On AIR |
+| 2026-07-22 15:11 | US | 通报 | Iran | 待确认 | C | Iran-US war latest: Trump threatens to attack nuclear site as Hegseth reveals staggering cost of war - inkl |
