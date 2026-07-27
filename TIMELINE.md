@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-07-27 10:31
+更新时间（北京时间）: 2026-07-27 22:22
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-07-27 09:51 | Israel | 通报 | Israel | 待确认 | C | Mojtaba Khamenei commends Hezbollah's 'unyielding' stance against Israel - Business Standard |
-| 2026-07-27 09:29 | US | 空袭 | Iran | 待确认 | C | US-Iran War LIVE News: US Halts Strikes on Iran After 13 Consecutive Nights as Tanker Explosion in Strait of Hormuz Raises Fresh Security Fears – Check Latest Updates - The Sunday Guardian |
-| 2026-07-27 09:24 | Israel | 通报 | Israel | 待确认 | C | Hamas taps ‘ultimate institutional survivor’ as terror chief, sending message to Israel: expert - WFIN |
-| 2026-07-27 09:18 | Israel | 通报 | Iran | 待确认 | C | Trump continues to threaten Iran with AI social media posts despite lull in fighting - The Times of Israel |
-| 2026-07-27 09:00 | US | 通报 | Iran | 待确认 | C | Khamenei ties US-Iran peace deal to Israel ending attacks on Lebanon - Al Jazeera |
-| 2026-07-27 08:56 | Iran | 通报 | Iran | 待确认 | C | The age of contained conflict is over. The Iran war is spiralling out of control - Gulf News |
-| 2026-07-27 08:36 | Israel | 空袭 | Tehran | 待确认 | C | Israel Strikes Basij and Internal Security Command Centres in Tehran - News On AIR |
-| 2026-07-27 07:50 | US | 空袭 | Iran | 命中 | C | US and Iran hit pause on strikes for second day - Al Jazeera |
-| 2026-07-27 07:00 | Israel | 空袭 | Israel | 待确认 | C | Israeli Strikes Undermine Lebanon Ceasefire Agreement - 조선일보 |
-| 2026-07-27 06:38 | Iran | 通报 | Iran | 待确认 | C | Live: Iran says Ukraine's attack on Iranian vessel 'cannot go unanswered' - Middle East Eye |
-| 2026-07-27 06:30 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: ‘Accountability Must Be Activated Worldwide’ – Palestine Urges Global Action Against Settlements Amid Rising Middle East Conflict - The Sunday Guardian |
-| 2026-07-27 06:26 | US | 空袭 | Iran | 待确认 | C | Iran says it will halt strikes as long as US bombing pause holds - Reuters |
-| 2026-07-27 06:17 | US | 通报 | Iran | 待确认 | C | United States-Israel Ties, Iran-War, And Nuclear Deal With Saudi Arabia – OpEd - Eurasia Review |
-| 2026-07-27 05:44 | US | 空袭 | Iran | 待确认 | C | Conflict in West Asia escalates as exchange of strikes intensifies between US-Israel & Iran - News On AIR |
-| 2026-07-27 05:22 | US | 通报 | Iran | 待确认 | C | Iran army says war to 'expand further' if US attacks restart - The Daily Star |
-| 2026-07-27 05:13 | Israel | 通报 | Israel | 待确认 | C | Israeli government nods to international stabilisation force in Gaza - Al Jazeera |
-| 2026-07-27 05:08 | US | 通报 | Iran | 待确认 | C | Israel’s air force says it dropped over 1,200 munitions across 24 of Iran’s 31 provinces over past day in its joint attack with US / Akashvani News - News On AIR |
-| 2026-07-27 04:56 | Israel | 发射 | Iran | 待确认 | C | Yemen’s Iran-backed Houthi movement claims responsibility for third missile attack on Israel - News On AIR |
-| 2026-07-27 04:53 | Houthis | 发射 | 未明确 | 待确认 | C | Houthi Missiles and Drones Strike Key Saudi Oil Facilities as Regional Conflict Escalates - Head Topics |
-| 2026-07-27 04:51 | US | 空袭 | Iran | 待确认 | C | Iran says it will halt strikes as long as US bombing pause holds - Al-Monitor |
-| 2026-07-27 04:41 | Iran | 通报 | Iran | 待确认 | C | Iran says it will halt attacks as long as U.S. maintains pause in fighting - Haaretz |
-| 2026-07-27 04:38 | 未明确 | 通报 | 未明确 | 待确认 | C | Why does conflict bedevil the Middle East? - Arab News |
-| 2026-07-27 04:18 | Israel | 通报 | Israel | 待确认 | C | West Asia conflict widens in past few hours as Israel confirmed expansion of its ground operations in southern Lebanon - News On AIR |
-| 2026-07-27 04:12 | US | 通报 | Iran | 伤亡 | C | Iran casualties: Pentagon's official Iran war death toll no longer lists 4 US troops killed during renewed fighting - ABC7 Chicago |
-| 2026-07-27 04:03 | US | 通报 | Iran | 待确认 | C | Trump shares AI-generated images of US actions against Iran amid tensions - Crypto Briefing |
-| 2026-07-27 03:38 | Iran | 通报 | Iran | 待确认 | C | Iran's supreme leader reaffirms Hezbollah support, rejects terms of Lebanon deal - Türkiye Today |
-| 2026-07-27 03:37 | US | 通报 | Iran | 待确认 | C | What lies ahead for Iran’s economy as scope of US war grows beyond Hormuz? - Al Jazeera |
-| 2026-07-27 03:36 | US | 通报 | Iran | 命中 | C | US-Israel-Iran War Latest News: Oil Tanker Explodes in Strait of Hormuz After Hitting Naval Mine Amid the Battle for Control of Vital Energy Passage - The Sunday Guardian |
-| 2026-07-27 03:35 | 未明确 | 通报 | Lebanon | 待确认 | C | Sharaa warns Lebanon chaos would 'negatively' affect Syria - Türkiye Today |
-| 2026-07-27 03:30 | US | 通报 | Israel | 待确认 | C | Today's Headlines: IRGC Reveals US Losses / Israel Kills Gaza Police Chief / ARAMCO Targeted - Palestine Chronicle |
-| 2026-07-27 03:22 | Israel | 空袭 | Israel | 命中 | C | Israeli strikes hit several commercial and residential areas in central Beirut, Lebanon - News On AIR |
-| 2026-07-27 03:22 | US | 通报 | Tehran | 待确认 | C | Senior Iranian source says Tehran will halt attacks as long as US holds its fire - The Times of Israel |
-| 2026-07-27 03:21 | Iran | 通报 | Iran | 待确认 | C | New Documentary Footage Reveals Graham's Iran Push - Newsmax |
-| 2026-07-27 03:16 | Iran | 通报 | Iran | 待确认 | C | Iran's support for Hezbollah 'strategic mandate': Supreme Leader - lokmattimes.com |
-| 2026-07-27 03:15 | US | 通报 | Iran | 伤亡 | C | Pentagon's official Iran war death toll no longer lists 4 troops killed during renewed fighting - The Tribune-Democrat |
-| 2026-07-27 03:08 | Israel | 发射 | Tehran | 设施受损 | C | Iran launches missile and drone attacks across Gulf as Israel strikes Tehran infrastructure - News On AIR |
-| 2026-07-27 03:00 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: Iran’s Supreme Leader Mojtaba Khamenei Reaffirms Support for Hezbollah, Says ‘No Path Remains Except Jihad and Resistance’ - The Sunday Guardian |
-| 2026-07-27 02:53 | Iran | 通报 | Iran | 命中 | C | Latest war news. Escalation in the West Bank: settlers set fire to two mosques. Oil tanker explodes after hitting a mine in the Strait of Hormuz. Iran threatens Ukraine - Il Sole 24 ORE |
-| 2026-07-27 02:42 | 未明确 | 通报 | 未明确 | 待确认 | C | Pope renews appeals for Mideast peace - Crux / Taking the Catholic Pulse |
-| 2026-07-27 02:34 | US | 通报 | Lebanon | 待确认 | C | Khamenei ties US understanding to Lebanon sovereignty - Shafaq News / Latest breaking news in Iraq and the world - شفق نيوز |
+| 2026-07-27 22:15 | US | 撤离 | Iran | 待确认 | C | Iranian leader Khamenei: Israeli withdrawal from Lebanon to be ‘first condition’ of any agreement with US - All Israel News |
+| 2026-07-27 22:06 | Israel | 通报 | Iran | 待确认 | C | At odds with Trump on Iran, Netanyahu heads to DC to seek agreement where he still can - The Times of Israel |
+| 2026-07-27 21:46 | Iran | 通报 | Iran | 伤亡 | C | Iran Threatens to Kill One U.S. Soldier for Every Iranian Killed as Conflict Escalates - PravdaReport |
+| 2026-07-27 21:37 | US | 通报 | Iran | 待确认 | C | Israeli Minister Says US-Iran War Is ‘Best for Us’ Without Israeli Involvement - Military.com |
+| 2026-07-27 21:31 | 未明确 | 通报 | 未明确 | 待确认 | C | Trump Called Him 'F**g Crazy.' Now Netanyahu Is Heading to Washington for Crucial Talks - Times Now |
+| 2026-07-27 21:19 | US | 通报 | Iran | 待确认 | C | US Congressman Massie criticises Iran war, says conflict prioritised Israel over US interests - Garowe Online |
+| 2026-07-27 21:16 | US | 通报 | Iran | 待确认 | C | US-Iran conflict: What UAE residents need to know this evening (July 27) - Gulf News |
+| 2026-07-27 21:14 | 未明确 | 通报 | 未明确 | 待确认 | C | Tensions mount around strategic Ali Taher hill in southern Lebanese district of Nabatieh - L'Orient Today |
+| 2026-07-27 21:12 | Iran | 通报 | Iran | 待确认 | C | Netanyahu Heads to Washington With Iran at Top of Agenda - The Diplomatic Insight |
+| 2026-07-27 20:59 | Iran | 通报 | Iran | 待确认 | C | Ben-Gvir calls Trump ‘extremely naive’ on Iran, urges force and Gaza occupation - Türkiye Today |
+| 2026-07-27 20:58 | Iran | 通报 | Iran | 待确认 | C | Airline Stocks Jump on Iran Pause: Why Your Fares Are Not Coming Down Yet - Travelers Today |
+| 2026-07-27 20:43 | US | 通报 | Iran | 待确认 | C | Iran Economy Faces Fresh Pressure As US Conflict Disrupts Trade Beyond Strait Of Hormuz - Outlook India |
+| 2026-07-27 20:34 | US | 通报 | Iran | 待确认 | C | Mujtaba Khamenei: Iran Calls for Jihad Against US and Israel Over Lebanon - zoomnews.in |
+| 2026-07-27 20:24 | Iran | 通报 | Iran | 待确认 | C | Mediators see progress in diplomatic efforts to halt Iran war, 2 regional officials say - Times West Virginian |
+| 2026-07-27 20:09 | US | 通报 | Iran | 待确认 | C | Iran says no current talks with US, while regional official hails mediation progress - The Times of Israel |
+| 2026-07-27 20:07 | Iran | 空袭 | Tehran | 伤亡 | C | Zelensky fires warning to Tehran after Ukraine wipes out Iranian ship in deadly strike - Daily Express US |
+| 2026-07-27 20:00 | US | 通报 | Iran | 待确认 | C | US-Iran war latest: Trump, Netanyahu to meet as Iran rejects talks despite halt in bombing / World News - Hindustan Times |
+| 2026-07-27 20:00 | US | 发射 | Iran | 待确认 | C | West Asia Conflict Enters Eighth Day as United States, Israel and Iran Launch Fresh Airstrikes / Akashvani News - News On AIR |
+| 2026-07-27 19:48 | US | 通报 | Iran | 待确认 | C | Iran war, update: Mediators see progress in diplomatic efforts, officials say; 'no negotiations' ongoing with US, Baghaei says - ABC7 New York |
+| 2026-07-27 19:45 | Iran | 通报 | Iran | 待确认 | C | America’s slaughter of Iran’s innocents must have consequences - The Standard (HK) |
+| 2026-07-27 19:25 | US | 通报 | Tehran | 待确认 | C | Iran Says US Is Stuck As Tehran Insists It Will Decide When Conflict Ends - Arise News |
+| 2026-07-27 19:21 | Israel | 通报 | Iran | 待确认 | C | Trump and Israel's Benjamin Netanyahu meeting could decide fate of Iran war - AOL.com |
+| 2026-07-27 19:21 | Israel | 拦截 | Israel | 待确认 | C | Analysis / The Interceptor Shortage That Changed the Balance of the War - israeldefense.co.il |
+| 2026-07-27 19:16 | Iran | 通报 | Iran | 待确认 | C | 'Won't go unanswered': Will the Ukrainian attacks on Caspian Sea vessels lead to the convergence of the Iran war and the Russia-Ukraine war? - WION |
+| 2026-07-27 19:04 | 未明确 | 通报 | 未明确 | 待确认 | C | Spain Deploys Military Unit to Fight Country's Largest Wildfire in Recent History - Hindustan Times |
+| 2026-07-27 19:00 | Israel | 通报 | Iran | 待确认 | C | Trump Considers Intensifying Iran Conflict Amid Prolonged U.S.-Israeli War - Mwakilishi.com |
+| 2026-07-27 18:56 | US | 通报 | Iran | 待确认 | C | ‘No Peace Without Lebanon’: Iran Makes Israeli Offensive Key Condition For US Deal - Goemkarponn |
+| 2026-07-27 18:50 | US | 通报 | Iran | 待确认 | C | Republican Congressman Thomas Massie says Iran war has weakened US - Daily Times |
+| 2026-07-27 18:36 | 未明确 | 通报 | 未明确 | 待确认 | C | Moscow dismisses speculation over fresh Ukraine peace plan - Aaj English TV |
+| 2026-07-27 18:23 | Israel | 通报 | Israel | 待确认 | C | Lindsey Graham wanted to convince Trump to attack Hezbollah – until Netanyahu dissuaded him - World Israel News |
+| 2026-07-27 18:11 | Israel | 通报 | Iran | 待确认 | C | Rep Thomas Massie says the Iran war has 'significantly weakened' America 'all for Israel' - Fox News |
+| 2026-07-27 18:06 | US | 通报 | Iran | 待确认 | C | Iran’s parliamentary speaker accuses US secretly planning ground invasion - News On AIR |
+| 2026-07-27 18:02 | Israel | 通报 | Iran | 待确认 | C | Trump maintains military option against Iran, Waltz says - World Israel News |
+| 2026-07-27 18:02 | Iran | 通报 | Iran | 待确认 | C | Today's Headlines: Iran Halts Six Vessels / Ansarallah Maintains Blockade / ‘Unshakable Bastion’ - Palestine Chronicle |
+| 2026-07-27 18:01 | Iran | 空袭 | Iran | 待确认 | C | Ahead of Netanyahu-Trump meeting, expert warns about renewed Iran strikes - The Jerusalem Post |
+| 2026-07-27 18:00 | Iran | 通报 | Iran | 待确认 | C | Trump, Bibi, and a regime's diplomacy lies: Is the West buying what Iran is selling? - opinion - The Jerusalem Post |
+| 2026-07-27 17:49 | US | 通报 | Iran | 待确认 | C | Iran: US not involved in talks with Oman over Hormuz - The New Arab |
+| 2026-07-27 17:45 | 未明确 | 通报 | 未明确 | 待确认 | C | Kuwait ratifies defense cooperation pact with Pakistan - Muslim Network TV |
+| 2026-07-27 17:42 | 未明确 | 空袭 | Lebanon | 待确认 | C | West Asia Conflict: Two-week ceasefire holding despite recent strikes on Lebanon - News On AIR |
+| 2026-07-27 17:40 | US | 空袭 | Iran | 待确认 | C | Axios: Pentagon acknowledges that U.S. strikes on Iran have reached the limit of their effectiveness - NEWS.am |
