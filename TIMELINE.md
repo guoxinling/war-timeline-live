@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-07-30 09:59
+更新时间（北京时间）: 2026-07-30 21:48
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-07-30 09:45 | Iran | 通报 | Iran | 待确认 | C | How The Iran War Is Changing Security Dynamics In The Middle East – Analysis - Eurasia Review |
-| 2026-07-30 09:35 | Israel | 通报 | Iran | 待确认 | C | An attack on Israel would be ‘painful’ for Iran: Danny Danon - NewsNation |
-| 2026-07-30 09:30 | Israel | 通报 | Iran | 待确认 | C | Netanyahu insists Trump calling shots in Iran war, calls Israel ‘junior partner’ - Washington Examiner |
-| 2026-07-30 09:23 | Iran | 通报 | Iran | 待确认 | C | Benjamin Netanyahu says Donald Trump controls Iran war, discussed options to end conflict - The Jerusalem Post |
-| 2026-07-30 09:01 | US | 发射 | Iran | 待确认 | C | US launches 'powerful' strikes on Iran a day after attempted attack on American forces - BBC |
-| 2026-07-30 08:54 | Iran | 空袭 | Iran | 设施受损 | C | Live updates • U.S. carries out fresh strikes against Iran after attack on U.S. gas facility - Haaretz |
-| 2026-07-30 08:40 | US | 发射 | Iran | 待确认 | C | US launches new strikes against Iran - Anadolu Ajansı |
-| 2026-07-30 08:40 | US | 发射 | Iran | 待确认 | C | Iran to get Chinese shoulder-launched missile systems in weeks amid war with US: sources - The Business Times |
-| 2026-07-30 08:39 | US | 通报 | Iran | 命中 | C | Trump says US to hit Iran hard - thestandard.com.hk |
-| 2026-07-30 08:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and Middle East - The Jerusalem Post |
-| 2026-07-30 07:28 | Israel | 空袭 | Israel | 待确认 | C | UN human rights chief warns Israeli strikes in Lebanon may constitute international crimes - Jurist.org |
-| 2026-07-30 06:53 | 未明确 | 通报 | 未明确 | 待确认 | C | Morocco expands military modernization through U.S. defense partnership - Muslim Network TV |
-| 2026-07-30 06:52 | Israel | 空袭 | Israel | 待确认 | C | Israeli strikes destroy Gaza mosque, kill Palestinian amid surge in settler violence - Muslim Network TV |
-| 2026-07-30 06:50 | Iran | 通报 | Iran | 待确认 | C | 'It's his decision': Netanyahu says choice on how to proceed with Iran is Trump's - ABC News - Breaking News, Latest News and Videos |
-| 2026-07-30 06:27 | Iran | 通报 | Iran | 待确认 | C | Europe Resists U.S. Strait of Hormuz Patrol Until Iran Ceasefire Stabilizes: who 16 outlets blamed - NewsCord |
-| 2026-07-30 05:49 | Israel | 通报 | Israel | 待确认 | C | Hezbollah’s Pivot to FPV Drones Requires Israeli Overmatch - Institute for the Study of War |
-| 2026-07-30 05:20 | Israel | 空袭 | 未明确 | 待确认 | C | IDF Response Options: Hezbollah Drone Strike Analysis - JFeed |
-| 2026-07-30 05:02 | US | 通报 | Iran | 命中 | C | US-Iran conflict enters new phase as Saudi Arabia helps hit proxies and diplomacy stalls again - AP News |
-| 2026-07-30 04:47 | Iran | 空袭 | Iran | 待确认 | C | Trump vows powerful strikes on Iran - Shafaq News / Latest breaking news in Iraq and the world - شفق نيوز |
-| 2026-07-30 04:35 | Iran | 空袭 | Iran | 待确认 | C | Saudi Arabia’s Strikes in Iraq Mark Entry Into U.S.-Iran War. - The New York Times |
-| 2026-07-30 04:31 | Israel | 通报 | Israel | 命中 | C | Hezbollah drone hits IDF bulldozer, violating Lebanon truce, IDF says, days ahead of talks - The Times of Israel |
-| 2026-07-30 04:23 | Iran | 通报 | Iran | 待确认 | C | Is Iran a ‘forever war’? – Stateside with Kai and Carter - theguardian.com |
-| 2026-07-30 04:21 | US | 通报 | Iran | 待确认 | C | China cuts deal with Houthis, adjusts for long US war with Iran - Al-Monitor |
-| 2026-07-30 04:21 | US | 空袭 | Israel | 待确认 | C | Drone strikes US-owned gas tanker in Egyptian port, in possible expansion of Mideast war - The Times of Israel |
-| 2026-07-30 04:00 | Israel | 通报 | Israel | 待确认 | C | All eyes on Israel’s election in October - Cleveland Jewish News |
-| 2026-07-30 03:56 | Israel | 通报 | Jerusalem | 命中 | C | IDF bulldozer struck by Hezbollah drone, Israel expected to retaliate - The Jerusalem Post |
-| 2026-07-30 03:48 | US | 通报 | Iran | 待确认 | C | Trump says US to deliver ‘beating’ to Iran after bases again targeted - Al Jazeera |
-| 2026-07-30 03:31 | Israel | 通报 | Israel | 待确认 | C | Israel mulls response after Hezbollah violates truce - Foundation for Defense of Democracies |
-| 2026-07-30 03:19 | Israel | 通报 | Israel | 待确认 | C | Netanyahu plays it safe in a Washington that’s cooled on Israel - Politico |
-| 2026-07-30 03:16 | Israel | 通报 | Jerusalem | 待确认 | C | Source: Benjamin Netanyahu used maps to persuade Donald Trump Israel shouldn't leave Syria - The Jerusalem Post |
-| 2026-07-30 03:02 | US | 通报 | Israel | 待确认 | C | Netanyahu proposes phasing out US military aid to Israel over 10 years: Report - Anadolu Ajansı |
-| 2026-07-30 03:00 | Israel | 通报 | Israel | 待确认 | C | Zamir says Israeli troops will 'advance deeper' into south Lebanon if necessary - L'Orient Today |
-| 2026-07-30 02:46 | 未明确 | 通报 | 未明确 | 待确认 | C | Lebanese lawyers seek probe of banker over Netanyahu dinner - Al-Monitor |
-| 2026-07-30 02:41 | US | 通报 | Iran | 待确认 | C | Saudi Arabia's dilemma as it tries to stay out of US-Iran war - BBC |
-| 2026-07-30 02:37 | US | 发射 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Iran Resumes Missile Attacks as US & Saudi Arabia Forces Strike Iraq Amid Strait of Hormuz & Middle East Tensions Escalate - sundayguardianlive.com |
-| 2026-07-30 02:36 | Iran | 发射 | Tehran | 待确认 | C | Iran launches renewed missile attacks as U.S., Saudis strike Tehran-backed militias in Iraq - tribdem.com |
-| 2026-07-30 02:33 | US | 通报 | Israel | 待确认 | C | Loose clips sink ships? US warns Mideast troops against filming bases, said to weigh seizing phones - The Times of Israel |
-| 2026-07-30 02:22 | Israel | 通报 | Israel | 伤亡 | C | Christians bring comfort to Druze families two years after Hezbollah killed 12 children in Majdal Shams - All Israel News |
-| 2026-07-30 02:09 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: Oil Prices Jump 6.7% Amid Regional Escalation and Resumption of US-Israel Attack on Iran, Raising Worries About Global Flow of Oil - sundayguardianlive.com |
-| 2026-07-30 02:09 | US | 通报 | Iran | 待确认 | C | Poll Finds Most Americans Oppose Deeper U.S. Role In Iran Conflict - 77 WABC |
+| 2026-07-30 21:21 | US | 通报 | Israel | 待确认 | C | Netanyahu says social media is driving decline in US support for Israel - Minute Mirror |
+| 2026-07-30 21:15 | Israel | 空袭 | Israel | 待确认 | C | Gaza civil defence says Israeli strikes kill four - Business Recorder |
+| 2026-07-30 21:07 | US | 发射 | Iran | 待确认 | C | US launches ‘heavy wave’ of new attacks on Iran - Al Jazeera |
+| 2026-07-30 21:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and Middle East - The Jerusalem Post |
+| 2026-07-30 20:57 | US | 发射 | Iran | 待确认 | C | US-Iran Conflict Escalates: Fresh Strikes, Missile Attacks and Rising West Asia Tensions - WION |
+| 2026-07-30 20:53 | Israel | 通报 | Iran | 待确认 | C | 'Israelis Pushing U.S. To War': Saudi's MBS Warns Trump Against Iran Escalation In Big Message - The Times of India |
+| 2026-07-30 20:19 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: Iran’s FM Spokesperson Says Talks with Oman Officials are Ongoing Over Strait of Hormuz and Disruption to International Shipping Due to US-Israeli Attacks - The Sunday Guardian |
+| 2026-07-30 20:09 | Israel | 空袭 | Israel | 命中 | C | Israeli strikes hit several commercial and residential areas in central Beirut, Lebanon - News On AIR |
+| 2026-07-30 20:08 | 未明确 | 通报 | 未明确 | 待确认 | C | Dubai and Middle East flight disruption: regional airlines extend route suspensions as tensions continue - Condé Nast Traveller Middle East |
+| 2026-07-30 19:55 | US | 通报 | 未明确 | 待确认 | C | Netanyahu admits decrease in popularity among US public, blames it on social media - The Express Tribune |
+| 2026-07-30 19:48 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Prediction: How Long Could The Conflict Last? Ryo Tatsuki, Baba Vanga & Nostradamus Forecasts Revisited; What Do Their Predictions Say About The War’s Duration? - The Sunday Guardian |
+| 2026-07-30 19:46 | US | 通报 | Israel | 待确认 | C | Israel steps up attacks in southern Lebanon as drones fly over Beirut despite US-mediated framework agreement - Anadolu Ajansı |
+| 2026-07-30 19:33 | US | 通报 | Iran | 待确认 | C | US-Israel war on Iran - The Guardian |
+| 2026-07-30 19:31 | Israel | 通报 | Iran | 待确认 | C | Israel Must Turn Venezuela’s Recovery Into Iran’s Eviction Notice - Middle East Forum |
+| 2026-07-30 19:15 | Israel | 通报 | Israel | 待确认 | C | Israel aims to make pilotless warplane with F-35 capabilities - The Straits Times |
+| 2026-07-30 19:00 | Iran | 通报 | Iran | 待确认 | C | Why Iran Cannot Fight a Forever War - Time Magazine |
+| 2026-07-30 18:49 | US | 发射 | Iran | 待确认 | C | US launches 'heavy' strikes on Iran after attempted attack on American troops - BBC |
+| 2026-07-30 18:47 | US | 空袭 | Iran | 待确认 | C | War: latest news. Iran: ‘heavy’ US strikes overnight. Israel: agreement with Hamas possible - en.ilsole24ore.com |
+| 2026-07-30 18:35 | US | 空袭 | Tehran | 待确认 | C | US-Israel-Iran War Live News: Tehran Threatens To ‘Punish The Aggressor’ After Trump Orders Fresh Strikes - The Sunday Guardian |
+| 2026-07-30 18:30 | US | 空袭 | Iran | 待确认 | C | Daily Briefing July 30 – Iran’s first strike on Egypt tests CENTCOM’s defense umbrella - The Times of Israel |
+| 2026-07-30 18:16 | Israel | 通报 | Iran | 待确认 | C | Live Coverage of the Iran–U.S.–Israel Conflict / July 30 - WANA News Agency |
+| 2026-07-30 17:57 | US | 通报 | Iran | 待确认 | C | Iran’s War With Israel and the United States / Global Conflict Tracker - Council on Foreign Relations |
+| 2026-07-30 17:52 | US | 通报 | Iran | 命中 | C | US hits multiple targets in Iran as IRGC pledges retaliation: What we know - Al Jazeera |
+| 2026-07-30 17:45 | US | 空袭 | Iran | 待确认 | C | WATCH: CENTCOM strikes dozens of IRGC targets across Iran - worldisraelnews.com |
+| 2026-07-30 17:43 | US | 发射 | Tehran | 待确认 | C | Iran-US war latest: Tehran threatens to ‘punish the aggressor’ after Trump launches heavy wave of strikes - inkl |
+| 2026-07-30 17:43 | US | 空袭 | Iran | 待确认 | C | Live Updates: War returns to Iran with Israel, US strikes - Dawn |
+| 2026-07-30 17:33 | US | 通报 | Iran | 待确认 | C | As the US and Iran trade blows over Hormuz, how long before the nuclear threat forces Israel to go back to war? - The Jewish Chronicle |
+| 2026-07-30 17:22 | US | 拦截 | Iran | 待确认 | C | Iran war obliterated 2/3 of US interceptor stockpile: Report - worldisraelnews.com |
+| 2026-07-30 16:59 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: Israeli Prime Minister Netanyahu Suggests Predicting Iran’s Actions Regarding Global Commerce Strait of Hormuz Was Not Possible - The Sunday Guardian |
+| 2026-07-30 16:43 | US | 发射 | Iran | 待确认 | C | US-Israel-Iran War Live News: US Launches Fresh Strikes On Iran After Alleged Attack On Military Bases - The Sunday Guardian |
+| 2026-07-30 16:32 | US | 空袭 | Iran | 待确认 | C | US Military Completes ‘Heavy Wave’ of Retaliatory Strikes on Iran - The Defense Post |
+| 2026-07-30 16:07 | Iran | 通报 | Iran | 待确认 | C | Saudi Arabia Enters Iran War: Who Is On Which Side In The Widening Middle East Conflict? - News18 |
+| 2026-07-30 15:56 | Iran | 通报 | Iran | 待确认 | C | Iran Bolsters Air Defence with Chinese MANPADS: A Strategic Move Amid Ongoing Conflict - Devdiscourse |
+| 2026-07-30 15:47 | 未明确 | 通报 | Yemen | 待确认 | C | Conflict in Yemen and the Red Sea / Global Conflict Tracker - Council on Foreign Relations |
+| 2026-07-30 15:40 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Live News: Israel Targets Syria’s Quneitra, Israeli Army Chief Threatens Wider Lebanon Offensive – UAE Condemns Attack on Saudi Oil Facilities - The Sunday Guardian |
+| 2026-07-30 15:39 | Israel | 通报 | Iran | 待确认 | C | Netanyahu says Trump is the ‘senior partner’ in Iran war, ‘nobody tells Trump what to do&... - worldisraelnews.com |
+| 2026-07-30 15:31 | US | 空袭 | Iran | 命中 | C | West Asia conflict escalates as US‑Israel strikes hit Iran, US Embassy attacked in Riyadh - News On AIR |
+| 2026-07-30 15:27 | US | 通报 | Iran | 命中 | C | US military says it hit dozens of Iran's IRGC targets - Business Recorder |
+| 2026-07-30 15:06 | US | 发射 | Iran | 待确认 | C | US-Israel-Iran War Latest News: IRGC Claims Tankers Turned Back After Strait of Hormuz Fire, Issues Fresh Warnings – Jordan Reports Second Missile Interception in 2 Days - The Sunday Guardian |
+| 2026-07-30 15:00 | US | 通报 | Iran | 伤亡 | C | US-Israel-Iran War Latest News: Israeli Overnight Attacks on Gaza Leave Three Dead, Including Two Children, Despite US-Brokered Ceasefire - The Sunday Guardian |
