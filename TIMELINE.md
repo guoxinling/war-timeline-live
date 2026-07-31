@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-07-31 10:24
+更新时间（北京时间）: 2026-07-31 21:53
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-07-31 10:11 | Hamas | 通报 | Gaza | 待确认 | C | Trump announces deal for Hamas to disarm in Gaza - BreakingNews.ie |
-| 2026-07-31 09:52 | Hamas | 通报 | Gaza | 待确认 | C | Trump announces a deal for Hamas to disarm in Gaza, but many hurdles remain - nbcphiladelphia.com |
-| 2026-07-31 09:37 | Israel | 通报 | Israel | 待确认 | C | Trump says deal reached for Hamas to disarm, Israel to exit Gaza - Mathrubhumi English |
-| 2026-07-31 09:31 | US | 通报 | Iran | 伤亡 | C | 16 Indians, Including 10 Seafarers, Killed In US-Iran War In West Asia: Centre - News18 |
-| 2026-07-31 08:45 | 未明确 | 通报 | Red Sea | 待确认 | C | Saudis Form Military Alliance to Protect Red Sea Shipping - The New York Times |
-| 2026-07-31 08:39 | Hamas | 通报 | 未明确 | 待确认 | C | Trump says Board of Peace agrees on Hamas disarming - DW.com |
-| 2026-07-31 08:11 | Israel | 通报 | Iran | 待确认 | C | Nine in ten Israelis believe Iran came out on top in war, bombshell poll reveals - The Muslim News |
-| 2026-07-31 08:04 | US | 空袭 | Iran | 待确认 | C | Iran war: US carries out new strikes in 'powerful response' - DW.com |
-| 2026-07-31 08:01 | Israel | 通报 | Israel | 设施受损 | C | IDF has destroyed Hezbollah tunnel system below south Lebanon's Beaufort, Netanyahu and Katz announce - The Times of Israel |
-| 2026-07-31 08:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and Middle East - The Jerusalem Post |
-| 2026-07-31 07:07 | Israel | 空袭 | Israel | 待确认 | C | Israeli Strikes Kill Baby and Child in Gaza as Cairo Ceasefire Talks Continue - The Eastern Herald |
-| 2026-07-31 06:59 | Israel | 通报 | Israel | 待确认 | C | Israel's 'special forces' ready if arrested abroad over ICC warrant, says Netanyahu - ANI News |
-| 2026-07-31 06:30 | US | 通报 | Iran | 命中 | C | US–Israel–Iran War and Its Impact on India - Daily Excelsior |
-| 2026-07-31 06:13 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Israel Demolishes Hezbollah Tunnel Network Near Lebanon’s Historic Beaufort Castle as Iran Warns US Will ‘Pay the Price’ Amid Middle East Tensions Escalate - The Sunday Guardian |
-| 2026-07-31 05:56 | Hezbollah | 通报 | Lebanon | 设施受损 | C | Hezbollah Tunnel Network Destroyed in Southern Lebanon - JFeed |
-| 2026-07-31 05:47 | Israel | 发射 | Israel | 待确认 | C | Israel says Hezbollah launched drone attack on strategic ridge amid ceasefire - The Long War Journal |
-| 2026-07-31 05:38 | Israel | 通报 | Iran | 待确认 | C | Oil Falls as Investors Await Clarity After Iran-Israel Halt Attacks - EnergyNow.com |
-| 2026-07-31 05:14 | Israel | 撤离 | Israel | 待确认 | C | Hamas weighs disarmament plan as Israel sets withdrawal conditions - Muslim Network TV |
-| 2026-07-31 05:14 | US | 空袭 | Iran | 待确认 | C | Iran claims drone strike on US air base in Bahrain - Muslim Network TV |
-| 2026-07-31 05:12 | US | 通报 | Iran | 待确认 | C | Iran warns Europe over US military access to regional bases - Muslim Network TV |
-| 2026-07-31 05:03 | US | 通报 | 未明确 | 待确认 | C | Saudi Arabia suspends US military access to its bases and airspace / Akashvani News - News On AIR |
-| 2026-07-31 05:01 | Iran | 通报 | Iran | 待确认 | C | Will Saudi Arabia be dragged further into the war in Iran? - Al Jazeera |
-| 2026-07-31 04:42 | US | 通报 | 未明确 | 命中 | C | Analysis: A look at Netanyahu’s White House visit - arabnews.com |
-| 2026-07-31 04:41 | US | 空袭 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Iran’s FM Baghaei Says ‘Determined & United’ After Qeshm Island Strike as IRGC Targets US Bases in Kuwait & Jordan Amid Middle East Tensions Escalates - The Sunday Guardian |
-| 2026-07-31 04:28 | US | 通报 | Israel | 待确认 | C | Israel Objects to Terms of US-Proposed 15-Point Gaza Plan, Netanyahu’s Office Says - The Eastern Herald |
-| 2026-07-31 04:12 | 未明确 | 通报 | 未明确 | 待确认 | C | Saudi Arabia announces maritime defence alliance to secure vital waterways - Al Jazeera |
-| 2026-07-31 04:03 | Israel | 通报 | Israel | 待确认 | C | Fresh Hezbollah Assault? Israeli Military Vehicle Targeted As Border Tensions Explode Again - The Times of India |
-| 2026-07-31 03:33 | US | 发射 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Egypt Secures Energy Alternatives After Damietta Port Drone Attack; US Sanctions Iran-Linked Mahan Air Network Amid Regional Tensions Escalate - The Sunday Guardian |
-| 2026-07-31 03:29 | US | 通报 | Iran | 待确认 | C | US Senate rejects bid to rein in Trump’s authority over Iran war - The Guardian |
-| 2026-07-31 03:25 | US | 通报 | Iran | 待确认 | C | As Nearly Two-Thirds of Americans Demand End to Iran Attacks, Latest Senate Resolution to Stop War Fails - Common Dreams |
-| 2026-07-31 03:25 | US | 发射 | Iran | 待确认 | C | Renewed Iran war raises US missile supply concerns - Gulf News |
-| 2026-07-31 03:13 | Israel | 通报 | Iran | 待确认 | C | As Iran conflict enters 6th month, Saudi and Israeli leaders try to shape Trump's decisions - CBS News |
-| 2026-07-31 03:02 | US | 发射 | Iran | 待确认 | C | US renews strikes on regime targets after Iranian strike in Jordan, first drone attack on US vessel in Egypt - All Israel News |
-| 2026-07-31 03:00 | US | 通报 | Iran | 待确认 | C | US Treasury sanctions networks supporting Iran’s Mahan Air, IRGC from India, China, Russia - The Jerusalem Post |
-| 2026-07-31 02:48 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: UK Supreme Court to Hear Palestine Action ‘Terrorism’ Ban Appeal After Thousands Arrested Over Support - The Sunday Guardian |
-| 2026-07-31 02:37 | US | 通报 | Israel | 命中 | C | US CENTCOM hits dozens of IRGC targets; Bibi urges Christians to back Israel TV7 Israel News 30 July - TV7 Israel News |
-| 2026-07-31 02:11 | US | 发射 | Iran | 待确认 | C | US-Israel-Iran War Latest News: US Launches Airstrikes on Iran After Attack on American Bases in Jordan, Raising Fears of Wider Middle East Regional War - The Sunday Guardian |
-| 2026-07-31 02:07 | Iran | 通报 | Iran | 伤亡 | C | India confirms 16 nationals killed in Mideast since Iran war began - Anadolu Ajansı |
-| 2026-07-31 02:05 | US | 通报 | Iran | 待确认 | C | Trump's options for Iran narrow as his US approval ratings fall - The Jerusalem Post |
-| 2026-07-31 01:50 | US | 空袭 | Iran | 待确认 | C | Iran’s Shock Strike Strategy Against US Assets Opens Multiple Fronts - mintpressnews.com |
+| 2026-07-31 21:31 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: Israel Removes 14 Soldiers From Combat Roles After 'Mutiny' at Sde Teiman Over Deployment Orders - The Sunday Guardian |
+| 2026-07-31 21:30 | US | 通报 | Israel | 待确认 | C | Baghaei urges UN chief to name US, Israel over law violations - Muslim Network TV |
+| 2026-07-31 21:30 | US | 通报 | Israel | 待确认 | C | 'Understand your history': Israelis worry about weakening connection with younger Jewish Americans - The Tribune-Democrat |
+| 2026-07-31 21:30 | Israel | 通报 | Israel | 待确认 | C | Israeli army blows up caves, homes in southern Lebanon - Muslim Network TV |
+| 2026-07-31 21:17 | US | 空袭 | Lebanon | 待确认 | C | Hezbollah condemns US strike in Iraq - LBCI Lebanon |
+| 2026-07-31 21:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and Middle East - The Jerusalem Post |
+| 2026-07-31 20:57 | US | 发射 | Iran | 待确认 | C | Iran Launches Surprise Strike on U.S. Base in Jordan / West Asia War Escalates / US- Iran War - WION |
+| 2026-07-31 20:48 | Hamas | 通报 | 未明确 | 待确认 | C | Hamas says it’s reached an agreement to disarm, a significant move that will face major challenges - The Tribune-Democrat |
+| 2026-07-31 20:07 | Israel | 通报 | Israel | 待确认 | C | News Analysis: What Trump-Netanyahu meeting reveals about U.S.-Israeli ties - Xinhua |
+| 2026-07-31 20:02 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: Who is Khalil Al-Hayya? Hamas New Political Chief Leading the Gaza Disarmament Deal - Hamas Agrees to Disarm Under Trump's 'Historic' Gaza Framework - The Sunday Guardian |
+| 2026-07-31 19:55 | Israel | 通报 | Israel | 待确认 | C | Israel sets off 700-tonne blast under UNESCO-listed castle in Lebanon - The Siasat Daily |
+| 2026-07-31 19:29 | US | 空袭 | Tehran | 待确认 | C | Israeli strikes kill eight in Gaza, and bombs Lebanon as Trump announces US-Iran talks despite Tehran denial - muslimnews.co.uk |
+| 2026-07-31 19:13 | US | 通报 | Iran | 待确认 | C | Iran’s parliamentary speaker accuses US secretly planning ground invasion - News On AIR |
+| 2026-07-31 19:12 | Israel | 撤离 | Israel | 待确认 | C | Trump Announces Gaza Deal for Hamas Disarmament and Israeli Troop Withdrawal - RTV Bangladesh |
+| 2026-07-31 19:10 | US | 通报 | Iran | 命中 | C | US-Israel-Iran War Live News: IRGC Claims It Hit and Stopped Two Oil Tankers in Strait of Hormuz, Says Four Others Turned Back After Warnings - The Sunday Guardian |
+| 2026-07-31 19:01 | US | 发射 | Iran | 待确认 | C | Iran's army claims drone attack on US facilities at Kuwait air base - The Express Tribune |
+| 2026-07-31 18:14 | US | 通报 | Iran | 待确认 | C | US, Israel consider land blockade on Iran to escalate economic pressure: Telegraph - cryptobriefing.com |
+| 2026-07-31 18:14 | Israel | 通报 | Israel | 待确认 | C | Other People’s Mail: Bill to Integrate Israel Into U.S. Military Must Be Opposed - Washington Report on Middle East Affairs |
+| 2026-07-31 18:06 | Iran | 通报 | Iran | 命中 | C | Iran's IRGC says it hit 2 tankers, forced 4 others to turn back in Strait of Hormuz - Anadolu Ajansı |
+| 2026-07-31 18:05 | US | 发射 | Iran | 设施受损 | C | Iran claims ballistic missile strike destroyed 3 US F-35 jets at Jordan air base - Anadolu Ajansı |
+| 2026-07-31 18:00 | Iran | 通报 | Iran | 待确认 | C | Trump faces threat of widening regional war with Iran - The Hill |
+| 2026-07-31 17:47 | US | 空袭 | Iran | 命中 | C | US military says latest strikes on Iran last two hours, hitting dozens of targets - ddindia.co.in |
+| 2026-07-31 17:12 | US | 空袭 | Iran | 命中 | C | IRGC strikes US targets in Kuwait a day after US hits Iran: Latest events - Al Jazeera |
+| 2026-07-31 17:05 | US | 通报 | Iran | 待确认 | C | As diplomacy falters, US-Iran war expands: ANALYSIS - abcnews.com |
+| 2026-07-31 17:00 | Israel | 通报 | Israel | 待确认 | C | Democrats show divisions on Israel amid competitive midterm elections - NPR |
+| 2026-07-31 16:59 | Israel | 通报 | Iran | 待确认 | C | What costs did Israel pay after Oct. 7 compared to Iran, Hamas, Hezbollah? - The Jerusalem Post |
+| 2026-07-31 16:12 | Israel | 通报 | Israel | 待确认 | C | Israeli forces blow up structures near Lebanon’s Beaufort Castle - Al Jazeera |
+| 2026-07-31 16:00 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Live News: Where is Iran’s Supreme Leader Mojtaba Khamenei? Reports Claim He Has Vanished From Public View as Intelligence Agencies Seek Answers - The Sunday Guardian |
+| 2026-07-31 15:53 | US | 通报 | Iran | 伤亡 | C | US-Israel-Iran War Live News: Iran Receives Bodies of IRGC Members Killed in Iraq as US Imposes Sanctions on Mahan Air – Brent Crude Falls to $88, WTI Drops to $82 - The Sunday Guardian |
+| 2026-07-31 15:51 | Israel | 通报 | Israel | 待确认 | C | Burnham’s Gaza apology ‘meaningless’ without full arms embargo on Israel - muslimnews.co.uk |
+| 2026-07-31 15:50 | Israel | 通报 | Israel | 待确认 | C | Israel carries out detonations near Lebanon’s UNESCO-listed Beaufort castle - The Straits Times |
+| 2026-07-31 15:39 | Israel | 通报 | Israel | 待确认 | C | Israeli blows up 700 tonnes of explosives near Lebanon’s Unesco-listed Beaufort castle, claims destroying Hezbollah ‘terror tunnels’ - Malay Mail |
+| 2026-07-31 15:39 | Israel | 发射 | Iran | 待确认 | C | Yemen’s Iran-backed Houthi movement claims responsibility for third missile attack on Israel - News On AIR |
+| 2026-07-31 15:30 | US | 撤离 | Iran | 待确认 | C | US-Israel-Iran War Latest News: Trump Announces Hamas Disarmament Deal as Israel Set for Phased Gaza Withdrawal amid Major Uncertainty - The Sunday Guardian |
+| 2026-07-31 15:15 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Live News: ‘They Will Pay the Price’ — Mohammad Bagher Ghalibaf Accuses the US of Targeting Civilians on Qeshm Island - The Sunday Guardian |
+| 2026-07-31 15:15 | US | 发射 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Israel Launches Massive Overnight Strikes Across Southern Lebanon, Iran Claims Drone Strike on US Air Base in Kuwait - The Sunday Guardian |
+| 2026-07-31 15:11 | Israel | 发射 | Tehran | 设施受损 | C | Iran launches missile and drone attacks across Gulf as Israel strikes Tehran infrastructure - News On AIR |
+| 2026-07-31 15:04 | US | 通报 | Iran | 待确认 | C | US-Iran conflict: Growing fears of long-term war as Gulf bases targeted - Bankingnews |
+| 2026-07-31 14:46 | Israel | 通报 | Iran | 待确认 | C | Inside the Hamas disarmament plan: Gaza Peace proposal, Israel's conditions and Iran's shrinking influence - Moneycontrol.com |
+| 2026-07-31 14:31 | US | 空袭 | Iran | 待确认 | C | Iran claims drone strike on US military base in Kuwait - The Siasat Daily |
