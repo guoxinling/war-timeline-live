@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-08-02 10:22
+更新时间（北京时间）: 2026-08-02 21:10
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-08-02 08:55 | US | 通报 | Iran | 待确认 | C | Iran Warns of Decisive Response to US, Israel Military Action; Strait of Hormuz Key Tension Point - Ratopati |
-| 2026-08-02 08:06 | US | 空袭 | Iran | 待确认 | C | Iran war updates: US President Trump threatens more strikes on Iran; tensions from Hormuz to Kuwait and Gaza lead to more warnings - ABC7 New York |
-| 2026-08-02 08:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and Middle East - jpost.com |
-| 2026-08-02 07:55 | US | 空袭 | Iran | 待确认 | C | Iran war live: Iran warns US against fresh strikes as tensions threaten Gulf oil supplies and shipping - Arabian Business |
-| 2026-08-02 07:41 | US | 通报 | Iran | 待确认 | C | Kuwait Shoots Down Iranian Drones as Pentagon Warns of Naval Shortfall - The Eastern Herald |
-| 2026-08-02 07:07 | Iran | 空袭 | Tehran | 待确认 | C | Mideast on Brink: Trump May Order Fresh Strikes on Iran, Tehran Warns ‘We Are Ready,’ U.S. Embassies Urge Departures - breitbart.com |
-| 2026-08-02 06:53 | US | 发射 | Iran | 待确认 | C | Iran threatens to strike other nations' energy fields if US launches fresh attacks - GMA Network |
-| 2026-08-02 06:40 | US | 通报 | Iran | 待确认 | C | Top US General warns Pentagon he lacks enough naval forces to protect Israel from Iranian attacks: Report - ANI News |
-| 2026-08-02 06:29 | US | 通报 | Iran | 待确认 | C | Top Iranian commander warns countries serving as defensive shield for US will 'burn in flames of war' - The Express Tribune |
-| 2026-08-02 06:12 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Israeli Army Fire Reported in Bint Jbeil, Southern Lebanon Amid Escalating Regional Conflict - The Sunday Guardian |
-| 2026-08-02 06:07 | US | 空袭 | Tehran | 待确认 | C | Donald Trump Latest News: Trump Warns US Strikes on Iran Will Continue Until Shipping Attacks Stop; Tehran Threatens Wider Regional Retaliation - The Sunday Guardian |
-| 2026-08-02 05:58 | Iran | 空袭 | Iran | 待确认 | C | Trump and Iran exchange threats on further strikes - ABC News & Headlines – Australian Broadcasting Corporation |
-| 2026-08-02 05:39 | US | 空袭 | Iran | 设施受损 | C | US, Israel said to be planning strikes on energy infrastructure in Iran - The Arab Weekly |
-| 2026-08-02 05:32 | Israel | 通报 | Iran | 待确认 | C | Analysis • Israel braces for another Trump-Iran showdown as time for threats runs out - Haaretz |
-| 2026-08-02 05:13 | US | 通报 | 未明确 | 待确认 | C | US embassies urge citizens to consider departing Middle East - Edition.mv |
-| 2026-08-02 05:11 | US | 通报 | Iran | 待确认 | C | Iran warns regional states against aiding US attacks - Anadolu Ajansı |
-| 2026-08-02 05:05 | US | 通报 | 未明确 | 待确认 | C | US urges its citizens in Middle East to be ready to leave in case of escalation in region - BBC |
-| 2026-08-02 05:05 | US | 空袭 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Trump Says He Is ‘Destroying’ Iran’s Currency & Weighs Large-Scale Military Strike Threats Amid Regional Conflict Escalate - The Sunday Guardian |
-| 2026-08-02 04:45 | Iran | 空袭 | Iran | 待确认 | C | WSJ: Trump Orders Fresh Military Strikes on Iran - Kurdistan24 |
-| 2026-08-02 04:27 | US | 通报 | Iran | 待确认 | C | Iran warns neighbors against being US 'defensive shield' - dw.com |
-| 2026-08-02 04:26 | Iran | 通报 | Iran | 待确认 | C | Iran Plotted Wider War With Help of Its Proxies - The New York Times |
-| 2026-08-02 04:19 | Israel | 通报 | Iran | 命中 | C | Trump ‘losing faith’ in talks, threatens to ‘hit Iran hard’ - World Israel News |
-| 2026-08-02 04:15 | Iran | 空袭 | Iran | 待确认 | C | Gulf nations brace for ‘disruptions’ as Trump warns of fresh strikes on Iran - MS NOW |
-| 2026-08-02 04:01 | US | 通报 | Iran | 待确认 | C | UAE Seeks To Ease Tensions With Iran While Deepening Military Ties With US, Israel - Radio Free Europe/Radio Liberty |
-| 2026-08-02 04:00 | Israel | 通报 | Iran | 待确认 | C | Israel raises alert: Iran conflict risks renewed escalation - jpost.com |
-| 2026-08-02 04:00 | US | 通报 | Iran | 待确认 | C | China helps Iran chip away at US air superiority despite Xi’s no-arms pledge - Iran International |
-| 2026-08-02 03:54 | US | 通报 | Israel | 待确认 | C | Top US commander warns Washington unable to sustain Israel’s defense amid weapons shortages: Report - Arab News |
-| 2026-08-02 03:48 | Israel | 通报 | Iran | 待确认 | C | Live Coverage of the Iran–U.S.–Israel Conflict /Aug 01 - WANA News Agency |
-| 2026-08-02 03:40 | US | 通报 | Iran | 待确认 | C | US warns citizens to get ‘ready’ to flee Middle East NOW as Trump threatens major Iran blitz - the-sun.com |
-| 2026-08-02 03:36 | US | 空袭 | Iran | 待确认 | C | Israel on highest alert as US strike on Iran looms - www.israelhayom.com |
-| 2026-08-02 03:23 | Israel | 通报 | 未明确 | 待确认 | C | Beaufort Ridge changes color after IDF detonates 700 tons of explosives / Watch - Ynetnews |
-| 2026-08-02 03:22 | US | 通报 | Iran | 伤亡 | C | US-Israel-Iran War Latest News: Israeli Army Says Several Hezbollah Members Killed in Southern Lebanon Operation; Officer Injured - The Sunday Guardian |
-| 2026-08-02 03:05 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: Lebanese Army Commander General Rodolph Haykal Says ‘Every Inch of Our Land is Our Right’ as Israel Continues to Occupy Southern Lebanon’s Territory - The Sunday Guardian |
-| 2026-08-02 03:01 | Israel | 通报 | Israel | 待确认 | C | Israeli officer moderately hurt in overnight clash with Hezbollah gunmen — army - The Times of Israel |
-| 2026-08-02 02:38 | US | 空袭 | Gaza | 待确认 | C | US warns citizens as Middle East tensions escalate with fresh Gaza strikes - news.meaww.com |
-| 2026-08-02 02:33 | Israel | 空袭 | Israel | 待确认 | C | Israeli drone strike wounds two in southern Lebanon - Shafaq News / Latest breaking news in Iraq and the world - shafaq.com |
-| 2026-08-02 02:28 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: US CENTCOM Shares Image of Chinook Helicopter Operations In Middle East Amid Regional Tensions Escalate - The Sunday Guardian |
-| 2026-08-02 02:24 | Israel | 通报 | Israel | 待确认 | C | UN says Israeli demolitions in Lebanon ‘deeply concerning’ - Arab News |
-| 2026-08-02 02:18 | US | 通报 | Iran | 待确认 | C | Netanyahu’s push for US-Iran conflict dates to ’90s, Trump first to align - Crypto Briefing |
-| 2026-08-02 02:15 | US | 通报 | Iran | 待确认 | C | Iran war to escalate? US urges citizens to 'consider departing' Middle East, avoid visiting military bases - India TV News |
+| 2026-08-02 20:48 | US | 通报 | Iran | 待确认 | C | Iran rejects US-backed deal to reopen Strait of Hormuz: What UAE residents need to know - Gulf News |
+| 2026-08-02 20:33 | Israel | 空袭 | Israel | 待确认 | C | Israel injures several Lebanese soldiers, civilians with strike on LAF convoy - thecradle.co |
+| 2026-08-02 20:10 | Iran | 通报 | Tehran | 待确认 | C | Iran’s allied militias prove their value in Tehran’s widening war - egyptindependent.com |
+| 2026-08-02 19:54 | Iran | 空袭 | Iran | 待确认 | C | Trump says Mideast allies have reached outlines of deal to end Iran war, says U.S. to stop new strikes - MS NOW |
+| 2026-08-02 19:42 | Israel | 空袭 | Israel | 待确认 | C | Israel Kills Hezbollah Fighters Despite Ceasefire / UN Sounds Alarm Over Lebanon Strikes - WION |
+| 2026-08-02 19:32 | Iran | 通报 | Iran | 待确认 | C | Ottawa should list Iran-backed Kata’ib Hezbollah as terrorist group: Pierre Poilievre - CP24 |
+| 2026-08-02 19:27 | Israel | 发射 | Iran | 待确认 | C | U.S. Running Out of Missiles? Israel-Hezbollah Clash Escalates Amid Iran War - WION |
+| 2026-08-02 19:10 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: Iran Denies Strait of Hormuz Reopening Deal, Says Route Will Stay Closed Until US ‘Hostile Actions’ End - The Sunday Guardian |
+| 2026-08-02 18:44 | Israel | 空袭 | Israel | 命中 | C | Israeli strikes hit several commercial and residential areas in central Beirut, Lebanon - newsonair.gov.in |
+| 2026-08-02 18:43 | US | 空袭 | Iran | 待确认 | C | Iran war updates: US President Trump says Mideast allies have reached outlines of deal to end Iran war, US to stop new strikes - ABC7 Los Angeles |
+| 2026-08-02 18:15 | US | 空袭 | Iran | 命中 | C | West Asia conflict escalates as US‑Israel strikes hit Iran, US Embassy attacked in Riyadh / Akashvani News - newsonair.gov.in |
+| 2026-08-02 18:00 | Iran | 空袭 | Iran | 待确认 | C | Trump says he will order halt to Iran strikes after parameters reached for deal to end war - The Tribune-Democrat |
+| 2026-08-02 17:54 | Iran | 通报 | Iran | 待确认 | C | Why has Trump halted Iran attacks, and what is the deal he is hinting at? - Al Jazeera |
+| 2026-08-02 17:40 | US | 发射 | Iran | 待确认 | C | US Israel Iran War Latest News: Top US Commander Reportedly Warns Military Lacks Resources to Keep Defending Israel From Missile Attacks - The Sunday Guardian |
+| 2026-08-02 17:39 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Iraq Denies Reports of US Aircraft Landing at Ain al-Asad Air Base as Iran Seeks State Media Reforms – Saudi Crown Prince Urges Dialogue in Call With Trump - The Sunday Guardian |
+| 2026-08-02 17:36 | US | 通报 | Iran | 待确认 | C | Iran Warns Against New US Aggression - Tempo.co English |
+| 2026-08-02 17:16 | US | 空袭 | Iran | 待确认 | C | US Israel Iran War Latest Live Update: Iran Identifies Qatar’s North Field and Israel’s Tamar Among Possible Targets if US Strikes - The Sunday Guardian |
+| 2026-08-02 17:14 | Israel | 空袭 | Iran | 待确认 | C | Patriot and THAAD Inventories Collapse in Ongoing Iran War as U.S. and Israel Pause New Strikes - EurAsian Times |
+| 2026-08-02 16:55 | US | 通报 | Iran | 待确认 | C | Trump says US ‘holding off’ on Iran attack after progress on renewed deal - All Israel News |
+| 2026-08-02 16:49 | US | 通报 | Iran | 待确认 | C | US Israel Iran war Latest News: Iran’s Leaders Maintain Public Unity Amid War, Report Highlights Differences Over End Goals - The Sunday Guardian |
+| 2026-08-02 16:49 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Iran Warns of ‘Harsh Response’ After Arbaeen, Says Current Restraint Is Temporary and Should Not Be Mistaken for Weakness - The Sunday Guardian |
+| 2026-08-02 16:45 | Israel | 空袭 | Israel | 待确认 | C | Israeli strikes continue in Gaza despite ceasefire push - Daily Times |
+| 2026-08-02 16:16 | Israel | 通报 | Israel | 伤亡 | C | Israel says killed several Hezbollah fighters in south Lebanon - L'Orient Today |
+| 2026-08-02 16:10 | US | 通报 | Tehran | 待确认 | C | US-Israel-Iran War Latest News: Marco Rubio Accuses Iran of Years of Deception, Says Trump Has Changed How the US Deals With Tehran - The Sunday Guardian |
+| 2026-08-02 16:01 | Israel | 通报 | Iran | 待确认 | C | Live Coverage of the Iran–U.S.–Israel Conflict /Aug 02 - WANA News Agency |
+| 2026-08-02 15:57 | US | 通报 | Iran | 待确认 | C | Live - US canceled Iran attack after deal framework reached, Trump says - Iran International |
+| 2026-08-02 15:55 | Israel | 通报 | Israel | 待确认 | C | UN says Israeli demolitions in Lebanon 'deeply concerning' - naharnet.com |
+| 2026-08-02 15:52 | US | 空袭 | Iran | 待确认 | C | Trump says US, Israel suspend Iran strikes as deal talks advance, Hormuz reopening considered - connectedtoindia.com |
+| 2026-08-02 15:52 | Iran | 空袭 | Iran | 待确认 | C | Iran discusses regional tensions with Pakistan, Saudi Arabia after Trump cancels planned strikes - arabnews.com |
+| 2026-08-02 15:33 | Israel | 通报 | Iran | 待确认 | C | Iran identifies Gulf, Israeli energy sites as potential targets - Aaj English TV |
+| 2026-08-02 15:29 | US | 拦截 | Iran | 待确认 | C | US advanced interceptor stockpiles strained by Iran war, commander warns - timesofindia.indiatimes.com |
+| 2026-08-02 15:02 | US | 通报 | Tehran | 待确认 | C | US-Israel-Iran War Latest Live News: Marco Rubio Says ‘Iran Has Never Faced a President Like Trump’ as US Vows Tougher Action Against Tehran – Trump Warns Citizens to Prepare to Leave Middle East - The Sunday Guardian |
+| 2026-08-02 14:47 | US | 发射 | Iran | 设施受损 | C | US-Israel-Iran War Latest News: Iran Warns of Targeting ‘Gulf Oil & Energy Infrastructure’ If US Launches Fresh Strikes, Warns Trump Against ‘Adventurous Action’ - The Sunday Guardian |
+| 2026-08-02 14:46 | US | 空袭 | Iran | 待确认 | C | Trump says US, Israel to hold off on Iran strikes - NST Online |
+| 2026-08-02 14:27 | Israel | 通报 | Israel | 待确认 | C | UN says Israeli demolitions in Lebanon 'deeply concerning' - Edition.mv |
+| 2026-08-02 14:20 | Iran | 通报 | Iran | 待确认 | C | Trump says he will hold off on fresh Iran attack in hope of quick deal - Business Recorder |
+| 2026-08-02 14:15 | US | 空袭 | Iran | 待确认 | C | Trump halts planned Iran strikes as US, Israel seek rapid deal to end five-month conflict - The Vibes |
+| 2026-08-02 14:05 | Israel | 通报 | Iran | 待确认 | C | Trump says he and Israel have called off Iran attack after being assured deal is imminent - The Times of Israel |
+| 2026-08-02 14:04 | US | 通报 | Iran | 待确认 | C | Iran-US War Updates: Trump's Deal Plan, Saudi Concerns and Iran's Latest Warning in 10 Points - Oneindia |
+| 2026-08-02 13:56 | Iran | 空袭 | Iran | 待确认 | C | Expert: Trump's Trying to Exert Control With Claim He Canceled Iran Strikes Over Progress on Deal - Common Dreams |
