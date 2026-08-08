@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-08-07 20:52
+更新时间（北京时间）: 2026-08-08 09:14
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-08-07 20:39 | 未明确 | 通报 | Gaza | 待确认 | C | Gaza beekeeper starts again on rooftop amid ruins of war - france24.com |
-| 2026-08-07 20:17 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: Iraq Vows ‘Final Blow’ Against Iran-Backed Militias Amid Regional Attack Fears – Houthis Warn Saudi Forces as Coalition Responds After Erdogan Lands in Jeddah - The Sunday Guardian |
-| 2026-08-07 20:16 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Saudi Arabia, Turkey & Pakistan Sign Mecca Mutual Defence Pact Amid Escalating Middle East and Gulf Security Tensions - The Sunday Guardian |
-| 2026-08-07 20:02 | 未明确 | 通报 | 未明确 | 待确认 | C | What is the Mecca Joint Defence Agreement? Pakistan, Saudi Arabia and Turkey's New Military Pact Explained - Open Magazine |
-| 2026-08-07 20:00 | Israel | 通报 | Israel | 待确认 | C | Where do China-Israel ties stand after closure of Chengdu consulate? - South China Morning Post |
-| 2026-08-07 20:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and Middle East - The Jerusalem Post |
-| 2026-08-07 20:00 | 未明确 | 通报 | 未明确 | 待确认 | C | Counterpoint / Regulate AI now — before it’s too late / Guest Commentary - Santa Maria Times |
-| 2026-08-07 19:48 | Iran | 通报 | Iran | 待确认 | C | Iran hopes to deal Trump a blow at midterms by keeping him entangled in war - The Guardian |
-| 2026-08-07 19:43 | 未明确 | 通报 | 未明确 | 待确认 | C | Saudi Arabia, Turkey and Pakistan sign joint defence deal amid regional turmoil - News24 |
-| 2026-08-07 19:16 | 未明确 | 通报 | 未明确 | 待确认 | C | Trump says war ‘can’t go much longer’ – what’s the latest on talks? - Al Jazeera |
-| 2026-08-07 19:00 | 未明确 | 通报 | 未明确 | 待确认 | C | Donald Trump’s Middle East ‘Grand Alliance’ Faces a Moment of Truth - The National Interest |
-| 2026-08-07 18:56 | Houthis | 空袭 | Yemen | 待确认 | C | Houthi strikes in Yemen as Saudi Arabia braces for attacks: What we know - Al Jazeera |
-| 2026-08-07 18:49 | Israel | 撤离 | Israel | 伤亡 | C | Today's Headlines: 300 Children Killed since Ceasefire / 'Displacement or Death' / Israel Withdraws from Qalandiya - Palestine Chronicle |
-| 2026-08-07 18:24 | US | 通报 | Iran | 待确认 | C | Trump Says US-Iran War Must End Soon as Middle East Tensions Continue - Dainik Jagran MP CG |
-| 2026-08-07 18:16 | Israel | 通报 | Israel | 待确认 | C | ‘The blockade currently looks far more attractive than war’ - World Israel News |
-| 2026-08-07 18:12 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: Erdogan Arrives in Saudi Arabia as Turkey, Riyadh and Pakistan Prepare for Expected Defense Agreement - The Sunday Guardian |
-| 2026-08-07 18:08 | US | 通报 | Iran | 待确认 | C | As US-Iran Talks Progress, Conflict Escalates Across the Middle East - Outlook India |
-| 2026-08-07 18:06 | US | 通报 | 未明确 | 待确认 | C | ‘De-escalation’: Europe hesitates as US pushes for Hormuz naval mission - Al Jazeera |
-| 2026-08-07 17:52 | 未明确 | 通报 | 未明确 | 待确认 | C | Officials say Saudi Arabia, Turkey and Pakistan to sign key defense agreement - The Tribune-Democrat |
-| 2026-08-07 17:44 | US | 通报 | Israel | 待确认 | C | US military leverage is eroding amid Trump’s Hormuz deal zigzags, warns former Israeli Air Force chief - All Israel News |
-| 2026-08-07 17:41 | US | 发射 | Tehran | 待确认 | C | US-Israel-Iran War Latest LIVE News: Donald Trump Says US-Iran War Will End ‘Pretty Soon’ as Missile Stockpiles Tighten, Hormuz Shipping Falls Sharply and Tehran Faces Mounting Pressure - The Sunday Guardian |
-| 2026-08-07 17:38 | US | 撤离 | Iran | 伤亡 | C | US-Israel-Iran War Latest News: Israeli Forced Withdraw from Qalandiya & Kafr Aqab After 2 Day Operation – Over 50 Palestinians Injured, 70+ Arrested - The Sunday Guardian |
-| 2026-08-07 17:38 | US | 通报 | 未明确 | 待确认 | C | US lawmakers seek terrorist designation for Polisario Front - Harici |
-| 2026-08-07 17:20 | US | 通报 | Israel | 待确认 | C | Gaza Genocide Tapestry Shown in Wales as Israeli Forces Beat Elderly American in West Bank - The Eastern Herald |
-| 2026-08-07 17:17 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: CENTCOM Redirects 49 Ships, Disables 2 Vessels During Iran Port Blockade Operation Amid Rising Middle East Tensions - The Sunday Guardian |
-| 2026-08-07 17:16 | Israel | 通报 | Iran | 待确认 | C | Iran To Ban U.S, Israeli Ships From Hormuz & Impose 20% Fine On Non-Compliant Vessels - Marine Insight |
-| 2026-08-07 16:58 | Israel | 通报 | Israel | 待确认 | C | Israel Reports First West Nile Fever Death of 2026 - Tempo.co English |
-| 2026-08-07 16:58 | US | 通报 | Iran | 待确认 | C | US relocating refueling aircraft from Israel as war on Iran continues to strain Washington, Tel Aviv - PressTV |
-| 2026-08-07 16:45 | Israel | 通报 | Israel | 待确认 | C | Congress Redraws Military Relationship with Israel… From Aid to Strategic Partnership - جريدة القدس |
-| 2026-08-07 16:41 | Israel | 通报 | Iran | 待确认 | C | Iranian authorities exploit ‘wartime conditions’ to accelerate executions - World Israel News |
-| 2026-08-07 16:29 | Iran | 空袭 | Iran | 待确认 | C | Trump says he will order halt to Iran strikes after parameters reached for deal to end war - AOL.com |
-| 2026-08-07 16:29 | Israel | 通报 | Israel | 待确认 | C | Israel enters tense weekend as four fronts edge toward escalation - Ynetnews |
-| 2026-08-07 16:16 | US | 通报 | Iran | 待确认 | C | Israeli Channel 14: Assessments indicate a US path toward an agreement with Iran amid Tel Aviv's concerns - صوت الإمارات |
-| 2026-08-07 16:14 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: Yemen Hunger Crisis Deepens as Strait of Hormuz Tensions Disrupt Food, Fuel Supplies, Leaving Millions Vulnerable to Hunger - The Sunday Guardian |
-| 2026-08-07 16:12 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Netanyahu Calls PM Modi, Leaders Discuss West Asia Situation & India-Israel Strategic Partnership - The Sunday Guardian |
-| 2026-08-07 15:08 | Israel | 通报 | Iran | 待确认 | C | Live Coverage of the Iran–U.S.–Israel Conflict /Aug 07 - WANA News Agency |
-| 2026-08-07 14:49 | US | 通报 | 未明确 | 待确认 | C | Trump Orders Probe Into Leak of US Ammunition Stockpile Data - Tempo.co English |
-| 2026-08-07 14:47 | US | 发射 | Iran | 待确认 | C | US and Israel Launch Joint Strikes Against Iran, Trump Announces Major Combat Operations: how 16 outlets framed it - NewsCord |
-| 2026-08-07 14:34 | US | 通报 | Jerusalem | 待确认 | C | Donald Trump angered by leaks over dwindling US munitions stocks - The Jerusalem Post |
-| 2026-08-07 14:32 | US | 通报 | Iran | 命中 | C | The war against Iran once again exposes the strain on U.S. weapons stockpiles and fuels tensions within the White House - Zona Militar |
+| 2026-08-08 09:00 | 未明确 | 通报 | 未明确 | 待确认 | C | Cal Thomas - Testimonies from people under socialism - The Crescent-News |
+| 2026-08-08 08:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and Middle East - The Jerusalem Post |
+| 2026-08-08 07:49 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Former Qatar PM Welcomes Saudi Arabia, Turkey & Pakistan Defence Pact Signed in Mecca Amid Escalating Middle East & Gulf Security Tensions - The Sunday Guardian |
+| 2026-08-08 07:48 | 未明确 | 发射 | 未明确 | 待确认 | C | Bangladesh launches first survivor-led photobook on human trafficking - Muslim Network TV |
+| 2026-08-08 07:27 | 未明确 | 通报 | 未明确 | 待确认 | C | 'Closely following development': India reacts to Turkey-Pakistan-Saudi defence deal - India's News.Net |
+| 2026-08-08 07:02 | US | 通报 | 未明确 | 待确认 | C | US expects deal soon on Strait of Hormuz; Sunni powers unite in defense pact - Reuters |
+| 2026-08-08 06:56 | Iran | 通报 | Iran | 待确认 | C | Dan Caine privately seeks off-ramp from Iran war, sources say - eciks.org |
+| 2026-08-08 06:55 | Iran | 通报 | Iran | 待确认 | C | Iran plots to deal Trump a blow in midterms by keeping him entangled in war - The Guardian |
+| 2026-08-08 06:50 | US | 空袭 | Iran | 待确认 | C | Oil Prices Rise as US, Iran Trade Strikes, Israel Moves Further Into Lebanon - EnergyNow |
+| 2026-08-08 06:32 | 未明确 | 通报 | 未明确 | 待确认 | C | The Middle East Tries Its Hand at a NATO-Style Pact - Foreign Policy |
+| 2026-08-08 06:29 | 未明确 | 通报 | 未明确 | 待确认 | C | America’s Real War Failure: Mistaking Force For Strategy – OpEd - Eurasia Review |
+| 2026-08-08 06:23 | 未明确 | 空袭 | 未明确 | 待确认 | C | Chhatra Dal leader falls to death during police raid - The Daily Star |
+| 2026-08-08 06:13 | 未明确 | 通报 | 未明确 | 待确认 | C | Saudi Arabia, Turkey and Pakistan have signed a key defense agreement - The Washington Post |
+| 2026-08-08 06:09 | Israel | 通报 | Iran | 待确认 | C | Analysts warn no clear off‑ramp in U.S./Israel conflict with Iran - WABE |
+| 2026-08-08 05:42 | US | 通报 | Iraq | 待确认 | C | CENTCOM reroutes 51 ships as Hormuz deal nears - Shafaq News / Latest breaking news in Iraq and the world - شفق نيوز |
+| 2026-08-08 05:12 | Israel | 通报 | Israel | 待确认 | C | Lebanon points to ‘positive progress’ on borders, prisoners in Israel talks - Al Jazeera |
+| 2026-08-08 05:04 | 未明确 | 通报 | 未明确 | 待确认 | C | Is The Mecca Joint Defence Agreement Signed By Pakistan, Saudi Arabia And Turkey A Threat To India? - Oneindia |
+| 2026-08-08 05:00 | US | 通报 | Iran | 待确认 | C | India not backing war on Iran, Israel's priorities differ from US - Asianet Newsable |
+| 2026-08-08 04:32 | Israel | 撤离 | Israel | 伤亡 | C | Today's Headlines: 300 Children Killed since Ceasefire / 'Displacement or Death' / Israel Withdraws from Qalandiya - Palestine Chronicle |
+| 2026-08-08 03:48 | US | 空袭 | Iran | 待确认 | C | US Strikes 5,000 Targets in Iran; IRGC Calls Trump Comments ‘Lies’ / Akashvani News - News On AIR |
+| 2026-08-08 03:30 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: US Treasury Announces Fresh Sanctions on Iran-Linked Crypto Exchanges Amid Middle East Tensions Escalate - The Sunday Guardian |
+| 2026-08-08 03:29 | Israel | 空袭 | Israel | 待确认 | C | Israel breaks ceasefire to strike Lebanon during talks - AOL.co.uk |
+| 2026-08-08 03:20 | 未明确 | 通报 | 未明确 | 待确认 | C | NASA races to rescue Swift observatory as LINK spacecraft faces technical failures - Межа. Новини України. |
+| 2026-08-08 03:08 | Israel | 通报 | Israel | 待确认 | C | Lebanon and Israel Shortlist Countries to Verify Hezbollah Disarmament - Межа. Новини України. |
+| 2026-08-08 02:56 | 未明确 | 通报 | 未明确 | 待确认 | C | West Asia conflict enters more intense phase with military activity spreading across several fronts - News On AIR |
+| 2026-08-08 02:47 | Israel | 空袭 | Israel | 待确认 | C | Report: IDF concealed Hezbollah drone strike which violated ceasefire - Israel National News |
+| 2026-08-08 02:37 | 未明确 | 通报 | 未明确 | 待确认 | C | Saudi Arabia, Turkey, Pakistan Pledge Mutual Defence as Middle East Turmoil Escalates - Algemeiner.com |
+| 2026-08-08 02:36 | US | 通报 | 未明确 | 待确认 | C | US rulers seek ‘Pax Americana,’ plunder, profits in Mideast war - The Militant |
+| 2026-08-08 02:35 | Israel | 通报 | Iran | 待确认 | C | Trump: Iran talks going well; Turkey, Saudi, Pakistan sign defense pact TV7 Israel News - 7 Aug. - TV7 Israel News |
+| 2026-08-08 02:29 | US | 通报 | Iran | 待确认 | C | Iran media brands POTUS 'Trump the fool' after latest U-turn in war - AOL.com |
+| 2026-08-08 02:18 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Iran Targets Saudi Arabia Over New Defence Pact with Pakistan & Turkey, Says ‘Paper Agreement Won’t Bring Security’ - The Sunday Guardian |
+| 2026-08-08 02:13 | Israel | 通报 | Israel | 待确认 | C | West Asia conflict widens in past few hours as Israel confirmed expansion of its ground operations in southern Lebanon - News On AIR |
+| 2026-08-08 02:05 | 未明确 | 通报 | 未明确 | 待确认 | C | Turkey, Pakistan and Saudi Arabia sign a mutual defense deal, and other Middle East news - The Tribune-Democrat |
+| 2026-08-08 02:04 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest LIVE News: ‘Shooting Itself in the Foot’ — US Senator Rand Paul Opposes 100% Tariffs on India and China - The Sunday Guardian |
+| 2026-08-08 01:56 | Israel | 空袭 | 未明确 | 待确认 | C | Hezbollah violated ceasefire with FPV drone strike on IDF force, military confirms - Ynetnews |
+| 2026-08-08 01:53 | US | 通报 | Iran | 待确认 | C | Iran-US War Latest News: US President Donald Trump Says He’s ‘Personally’ Involved in Talks With Iran to Reopen Strait of Hormuz As Negotiations Reach Final Stages - The Sunday Guardian |
+| 2026-08-08 01:39 | Iran | 通报 | Iran | 待确认 | C | The cost of the Iran war is mounting. Here’s the latest tally. - The Washington Post |
+| 2026-08-08 01:38 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Iran Ceasefire May Be Announced Soon ‘Today or Tomorrow’, Says US Treasury Chief as Middle East Tensions Persist - The Sunday Guardian |
+| 2026-08-08 00:59 | Israel | 通报 | Israel | 待确认 | C | Lebanon, Israel agree shortlist of countries that could send troops to verify Hezbollah disarmament - Reuters |
+| 2026-08-08 00:50 | US | 空袭 | Iran | 待确认 | C | Despite Trump Remarks, Israeli Officials Say US Knew of Strike on Iran Gas Field - EnergyNow.com |
