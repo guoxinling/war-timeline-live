@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-08-11 20:53
+更新时间（北京时间）: 2026-08-12 09:27
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-08-11 20:40 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: 30 Minnesota Water Systems Targeted In Cyberattacks as FBI Flags Hacks Across 7 States; Is Iran Link Under Probe? - The Sunday Guardian |
-| 2026-08-11 20:30 | Israel | 空袭 | Israel | 待确认 | C | Lebanon says Israeli strike on south wounds two, damages ambulance - thesun.my |
-| 2026-08-11 20:30 | US | 通报 | Iran | 待确认 | C | Iran, US set new conditions during Hormuz talks: What does this mean? - Al Jazeera |
-| 2026-08-11 20:11 | Hezbollah | 通报 | Lebanon | 待确认 | C | Hezbollah Uses Drones in 45% of Attacks in Lebanon Since March, ACLED Says: 19 outlets compared - NewsCord |
-| 2026-08-11 20:03 | Israel | 通报 | Israel | 待确认 | C | Lebanon-Israel Territorial Sovereignty and Ceasefire Talks - JFeed |
-| 2026-08-11 20:02 | US | 发射 | Iran | 命中 | C | US-Israel-Iran War Latest Live News: Panama-Flagged Vela Nova Allegedly Hit by Missile Near Pakistan as Gulf of Oman Tensions Rise - The Sunday Guardian |
-| 2026-08-11 20:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post |
-| 2026-08-11 19:52 | US | 通报 | Iran | 待确认 | C | Donald Trump’s dilemma: Ending the Iran war to appease Americans will anger his evangelical base - The Conversation |
-| 2026-08-11 19:39 | US | 发射 | Iran | 待确认 | C | Iran's Military Has Drones and Missiles But Can't Stop US Air Force F-35 Fighters, B-1B Lancers, or B-2 Spirit Stealth Bombers - 19FortyFive |
-| 2026-08-11 19:26 | Israel | 通报 | Israel | 待确认 | C | Israel holds remains of about 1,700 Palestinians for potential future exchanges: Report - Muslim Network TV |
-| 2026-08-11 19:24 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: Iran Plans To Restore 95 Million Cubic Metres Of Daily Gas Production By September; Check War Damage, Energy Crisis & Recovery Plan - The Sunday Guardian |
-| 2026-08-11 19:13 | Israel | 发射 | Israel | 命中 | C | Lebanon claims IDF drone attack wounded two, hit ambulance; Israel denies striking - The Times of Israel |
-| 2026-08-11 18:57 | Houthis | 通报 | 未明确 | 伤亡 | C | 3 Killed in Houthi Attack on Cargo Ship in Bab el-Mandeb Strait - ASHARQ AL-AWSAT English |
-| 2026-08-11 18:48 | 未明确 | 通报 | Lebanon | 待确认 | C | Lebanon Abolishes Death Penalty in Landmark Parliament Vote - ASHARQ AL-AWSAT English |
-| 2026-08-11 18:34 | Iran | 通报 | Iran | 待确认 | C | Canadian colonel's medal raises questions about Canada's role in U.S. war with Iran - National Post |
-| 2026-08-11 18:19 | Iran | 通报 | Tehran | 待确认 | C | Trump demands Iran pay compensation after Tehran makes conditions for reopening Strait of Hormuz - CBS News |
-| 2026-08-11 18:16 | Iran | 通报 | Iran | 待确认 | C | Friend and foe: Netanyahu, Iran complicate Trump’s exit from Middle East conflicts - Gulf News |
-| 2026-08-11 18:05 | Israel | 通报 | Israel | 待确认 | C | Israel escalates in Lebanon as reports claim Beirut to ‘boycott’ upcoming Rome talks - thecradle.co |
-| 2026-08-11 17:53 | US | 通报 | Iran | 待确认 | C | US ‘begged' Iran for negotiations, says FM Araghchi - The Express Tribune |
-| 2026-08-11 17:52 | US | 通报 | Iran | 待确认 | C | Iraq’s semi-autonomous Kurdish region suffers as US-Iran war drags on - Al Jazeera |
-| 2026-08-11 17:43 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: Middle East Cannot Stay in ‘Neither War Nor Peace’ State, Says Anwar Gargash UAE’s Senior Diplomatic Adviser to UAE President - The Sunday Guardian |
-| 2026-08-11 17:38 | Iran | 通报 | Tehran | 待确认 | C | Trump Rejects Iran’s War Reparations Demand, Demands Compensation From Tehran - Outlook India |
-| 2026-08-11 17:36 | Israel | 空袭 | Israel | 伤亡 | C | Lebanese Health Ministry Says Two People Wounded in Israeli Drone Strike on Nabatieh - ASHARQ AL-AWSAT English |
-| 2026-08-11 17:35 | US | 通报 | Israel | 待确认 | C | Israeli drone shells ambulance teams in southern Lebanon despite US deal - A News |
-| 2026-08-11 17:16 | Israel | 空袭 | Israel | 待确认 | C | WATCH: 20 years later, survivors recall Hezbollah’s strike on INS Hanit - World Israel News |
-| 2026-08-11 17:05 | Iran | 通报 | Iran | 待确认 | C | Iranian-backed Houthi rebels renew attacks on key port city - The Tribune-Democrat |
-| 2026-08-11 16:58 | 未明确 | 通报 | Gaza | 待确认 | C | In rejecting Trump's Gaza plan, Netanyahu reprises a balancing act he has mastered - Bozeman Daily Chronicle |
-| 2026-08-11 16:47 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Iran Claims US ‘Begged for Negotiations’ as Trump Demands 50 Years of Reparations and Hormuz Standoff Deepens - The Sunday Guardian |
-| 2026-08-11 16:34 | US | 通报 | Iran | 待确认 | C | Trump Demands Reparations from Iran for Decades of Terrorism, Violence as US CENTCOM Chief Highlights Israel Ties - cbn.com |
-| 2026-08-11 16:18 | US | 通报 | 未明确 | 待确认 | C | Saudi Arabia suspends US military access to its bases and airspace - News On AIR |
-| 2026-08-11 16:16 | Israel | 通报 | Israel | 待确认 | C | Donald Trump Has 2-Word Update on Israel PM Netanyahu Relationship - Reality Tea |
-| 2026-08-11 16:09 | US | 通报 | Iran | 待确认 | C | US-Israeli war on Iran: The new sheriff in town - Blueprint Newspapers |
-| 2026-08-11 15:55 | Israel | 通报 | Israel | 待确认 | C | Israeli Army Destroys Homes, Sets Orchards on Fire in Southern Lebanon - The Eastern Herald |
-| 2026-08-11 15:55 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Why Did Trump Secretly Leave Turkey on a C-32A Military Jet? Iran Assassination Threat Triggered Covert Flight, Report Says - The Sunday Guardian |
-| 2026-08-11 15:49 | US | 通报 | Iran | 待确认 | C | Israel and the US Put Iran, Gaza, and Lebanon on Ice Until After the Vote - Countercurrents |
-| 2026-08-11 15:42 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Live News: Germany Demands ‘Unconditional Opening’ of Strait of Hormuz After Traffic Collapses – Wall Street Falls Amid Market Volatility - The Sunday Guardian |
-| 2026-08-11 15:37 | Israel | 空袭 | Israel | 待确认 | C | Israeli Strike Targets Vehicle in Southern Lebanon - JFeed |
-| 2026-08-11 15:34 | Israel | 通报 | Iran | 待确认 | C | IDF Chief of Staff: Ready for Immediate Return to Full-Scale War - IranWire |
-| 2026-08-11 15:33 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: ‘We’re Going to Ask for Money’ – Trump Demands Iran Pay for Decades of Deaths and Damage as Hormuz Reopening Hangs in Balance - The Sunday Guardian |
-| 2026-08-11 15:21 | US | 通报 | Tehran | 待确认 | C | US-Israel-Iran War Latest News: Hormuz Blockade Could Cost Iran $18 Billion a Year? Shipping Traffic Falls to Just 6 Vessels, Trump Rejects Tehran’s Reparations Demand - The Sunday Guardian |
+| 2026-08-12 09:14 | US | 通报 | Iran | 待确认 | C | US forces disable Panama-flagged cargo ship in Gulf of Oman over Iran blockade - Mathrubhumi English |
+| 2026-08-12 09:04 | US | 空袭 | Iran | 待确认 | C | US Strikes Panama-Flagged Cargo Ship in Strait of Hormuz Amid Iran-Israel Conflict - Ratopati |
+| 2026-08-12 08:14 | Iran | 通报 | Iran | 待确认 | C | Trump's secret plane swap highlights personal stakes of Iran war - BBC |
+| 2026-08-12 08:14 | US | 发射 | Iran | 待确认 | C | US helicopter fired on ship that tried to break Iran blockade - The New Arab |
+| 2026-08-12 08:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and the Middle East - jpost.com |
+| 2026-08-12 07:16 | Israel | 通报 | Israel | 待确认 | C | Lebanon, Israel agree shortlist of countries that could send troops to verify Hezbollah disarmament - AOL.com |
+| 2026-08-12 07:12 | Iran | 发射 | Iran | 待确认 | C | U.S. Navy fires missiles at cargo ship trying to breach Iran blockade - BNO News |
+| 2026-08-12 05:56 | US | 通报 | Iran | 待确认 | C | US fires on ship as Iran vows Hormuz closed until demands met - Geelong Advertiser |
+| 2026-08-12 05:41 | US | 通报 | Iran | 待确认 | C | US pulls tanker aircraft from Israel as Trump claims ‘100%’ control of Hormuz amid talks with Iran - The Muslim News |
+| 2026-08-12 05:24 | Iran | 通报 | Iran | 待确认 | C | How Iran Adapted Its Attacks as U.S. War Munitions Dwindled - The New York Times |
+| 2026-08-12 04:49 | Israel | 发射 | Tehran | 设施受损 | C | Iran launches missile and drone attacks across Gulf as Israel strikes Tehran infrastructure - News On AIR |
+| 2026-08-12 04:47 | Israel | 通报 | Israel | 待确认 | C | Israel And Lebanon Hold Third Peace Talks In Washington To Disarm Hezbollah: how 62 outlets framed it - NewsCord |
+| 2026-08-12 04:38 | US | 空袭 | Iran | 待确认 | C | US military helicopter strikes ship attempting to break Iran naval blockade - Israel National News |
+| 2026-08-12 04:29 | Israel | 空袭 | Israel | 待确认 | C | Lebanese man dies after Israeli drone strike in southern Lebanon - Latest news from Azerbaijan |
+| 2026-08-12 04:16 | US | 发射 | Iran | 待确认 | C | US says it has fired on ship in Gulf of Oman to enforce Iranian ports blockade - South China Morning Post |
+| 2026-08-12 04:15 | Iran | 发射 | Iran | 待确认 | C | Army Downed More Than 1,400 Iranian Missiles And Drones During Epic Fury And 12-Day War - TWZ |
+| 2026-08-12 04:04 | US | 发射 | Iran | 待确认 | C | US says helicopter fired missiles to disable ship breaking Iran blockade - BBC |
+| 2026-08-12 04:01 | US | 通报 | Iran | 待确认 | C | US military fires on cargo vessel it said sought to break Iran blockade - Al Jazeera |
+| 2026-08-12 04:01 | US | 通报 | 未明确 | 待确认 | C | Deal to reopen Strait of Hormuz could be imminent, US officials say - Scripps News |
+| 2026-08-12 04:00 | Iran | 通报 | Iran | 待确认 | C | Iran elevates hard-liners, signaling further confrontation with Trump - NBC News |
+| 2026-08-12 03:57 | US | 通报 | 未明确 | 待确认 | C | US Helicopter Bombs Cargo Ship in the Gulf of Oman - news.antiwar.com |
+| 2026-08-12 03:55 | Israel | 通报 | Israel | 待确认 | C | ‘We have no time to waste’: Netanyahu unveils Israel’s national AI program - All Israel News |
+| 2026-08-12 03:31 | Israel | 空袭 | Israel | 待确认 | C | Lebanese man dies after Israeli drone strike in southern Lebanon - Anadolu Ajansı |
+| 2026-08-12 03:28 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: US Energy Secretary Claims Oil Flows Through Strait of Hormuz Near 9 Million Barrels Per Day Amid Rising Middle East Tensions - The Sunday Guardian |
+| 2026-08-12 03:16 | Israel | 通报 | Israel | 待确认 | C | Israeli Army Destroys Homes, Sets Orchards on Fire in Southern Lebanon - The Eastern Herald |
+| 2026-08-12 03:12 | Israel | 发射 | Iran | 待确认 | C | Yemen’s Iran-backed Houthi movement claims responsibility for third missile attack on Israel - News On AIR |
+| 2026-08-12 03:12 | 未明确 | 通报 | 未明确 | 待确认 | C | Trump learns there are no clear winners in Middle East war - The Australian |
+| 2026-08-12 03:09 | Hezbollah | 通报 | 未明确 | 待确认 | C | Hezbollah’s New Battlefield Strategy Is Bad News for Netanyahu and Trump - Newsweek |
+| 2026-08-12 02:35 | Israel | 通报 | Iran | 待确认 | C | IDF scales back Gaza operations; Trump: Iran must pay reparations - TV7 Israel News - 11 Aug. - TV7 Israel News |
+| 2026-08-12 02:17 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Trump, Iran & Vela Nova in Focus as US Helicopter Fires on Panama-Flagged Ship Amid Gulf of Oman Tensions - The Sunday Guardian |
+| 2026-08-12 02:03 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: US Officials Warn of Higher Oil & Gas Prices as Brent Crude Nears $88 Amid Strait of Hormuz Shutdown - The Sunday Guardian |
+| 2026-08-12 02:03 | US | 发射 | Iran | 待确认 | C | US-Israel-Iran War Latest News: Iran’s Abbas Araghchi Holds Call With PUK Leader Bafel Talabani After IRGC-Affiliated Reports Of Missile Strikes Near Erbil - The Sunday Guardian |
+| 2026-08-12 01:57 | 未明确 | 通报 | Gaza | 待确认 | C | In rejecting Trump’s Gaza plan, Netanyahu reprises a balancing act he has mastered - Sentinel Colorado |
+| 2026-08-12 01:56 | US | 通报 | 未明确 | 待确认 | C | Day 159 / US hopeful Hormuz deal will be done “today or tomorrow” - Roya News |
+| 2026-08-12 01:22 | 未明确 | 通报 | 未明确 | 待确认 | C | West Asia conflict enters more intense phase with military activity spreading across several fronts - News On AIR |
+| 2026-08-12 01:11 | 未明确 | 通报 | 未明确 | 待确认 | C | Middle East: Trump took secret flight out of Turkey — report - dw.com |
+| 2026-08-12 01:08 | US | 通报 | Iran | 待确认 | C | US Sees Iran War Oil Supply Disruptions Lasting Through 2027 - Bloomberg.com |
+| 2026-08-12 01:05 | US | 通报 | Tehran | 待确认 | C | Interior Minister Mohsin Naqvi heads to Tehran for talks amid Iran-US mediation efforts - The Express Tribune |
+| 2026-08-12 01:04 | Israel | 通报 | Iran | 待确认 | C | Iraqi Fighters DECLARE War Against U.S. And Israel In Support Of Iran, Chilling Footage Shocks U.S. - Oneindia |
+| 2026-08-12 00:59 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Iran’s Mohsen Rezaee Says Strait of Hormuz Won’t Reopen Until US Changes Behaviour as Trump Pushes for Deal - The Sunday Guardian |
