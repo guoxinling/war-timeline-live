@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-08-12 20:57
+更新时间（北京时间）: 2026-08-13 09:37
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-08-12 20:31 | 未明确 | 通报 | 未明确 | 待确认 | C | ECSS workshop examines how contemporary conflicts are reshaping modern warfare - Society - Egypt - Ahram Online |
-| 2026-08-12 20:25 | US | 通报 | Iran | 待确认 | C | Iran Dismisses Trump’s Claim Of US Control Of Strait Of Hormuz - Sahara Reporters |
-| 2026-08-12 20:19 | US | 通报 | Tehran | 待确认 | C | US-Israel-Iran War Latest Live News: ‘Nothing To Extend’ – Tehran Says Deal Had No Start Date As Mediators Struggle To Revive US-Iran Negotiations - The Sunday Guardian |
-| 2026-08-12 20:04 | US | 发射 | Iran | 待确认 | C | US helicopter fired on ship that tried to break Iran ports blockade - Dainik Amader Barta |
-| 2026-08-12 20:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post |
-| 2026-08-12 19:40 | 未明确 | 通报 | 未明确 | 待确认 | C | Trump Cast the Dice, the Middle East Rebalanced - Geopolitical Monitor |
-| 2026-08-12 19:19 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Live News: Foreign Ministry Spokesperson Tahir Andrabi Says Pakistan Working to Bring US-Iran to ‘Negotiating Table’ and Prevent Efforts to Undermine Peace Process - The Sunday Guardian |
-| 2026-08-12 19:07 | Israel | 通报 | Iran | 待确认 | C | Trump: 'I'm the last to trust Iran, they've lied constantly'; claims 'total' control over Hormuz - All Israel News |
-| 2026-08-12 19:07 | US | 通报 | Israel | 待确认 | C | Trump touts ‘total control’ over Hormuz after US helicopter fires at vessel attempting to break naval blockade - All Israel News |
-| 2026-08-12 19:07 | Israel | 通报 | Israel | 待确认 | C | Egypt will not join Mecca defense pact signed by Saudi Arabia, Turkey and Pakistan - report - All Israel News |
-| 2026-08-12 18:59 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: ‘The Plane That I Flew On Was at Greater Risk’ – Trump Defends Secret C-32A Transfer After Iran Threat as Reporters Remained on Air Force One Decoy - The Sunday Guardian |
-| 2026-08-12 18:59 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Live News: Iran Calls Ground Attack Claims ‘Delusional,’ Says Forces Remain Intact – West Bank Demolitions Add to Regional Tensions - The Sunday Guardian |
-| 2026-08-12 18:30 | Iran | 通报 | Iran | 待确认 | C | Iran refutes Trump’s claim to ‘control’ Hormuz: What’s the latest in talks? - Al Jazeera |
-| 2026-08-12 18:23 | 未明确 | 通报 | 未明确 | 待确认 | C | West Asia conflict enters more intense phase with military activity spreading across several fronts - News On AIR |
-| 2026-08-12 17:50 | Israel | 通报 | Israel | 待确认 | C | Lebanon, Israel agree shortlist of countries that could send troops to verify Hezbollah disarmament - AOL.com |
-| 2026-08-12 17:46 | US | 通报 | Iran | 待确认 | C | Iran’s parliamentary speaker accuses US secretly planning ground invasion - News On AIR |
-| 2026-08-12 17:32 | 未明确 | 空袭 | Red Sea | 伤亡 | C | Four crew, two rescuers killed in Red Sea attack; U.S. strikes ship in Gulf of Oman - NBC News |
-| 2026-08-12 17:27 | US | 通报 | Israel | 待确认 | C | US Says New Round of Lebanon-Israel Talks in Rome in September - ASHARQ AL-AWSAT English |
-| 2026-08-12 17:11 | Iran | 通报 | Tehran | 待确认 | C | New Shipping Attacks As Tehran Refuses To Reopen Strait Of Hormuz - Outlook India |
-| 2026-08-12 16:31 | Iran | 通报 | Iran | 待确认 | C | Trump: I don’t trust Iran, U.S. has ‘total control’ over Hormuz - Cleveland Jewish News |
-| 2026-08-12 16:25 | Israel | 通报 | Israel | 待确认 | C | Israeli Military Starts Wildfires in South Lebanon as Talks Stall - sekbernews.id |
-| 2026-08-12 16:20 | Israel | 通报 | Israel | 待确认 | C | Three fronts under fire… How is Israel reshaping its regional security map? - صوت الإمارات |
-| 2026-08-12 16:09 | US | 通报 | Iran | 待确认 | C | Trump’s Iran war loses US support as Christian Zionists back him - The Siasat Daily |
-| 2026-08-12 16:08 | US | 通报 | 未明确 | 待确认 | C | [Column] US isn’t pulling out of the Middle East — it’s being kicked out - 한겨레 |
-| 2026-08-12 15:45 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: Trump Says US Has ‘Total Control’ of Strait of Hormuz as Shipping Disruptions Continue – Iran-Turkey Security Talks Underway - The Sunday Guardian |
-| 2026-08-12 15:15 | US | 通报 | Iran | 命中 | C | US-Israel-Iran War Live News: EIA Raises 2026 Brent Oil Price Forecast to $86.81 as Strait of Hormuz Shipping Traffic Hits One-Week Low Amid Ongoing Supply Disruptions - The Sunday Guardian |
-| 2026-08-12 15:15 | US | 通报 | Tehran | 待确认 | C | US-Israel-Iran War Latest News: ‘We Control Their Money’ – Trump Warns Iran Of ‘Really, Really Hard’ Attack As US Maintains Economic Pressure On Tehran - The Sunday Guardian |
-| 2026-08-12 14:39 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: Pakistan Says US, Iran Near Potential Deal Amid Ongoing Attacks - The Sunday Guardian |
-| 2026-08-12 13:43 | Iran | 通报 | Tehran | 待确认 | C | Iran holds firm on Hormuz conditions as Pakistan’s Naqvi visits Tehran - Al Jazeera |
-| 2026-08-12 13:33 | Hezbollah | 通报 | 未明确 | 待确认 | C | Poilievre Calls For Kata’ib Hezbollah To Be Listed As A Terrorist Entity In Canada - THEJ.CA |
-| 2026-08-12 13:29 | US | 通报 | Iran | 待确认 | C | US cripples cargo ship attempting to run blockade on Iran - World Israel News |
-| 2026-08-12 13:09 | US | 发射 | Iran | 待确认 | C | US-Israel-Iran War Latest News: Iran Fires Several Missiles and Drones at Kurdish Positions in Iraq’s Erbil Alana Valley, Targeting Fighters from Komala Party and KDPI - The Sunday Guardian |
-| 2026-08-12 13:07 | Israel | 空袭 | Israel | 待确认 | C | Lebanon says Israeli strikes on south kill one, damage ambulance - Arab News |
-| 2026-08-12 13:03 | Israel | 通报 | Israel | 待确认 | C | Israel Should Seek "Peace for Peace" In Any Future Saudi Normalization Talks, Says Dr. Mordechai Kedar - THEJ.CA |
-| 2026-08-12 13:00 | US | 通报 | Iran | 待确认 | C | 2026 Iran war / Deal, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict - Encyclopedia Britannica |
-| 2026-08-12 12:41 | 未明确 | 通报 | 未明确 | 待确认 | C | MDA Is More Than Ambulances - THEJ.CA |
-| 2026-08-12 12:33 | US | 通报 | Iran | 命中 | C | US-Israel-Iran War Latest Live Update: Shipping Attacks Escalate as Iran War Talks Hit Fresh Impasse; 6 Killed in Houthi Attack in Bab el-Mandeb - The Sunday Guardian |
-| 2026-08-12 12:22 | US | 空袭 | Iran | 待确认 | C | Iran And US Carry Out Fresh Strikes While Israel-Hezbollah Conflict Escalates / BBC News Roast Of Kevin Hart (ktEODyJpCj) - Mshale |
-| 2026-08-12 12:09 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: Israeli Prime Minister Netanyahu will Reject Gaza Plan for His Political Future & is Prepared to Defy Trump - The Sunday Guardian |
-| 2026-08-12 12:07 | US | 通报 | Lebanon | 待确认 | C | Lebanon's outreach to the region shows it isn't putting all its eggs in the US basket - thenationalnews.com |
+| 2026-08-13 08:26 | 未明确 | 通报 | Lebanon | 待确认 | C | Donald Trump’s Lebanon Race - The National Interest |
+| 2026-08-13 08:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post |
+| 2026-08-13 06:45 | US | 通报 | Tehran | 待确认 | C | US-Israel-Iran War Latest Live News: IRGC Adviser Says Tehran May ‘Prolong’ Conflict to Outlast Trump Until 2029 Amid Escalating Regional Tensions - The Sunday Guardian |
+| 2026-08-13 06:40 | US | 通报 | Iran | 待确认 | C | Israel’s air force says it dropped over 1,200 munitions across 24 of Iran’s 31 provinces over past day in its joint attack with US / Akashvani News - News On AIR |
+| 2026-08-13 06:16 | US | 通报 | Iran | 伤亡 | C | Iran rejects ceasefire extension as US breaches fuel peace deadlock - Muslim Network TV |
+| 2026-08-13 06:16 | US | 通报 | 未明确 | 待确认 | C | Prolonged US war deployment pushes Abraham Lincoln crew toward breaking point - Muslim Network TV |
+| 2026-08-13 06:16 | Israel | 通报 | Israel | 待确认 | C | Israel plans to maintain annexation of Lebanon, Syria and Gaza - Muslim Network TV |
+| 2026-08-13 05:59 | US | 空袭 | Yemen | 伤亡 | C | US strikes in Yemen killed 153 civilians in 2025, says Pentagon review - Al Jazeera |
+| 2026-08-13 05:15 | Iran | 通报 | Iran | 待确认 | C | Iran elevates hard-liners, signaling further confrontation with Trump - NBC News |
+| 2026-08-13 04:06 | US | 通报 | Gaza | 待确认 | C | Netanyahu gave a ‘victory to Hamas’ by rejecting US-backed Gaza peace plan - Modern Ghana |
+| 2026-08-13 04:00 | Israel | 通报 | Israel | 待确认 | C | Could emigration jeopardize Israel’s security, economy - Cleveland Jewish News |
+| 2026-08-13 03:58 | US | 通报 | Iran | 待确认 | C | Iran says no progress on reviving interim peace deal with US - Reuters |
+| 2026-08-13 03:52 | Israel | 撤离 | Israel | 待确认 | C | Lebanese president confirms talks with Israel, vows complete Israeli withdrawal from Lebanon - All Israel News |
+| 2026-08-13 03:21 | Israel | 通报 | Israel | 待确认 | C | Defence minister says Israeli military indefinitely remain in Lebanon, Syria and Gaza - Middle East Eye |
+| 2026-08-13 03:17 | US | 通报 | Israel | 待确认 | C | Officials say US forces on track to complete Iraq pullout by September 30 - The Times of Israel |
+| 2026-08-13 02:57 | US | 通报 | Tehran | 待确认 | C | Iran Says Regional Pact in Mecca Targets Israel, Citing US Failure to Pressure Tehran: 14 outlets compared - NewsCord |
+| 2026-08-13 02:57 | Iran | 通报 | Iran | 待确认 | C | Trump’s secret flight switch indicates severity of assassination threat by Iran - The Guardian |
+| 2026-08-13 02:37 | Israel | 通报 | Israel | 待确认 | C | IRGC vows Hormuz attacks will continue; Colombia recognizes Golan Heights TV7 Israel News - 12 Aug. - TV7 Israel News |
+| 2026-08-13 02:35 | US | 通报 | Iran | 待确认 | C | US embassies face reduced operations amid Iran conflict - The Jerusalem Post |
+| 2026-08-13 02:34 | US | 通报 | Iran | 待确认 | C | Iran Dismisses Trump’s Claim Of US Control Of Strait Of Hormuz - Sahara Reporters |
+| 2026-08-13 02:30 | US | 通报 | Iran | 待确认 | C | After more than five months of conflict, oil markets continue to surge and tumble over the latest developments in the US-Iran clash, including President Donald Trump's shifting pronouncements. I via ANC 24/7 Link to full story in the comments section. - facebook.com |
+| 2026-08-13 02:08 | US | 通报 | Iran | 待确认 | C | Iran War Live News: Iranian Photojournalist Yalda Moaiery Sentenced To 15 Years In Prison Over Images, Foreign Media Interviews And Alleged US-Israel Links - The Sunday Guardian |
+| 2026-08-13 01:48 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Iran Rejects Trump’s Claim to ‘Control’ Strait of Hormuz as Only 8 Ships Cross Amid Regional Tensions Escalates - The Sunday Guardian |
+| 2026-08-13 01:38 | Israel | 通报 | Israel | 待确认 | C | Israel and Lebanon’s Hesitant Steps on the Long Road to Peace - The Washington Institute |
+| 2026-08-13 01:35 | US | 通报 | 未明确 | 待确认 | C | Saudi Arabia suspends US military access to its bases and airspace - News On AIR |
+| 2026-08-13 01:33 | US | 通报 | Iran | 待确认 | C | Iran, US remain at loggerheads over agreeing permanent end to war - middle-east-online.com |
+| 2026-08-13 01:24 | Iran | 发射 | Iran | 待确认 | C | U.S. helicopter fired on ship that tried to break Iran ports blockade - The Hindu |
+| 2026-08-13 01:20 | US | 通报 | Iran | 待确认 | C | Iran Takes More Aggressive Military Stance With US Talks Frozen - Military.com |
+| 2026-08-13 01:01 | US | 通报 | 未明确 | 待确认 | C | 'I think we will keep it': Trump says US has 'total control' over Strait of Hormuz - The Express Tribune |
+| 2026-08-13 00:51 | US | 通报 | Iran | 待确认 | C | Iraq’s Kurdistan Region Pays Heavy Price as US-Iran War Escalates - visiontimes.com |
+| 2026-08-13 00:35 | Hezbollah | 通报 | Lebanon | 待确认 | C | UK, Italy among states considered to verify Hezbollah disarmament in Lebanon, sources say - Arab News |
+| 2026-08-13 00:35 | Iran | 通报 | Iran | 待确认 | C | Top adviser to Iran's IRGC says U.S. military is 'weaker than what we perceived' in rare interview - CBC |
+| 2026-08-13 00:31 | Israel | 通报 | Israel | 命中 | C | Trump remarks on diminishing impact of pro-Israel groups in Congress - Al Jazeera |
+| 2026-08-13 00:22 | US | 通报 | 未明确 | 待确认 | C | As Strait of Hormuz transit drops, Trump again says US has ‘control’ - Al Jazeera |
+| 2026-08-13 00:14 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: UK, Italy, Switzerland & Indonesia Considered For Hezbollah Disarmament Mission In Lebanon; Trump Claims US Has ‘Total Control’ Of Strait Of Hormuz - The Sunday Guardian |
+| 2026-08-12 23:51 | US | 通报 | Iran | 待确认 | C | Israeli defense officials weigh Gaza buffers, Iran threat and US pressure - The Jerusalem Post |
+| 2026-08-12 23:49 | Hezbollah | 通报 | 未明确 | 待确认 | C | UK, Italy among states considered to verify Hezbollah disarmament, sources say - Aaj English TV |
+| 2026-08-12 23:45 | Israel | 通报 | Israel | 待确认 | C | Israeli defence minister vows troops to stay in Lebanon, Syria, Gaza - freemalaysiatoday.com |
+| 2026-08-12 23:44 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Trump Says US Has ‘Total Control’ Over Hormuz; $400m Gaza Debt Relief Fund ‘Not Transferred Through Hamas’ – Houthi Attacks Raise Yemen Civil War Fears - The Sunday Guardian |
+| 2026-08-12 23:30 | US | 通报 | Iran | 待确认 | C | Iran remains defiant as it vows to fight US until demands met - Al Jazeera |
