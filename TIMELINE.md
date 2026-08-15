@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-08-15 08:58
+更新时间（北京时间）: 2026-08-15 20:28
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-08-15 08:02 | Israel | 通报 | Israel | 待确认 | C | Hezbollah chief rejects Lebanon-Israel framework deal - Dialogue Pakistan |
-| 2026-08-15 07:32 | US | 发射 | Iran | 待确认 | C | Gulf nations report drone attacks as fragile ceasefire in US-Israel-Iran conflict comes under strain - Newsonair |
-| 2026-08-15 07:05 | Israel | 撤离 | Israel | 待确认 | C | Lebanon’s PM urges timetable for Israeli withdrawal as Hezbollah slams deal - aljazeera.com |
-| 2026-08-15 07:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and the Middle East - jpost.com |
-| 2026-08-15 06:36 | US | 通报 | Iran | 待确认 | C | Hormuz traffic slows further after US threatens more economic pressure on Iran - Reuters |
-| 2026-08-15 05:33 | US | 空袭 | Iran | 待确认 | C | CENTCOM Denies Report That Commander Pushed for Renewed Strikes on Iran - VINnews |
-| 2026-08-15 05:27 | US | 发射 | Iran | 待确认 | C | Middle East Violence Escalates as Iran and Joint US‑Israel Forces Launch New Missile & Drone Waves - Newsonair |
-| 2026-08-15 04:52 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Trump Threatens Strait of Hormuz Territory Move, Oil Surges As Tanker Attacks And Shipping Disruptions Escalate - The Sunday Guardian |
-| 2026-08-15 04:34 | US | 发射 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: CENTCOM Says 62 Commercial Ships Redirected As Regional Tensions Rise; Houthis Claim Aramco Drone Attack, US Consumer Sentiment Falls - The Sunday Guardian |
-| 2026-08-15 04:05 | US | 通报 | Iran | 待确认 | C | West Asia conflict enters its fourteenth day with no signs of easing, as intense fighting continues between US, Israel & Iran / Akashvani News - Newsonair |
-| 2026-08-15 03:56 | US | 发射 | Iran | 命中 | C | US-Israel-Iran War Latest Live News: Houthi Attack On Yemen’s Mokha Kills 6, Five Missiles Hit Commercial Ships, Two Vessels Catch Fire - The Sunday Guardian |
-| 2026-08-15 03:28 | US | 通报 | Iran | 待确认 | C | US could not verify Israeli warnings of Iran plots against Trump, sources say - DD India |
-| 2026-08-15 03:08 | US | 发射 | Iran | 待确认 | C | Iran says it turns back US warship from Strait of Hormuz, US official denies missile strike - ddnews.gov.in |
-| 2026-08-15 03:00 | Israel | 通报 | Israel | 待确认 | C | Israeli PM Netanyahu calls UK ‘the Islamic Republic of Britain’, faces Islamophobia backlash - Intel Region |
-| 2026-08-15 02:51 | Israel | 发射 | Iran | 待确认 | C | Israeli officials 'stunned' by Iran’s rapid ballistic missile recovery: Report - thecradle.co |
-| 2026-08-15 02:44 | Israel | 通报 | Israel | 待确认 | C | Qassem Rejects ‘Humiliating’ Israel Talks as Attacks Continue across Lebanon - Palestine Chronicle |
-| 2026-08-15 02:32 | US | 通报 | Iran | 待确认 | C | US prioritizes low oil prices over preventing Iranian nuclear weapons - World Israel News |
-| 2026-08-15 02:04 | US | 通报 | Iran | 待确认 | C | Israel sends quake aid team to Colombia; US vows tighter isolation of Iran TV7 Israel News - 14 Aug. - TV7 Israel News |
-| 2026-08-15 01:50 | Israel | 通报 | Israel | 待确认 | C | Netanyahu rejects Trump’s Gaza plan, pursues Greater Israel agenda - World Socialist Web Site |
-| 2026-08-15 01:48 | Israel | 通报 | Israel | 待确认 | C | Hezbollah Chief Slams Lebanon-Israel Talks - ASHARQ AL-AWSAT English |
-| 2026-08-15 01:39 | US | 通报 | Israel | 待确认 | C | US ambassador to Beirut says Israeli attacks in south Lebanon will continue until Hezbollah is disarmed - thenationalnews.com |
-| 2026-08-15 01:32 | US | 通报 | Iran | 待确认 | C | US to hold direct talks with Iran in Islamabad to ease West Asia tensions - Newsonair |
-| 2026-08-15 01:28 | Israel | 通报 | Israel | 伤亡 | C | Netanyahu Rejects Trump Gaza Plan as Kushner Rushes to Israel; 73,000 Palestinians Dead - The Eastern Herald |
-| 2026-08-15 01:28 | US | 通报 | Iran | 待确认 | C | Vance: Cheap Oil Is US ‘Goal Number One’ in Iran War as UAE Reports Hormuz Attacks - The Eastern Herald |
-| 2026-08-15 01:28 | Iran | 通报 | Iran | 待确认 | C | USS George Washington Heads to Middle East as Lincoln’s 260-Day Iran Deployment Takes Human Toll - The Eastern Herald |
-| 2026-08-15 01:28 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: US Threatens Indefinite Iran Blockade As Strait Of Hormuz Tensions Escalate; Check Latest Updates - The Sunday Guardian |
-| 2026-08-15 01:16 | Iran | 通报 | Tehran | 待确认 | C | Araghchi accuses EU of ‘double standards’ on human rights - Tehran Times |
-| 2026-08-15 01:05 | US | 通报 | Iran | 待确认 | C | Iran 'agrees on general principles' to restrict US, Israeli vessels from Strait of Hormuz: Tasnim - The Express Tribune |
-| 2026-08-15 00:57 | 未明确 | 空袭 | Lebanon | 待确认 | C | West Asia Conflict: Two-week ceasefire holding despite recent strikes on Lebanon - Newsonair |
-| 2026-08-15 00:53 | Iran | 通报 | Iran | 待确认 | C | Iranian and Austrian foreign ministers confer on regional security and Strait of Hormuz - en.isna.ir |
-| 2026-08-15 00:50 | Iran | 通报 | Iran | 待确认 | C | Sentenced To 15 Years For Photography In Iran: The Images Of Iranian Yalda Moaiery - Radio Free Europe/Radio Liberty |
-| 2026-08-15 00:45 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: US Readies ‘Unprecedented’ Economic Isolation Plan For Iran; Kuwait Demands Full Reopening Of Strait Of Hormuz - The Sunday Guardian |
-| 2026-08-15 00:44 | 未明确 | 通报 | 未明确 | 待确认 | C | The Middle East beyond the old alliances - The Armenian Weekly |
-| 2026-08-15 00:36 | Israel | 通报 | Israel | 待确认 | C | Netanyahu Turned Washington into Israel’s Political and Military Operations Room - اسلام تايمز |
-| 2026-08-15 00:32 | US | 通报 | Iran | 待确认 | C | US Central Command: We have redirected 62 commercial vessels and disabled three ships since the naval blockade on Iran was resumed - mtv.com.lb |
-| 2026-08-15 00:17 | 未明确 | 通报 | 未明确 | 待确认 | C | Several countries react to ongoing war in West Asia / Akashvani News - Newsonair |
-| 2026-08-15 00:17 | 未明确 | 通报 | Gaza | 待确认 | C | Hormuz grinds to a halt again; Gaza’s cancer patients dying at 2-3 times prewar rate; DHS surveilled left-wing groups in Minnesota - Drop Site News |
-| 2026-08-14 23:52 | US | 通报 | Iran | 待确认 | C | US Readies Unprecedented ‘Economic Isolation’ Plan for Iran - Military.com |
-| 2026-08-14 23:50 | US | 发射 | Israel | 待确认 | C | US military launches multi-country, kamikaze drone force - World Israel News |
-| 2026-08-14 23:40 | US | 通报 | Israel | 待确认 | C | Israel awaits US approval for operation to seize strategic ridge in southern Lebanon - report - jpost.com |
+| 2026-08-15 20:26 | Israel | 空袭 | Israel | 伤亡 | C | Three killed, five injured in Israeli raid on southern Lebanon as tensions rise - Business Upturn |
+| 2026-08-15 20:25 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Live News: UAE Says Iran Attacked ADNOC-Linked Vessel in Strait of Hormuz; Trump Defends Iran Military Action - sundayguardianlive.com |
+| 2026-08-15 20:15 | Israel | 空袭 | Israel | 待确认 | C | Israeli airstrikes on southern Lebanon kill 9 people, Health Ministry says - washingtonpost.com |
+| 2026-08-15 20:11 | Israel | 空袭 | Israel | 待确认 | C | Israel says Lebanon strikes a response to Hezbollah ceasefire violation - LBCI Lebanon |
+| 2026-08-15 20:05 | Israel | 空袭 | Israel | 待确认 | C | Israeli strikes kill nine in south Lebanon, state news reports - bdnews24.com |
+| 2026-08-15 19:49 | US | 通报 | Tehran | 待确认 | C | US-Israel-Iran War Live: Iran Defiant on Strait of Hormuz as Donald Trump Blasts Tehran as ‘Very Evil’ and Tells Americans to Accept High Fuel Prices as a Result of War - sundayguardianlive.com |
+| 2026-08-15 19:48 | US | 通报 | Iran | 待确认 | C | Iran Refuses US Talks, Trump Claims Hormuz: ‘Cannot Be Seized by a Tweet’ - The Eastern Herald |
+| 2026-08-15 19:41 | Israel | 空袭 | Israel | 待确认 | C | Vessel attacked in Hormuz, Israeli strikes kill 9 in Lebanon, and other news from the Middle East - The Boston Globe |
+| 2026-08-15 19:31 | Israel | 空袭 | Israel | 待确认 | C | Lebanon President says Israeli strikes send ‘clear message’ on negotiations - Moneycontrol.com |
+| 2026-08-15 19:24 | Israel | 空袭 | Israel | 伤亡 | C | Seven killed in Israeli strike on southern Lebanon, country's PM says - BBC |
+| 2026-08-15 19:22 | US | 通报 | Iran | 待确认 | C | US to hold direct talks with Iran in Islamabad to ease West Asia tensions - News On AIR |
+| 2026-08-15 19:21 | US | 空袭 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Israeli Airstrike In Southern Lebanon Kills 7, Including 3 Children, amid Fragile Israel-Hezbollah Truce - sundayguardianlive.com |
+| 2026-08-15 19:18 | Israel | 空袭 | Israel | 待确认 | C | Vessel is attacked in Hormuz, Israeli strike kills 9 in Lebanon, and other news from the Middle East - The Tribune-Democrat |
+| 2026-08-15 19:00 | Israel | 空袭 | Israel | 待确认 | C | Israeli Strikes in Lebanon Kill 9, Health Officials Say - nytimes.com |
+| 2026-08-15 19:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post |
+| 2026-08-15 18:32 | US | 通报 | Iran | 设施受损 | C | Iran’s economic problems worsened as Israel-US war damaged factories, cut oil sales: Pezeshkian - TRT World |
+| 2026-08-15 18:29 | US | 空袭 | Iran | 待确认 | C | Tensions escalate in West Asia as strikes continue between US-Israel and Iran - News On AIR |
+| 2026-08-15 18:19 | Israel | 空袭 | Israel | 伤亡 | C | At scene of deadly Israeli strike on Lebanon home - Al Jazeera |
+| 2026-08-15 18:09 | Israel | 空袭 | Israel | 伤亡 | C | Lebanon says 9 dead in strikes as Israel says targeted Hezbollah - Al-Monitor |
+| 2026-08-15 18:05 | US | 通报 | Iran | 待确认 | C | US special operations gets new chief amid Iran war as Jeffers takes new Gaza role - gulfnews.com |
+| 2026-08-15 18:05 | Iran | 通报 | Iran | 待确认 | C | Iran’s President Masoud Pezeshkian Says Neighbouring Countries Will No Longer Be Targeted Unless Provoked - News On AIR |
+| 2026-08-15 18:04 | Israel | 通报 | Israel | 待确认 | C | Today's Headlines: Ali al-Taher Massacre / Israel's Greatest Fear / Gaza Oxygen Near Collapse - Palestine Chronicle |
+| 2026-08-15 18:04 | Iran | 通报 | Iran | 待确认 | C | Hormuz can be opened or closed only by Iran’s command: Deputy FM - The Express Tribune |
+| 2026-08-15 18:00 | US | 通报 | Iran | 待确认 | C | Iran’s Parliament Formally Backs Hormuz Control as US Blockade Shows Strain - The Eastern Herald |
+| 2026-08-15 18:00 | Iran | 通报 | Iran | 待确认 | C | Father of USS Abraham Lincoln Sailor Criticizes Trump’s Iran ‘Forever War’ - Newsweek |
+| 2026-08-15 17:57 | Israel | 空袭 | Israel | 待确认 | C | Israeli Airstrike In Southern Lebanon Kills Seven, Including Three Children - Outlook India |
+| 2026-08-15 17:50 | Israel | 空袭 | Israel | 伤亡 | C | Lebanon PM: Those Killed in Israeli Strike Were Not 'Military Infrastructure' - ASHARQ AL-AWSAT English |
+| 2026-08-15 17:41 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Live: Iran Criticises US Policy Towards Iran and Wider Region, Says US Foreign Policy Relies on ‘Lies’ - sundayguardianlive.com |
+| 2026-08-15 17:35 | 未明确 | 通报 | 未明确 | 命中 | C | Poland Foils Kremlin Hit on Ukrainian Rapper in Warsaw as Russia Jails Spy for 23 Years - The Eastern Herald |
+| 2026-08-15 17:31 | Israel | 空袭 | Israel | 伤亡 | C | 7 Killed in Israeli Airstrike on House in Southern Lebanon's Ansar - Asianet Newsable |
+| 2026-08-15 17:16 | Israel | 空袭 | Lebanon | 设施受损 | C | World News / IDF Strikes Hezbollah Infrastructure in Southern Lebanon, Kills Seven in Ansar - LatestLY |
+| 2026-08-15 17:14 | Israel | 空袭 | Israel | 待确认 | C | Israeli strike kills seven in south Lebanon - middle-east-online.com |
+| 2026-08-15 17:11 | US | 通报 | Iran | 待确认 | C | Iran, US not discussing ceasefire extension - Aaj English TV |
+| 2026-08-15 17:00 | Israel | 空袭 | Israel | 待确认 | C | Israeli Airstrike on Southern Lebanon Kills 7 People, Lebanese State Media Say - Newsmax |
+| 2026-08-15 17:00 | Israel | 空袭 | Israel | 待确认 | C | Israeli strike on southern Lebanon kills 7: Reports - newsofbahrain.com |
+| 2026-08-15 16:57 | Israel | 空袭 | Israel | 待确认 | C | Lebanon: Israel strike on south kills seven in latest escalation - The New Arab |
+| 2026-08-15 16:55 | Israel | 空袭 | Israel | 伤亡 | C | Israeli Strike Kills Seven in South Lebanon in Deadliest Attack Since June Accord - The Eastern Herald |
+| 2026-08-15 16:54 | Israel | 空袭 | Lebanon | 设施受损 | C | IDF strikes Hezbollah infrastructure in southern Lebanon, kills seven in Ansar - ANI News |
+| 2026-08-15 16:47 | Israel | 空袭 | Israel | 待确认 | C | Israeli strike kills 7 in Lebanon, new attacks in Hormuz ᐉ News from Fakti.bg - World - fakti.bg |
+| 2026-08-15 16:37 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: Gaza’s Health Ministry Warns Oxygen Stations Face ‘Complete Paralysis’ in Gaza Amid Ongoing Israeli Restrictions on Entry of Aid and Essential Supplies - sundayguardianlive.com |
