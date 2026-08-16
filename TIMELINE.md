@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-08-15 20:28
+更新时间（北京时间）: 2026-08-16 09:01
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-08-15 20:26 | Israel | 空袭 | Israel | 伤亡 | C | Three killed, five injured in Israeli raid on southern Lebanon as tensions rise - Business Upturn |
-| 2026-08-15 20:25 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Live News: UAE Says Iran Attacked ADNOC-Linked Vessel in Strait of Hormuz; Trump Defends Iran Military Action - sundayguardianlive.com |
-| 2026-08-15 20:15 | Israel | 空袭 | Israel | 待确认 | C | Israeli airstrikes on southern Lebanon kill 9 people, Health Ministry says - washingtonpost.com |
-| 2026-08-15 20:11 | Israel | 空袭 | Israel | 待确认 | C | Israel says Lebanon strikes a response to Hezbollah ceasefire violation - LBCI Lebanon |
-| 2026-08-15 20:05 | Israel | 空袭 | Israel | 待确认 | C | Israeli strikes kill nine in south Lebanon, state news reports - bdnews24.com |
-| 2026-08-15 19:49 | US | 通报 | Tehran | 待确认 | C | US-Israel-Iran War Live: Iran Defiant on Strait of Hormuz as Donald Trump Blasts Tehran as ‘Very Evil’ and Tells Americans to Accept High Fuel Prices as a Result of War - sundayguardianlive.com |
-| 2026-08-15 19:48 | US | 通报 | Iran | 待确认 | C | Iran Refuses US Talks, Trump Claims Hormuz: ‘Cannot Be Seized by a Tweet’ - The Eastern Herald |
-| 2026-08-15 19:41 | Israel | 空袭 | Israel | 待确认 | C | Vessel attacked in Hormuz, Israeli strikes kill 9 in Lebanon, and other news from the Middle East - The Boston Globe |
-| 2026-08-15 19:31 | Israel | 空袭 | Israel | 待确认 | C | Lebanon President says Israeli strikes send ‘clear message’ on negotiations - Moneycontrol.com |
-| 2026-08-15 19:24 | Israel | 空袭 | Israel | 伤亡 | C | Seven killed in Israeli strike on southern Lebanon, country's PM says - BBC |
-| 2026-08-15 19:22 | US | 通报 | Iran | 待确认 | C | US to hold direct talks with Iran in Islamabad to ease West Asia tensions - News On AIR |
-| 2026-08-15 19:21 | US | 空袭 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Israeli Airstrike In Southern Lebanon Kills 7, Including 3 Children, amid Fragile Israel-Hezbollah Truce - sundayguardianlive.com |
-| 2026-08-15 19:18 | Israel | 空袭 | Israel | 待确认 | C | Vessel is attacked in Hormuz, Israeli strike kills 9 in Lebanon, and other news from the Middle East - The Tribune-Democrat |
-| 2026-08-15 19:00 | Israel | 空袭 | Israel | 待确认 | C | Israeli Strikes in Lebanon Kill 9, Health Officials Say - nytimes.com |
-| 2026-08-15 19:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post |
-| 2026-08-15 18:32 | US | 通报 | Iran | 设施受损 | C | Iran’s economic problems worsened as Israel-US war damaged factories, cut oil sales: Pezeshkian - TRT World |
-| 2026-08-15 18:29 | US | 空袭 | Iran | 待确认 | C | Tensions escalate in West Asia as strikes continue between US-Israel and Iran - News On AIR |
-| 2026-08-15 18:19 | Israel | 空袭 | Israel | 伤亡 | C | At scene of deadly Israeli strike on Lebanon home - Al Jazeera |
-| 2026-08-15 18:09 | Israel | 空袭 | Israel | 伤亡 | C | Lebanon says 9 dead in strikes as Israel says targeted Hezbollah - Al-Monitor |
-| 2026-08-15 18:05 | US | 通报 | Iran | 待确认 | C | US special operations gets new chief amid Iran war as Jeffers takes new Gaza role - gulfnews.com |
-| 2026-08-15 18:05 | Iran | 通报 | Iran | 待确认 | C | Iran’s President Masoud Pezeshkian Says Neighbouring Countries Will No Longer Be Targeted Unless Provoked - News On AIR |
-| 2026-08-15 18:04 | Israel | 通报 | Israel | 待确认 | C | Today's Headlines: Ali al-Taher Massacre / Israel's Greatest Fear / Gaza Oxygen Near Collapse - Palestine Chronicle |
-| 2026-08-15 18:04 | Iran | 通报 | Iran | 待确认 | C | Hormuz can be opened or closed only by Iran’s command: Deputy FM - The Express Tribune |
-| 2026-08-15 18:00 | US | 通报 | Iran | 待确认 | C | Iran’s Parliament Formally Backs Hormuz Control as US Blockade Shows Strain - The Eastern Herald |
-| 2026-08-15 18:00 | Iran | 通报 | Iran | 待确认 | C | Father of USS Abraham Lincoln Sailor Criticizes Trump’s Iran ‘Forever War’ - Newsweek |
-| 2026-08-15 17:57 | Israel | 空袭 | Israel | 待确认 | C | Israeli Airstrike In Southern Lebanon Kills Seven, Including Three Children - Outlook India |
-| 2026-08-15 17:50 | Israel | 空袭 | Israel | 伤亡 | C | Lebanon PM: Those Killed in Israeli Strike Were Not 'Military Infrastructure' - ASHARQ AL-AWSAT English |
-| 2026-08-15 17:41 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Live: Iran Criticises US Policy Towards Iran and Wider Region, Says US Foreign Policy Relies on ‘Lies’ - sundayguardianlive.com |
-| 2026-08-15 17:35 | 未明确 | 通报 | 未明确 | 命中 | C | Poland Foils Kremlin Hit on Ukrainian Rapper in Warsaw as Russia Jails Spy for 23 Years - The Eastern Herald |
-| 2026-08-15 17:31 | Israel | 空袭 | Israel | 伤亡 | C | 7 Killed in Israeli Airstrike on House in Southern Lebanon's Ansar - Asianet Newsable |
-| 2026-08-15 17:16 | Israel | 空袭 | Lebanon | 设施受损 | C | World News / IDF Strikes Hezbollah Infrastructure in Southern Lebanon, Kills Seven in Ansar - LatestLY |
-| 2026-08-15 17:14 | Israel | 空袭 | Israel | 待确认 | C | Israeli strike kills seven in south Lebanon - middle-east-online.com |
-| 2026-08-15 17:11 | US | 通报 | Iran | 待确认 | C | Iran, US not discussing ceasefire extension - Aaj English TV |
-| 2026-08-15 17:00 | Israel | 空袭 | Israel | 待确认 | C | Israeli Airstrike on Southern Lebanon Kills 7 People, Lebanese State Media Say - Newsmax |
-| 2026-08-15 17:00 | Israel | 空袭 | Israel | 待确认 | C | Israeli strike on southern Lebanon kills 7: Reports - newsofbahrain.com |
-| 2026-08-15 16:57 | Israel | 空袭 | Israel | 待确认 | C | Lebanon: Israel strike on south kills seven in latest escalation - The New Arab |
-| 2026-08-15 16:55 | Israel | 空袭 | Israel | 伤亡 | C | Israeli Strike Kills Seven in South Lebanon in Deadliest Attack Since June Accord - The Eastern Herald |
-| 2026-08-15 16:54 | Israel | 空袭 | Lebanon | 设施受损 | C | IDF strikes Hezbollah infrastructure in southern Lebanon, kills seven in Ansar - ANI News |
-| 2026-08-15 16:47 | Israel | 空袭 | Israel | 待确认 | C | Israeli strike kills 7 in Lebanon, new attacks in Hormuz ᐉ News from Fakti.bg - World - fakti.bg |
-| 2026-08-15 16:37 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: Gaza’s Health Ministry Warns Oxygen Stations Face ‘Complete Paralysis’ in Gaza Amid Ongoing Israeli Restrictions on Entry of Aid and Essential Supplies - sundayguardianlive.com |
+| 2026-08-16 08:59 | 未明确 | 通报 | 未明确 | 待确认 | C | Trump Cast The Dice, The Middle East Rebalanced – Analysis - Eurasia Review |
+| 2026-08-16 08:59 | Israel | 空袭 | Israel | 待确认 | C | Israeli strikes kill 11 in south Lebanon - dailyasianage.com |
+| 2026-08-16 08:41 | Israel | 通报 | Israel | 伤亡 | C | Arab League condemns deadly Israeli attacks on southern Lebanon - TRT World |
+| 2026-08-16 08:08 | Israel | 空袭 | Israel | 伤亡 | C | Lebanon Says 11 Killed in Israeli Airstrikes - Tempo.co English |
+| 2026-08-16 08:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post |
+| 2026-08-16 07:20 | Israel | 空袭 | Israel | 伤亡 | C | 11 killed in deadliest Israeli strikes on Lebanon since June - Dawn |
+| 2026-08-16 07:20 | US | 发射 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Israel Strikes Lebanon’s Tyre as Yemen Drone Attacks Kill 3 Houthi Fighters Amid Middle East Conflict Intensifies - sundayguardianlive.com |
+| 2026-08-16 06:41 | Israel | 通报 | 未明确 | 待确认 | C | IDF slays Hezbollah commander in response to attack on soldiers - JNS.org |
+| 2026-08-16 06:37 | Iran | 拦截 | Iran | 拦截 | C | Qatar Denies Holding Three Iranian Pilots Shot Down Near Al Udeid for Six Months - The Eastern Herald |
+| 2026-08-16 05:34 | 未明确 | 通报 | 未明确 | 待确认 | C | ICC Removes Prosecutor Who Dared Issue Warrants for Netanyahu — Days Before Judges Cleared Him - The Eastern Herald |
+| 2026-08-16 05:34 | US | 通报 | 未明确 | 待确认 | C | US-Saudi Nuclear Deal Could Give Riyadh Path to Uranium Enrichment, Triggering Regional Arms Race - The Eastern Herald |
+| 2026-08-16 05:30 | Israel | 通报 | Israel | 待确认 | C | Hezbollah attack exposes Israel’s shrinking room for maneuver in Lebanon - www.israelhayom.com |
+| 2026-08-16 05:24 | Israel | 空袭 | Israel | 伤亡 | C | Lebanon reports 11 dead in strikes that Israel says targeted Hezbollah - Business Recorder |
+| 2026-08-16 05:03 | Israel | 空袭 | Israel | 伤亡 | C | 11 dead, 19 injured in Israeli strikes on southern Lebanon - The Tribune |
+| 2026-08-16 05:00 | Iran | 通报 | Iran | 待确认 | C | Qatar denies it is detaining three Iranian bomber pilots - Al Jazeera |
+| 2026-08-16 05:00 | Israel | 空袭 | Israel | 伤亡 | C | 11 dead, 19 injured in Israeli strikes on southern Lebanon - ANI News |
+| 2026-08-16 04:40 | Iran | 通报 | Iran | 待确认 | C | The Secret June 17 Meeting: Four-Way Coordination to Undermine the Iran-U.S. Understanding - نورنیوز |
+| 2026-08-16 04:37 | Israel | 空袭 | Israel | 待确认 | C | Israeli strikes kill 11 in southern Lebanon, Hezbollah threatens to retaliate - France 24 |
+| 2026-08-16 04:21 | Israel | 空袭 | Israel | 伤亡 | C | Eleven killed in Israeli strikes on southern Lebanon, authorities say - bbc.com |
+| 2026-08-16 04:09 | Israel | 通报 | Israel | 待确认 | C | Israel as the Middle East’s 'mistress': wanted behind closed doors, shunned in public - Ynetnews |
+| 2026-08-16 04:09 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Qatar’s Foreign Minister Claims Over Iranian Pilots; Benjamin Netanyahu Praises Colombia’s New President Amid Regional Tensions Escalates - sundayguardianlive.com |
+| 2026-08-16 03:56 | Israel | 空袭 | Israel | 伤亡 | C | Hezbollah Warns of ‘Appropriate’ Response After Deadly Israeli Strikes in Lebanon - Kurdistan24 |
+| 2026-08-16 03:56 | Iran | 通报 | Iran | 待确认 | C | Iran Calls for Release of Three Pilots Allegedly Captured in Qatar - Kurdistan24 |
+| 2026-08-16 03:53 | Israel | 空袭 | Israel | 伤亡 | C | Israel says it killed Hezbollah commander in strike that left children dead - abc.net.au |
+| 2026-08-16 03:50 | Israel | 空袭 | Israel | 待确认 | C | Israeli strikes in southern Lebanon kill at least 11 - Investing.com |
+| 2026-08-16 03:46 | Israel | 空袭 | Israel | 待确认 | C | Israel Says Airstrike Kills Hezbollah Commander Ali Samir Al-Haj Hassan in Southern Lebanon - صوت الإمارات |
+| 2026-08-16 03:44 | Israel | 空袭 | Israel | 伤亡 | C | Israel strikes Lebanon, killing 15; 3 Israelis injured - upi.com |
+| 2026-08-16 03:35 | Iran | 通报 | Iran | 待确认 | C | USS Lincoln’s 266-Day Iran War Deployment Ends as Sailor Crisis Grips Navy - The Eastern Herald |
+| 2026-08-16 03:32 | US | 通报 | 未明确 | 待确认 | C | India Reaffirms Russia Ties as US Senate Targets Its Oil Purchases - The Eastern Herald |
+| 2026-08-16 03:19 | Israel | 通报 | 未明确 | 待确认 | C | IDF Kills Radwan Force Commander After Hezbollah Drone Wounds 3 Soldiers - The Media Line |
+| 2026-08-16 03:12 | Iran | 通报 | Iran | 待确认 | C | Qatar categorically denies claims it is detaining Iranian pilots - Gulf News |
+| 2026-08-16 02:57 | US | 空袭 | Iran | 命中 | C | US-Israel-Iran War Latest Live News: Israeli Strike Hits Lebanon’s Tallousa, As Southern Lebanon Faces Fresh Escalation Amid Rising Regional Tensions - sundayguardianlive.com |
+| 2026-08-16 02:52 | Israel | 通报 | Israel | 伤亡 | C | Israel Names Radwan Commander Killed in Ansar, Calls His Family Human Shields - The Eastern Herald |
+| 2026-08-16 02:51 | Israel | 通报 | Lebanon | 命中 | C | Latest war news. Attacks in Lebanon: 11 dead. IDF: Hezbollah headquarters hit - Il Sole 24 ORE |
+| 2026-08-16 02:44 | Iran | 拦截 | Iran | 拦截 | C | Iran urges Qatar to release pilots shot down in Middle East war - South China Morning Post |
+| 2026-08-16 02:37 | Israel | 空袭 | Iran | 待确认 | C | Iran says Qatar is holding pilots, Israeli strikes kill 11 in Lebanon, and other Middle East news - The Killeen Daily Herald |
+| 2026-08-16 02:33 | Israel | 空袭 | Israel | 待确认 | C | Lebanon says Israeli strikes in south of the country kill at least 11​​​ - Reuters |
+| 2026-08-16 02:30 | Israel | 空袭 | Israel | 伤亡 | C | 11 killed in Israeli strikes on Hezbollah infrastructure in Lebanon - AzerNews |
+| 2026-08-16 02:29 | US | 通报 | Iran | 待确认 | C | Trump says Hormuz Strait could become US territory after Iran war - All Israel News |
+| 2026-08-16 02:23 | Israel | 空袭 | Israel | 伤亡 | C | Lebanon reports 11 dead in strikes that Israel says targeted Hezbollah - Aaj English TV |
