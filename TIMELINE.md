@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-08-17 20:34
+更新时间（北京时间）: 2026-08-18 08:57
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-08-17 20:12 | Israel | 通报 | Israel | 待确认 | C | Trump Urges Israel Gaza Ceasefire as Hamas Lays Down Arms - JFeed |
-| 2026-08-17 20:03 | US | 通报 | Iran | 待确认 | C | ‘60-Day Discussion Is No Longer Relevant’: Iran Says US Violations Rendered 14-Point MoU ‘Moot’ - LatestLY |
-| 2026-08-17 20:00 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Iraq’s $15-Billion Syria Oil Pipeline, Aimed at Reducing Reliance on Strait of Hormuz, May Take 4 Years to Build - The Sunday Guardian |
-| 2026-08-17 19:26 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Trump Weighs ‘Teapot’ Sanctions, Land Blockade And Other Ways To Cripple Iran’s Economy - The Sunday Guardian |
-| 2026-08-17 19:18 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Live News: Trump Reaffirms Iran Can ‘Never Have Nuclear Weapons’ In Any Way, Calls It His ‘No. 1 Goal’ as 60-Day Deal Expires – Oil Nears $90 Amid Hormuz Crisis - The Sunday Guardian |
-| 2026-08-17 19:15 | 未明确 | 通报 | 未明确 | 待确认 | C | Trump 'very happy' over signing of Makkah Joint Defense Agreement - The Express Tribune |
-| 2026-08-17 18:45 | Iran | 通报 | Iran | 待确认 | C | 'Pure evil': Ex-Congresswoman claims Trump officials discussing using nukes against Iran - The Times of India |
-| 2026-08-17 18:29 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Iran Declares Victory As 60-Day Deal Expires; Israeli Gunfire Erupts Near Rafah As Strait Of Hormuz Talks Stall Amid Tensions - The Sunday Guardian |
-| 2026-08-17 18:26 | US | 通报 | 未明确 | 待确认 | C | CENTCOM chief meets with troops aboard USS Abraham Lincoln amid morale concerns - CBS News |
-| 2026-08-17 18:08 | Iran | 通报 | Iran | 伤亡 | C | Donald Trump’s 60-Day Iran Deadline Expires: Here’s Where Things Stand on War, Nuclear Talks and Hormuz - LatestLY |
-| 2026-08-17 18:04 | US | 通报 | 未明确 | 待确认 | C | All not perfect: US Centcom commander flags sailors' mental issues during long service at sea - The Times of India |
-| 2026-08-17 17:50 | Iran | 通报 | Iran | 伤亡 | C | 60-day deadline for Iran peace deal expiring; here's where things stand - The Tribune-Democrat |
-| 2026-08-17 17:45 | Hamas | 通报 | Gaza | 待确认 | C | Kushner sits with Netanyahu to talk Gaza after 2-hour meeting with Hamas - The Tribune-Democrat |
-| 2026-08-17 17:43 | US | 通报 | Iran | 伤亡 | C | US-Israel-Iran War Latest Live News: ‘No Sign’ of Reviving Iran-US MoU as Iran Rejects US Sanctions & Land Blockade, Says 60-Day Deadline Is ‘Entirely Moot’ - The Sunday Guardian |
-| 2026-08-17 17:31 | US | 通报 | Iran | 待确认 | C | US Israel Iran War Latest Live News: Jared Kushner Meets Netanyahu After 2-Hour Hamas Talks; Can Trump’s Son-in-Law Bridge Israel-Hamas Differences Over Gaza Plan? - The Sunday Guardian |
-| 2026-08-17 17:26 | US | 通报 | Iran | 待确认 | C | Daniel Davis warns US strategy fails against Iranian defense grid - Harici |
-| 2026-08-17 17:20 | Israel | 通报 | Israel | 待确认 | C | New Lebanon strategy: Israeli pullback in exchange for action against Hezbollah - www.israelhayom.com |
-| 2026-08-17 17:18 | Israel | 通报 | Iran | 待确认 | C | Report: Iran Preparing for Wider War as It Expects U.S. and Israel to Do the Same - Haaretz |
-| 2026-08-17 16:23 | Israel | 空袭 | Israel | 待确认 | C | Israeli Military Claims Weapons Seizure and Strike on Hezbollah Members - MTV Lebanon |
-| 2026-08-17 16:22 | Iran | 通报 | Iran | 待确认 | C | How a fake Iran nuclear quote travelled from an Indian X account to Netanyahu’s speech - The Indian Express |
-| 2026-08-17 16:18 | US | 通报 | Iran | 待确认 | C | Iran’s parliamentary speaker accuses US secretly planning ground invasion - News On AIR |
-| 2026-08-17 16:12 | US | 通报 | Iran | 待确认 | C | From Israeli PM to US Official: How Fake News Became an Iran War Justification - oneworldnews.com |
-| 2026-08-17 16:11 | 未明确 | 空袭 | Lebanon | 待确认 | C | Lebanon Flare-Up and Gaza Strikes Dent Mideast Peace Prospects - Bloomberg.com |
-| 2026-08-17 16:11 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Live: Ben-Gvir ‘Must Resign’ Says US Lawmaker Jacky Rosen for Comments on Killings ‘30 or 40’ Palestinians in Gaza Every Night - The Sunday Guardian |
-| 2026-08-17 16:03 | US | 通报 | Iran | 待确认 | C | CHINA BLASTS US-ISRAEL: ‘Stop Military Action Against Iran Now!’ / Times Now World Caduta Giro D Italia Oggi (mjXzrK8FBi) - Mshale |
-| 2026-08-17 16:03 | US | 发射 | Iran | 待确认 | C | Iran-US War Escalates / 100 Of Drones And Missiles Fired / The Chanakya Dialogues /Major Gaurav Arya Doordash (5pqSfFKq9J) - Mshale |
-| 2026-08-17 15:43 | US | 通报 | Iran | 待确认 | C | US, Israel 'failed to achieve' war aims, Iran's top negotiator says - Türkiye Today |
-| 2026-08-17 15:35 | Israel | 通报 | Iran | 待确认 | C | Report: Iran has spent 60-day MOU window getting ready to ‘widen the war’ - The Times of Israel |
-| 2026-08-17 15:31 | US | 通报 | Iran | 待确认 | C | Iran claims ‘complete victory’ over US and Israel, Ghalibaf says - samaa tv |
-| 2026-08-17 15:12 | US | 通报 | Iran | 命中 | C | US-Israel-Iran War Live News: US Considering ‘Nuclear War’ With Iran? Marjorie Taylor Greene Claims White House Discussing Nuclear Weapons – Wider War Ahead? - The Sunday Guardian |
-| 2026-08-17 15:06 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: South Korea to Continue Discussions with US on Military Cooperation on Iran, Strait of Hormuz - The Sunday Guardian |
-| 2026-08-17 15:06 | US | 通报 | Iran | 命中 | C | Watch Middle East Conflict: Israel Hits Lebanon, US Prepares Fresh Iran Measures - Bloomberg.com |
-| 2026-08-17 15:03 | Israel | 通报 | Israel | 待确认 | C | Israel Attacks Lebanon Despite Ceasefire, Killing 11 in Nabatieh - The Eastern Herald |
-| 2026-08-17 14:39 | US | 通报 | Tehran | 待确认 | C | Iran-US war latest: Trump’s agreement with Tehran expires today as $30k bounty placed on US soldiers - Newswav |
-| 2026-08-17 14:36 | US | 通报 | Tehran | 待确认 | C | US-Israel-Iran War Latest Live News: Iran ’60-Day’ Deal Expires Today, Trump Eyes Tougher Measures Against Tehran – New Sanctions, Land Blockade, Hormuz Action, Tariffs & More - The Sunday Guardian |
-| 2026-08-17 14:22 | Israel | 通报 | Israel | 待确认 | C | Hezbollah preparing for new campaign against Israel – report - World Israel News |
-| 2026-08-17 14:20 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Live News: Iran Used ’60-Day MoU’ to Prepare for ‘Wider War’ as US-Iran Talks Remain Stalled, Qatar Denies Holding Missing Pilots - The Sunday Guardian |
-| 2026-08-17 14:20 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Live: Iranian Diplomat Kazem Gharibabadi Slams Israeli Security Minister Itamar Ben-Gvir’s Remarks on Killing ‘30 or 40’ People in Gaza & Openly Endorsing Killing of Palestinians - The Sunday Guardian |
-| 2026-08-17 14:09 | US | 通报 | Iran | 待确认 | C | Media: Iran is preparing for the resumption of conflict with the US and Israel - Baku.ws |
-| 2026-08-17 13:52 | US | 空袭 | Iran | 待确认 | C | US-Israel-Iran War Latest News: US Prepares New Iran Sanctions Amid Stalled Talks as Israeli Strikes Southern Lebanon – Hormuz Tensions Push Oil Prices Higher - The Sunday Guardian |
+| 2026-08-18 08:53 | US | 通报 | Tehran | 伤亡 | C | US-Israel-Iran War Latest LIVE Updates: US-Iran MoU 60-Day Deadline Ends Without Peace Deal – Trump Rejects Extension, Says Tehran Won’t Accept ‘Necessary’ Deal - The Sunday Guardian |
+| 2026-08-18 08:31 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War LIVE Updates: ‘We Have 39,000 Soldiers…’ – Trump Slams South Korea for Refusing Iran Help, Questions US Defence Spending, Hormuz Blockade and More - The Sunday Guardian |
+| 2026-08-18 08:13 | Iran | 通报 | Iran | 伤亡 | C | 60-day deadline for an Iran peace deal is expiring - tribdem.com |
+| 2026-08-18 08:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and the Middle East - jpost.com |
+| 2026-08-18 07:10 | 未明确 | 通报 | 未明确 | 待确认 | C | USS Abraham Lincoln Crew Faces Mental Health Crisis Amid Prolonged Deployment - 조선일보 |
+| 2026-08-18 06:54 | Iran | 发射 | Iran | 待确认 | C | Russia is shipping explosives to Iran to bolster its missile and drone arsenal in U.S. war - NBC News |
+| 2026-08-18 06:43 | US | 通报 | Iran | 待确认 | C | Iran threatens new offensive while US rules out extending ceasefire deal - Reuters |
+| 2026-08-18 06:41 | Israel | 通报 | Israel | 待确认 | C | Kushner's talks with Israel, Hamas end without breakthrough on Trump Gaza plan - Al-Monitor |
+| 2026-08-18 06:27 | Israel | 空袭 | Israel | 待确认 | C | ''The entire region was up in flames': Residents of southern Lebanon live in fear of Israeli strikes and the fires they cause' - Le Monde.fr |
+| 2026-08-18 06:20 | Iran | 通报 | Iran | 待确认 | C | Trump Doubles Down on Declaring Strait of Hormuz U.S. Territory as Iran Threatens to Break U.S. Blockade - breitbart.com |
+| 2026-08-18 05:59 | 未明确 | 通报 | 未明确 | 待确认 | C | Diplomatic Dialogue: Bridging Tensions for Global Peace - Devdiscourse |
+| 2026-08-18 05:53 | Iran | 通报 | Iran | 命中 | C | Donald Trump approval hits new low amid fears of prolonged Iran war - jpost.com |
+| 2026-08-18 05:26 | US | 通报 | Iran | 待确认 | C | Live: Trump says US not seeking to extend interim deal with Iran - Middle East Eye |
+| 2026-08-18 04:44 | 未明确 | 通报 | 未明确 | 待确认 | C | Trump’s approval rating sinks to new low at 33 percent - Al Jazeera |
+| 2026-08-18 04:36 | US | 通报 | Iran | 待确认 | C | US Central Command Enforces ‘Steel Blockade’ on Iran, Reroutes 64 Ships - صوت الإمارات |
+| 2026-08-18 04:23 | US | 空袭 | Iran | 命中 | C | West Asia conflict escalates as US‑Israel strikes hit Iran, US Embassy attacked in Riyadh / Akashvani News - News On AIR |
+| 2026-08-18 04:00 | US | 通报 | 未明确 | 待确认 | C | CENTCOM Chief Visits Beleaguered Aircraft Carrier, Praises Crew - The National Interest |
+| 2026-08-18 03:51 | Iran | 通报 | Iran | 待确认 | C | Trump threatens Oman as it works with Iran on a Strait of Hormuz deal, and other Middle East news - AP News |
+| 2026-08-18 03:35 | 未明确 | 通报 | 未明确 | 待确认 | C | Trump approval rating falls to 33%, lowest of his presidency, poll finds - South China Morning Post |
+| 2026-08-18 03:25 | US | 通报 | Iran | 待确认 | C | Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal - BBC |
+| 2026-08-18 03:13 | US | 通报 | Israel | 待确认 | C | Marathon U.S.-Israel meeting produces optimism but no firm commitment to American plan for Gaza - tribdem.com |
+| 2026-08-18 03:00 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Live News: Trump Says Iran Will Not Make Deal He Calls ‘Necessary’ – What It Means for US-Iran Nuclear Talks - The Sunday Guardian |
+| 2026-08-18 02:41 | US | 通报 | Iran | 命中 | C | US-Israel-Iran War Live News: ‘Put Up the White Flag of Surrender’ – Trump Demands Iran Surrender, Warns Oman Over Strait of Hormuz as MoU Expires - The Sunday Guardian |
+| 2026-08-18 02:35 | Israel | 通报 | Israel | 待确认 | C | Washington criticises Israel’s plans for military presence in Lebanon - ԱՐՑԱԽ ԼՐԱՏՎԱԿԱՆ |
+| 2026-08-18 02:27 | Israel | 通报 | Iran | 待确认 | C | Israeli officials stunned by Iran’s rapid military recovery after 2026 war - ԱՐՑԱԽ ԼՐԱՏՎԱԿԱՆ |
+| 2026-08-18 02:07 | Iran | 通报 | Iran | 待确认 | C | Iran’s President Masoud Pezeshkian Says Neighbouring Countries Will No Longer Be Targeted Unless Provoked - News On AIR |
+| 2026-08-18 02:03 | US | 通报 | Iran | 待确认 | C | Kushner demands Hamas disarmament; Iran offers bounty on Americans - TV7 Israel News - 17 Aug. - TV7 Israel News |
+| 2026-08-18 02:02 | US | 通报 | Iran | 伤亡 | C | Iran-US War Latest News: Trump Lashes Out And Threatens To Bomb Ally Oman As Iran Deadline Expires And Kushner Pushes Netanyahu On Gaza - The Sunday Guardian |
+| 2026-08-18 01:53 | Israel | 通报 | Iran | 待确认 | C | Iran condemns Israeli minister’s remarks over Gaza killings - Minute Mirror |
+| 2026-08-18 01:50 | Israel | 空袭 | Israel | 待确认 | C | Israel Steps Up Strikes, Offensive Against Southern Lebanon, Anticipates Ground Combat - news.antiwar.com |
+| 2026-08-18 01:48 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Israeli President Herzog ‘Grateful’ for Board of Peace Efforts to Support Gaza Plan & Advance Regional Peace Talks - The Sunday Guardian |
+| 2026-08-18 01:28 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Israeli Flags On Lebanon Road Violate UN Resolution, UNIFIL Says; Peacekeeping Force Urges All Sides To Avoid Provocative Actions - The Sunday Guardian |
+| 2026-08-18 01:21 | Iran | 通报 | Iran | 待确认 | C | What China’s PLA says it is learning from the Iran war - Breaking Defense |
+| 2026-08-18 01:16 | US | 通报 | Tehran | 伤亡 | C | US-Israel-Iran War Latest Live News: Iran Sets MoU Deadline as Tehran Warns of Escalation in Strait of Hormuz; Netanyahu’s Office Report ‘Deep & Constructive Discussions’ With Board of Peace - The Sunday Guardian |
+| 2026-08-18 00:52 | 未明确 | 通报 | 未明确 | 待确认 | C | Trump 'very happy' over signing of Makkah Joint Defense Agreement - The Express Tribune |
+| 2026-08-17 23:26 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: Qatari Spokesperson Says Negotiations ‘Need More Time’; Esmail Baghaei Shares Update on Ongoing Iran-Oman Talks Over Strait of Hormuz - The Sunday Guardian |
+| 2026-08-17 23:18 | US | 通报 | Israel | 待确认 | C | US general meets Lebanon’s army chief as ceasefire with Israel teeters - Al-Monitor |
+| 2026-08-17 23:16 | Israel | 空袭 | Iran | 待确认 | C | U.S.-Iran MOU expires without agreement; Israeli strikes kill 11 in Lebanon; DNC votes to abolish ICE - Drop Site News |
+| 2026-08-17 23:14 | US | 通报 | Iran | 待确认 | C | Trump says US in contact with IRGC and calls on Iran to surrender - Al Jazeera |
+| 2026-08-17 23:14 | Iran | 通报 | Iran | 待确认 | C | Iran’s Secret Plan to Escalate the War - wsj.com |
