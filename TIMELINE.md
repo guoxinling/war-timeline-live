@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-08-22 20:29
+更新时间（北京时间）: 2026-08-23 09:02
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-08-22 20:20 | Israel | 通报 | Israel | 待确认 | C | Gaza 'humanitarian catastrophe' undermining support even in 'pro-Israel' nations: Poland - The Express Tribune |
-| 2026-08-22 20:05 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Live News: Iran’s Mohammad Bagher Ghalibaf Claims US Put Regional Allies at Risk ‘For the Sake of Israel’ - The Sunday Guardian |
-| 2026-08-22 20:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post |
-| 2026-08-22 19:25 | US | 通报 | Israel | 待确认 | C | Trump Envoy Tom Barrack Says Israel ‘occupies’ Golan, Contradicting US Policy - i24NEWS |
-| 2026-08-22 19:14 | Israel | 通报 | Israel | 待确认 | C | Gaza 'catastrophe' eroding support for Israel, even among allies: Poland - Türkiye Today |
-| 2026-08-22 19:07 | Iran | 通报 | Iran | 待确认 | C | Iran Says Its Doctrine Is Now Offensive. Its One Example Came Five Months Into the War. - The Eastern Herald |
-| 2026-08-22 19:00 | Iran | 通报 | Iran | 待确认 | C | Iran: World has accepted it has defeated the U.S.; nations look to bypass Strait of Hormuz - The Tribune-Democrat |
-| 2026-08-22 18:41 | Israel | 通报 | Jerusalem | 命中 | C | The Middle East’s ‘peace architecture’ may be giving rise to an anti-Israel bloc - opinion - The Jerusalem Post |
-| 2026-08-22 18:39 | Israel | 通报 | Jerusalem | 待确认 | C | Israel must stop Erdogan’s military expansion before Turkey reaches its borders - opinion - The Jerusalem Post |
-| 2026-08-22 18:37 | US | 通报 | Israel | 待确认 | C | Bennett: Israel has lost US and world support - Yeni Safak English |
-| 2026-08-22 18:28 | US | 通报 | Iran | 待确认 | C | How much is the war with Iran costing the US? - ABC News - Breaking News, Latest News and Videos |
-| 2026-08-22 18:25 | US | 通报 | Israel | 待确认 | C | Israel ditches US-made precision weapon, initiates development of homegrown alternative with Rafael, Elbi - The Times of India |
-| 2026-08-22 18:19 | Israel | 通报 | Israel | 待确认 | C | Israeli premier turns to anti-Türkiye campaign as polls show Likud losing ground - Anadolu Ajansı |
-| 2026-08-22 18:16 | Israel | 发射 | Iran | 待确认 | C | Yemen’s Iran-backed Houthi movement claims responsibility for third missile attack on Israel - News On AIR |
-| 2026-08-22 18:13 | 未明确 | 通报 | 未明确 | 待确认 | C | Mecca Agreement: A Muslim Nato or yet another Baghdad Pact? - Middle East Eye |
-| 2026-08-22 17:49 | US | 通报 | Iran | 伤亡 | C | US-Israel-Iran War Latest Live News: Pentagon Says 18 US Troops Killed, 756 Wounded in Iran War; Total Military Casualties Reach 774 - The Sunday Guardian |
-| 2026-08-22 17:34 | US | 空袭 | Iran | 待确认 | C | Gulf region air travel disrupted amid US-Israel Strikes on Iran - News On AIR |
-| 2026-08-22 17:30 | US | 通报 | Iran | 待确认 | C | West Asia conflict enters its fourteenth day with no signs of easing, as intense fighting continues between US, Israel & Iran / Akashvani News - News On AIR |
-| 2026-08-22 17:27 | Israel | 通报 | Israel | 待确认 | C | Lebanon's Struggle to Control Hezbollah Amidst Israel Conflict - The Chenab Times |
-| 2026-08-22 17:19 | Israel | 通报 | Israel | 待确认 | C | Israel's military to investigate Gaza attacks, and other major developments in the Middle East - Ottumwa Courier |
-| 2026-08-22 17:19 | US | 通报 | Iran | 待确认 | C | Iran says new US sanctions violate sovereignty of other states - Al Jazeera |
-| 2026-08-22 17:04 | Israel | 通报 | Israel | 待确认 | C | Syria’s New Strategic Fault Line: Türkiye and Israel Face an Emerging Military Contest - Goa Chronicle |
-| 2026-08-22 17:02 | Israel | 通报 | Israel | 待确认 | C | Malaysia, Brunei condemn Israel's acts in Palestine, call for permanent ceasefire - NST Online |
-| 2026-08-22 17:00 | Israel | 发射 | Tehran | 设施受损 | C | Iran launches missile and drone attacks across Gulf as Israel strikes Tehran infrastructure / Akashvani News - News On AIR |
-| 2026-08-22 16:39 | Iran | 通报 | Iran | 待确认 | C | Iranian army says its military doctrine shifting from ‘defensive to offensive’ - Middle East Monitor |
-| 2026-08-22 16:26 | US | 通报 | 未明确 | 待确认 | C | Has US strategy towards the Middle East changed after the war? - Middle East Monitor |
-| 2026-08-22 16:03 | US | 通报 | Iran | 待确认 | C | Despite US War on Iran, This Pact Could Reshape the Middle East - Inkstick Media |
-| 2026-08-22 15:57 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Iran Army Warns of ‘Broader’ Response to Any Attack, Says Military Posture Has Shifted From Defensive to Offensive - The Sunday Guardian |
-| 2026-08-22 15:57 | US | 通报 | Tehran | 待确认 | C | Iran was live: Tehran says new US sanctions are ‘declaration of war’ - Arabian Business |
-| 2026-08-22 15:43 | US | 通报 | Iran | 待确认 | C | Iran says new US sanctions violate sovereignty of other states - Muslim Network TV |
-| 2026-08-22 15:42 | US | 发射 | Iran | 待确认 | C | Middle East Violence Escalates as Iran and Joint US‑Israel Forces Launch New Missile & Drone Waves - News On AIR |
-| 2026-08-22 15:14 | US | 通报 | Israel | 待确认 | C | The US adopts a new classification and Israel plans its offensive, tightening the noose around Hezbollah - L'Orient Today |
-| 2026-08-22 15:05 | US | 通报 | Iran | 待确认 | C | Iran Dismisses 'Unprecedented' Sanctions Proposed By US - Radio Free Europe/Radio Liberty |
-| 2026-08-22 14:30 | US | 通报 | Tehran | 待确认 | C | Iranian President Masoud Pezeshkian said it was time to end the months-long Middle East war with the United States because Tehran appeared to be in a stronger position than Washington. / via ANC 24/7 Link to full story in the comment section. - facebook.com |
-| 2026-08-22 14:27 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Live News: Commercial Traffic Through Strait of Hormuz Remains at Just 20% Due to Ongoing Iranian Military Activity & Maritime Security Risks - The Sunday Guardian |
-| 2026-08-22 14:21 | Iran | 通报 | Iran | 待确认 | C | Trump says Iran not ready for 'right deal' amid economic pressure - Yeni Safak English |
-| 2026-08-22 14:13 | US | 空袭 | Iran | 命中 | C | US-Israel-Iran War Latest News: Lebanon’s Ali Al-Tahir Heights Hit Again by Israeli Strikes as Regional Tensions Rise - The Sunday Guardian |
-| 2026-08-22 14:12 | Israel | 通报 | Israel | 待确认 | C | Israel to probe killing of 5-year-old Hind Rajab by its army in 2024 - malaysiasun.com |
-| 2026-08-22 14:06 | Israel | 通报 | Israel | 待确认 | C | Mount Ali al-Tahir: Lebanon's Flashpoint Ahead of Israeli Attack - Daily Beirut |
-| 2026-08-22 13:47 | US | 通报 | 未明确 | 待确认 | C | Trump calls Strait of Hormuz ‘American territory’ - The Siasat Daily |
+| 2026-08-23 08:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post |
+| 2026-08-23 07:27 | US | 通报 | Iran | 待确认 | C | Iran warns nearby nations against joining US ‘economic war’ efforts - Al Jazeera |
+| 2026-08-23 05:44 | US | 空袭 | Syria | 待确认 | C | IDF Strike on Syria Airbase Spurs CENTCOM Concerns - Pakistan Today |
+| 2026-08-23 05:43 | 未明确 | 空袭 | Lebanon | 命中 | C | Shafaq News..Strikes hit areas in southern Lebanon - شفق نيوز |
+| 2026-08-23 05:29 | US | 通报 | Iran | 待确认 | C | Israel’s air force says it dropped over 1,200 munitions across 24 of Iran’s 31 provinces over past day in its joint attack with US / Akashvani News - News On AIR |
+| 2026-08-23 05:20 | US | 发射 | Iran | 待确认 | C | Middle East Violence Escalates as Iran and Joint US‑Israel Forces Launch New Missile & Drone Waves - News On AIR |
+| 2026-08-23 04:59 | Iran | 通报 | Iran | 待确认 | C | Iran security chief threatens neighbors against economic measures, and other Mideast developments - Union-Bulletin |
+| 2026-08-23 04:53 | Israel | 通报 | Iran | 待确认 | C | Mecca pact redraws threat matrix for India, Iran, Israel - The Sunday Guardian |
+| 2026-08-23 04:36 | 未明确 | 通报 | 未明确 | 待确认 | C | Conflict in West Asia escalates as several countries are becoming involved; Fighting is spreading across different parts of region / Akashvani News - News On AIR |
+| 2026-08-23 04:21 | US | 空袭 | Iran | 命中 | C | West Asia conflict escalates as US‑Israel strikes hit Iran, US Embassy attacked in Riyadh / Akashvani News - News On AIR |
+| 2026-08-23 04:05 | Israel | 通报 | Israel | 待确认 | C | Barrack Reveals Secret Israel-Syria Talks, Warns Small Military Mistake Could Spark World War III - Kurdistan24 |
+| 2026-08-23 03:52 | Israel | 通报 | Israel | 待确认 | C | Canadian official condemns Israel’s 'unlawful invasion' and announces new aid to Lebanon - AOL.com |
+| 2026-08-23 03:34 | US | 通报 | Iran | 待确认 | C | US Secretary of War & Pentagon chief, Pete Hegseth, says upcoming days of war with Iran to be decisive - News On AIR |
+| 2026-08-23 03:08 | Iran | 通报 | Iran | 待确认 | C | Iran war latest: Iraqi oil tankers given permission to pass through Hormuz - thenationalnews.com |
+| 2026-08-23 02:51 | Israel | 空袭 | Tehran | 待确认 | C | Israel reports fresh airstrikes on Iranian targets east of Tehran / Akashvani News - News On AIR |
+| 2026-08-23 02:48 | Iran | 通报 | Iran | 待确认 | C | Day 176 / Key Iranian trading partner China rejects Trump’s ‘economic D-Day’ threat - Roya News |
+| 2026-08-23 02:39 | US | 通报 | Tehran | 待确认 | C | Iran's defense surges as US war machine crumbles - Tehran Times |
+| 2026-08-23 02:23 | US | 通报 | Iran | 待确认 | C | West Asia Conflict enters seventh day; US President Trump rules out any deal with Iran and calls for unconditional surrender / Akashvani News - News On AIR |
+| 2026-08-23 02:19 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Iran Permits Iraqi Oil Tankers to Pass Through Strait of Hormuz as Trump Claims ‘US Has Total Control’ Amid Escalating Regional War - The Sunday Guardian |
+| 2026-08-23 02:05 | US | 通报 | 未明确 | 待确认 | C | CENTCOM says 660 million barrels of oil crossed Strait of Hormuz - Daily Times |
+| 2026-08-23 02:00 | Israel | 通报 | Israel | 待确认 | C | U.S. Special Envoy Tom Barrack Contradicts Trump Policy, Claims Israel ‘Occupies’ Golan Heights - legalinsurrection.com |
+| 2026-08-23 01:25 | Iran | 通报 | Tehran | 待确认 | C | Egypt speaks with Iran after Tehran claims victory, and other Middle East developments - Voice of Alexandria |
+| 2026-08-23 01:24 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Egypt & Iran Push for Regional De-escalation as Strait of Hormuz Oil Flows Fall to 8M Barrels a Day After 60-Day MoU - The Sunday Guardian |
+| 2026-08-23 01:22 | US | 通报 | Iran | 待确认 | C | ‘US Put Allies At Risk For Israel’: Iran Claims Neighbours Seek New Security Arrangements - News18 |
+| 2026-08-23 01:16 | US | 通报 | Iran | 待确认 | C | Iran’s parliamentary speaker accuses US secretly planning ground invasion - News On AIR |
+| 2026-08-23 01:15 | US | 通报 | Iran | 待确认 | C | The ceasefire has expired. How could the US-Iran war escalate? - The Times |
+| 2026-08-23 01:06 | 未明确 | 通报 | 未明确 | 待确认 | C | West Asia conflict enters more intense phase with military activity spreading across several fronts / Akashvani News - News On AIR |
+| 2026-08-23 00:59 | US | 空袭 | Israel | 待确认 | C | Israeli military strike southern Lebanon with phosphorus shells, airstrikes - Türkiye Today |
+| 2026-08-23 00:22 | Iran | 通报 | Iran | 待确认 | C | Persuasion, denial and bluster: Trump ‘stuck’ on Iran war ahead of elections - The Guardian |
+| 2026-08-23 00:21 | US | 通报 | Iran | 待确认 | C | Iran condemns new US sanctions; Donald Trump warns countries against providing lifeline - The Jerusalem Post |
+| 2026-08-23 00:16 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Iran Says ‘Entire World’ Accepted Its Victory Over US as Strait of Hormuz Standoff Escalates - The Sunday Guardian |
+| 2026-08-23 00:13 | Iran | 通报 | Iran | 待确认 | C | Iran was live: Iran condemns ‘toughest sanctions in history’ threat - Arabian Business |
+| 2026-08-22 23:49 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: French President Emmanuel Macron, Saudi Crown Prince Mohammed Bin Salman To Discuss Bypassing Strait Of Hormuz As ‘Shipping Crisis’ Deepens - The Sunday Guardian |
+| 2026-08-22 23:43 | US | 通报 | Iran | 待确认 | C | Nifty, Sensex Down 8% Amid Iran-US War, Crude Oil At Sky High: How Past Geopolitical Crises Have Shaped Market - Goodreturns |
+| 2026-08-22 23:05 | 未明确 | 空袭 | Lebanon | 待确认 | C | West Asia Conflict: Two-week ceasefire holding despite recent strikes on Lebanon - News On AIR |
+| 2026-08-22 22:59 | Israel | 空袭 | Israel | 待确认 | C | Two Israeli raids reported in southern Lebanon as border tensions continue to escalate - Business Upturn |
+| 2026-08-22 22:56 | US | 通报 | 未明确 | 待确认 | C | CENTCOM Says 660 Million Barrels of Oil Moved Through Strait of Hormuz Since May - newsalert.com.pk |
+| 2026-08-22 22:40 | US | 通报 | Iran | 待确认 | C | Iran claims neighbours seek new security order, says 'US put allies at risk for Israel' - Moneycontrol.com |
+| 2026-08-22 22:28 | US | 通报 | 未明确 | 待确认 | C | CENTCOM claims 660m barrels of oil moved through Strait of Hormuz since May - Geo News |
+| 2026-08-22 22:21 | US | 通报 | Iran | 伤亡 | C | Iran War Casualties Cross 770 as Israel’s E1 Plan Deepens Cracks in US-Led West Asia Order - Open Magazine |
