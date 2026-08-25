@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-08-24 20:39
+更新时间（北京时间）: 2026-08-25 08:59
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-08-24 20:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post |
-| 2026-08-24 19:24 | 未明确 | 通报 | Jerusalem | 待确认 | C | Turkey is rival, not enemy, amid ongoing Middle East shift, officials say - The Jerusalem Post |
-| 2026-08-24 19:20 | US | 通报 | Iran | 命中 | C | US-Israel-Iran War Latest Live News: India Faces Record LNG Prices as Hormuz Disruptions Hit Energy Supplies; GAIL, GSPC Pay Over $23/MMBtu - The Sunday Guardian |
-| 2026-08-24 19:16 | Israel | 通报 | Israel | 待确认 | C | Uganda and Burundi military officials visit Israel to discuss Gaza troop deployment - The Washington Post |
-| 2026-08-24 18:54 | US | 通报 | Iran | 命中 | C | US-Israel-Iran War Latest Live News: Iranian Hackers Disrupt UK Power Plant, Tanker Hit Near Saudi Arabia; China Reacts to New US Iran Sanctions - The Sunday Guardian |
-| 2026-08-24 18:25 | US | 通报 | Iran | 待确认 | C | US threatens toughest sanctions yet against Iran: What we know - Al Jazeera |
-| 2026-08-24 18:13 | US | 通报 | Iran | 待确认 | C | China urges Middle East de-escalation amid US-Iran-Israel conflict - Crypto Briefing |
-| 2026-08-24 17:45 | Iran | 通报 | Iran | 伤亡 | C | Pakistan’s army chief back in Iran: Can he break peace talks deadlock? - Al Jazeera |
-| 2026-08-24 17:45 | Iran | 通报 | Tehran | 待确认 | C | Pakistani army chief departs for Tehran to meet Iranian officials - Muslim Network TV |
-| 2026-08-24 17:44 | US | 通报 | Iran | 待确认 | C | CENTCOM Says 70 Commercial Vessels Rerouted Amid Naval Blockade of Iran - 8AM Media |
-| 2026-08-24 17:26 | US | 通报 | Iran | 待确认 | C | US threat of ‘economic D-Day’ for Iran tests Trump’s China detente - Al Jazeera |
-| 2026-08-24 17:15 | US | 通报 | Iran | 待确认 | C | US-Iran War: How Rising Petrol Prices Could Put a Bigger Hole In Your Pocket - Outlook India |
-| 2026-08-24 17:15 | 未明确 | 通报 | 未明确 | 待确认 | C | U.S. envoy clarifies his comments on Golan Heights that contradicted Trump's position - The Tribune-Democrat |
-| 2026-08-24 17:02 | Israel | 空袭 | Israel | 待确认 | C | IDF strikes Ali Taher Ridge in southern Lebanon - worldisraelnews.com |
-| 2026-08-24 17:00 | Israel | 通报 | Iran | 待确认 | C | The Rising Cost of America’s War With Iran - israeldefense.co.il |
-| 2026-08-24 16:49 | US | 空袭 | Iran | 待确认 | C | US-Israel-Iran War Live: Iran Vows to Use ‘All Bilateral Capabilities’ Against New US Sanctions, Calls Them ‘Unlawful’ – Tanker On Fire After ‘Unknown Projectile’ Strike - The Sunday Guardian |
-| 2026-08-24 16:39 | Israel | 空袭 | Tehran | 待确认 | C | Israel reports fresh airstrikes on Iranian targets east of Tehran / Akashvani News - News On AIR |
-| 2026-08-24 16:01 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Iran Claims IRGC Uses ‘Tracking Methods’ Unknown to US Forces, Warns ‘Not a Single Drop of Oil Will Be Exported’ Amid US Economic Pressure - The Sunday Guardian |
-| 2026-08-24 16:01 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Asim Munir Returns to Iran; Can Pakistan’s Army Chief Unlock the Stalled US-Iran Peace Talks? - The Sunday Guardian |
-| 2026-08-24 15:30 | Iran | 通报 | Iran | 待确认 | C | How much more are you spending on petrol since the war on Iran began? - Al Jazeera |
-| 2026-08-24 15:09 | US | 通报 | Tehran | 待确认 | C | Iran-US war latest: Trump’s ‘economic D-Day’ arrives as Tehran threatens ‘earthquake-like’ retaliation - Newswav |
-| 2026-08-24 15:03 | Israel | 空袭 | Israel | 待确认 | C | Lebanon sea turtle conservationist Mona Khalil dies after wounds from Israeli strike - Goodreturns |
-| 2026-08-24 14:46 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Live News: Brent Oil Drops 1% to $93.43 as Iran Threatens to Halt Gulf Exports Over New US Sanctions – US Unveils ‘Greatest Financial Offensive’ - The Sunday Guardian |
-| 2026-08-24 14:16 | US | 通报 | Tehran | 待确认 | C | US-Israel-Iran War Latest News: Iran Rejects ‘Desperate’ US New Sanctions, Bessent Warns of ‘Endgame’ Against Tehran – Iran Seeks ‘Respectful Dialogue’ - The Sunday Guardian |
-| 2026-08-24 14:11 | US | 通报 | Iran | 待确认 | C | Iran-US War Update LIVE / Donald Trump / Strait Of Hormuz /Israel Iran America War News / 27May N18G Millwall Vs Hull (eakSwvkuYw) - Mshale |
-| 2026-08-24 13:47 | Iran | 通报 | Iran | 待确认 | C | Iranian parliamentary committee approves fees on ships using Strait of Hormuz - The Express Tribune |
-| 2026-08-24 13:42 | US | 通报 | Tehran | 待确认 | C | US-Israel-Iran War Latest Live News: Omani Foreign Minister Badr Albusaidi to Visit Tehran for Talks with Iran Officials on Strait of Hormuz - The Sunday Guardian |
-| 2026-08-24 13:09 | Iran | 通报 | Tehran | 待确认 | C | Pakistan Army Chief To Visit Tehran Amid Mediation Efforts - Radio Free Europe/Radio Liberty |
-| 2026-08-24 12:55 | Israel | 通报 | Israel | 待确认 | C | EU Opposes Israel E1 Settlement Plan / West Bank / Joint Statement - Aaj News - Aaj English TV |
-| 2026-08-24 12:52 | Israel | 通报 | Iran | 待确认 | C | Russia Ready To Mediate Iran Conflict, But Says Israel Can Join Only Via Washington / DETAILS - The Times of India |
-| 2026-08-24 12:22 | Israel | 通报 | Iran | 待确认 | C | 'Fighting Israel's War, Obeying Bibi': Frustrated U.S. Troops EXPOSE Trump's Iran Campaign On Cam - The Times of India |
-| 2026-08-24 11:30 | Israel | 空袭 | Israel | 待确认 | C | Israeli air strikes in Gaza kill two people, including a 4-year-old boy - Aaj English TV |
-| 2026-08-24 11:26 | US | 通报 | Iran | 待确认 | C | US Israel Iran War Latest News: ‘Economic War’ Crosses Red Line? Iran Threatens Gulf Oil Halt As Bessent Warns ‘Economic D-Day’ - The Sunday Guardian |
-| 2026-08-24 11:14 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live Updates: Iran Warns ‘Not A Single Drop Of Oil Will Be Exported’ If US ‘Economic War’ Continues - The Sunday Guardian |
-| 2026-08-24 10:47 | Israel | 通报 | Israel | 待确认 | C | Israel orders people to leave swathe of Beirut - DD News |
-| 2026-08-24 10:42 | US | 通报 | Iran | 待确认 | C | Oil falls ahead of US announcement on new Iran sanctions - The Business Standard |
-| 2026-08-24 10:29 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live Updates: Oil Prices Dip As Iran Threatens To Halt Crude Flow Through Strait Of Hormuz, Brent Falls To $93.77 - The Sunday Guardian |
-| 2026-08-24 10:17 | US | 通报 | Tehran | 待确认 | C | US set to unveil Iran sanctions as Tehran threatens oil blockade - The Siasat Daily |
-| 2026-08-24 10:01 | US | 空袭 | Iran | 伤亡 | C | WATCH: Deadly strike in Gaza, Iran concedes US sanctions causing ‘many problems’ - The Daily Telegraph |
-| 2026-08-24 09:59 | US | 通报 | Iran | 待确认 | C | Not a single drop of oil will be exported if US economic war persists: Iran - Business Standard |
+| 2026-08-25 08:45 | Israel | 通报 | Iran | 待确认 | C | #ISRAELIRANWAR. Iran has been invited to join the Mecca Defense Pact. Israel controls approximately 42% of the West Bank. IDF is bombing desalination plants in Gaza - agc communication news |
+| 2026-08-25 08:25 | Iran | 通报 | Iran | 命中 | C | Ship Struck In Strait Of Hormuz Hours After Trump's "Economic D-Day" Campaign On Iran Unveiled - TWZ |
+| 2026-08-25 08:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post |
+| 2026-08-25 08:00 | US | 通报 | Iran | 待确认 | C | Pakistan army chief in Iran to mediate between US and Iran - Muslim Network TV |
+| 2026-08-25 07:30 | Israel | 通报 | Israel | 待确认 | C | Israeli attacks kill two Palestinians in Gaza despite ceasefire - Muslim Network TV |
+| 2026-08-25 06:21 | 未明确 | 通报 | 未明确 | 待确认 | C | Around 150 newly arrived Rohingya seek UNHCR help each week - Muslim Network TV |
+| 2026-08-25 06:00 | Israel | 通报 | Israel | 待确认 | C | Israeli military operations across Lebanon intensified as Israel expand buffer zone in southern part of country - News On AIR |
+| 2026-08-25 05:51 | US | 通报 | Tehran | 待确认 | C | US-Israel-Iran War Latest Live News: ‘They Are Desperate’ – Tehran Says New US Sanctions ‘Will Fail’ as Trump Escalates Pressure - The Sunday Guardian |
+| 2026-08-25 05:46 | Israel | 通报 | Israel | 待确认 | C | West Asia conflict highlights: Trump announces 10-day Israel-Lebanon ceasefire, plans historic leaders’ summit - Mid-Day |
+| 2026-08-25 05:38 | US | 通报 | Iran | 待确认 | C | US public support for Iran war falls as Trump approval at record low: Poll - Al Jazeera |
+| 2026-08-25 05:16 | 未明确 | 通报 | Beirut | 待确认 | C | From Fairouz’s Beirut to the new Levant: Turkiye hedges amid alliance, escalation and great-power bargaining - Middle East Transparent |
+| 2026-08-25 05:14 | Israel | 发射 | Iran | 待确认 | C | Yemen’s Iran-backed Houthi movement claims responsibility for third missile attack on Israel - News On AIR |
+| 2026-08-25 04:53 | US | 通报 | Iran | 待确认 | C | Iran issues warning to countries working with US - WYMT |
+| 2026-08-25 04:47 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: ‘…Kill Barron Trump’ – Iran State TV Airs Chilling Threat Against Donald Trump’s Son, Claims $10 Million Bounty - The Sunday Guardian |
+| 2026-08-25 04:34 | 未明确 | 通报 | 未明确 | 待确认 | C | West Asia conflict enters more intense phase with military activity spreading across several fronts / Akashvani News - News On AIR |
+| 2026-08-25 04:23 | Iran | 通报 | Iran | 待确认 | C | Iran’s President Masoud Pezeshkian Says Neighbouring Countries Will No Longer Be Targeted Unless Provoked - News On AIR |
+| 2026-08-25 04:22 | US | 通报 | Iran | 待确认 | C | Iran’s parliamentary speaker accuses US secretly planning ground invasion - News On AIR |
+| 2026-08-25 04:17 | US | 通报 | Iran | 待确认 | C | Iran warns of a harsh response as US announces new sanctions and other Middle East news - AP News |
+| 2026-08-25 03:56 | Iran | 通报 | Iran | 待确认 | C | U.S. Has ‘Probably Permanently Lost 15 Gulf Bases’ In Trump’s Iran War, Retired General W... - upolitics.com |
+| 2026-08-25 03:48 | US | 通报 | Iran | 待确认 | C | US support for Iran war falls to 31% as Trump approval remains at record low- poll - The Jerusalem Post |
+| 2026-08-25 03:36 | 未明确 | 通报 | 未明确 | 待确认 | C | When NGO Allegations Become Media Facts - Honest Reporting |
+| 2026-08-25 03:15 | US | 通报 | Iran | 待确认 | C | CENTCOM Says 71 Ships Redirected Under Iran Blockade, but Only Three Disabled - The Eastern Herald |
+| 2026-08-25 03:07 | Israel | 空袭 | Israel | 命中 | C | Israeli strikes hit several commercial and residential areas in central Beirut, Lebanon - News On AIR |
+| 2026-08-25 03:00 | 未明确 | 通报 | 未明确 | 待确认 | C | MJDA: prospects and misgivings - The News Pakistan |
+| 2026-08-25 02:57 | Israel | 通报 | Israel | 待确认 | C | Israel Just Redrew the Map in Syria and Lebanon. Containment Is Over and Forward Deterrence Has Begun - Middle East Forum |
+| 2026-08-25 02:54 | 未明确 | 通报 | 未明确 | 待确认 | C | UN chief says food supply 'collateral damage' in Strait of Hormuz conflict - Rudaw |
+| 2026-08-25 02:48 | Israel | 空袭 | Israel | 伤亡 | C | Today's Headlines: 4-Year-Old Killed in Gaza / Israel Intensifies Lebanon Strikes / 'Absolutely Urgent' - Palestine Chronicle |
+| 2026-08-25 02:38 | US | 通报 | Tehran | 待确认 | C | Iran war latest: Tehran ‘fully prepared’ for sanctions as US threatens to ‘tighten the noose’ - Newswav |
+| 2026-08-25 02:37 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Israeli PM Benjamin Netanyahu Claims Iran ‘Tried to Kill One of My Sons’ Amid Rising Middle East Tensions - The Sunday Guardian |
+| 2026-08-25 02:22 | Israel | 空袭 | Israel | 待确认 | C | Washington Policy Weekly: Washington Challenges Israel Over Strike on Syrian Airbase - Arab Center Washington DC |
+| 2026-08-25 02:12 | US | 通报 | Iran | 命中 | C | US-Israel-Iran War News: US Oil Reserve Hits 44-Year Low – Strategic Petroleum Reserve Falls to 289.7 Million Barrels, Lowest Since 1982, as Trump Draws Crude Amid Iran War - The Sunday Guardian |
+| 2026-08-25 02:08 | US | 通报 | Iran | 待确认 | C | Economic D-Day: Will US Sanctions Crush Iran’s Ayatollah Regime? - TV7 Israel News |
+| 2026-08-25 02:08 | US | 通报 | Iran | 待确认 | C | Israel, Syria hold talks in Jordan; Iran warns against aiding US sanctions TV7 Israel News 24 Aug. - TV7 Israel News |
+| 2026-08-25 02:07 | 未明确 | 通报 | 未明确 | 待确认 | C | U.S. ambassador clarifies comments on Golan Heights that contradicted Trump's position - PBS |
+| 2026-08-25 02:04 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Trump Says ‘We’re Winning Against Everyone, Including Iran’ as US Strategic Oil Reserve Falls 3.7M Barrels - The Sunday Guardian |
+| 2026-08-25 01:53 | Iran | 通报 | Iran | 待确认 | C | Has Iran permanently altered America’s military footprint in the Gulf? - thecanary.co |
+| 2026-08-25 01:50 | 未明确 | 通报 | 未明确 | 待确认 | C | UN offers to facilitate fertilizer transit through Hormuz - Gulf News |
+| 2026-08-25 01:29 | Israel | 发射 | Tehran | 设施受损 | C | Iran launches missile and drone attacks across Gulf as Israel strikes Tehran infrastructure / Akashvani News - News On AIR |
+| 2026-08-25 01:23 | Israel | 通报 | Israel | 待确认 | C | October 7 victims’ families warn Israel risks repeating prewar security failures - worldisraelnews.com |
+| 2026-08-25 01:20 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Trump Targets Canada With 50% Tariffs, Says ‘Won’t Treat Them Like a State’ as Iran Faces ‘Economic D-Day’ Sanctions - The Sunday Guardian |
