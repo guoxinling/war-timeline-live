@@ -1,40 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-08-27 14:58
+更新时间（北京时间）: 2026-08-28 05:39
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-08-27 14:48 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: Iran Calls US Sanctions ‘Economic Terrorism’; Demands Compensation And Reparations - The Sunday Guardian |
-| 2026-08-27 14:33 | Iran | 通报 | Iran | 待确认 | C | Six months on, Trump’s Iran war has no end in sight - The Siasat Daily |
-| 2026-08-27 14:06 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Strait of Hormuz Ship Traffic Remains Low Amid Ongoing US-Iran Standoff - The Sunday Guardian |
-| 2026-08-27 13:55 | Israel | 空袭 | Iran | 待确认 | C | Israel intensifies strikes on south Lebanon; Iran, Oman negotiate Hormuz deal: Everything you need to know this Thursday - L'Orient Today |
-| 2026-08-27 13:14 | Iran | 通报 | Iran | 待确认 | C | Six consequences of six months of war in Iran - Reuters |
-| 2026-08-27 12:51 | US | 通报 | Israel | 待确认 | C | Israel Continues Military Operations in Syria and Lebanon Amidst US Diplomatic Efforts - ABC NEWS NEPAL |
-| 2026-08-27 12:37 | US | 通报 | Israel | 待确认 | C | Israel continues attacks on Syria, Lebanon despite US push for diplomacy - Al Jazeera |
-| 2026-08-27 11:07 | Iran | 通报 | Tehran | 待确认 | C | Qatari PM Heading To Tehran To Discuss Hormuz, De-Escalation - Big News Network.com |
-| 2026-08-27 10:55 | US | 通报 | Tehran | 待确认 | C | Qatar’s prime minister to visit Tehran, seeking to revive US-Iran talks - Al Jazeera |
-| 2026-08-27 10:48 | US | 通报 | Iran | 待确认 | C | US-Iran ceasefire deal shows strain ahead of talks with oil flows squeezed - DD News |
-| 2026-08-27 10:31 | Hezbollah | 通报 | 未明确 | 待确认 | C | Ramat David airbase Hezbollah attack is AI-generated - The Guardian Nigeria News |
-| 2026-08-27 10:17 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: Iranian Warship Confronts Indian Oil Tanker HAANA In Hormuz, Vessel Forced To Turn Back - The Sunday Guardian |
-| 2026-08-27 10:14 | Iran | 通报 | Tehran | 待确认 | C | Qatar PM to visit Tehran to pursue mediation efforts - WSAU |
-| 2026-08-27 09:20 | Israel | 通报 | Israel | 待确认 | C | Malaysia must watch the Israel –Turkey fault line in Syria closely too — Phar Kim Beng - Newswav |
-| 2026-08-27 09:20 | 未明确 | 通报 | 未明确 | 待确认 | C | Oil extends losses on hopes for Middle East talks to ease supply woes - Reuters |
-| 2026-08-27 08:38 | 未明确 | 通报 | 未明确 | 待确认 | C | Global oil transports reach half pre-war volume with U.S. controlling southern lane of Strait of Hormuz - Must Read Alaska |
-| 2026-08-27 08:09 | US | 通报 | Iran | 待确认 | C | After six months of Iran war, US goals have shifted. The Strait of Hormuz is now a top concern - ABC27 |
-| 2026-08-27 08:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post |
-| 2026-08-27 07:16 | 未明确 | 通报 | 未明确 | 待确认 | C | West Asia conflict enters more intense phase with military activity spreading across several fronts / Akashvani News - News On AIR |
-| 2026-08-27 06:52 | US | 通报 | 未明确 | 待确认 | C | Alleged Kata’ib Hezbollah commander accused of plotting attacks on synagogues demands POW status - JNS.org |
-| 2026-08-27 06:17 | Israel | 发射 | Tehran | 设施受损 | C | Iran launches missile and drone attacks across Gulf as Israel strikes Tehran infrastructure / Akashvani News - News On AIR |
-| 2026-08-27 05:38 | 未明确 | 通报 | 未明确 | 待确认 | C | Conflict in West Asia escalates as several countries are becoming involved; Fighting is spreading across different parts of region / Akashvani News - News On AIR |
-| 2026-08-27 04:57 | Iran | 通报 | Iran | 待确认 | C | Trump declares ‘Mission Accomplished’ in Iran, as conflict drags on - South China Morning Post |
-| 2026-08-27 04:45 | Israel | 空袭 | Tehran | 待确认 | C | Israel Strikes Basij and Internal Security Command Centres in Tehran - News On AIR |
-| 2026-08-27 04:37 | Israel | 空袭 | Tehran | 待确认 | C | Israel reports fresh airstrikes on Iranian targets east of Tehran / Akashvani News - News On AIR |
-| 2026-08-27 04:32 | 未明确 | 通报 | Lebanon | 待确认 | C | Lebanon awaits Security Council session on alternatives to UNIFIL as Aoun backs negotiations - arabnews.jp |
-| 2026-08-27 04:24 | US | 空袭 | Iran | 待确认 | C | Oil Prices Rise as US, Iran Trade Strikes, Israel Moves Further Into Lebanon - EnergyNow |
-| 2026-08-27 03:51 | US | 通报 | Iran | 待确认 | C | Iran puts Europe on notice as US shifts to economic warfare - The Hill |
-| 2026-08-27 03:46 | US | 通报 | Tehran | 待确认 | C | US-Israel-Iran War Latest Live News: Iran FM Calls New US Sanctions ‘Economic Terrorism’ as Qatar PM Heads to Tehran for De-escalation Talks Amid Strait of Hormuz Tensions - The Sunday Guardian |
-| 2026-08-27 03:39 | Israel | 空袭 | Israel | 待确认 | C | Israel relentlessly attacking Mansouri, in Sour, with artillery shells and a strike / LIVE - L'Orient Today |
-| 2026-08-27 03:29 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran Latest Live News: ‘I Have No Time Schedule’ – Trump Says He Is Not in a Hurry for Iran Talks as US Escalates Pressure - The Sunday Guardian |
-| 2026-08-27 03:14 | US | 通报 | Iran | 待确认 | C | Top Israeli, US military officials assess Iran war lessons, future cooperation - All Israel News |
+| 2026-08-28 05:24 | US | 发射 | Iran | 待确认 | C | US Patriot missile in Europe reach ‘beyond critical’ levels amid Iran war - Muslim Network TV |
+| 2026-08-28 04:45 | Iran | 通报 | Iran | 待确认 | C | The Iran War at Six Months: A Region—and Its Relationship With the U.S.—Transformed - Council on Foreign Relations |
+| 2026-08-28 04:36 | Israel | 通报 | Israel | 待确认 | C | War: latest news. Lebanon: Israel says no to Italian forces in ‘pilot zones’. NYT: war possible following Riyadh’s response to Houthi attacks - Il Sole 24 ORE |
+| 2026-08-28 04:31 | US | 空袭 | Israel | 命中 | C | Israeli airstrikes hit Lebanon despite US truce deal - Yeni Safak English |
+| 2026-08-28 04:26 | US | 通报 | Iran | 待确认 | C | US military to start maritime blockade of Iranian ports following Trump’s orders to block Strait of Hormuz - News On AIR |
+| 2026-08-28 04:16 | Israel | 空袭 | Israel | 待确认 | C | Video: Israeli strike kills newlywed woman in south Lebanon - Al Jazeera |
+| 2026-08-28 03:41 | Israel | 空袭 | Lebanon | 待确认 | C | IDF Strikes in Lebanon Kill One, Wound Six, Including Child, Woman - Haaretz |
+| 2026-08-28 03:37 | Israel | 通报 | Israel | 待确认 | C | Shafaq News..Israel: South Lebanon pilot zone program has failed - شفق نيوز |
+| 2026-08-28 02:48 | Israel | 通报 | Israel | 待确认 | C | Israeli rhetoric on southern Lebanon raises fears of collective punishment - Arab News PK |
+| 2026-08-28 02:39 | 未明确 | 通报 | 未明确 | 待确认 | C | SHER E PUNJAB - Sher-E-Punjab Radio |
+| 2026-08-28 02:35 | Israel | 通报 | Iran | 待确认 | C | Israel backs Trump's Gaza plan; Iran bars IAEA from bombed sites TV7 Israel News - 27 Aug. - TV7 Israel News |
+| 2026-08-28 02:31 | US | 通报 | Iran | 待确认 | C | US-Israel Iran War: 'Oil Market May Face Drastic Consequences,' Says ARAMCO CEO Amin H. Nasser Nicki Minaj (Sexd3OZxNe) - Mshale |
+| 2026-08-28 02:04 | Israel | 空袭 | Israel | 命中 | C | Israeli strikes hit southern Lebanon, killing woman - Yahoo |
+| 2026-08-28 02:03 | Iran | 通报 | Iran | 待确认 | C | After six months, the Iran war has reached its endgame — a costly stalemate - Reuters |
+| 2026-08-28 01:54 | Israel | 通报 | Israel | 待确认 | C | Israel Expels Dutch From Gaza Ceasefire Monitoring Center - teleSUR English |
+| 2026-08-28 01:36 | Israel | 空袭 | Israel | 待确认 | C | Israeli strike in southern Lebanon kills woman married 2 days earlier: News agency - Middle East Monitor |
+| 2026-08-28 01:34 | Iran | 通报 | Iran | 待确认 | C | As U.S. goals shift after 6 months of Iran war, Strait of Hormuz is now a top concern - PBS |
+| 2026-08-28 01:31 | Israel | 通报 | Israel | 命中 | C | IDF hits Hezbollah targets in south Lebanon; Beirut says newly-wed woman killed - The Times of Israel |
+| 2026-08-28 01:27 | US | 通报 | Iran | 待确认 | C | 6 months of war in Iran has left the Pentagon depleted and still fighting - ABC News - Breaking News, Latest News and Videos |
+| 2026-08-28 01:24 | US | 通报 | Iran | 伤亡 | C | US-Israel-Iran War Latest Live News: UN Envoy Warns Over Israeli Military Presence in Syria, Fighter Killed in Taiz Against Houthis - The Sunday Guardian |
+| 2026-08-28 01:24 | US | 通报 | Iran | 待确认 | C | The economic winners and losers of the US/Israel-Iran war - Khmer Times |
+| 2026-08-28 01:14 | US | 通报 | Iran | 待确认 | C | Shafaq News..Iran reports continued oil sales despite US blockade - شفق نيوز |
+| 2026-08-28 01:12 | Iran | 通报 | Iran | 待确认 | C | What is Iran's place in the post-war Middle East order? - The New Arab |
+| 2026-08-28 01:06 | Iran | 通报 | Iran | 待确认 | C | Qatar seeks Iran war exit as Hormuz tanker attack heightens tensions - India Today |
+| 2026-08-28 01:00 | US | 通报 | Iran | 待确认 | C | Trump’s war on Iran is rapidly draining US navy budget, documents and interviews reveal - The Guardian |
+| 2026-08-28 00:58 | Israel | 发射 | Israel | 待确认 | C | WATCH: IDF pounds southern Lebanon after Hezbollah drone attack - worldisraelnews.com |
+| 2026-08-28 00:35 | Israel | 空袭 | Israel | 待确认 | C | Newlywed Woman Slain in Israeli Airstrike Against Lebanon Village - news.antiwar.com |
+| 2026-08-28 00:30 | US | 通报 | Israel | 待确认 | C | The national security implications of the US-Saudi civil nuclear deal - TV7 Israel News |
+| 2026-08-28 00:27 | US | 通报 | Iran | 待确认 | C | Shafaq News..US reroutes 75 commercial vessels in Iran blockade - شفق نيوز |
+| 2026-08-28 00:26 | US | 通报 | Iran | 命中 | C | Oil Rises by Over $1 as White House Says No US-Iran Talks Happening - GV Wire |
+| 2026-08-28 00:14 | Israel | 空袭 | Israel | 待确认 | C | Israeli strike kills ‘newlywed’ woman in south Lebanon, wounds others - Al Jazeera |
+| 2026-08-27 23:50 | 未明确 | 通报 | 未明确 | 待确认 | C | West Asia conflict enters more intense phase with military activity spreading across several fronts / Akashvani News - News On AIR |
+| 2026-08-27 23:27 | Israel | 空袭 | Israel | 待确认 | C | Israeli strike kills Lebanese woman 2 days after her wedding - Region - World - Ahram Online |
+| 2026-08-27 23:13 | Israel | 通报 | Israel | 待确认 | C | Israel army prepares West Bank troop reinforcements ahead of Jewish holidays - Arab News |
+| 2026-08-27 23:13 | Israel | 空袭 | Israel | 待确认 | C | Lebanon state media says Israeli strike kills woman in south - Arab News |
+| 2026-08-27 22:42 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Iran Restores 40% of South Pars Gas Field Capacity as Qatar and Oman Push Strait of Hormuz Shipping Agreement - The Sunday Guardian |
+| 2026-08-27 22:17 | Israel | 发射 | Israel | 设施受损 | C | Israeli Military Strikes Hezbollah Infrastructure in Nabatieh Following Drone Attacks - صوت الإمارات |
+| 2026-08-27 22:13 | Israel | 通报 | Iran | 待确认 | C | 'Empty Coffers': Israel Military Chief Sounds Alarm Amid Lebanon Campaign, Iran Threat - NDTV Profit |
+| 2026-08-27 22:12 | US | 空袭 | Iran | 待确认 | C | Iran in 2026: Six months after the US/Israeli strikes - The House of Commons Library |
+| 2026-08-27 22:00 | Hezbollah | 通报 | 未明确 | 待确认 | C | Michel Issa says Hezbollah 'not making any steps' in the right direction during visit to Druze Sheikh Akl - L'Orient Today |
