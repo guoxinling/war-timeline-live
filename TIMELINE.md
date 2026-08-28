@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-08-28 16:46
+更新时间（北京时间）: 2026-08-29 05:40
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-08-28 15:25 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: Trump Says Iran Is In ‘Deep Trouble’, Rules Out Talks As US Keeps Military Option Open - The Sunday Guardian |
-| 2026-08-28 15:03 | US | 通报 | Iran | 待确认 | C | US-Israel war on Iran likely to become prolonged conflict, analysts say - Aaj English TV |
-| 2026-08-28 14:57 | 未明确 | 通报 | 未明确 | 待确认 | C | 6 months of West Asia war: Market winners, losers & the road ahead - Business Standard |
-| 2026-08-28 14:43 | US | 通报 | Iran | 待确认 | C | Six months after war; Iran stronger, Israel isolated as US fails to reshape West Asia - Mathrubhumi English |
-| 2026-08-28 14:41 | US | 通报 | 未明确 | 待确认 | C | CENTCOM Claims Completion of Mine Clearance Mission in the Strait of Hormuz - 아시아경제 |
-| 2026-08-28 14:37 | US | 通报 | 未明确 | 待确认 | C | US military claims facilitated transit of nearly 750M oil barrels in Hormuz strait - The New Region |
-| 2026-08-28 14:34 | Iran | 通报 | Iran | 待确认 | C | Watch: Six months into the Iran war: What has Trump accomplished? - BBC |
-| 2026-08-28 14:33 | Israel | 通报 | Israel | 待确认 | C | Israel threatens Gaza residents with expulsion over children’s kites - Muslim Network TV |
-| 2026-08-28 14:22 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: US Says Iranian Mines Cleared From Strait of Hormuz, Trump Allies Skeptical as Netanyahu’s Turkiye Policy Draws Focus - The Sunday Guardian |
-| 2026-08-28 14:04 | US | 通报 | 未明确 | 待确认 | C | War: latest news. US Command: shipping lanes through the Strait of Hormuz have been cleared of mines - Il Sole 24 ORE |
-| 2026-08-28 14:00 | Iran | 通报 | Iran | 待确认 | C | How the Iran war unfolded: every attack and oil price change – visualised - The Guardian |
-| 2026-08-28 13:25 | Iran | 通报 | Iran | 待确认 | C | Iran Demands End of War in Region to Open Hormuz, Trump Said Not Interested in June Deal - VOI.ID |
-| 2026-08-28 13:22 | US | 通报 | Iran | 待确认 | C | US forces clear Iranian mines from Strait of Hormuz as naval blockade holds: CENTCOM - Rudaw |
-| 2026-08-28 13:11 | Israel | 发射 | Israel | 待确认 | C | Israel Strikes Nabatieh After Accusing Hezbollah Of Drone Attack, Tensions Grip Lebanon / Videos - Hindustan Times |
-| 2026-08-28 13:05 | US | 通报 | Iran | 待确认 | C | US says Iranian-laid mines cleared from Strait of Hormuz, shipping lanes open - Mathrubhumi English |
-| 2026-08-28 12:54 | US | 通报 | Iran | 命中 | C | Trump turns to sanctions as US-Israel war on Iran hits six months - India Today |
-| 2026-08-28 12:35 | US | 通报 | Tehran | 待确认 | C | ‘Will send Netanyahu to hell’: Iran warns Israel, US over blockade; Why has Tehran warned of a severe confrontation? - news24online.com |
-| 2026-08-28 12:05 | US | 通报 | Iran | 待确认 | C | US says Iranian sea mines cleared from international shipping lanes in Strait of Hormuz - Moneycontrol.com |
-| 2026-08-28 12:01 | Iran | 通报 | Iran | 待确认 | C | Trump used to say he saw a quick end to his Iran war. Six months later, he claims he's in no hurry - Bozeman Daily Chronicle |
-| 2026-08-28 11:46 | Iran | 通报 | Iran | 待确认 | C | Iran War Diplomacy Turns Toward Reopening Hormuz - gCaptain |
-| 2026-08-28 11:23 | US | 通报 | Iran | 待确认 | C | US Israel Iran War Latest News: Iran Sets Conditions to Reopen Strait of Hormuz as Diplomacy Intensifies - The Sunday Guardian |
-| 2026-08-28 11:20 | US | 通报 | Iran | 命中 | C | Iran’s parliament speaker hits back at US Treasury secretary on foreign spending - Anadolu Ajansı |
-| 2026-08-28 11:17 | Iran | 通报 | Iran | 待确认 | C | Regional powers seek off-ramp from Iran war, and other Middle East developments - ABC News - Breaking News, Latest News and Videos |
-| 2026-08-28 11:00 | US | 通报 | Iran | 待确认 | C | 'Major milestone': Centcom says all Iranian sea mines have been cleared from the Strait of Hormuz - Firstpost |
-| 2026-08-28 10:55 | US | 通报 | 未明确 | 待确认 | C | US CENTCOM claims shipping lanes open in Strait of Hormuz - Anadolu Ajansı |
-| 2026-08-28 10:37 | US | 通报 | 未明确 | 待确认 | C | CENTCOM: Strait of Hormuz is open to shipping ᐉ News from Fakti.bg - World - fakti.bg |
-| 2026-08-28 10:30 | US | 通报 | 未明确 | 待确认 | C | CENTCOM says helped 1,500 vessels carrying 750 million barrels of oil cross Hormuz - Roya News |
-| 2026-08-28 10:29 | Iran | 通报 | Iran | 待确认 | C | Iran links Hormuz reopening to ending regional wars as Trump reportedly rejects return to June deal - CNBC |
-| 2026-08-28 10:20 | US | 通报 | Iran | 待确认 | C | US to deploy new aircraft carrier to Middle East as Iran conflict drags on - Newswav |
-| 2026-08-28 10:12 | US | 通报 | Iran | 待确认 | C | 'Major Milestone': US Says It Cleared Sea Mines Laid By Iran In Strait Of Hormuz / News18 - News18 |
-| 2026-08-28 09:55 | US | 通报 | Iran | 待确认 | C | Day 182 / US to ramp up economic war against Iran - Roya News |
-| 2026-08-28 09:40 | US | 通报 | Iran | 待确认 | C | 'Will send Netanyahu to hell’: Iran warns of ‘confrontation’ if US blockade continues - The Times of India |
-| 2026-08-28 09:39 | US | 通报 | Iran | 待确认 | C | 'Will send Netanyahu to hell': Iran's top security chief warns US, Israel of full-scale war - Zee News |
-| 2026-08-28 09:17 | US | 通报 | Iran | 待确认 | C | CENTCOM chief: Strait of Hormuz shipping lanes now free of Iranian mines - Israel National News |
-| 2026-08-28 09:06 | Israel | 空袭 | Israel | 伤亡 | C | 3 Palestinians killed in Israeli airstrikes on Gaza - Daily Finland |
-| 2026-08-28 09:06 | US | 通报 | Iran | 待确认 | C | CENTCOM says Iran oil exports halted, Hormuz mines cleared - Iran International |
-| 2026-08-28 09:02 | US | 通报 | Iran | 待确认 | C | After six months of war in Iran, is the US achieving its goals? - KXLH News Helena |
-| 2026-08-28 08:47 | US | 通报 | Iran | 待确认 | C | US clears Strait of Hormuz as 50,000 troops maintain blockade of Iran, CENTCOM chief says - The Jerusalem Post |
-| 2026-08-28 08:38 | Iran | 通报 | Iran | 待确认 | C | Republicans face a midterm verdict as Iran war drags on months longer than Trump promised - Morning Journal |
-| 2026-08-28 08:30 | Israel | 发射 | Israel | 命中 | C | Explosive Drone Attack HITS Israel’s Lebanon Buffer Zone; IDF Loses Track of Second Aircraft - The Times of India |
+| 2026-08-29 05:33 | US | 通报 | Iran | 待确认 | C | Iran faces economic strain amid ongoing tensions with US and Israel - Crypto Briefing |
+| 2026-08-29 05:32 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post |
+| 2026-08-29 05:29 | US | 通报 | Iran | 待确认 | C | Iran's crude oil exports near zero as US targets banking networks with Operation Economic Outcast - Crypto Briefing |
+| 2026-08-29 05:22 | US | 通报 | Iran | 待确认 | C | Six months into the US-Israel war with Iran, can anyone win? / BBC News - Modern Ghana |
+| 2026-08-29 05:07 | US | 通报 | 未明确 | 待确认 | C | Trump claims US Navy cleared Hormuz mines, but safety warnings persist - Crypto Briefing |
+| 2026-08-29 04:10 | Iran | 通报 | Iran | 待确认 | C | Life in Iran after six months of war - NPR |
+| 2026-08-29 03:52 | US | 通报 | Israel | 待确认 | C | Israel expels European critics from US-led Gaza coordination center - Anadolu Ajansı |
+| 2026-08-29 03:51 | Israel | 空袭 | Israel | 伤亡 | C | Israeli strike in Lebanon killed 12 medical workers in Bint Jbeil / Akashvani News - News On AIR |
+| 2026-08-29 03:47 | 未明确 | 通报 | 未明确 | 待确认 | C | U.S. Says It Has Gained Upper Hand in Strait of Hormuz - Kurdistan24 |
+| 2026-08-29 03:45 | Iran | 通报 | Iran | 待确认 | C | Why Iran’s threats against Netanyahu are raising fears of a wider regional war - Latest news from Azerbaijan |
+| 2026-08-29 03:43 | Iran | 通报 | Iran | 待确认 | C | Six Months In, Iran Appears Stronger and U.S. Goals Unclear - The New York Times |
+| 2026-08-29 03:35 | Iran | 通报 | Iran | 待确认 | C | After 6 months of war, Iran's battered regime remains entrenched - NPR |
+| 2026-08-29 03:30 | US | 通报 | 未明确 | 待确认 | C | Saudi Arabia suspends US military access to its bases and airspace - News On AIR |
+| 2026-08-29 03:17 | 未明确 | 通报 | 未明确 | 设施受损 | C | Trump Demands Halt to Energy Facility Attacks as Prices Soar - EnergyNow.com |
+| 2026-08-29 03:04 | Iran | 通报 | Iran | 待确认 | C | Trump Says U.S. War With Iran Will Last Four To Five Weeks After Six Months: 47 outlets compared - NewsCord |
+| 2026-08-29 02:53 | US | 通报 | Iran | 命中 | C | US-Israel-Iran War Latest Live News: Iran Says Diplomacy Still Possible as War With US Hits 6 Months, Abbas Araghchi Sets Conditions for Talks With Washington - The Sunday Guardian |
+| 2026-08-29 02:36 | US | 通报 | Israel | 待确认 | C | Redefining the Middle East: The Secret Pact Threatening US Hegemony? - TV7 Israel News |
+| 2026-08-29 02:24 | Iran | 通报 | Iran | 待确认 | C | Iran Just Looks Bad Now: Almost None of the Mines Found in the Shipping Lane Were Actually Real - National Security Journal |
+| 2026-08-29 02:19 | US | 通报 | Iran | 待确认 | C | The Latest: Iran war reaches its six-month mark as Trump shifts focus - WGAU Radio / Athens, GA |
+| 2026-08-29 02:00 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran Latest Live News: ‘Schizophrenia is a Disorder’ – Iran Official Takes Sharp Swipe at Trump Over ‘NEW US TERRITORY’ Strait of Hormuz Claim - The Sunday Guardian |
+| 2026-08-29 01:50 | US | 通报 | Iran | 命中 | C | US targets Egyptian bank in fresh sanction on Iran as war hits six-month mark - The Times of Israel |
+| 2026-08-29 01:48 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: US Targets Banque Misr UAE Branches, Sanctions Bank Melli Dubai Manager, Hong Kong Firm Over Iran Support - The Sunday Guardian |
+| 2026-08-29 01:43 | Israel | 通报 | Iran | 待确认 | C | Trump Marks Six-Month U.S.-Israel War Against Iran, Says He’s Not in a Hurry: how 17 outlets framed it - NewsCord |
+| 2026-08-29 01:15 | Iran | 通报 | Iran | 待确认 | C | While Trump targets Canada, U.S. lawmakers decry toll of 6-month Iran war - CBC |
+| 2026-08-29 01:12 | US | 通报 | Iran | 待确认 | C | Strait of Hormuz shipping lanes cleared of Iranian sea mines, CENTCOM says - eciks.org |
+| 2026-08-29 01:11 | Israel | 空袭 | Israel | 待确认 | C | Shafaq News..Israel strikes southern Lebanon - شفق نيوز |
+| 2026-08-29 00:37 | Israel | 空袭 | Israel | 伤亡 | C | Israel kills three in first airstrike on West Bank in 10 months; Judge again blocks Trump order on mail ballots; Over 2,500 dead or missing in Nepal - Drop Site News |
+| 2026-08-29 00:30 | Israel | 通报 | Iran | 待确认 | C | The U.S.–Israel War with Iran Reaches Six Months as Trump Pushes Toward Economic Pressure Strategy - SRN News |
+| 2026-08-29 00:24 | Israel | 空袭 | Israel | 待确认 | C | Israeli strikes kill 5 in Gaza and 3 in West Bank, and other news in the Middle East - Boston Herald |
+| 2026-08-29 00:17 | Israel | 空袭 | Tehran | 待确认 | C | Israel reports fresh airstrikes on Iranian targets east of Tehran / Akashvani News - News On AIR |
+| 2026-08-29 00:09 | 未明确 | 通报 | 未明确 | 待确认 | C | West Asia conflict enters more intense phase with military activity spreading across several fronts / Akashvani News - News On AIR |
+| 2026-08-28 23:16 | Israel | 通报 | Israel | 伤亡 | C | Lebanon: Deadly Israeli attack on journalist Amal Khalil must be investigated as a war crime - Amnesty International Canada |
+| 2026-08-28 23:15 | 未明确 | 撤离 | Lebanon | 待确认 | C | EU Considers Civilian-Military Mission in Lebanon as UNIFIL Prepares to Withdraw - The Defense Post |
+| 2026-08-28 23:10 | US | 通报 | Iran | 待确认 | C | Iran War Day 182: Conflict Passes Six-Month Mark With No End in Sight - The American Conservative |
+| 2026-08-28 23:08 | Iran | 通报 | Iran | 待确认 | C | Iran war reaches its six-month mark as Trump tries increasing economic pressure - The New Indian Express |
+| 2026-08-28 23:07 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran Latest Live News: ‘US Territories’ Map Shared by Trump Featuring Strait of Hormuz as Iran Rejects Washington’s Control Claim - The Sunday Guardian |
+| 2026-08-28 23:01 | US | 通报 | Iran | 伤亡 | C | Six months of US-Israeli war against Iran/ Thousands killed, oil crisis and the Strait of Hormuz at a standstill - Balkanweb.com |
+| 2026-08-28 22:54 | US | 通报 | Iran | 伤亡 | C | The numbers of the War in Iran: 7,900 dead, oil up 22%, only 7 ships a day passing through the Strait of Hormuz, $37.5 billion cost for the US - ProtoThema English |
+| 2026-08-28 22:40 | Israel | 通报 | Israel | 待确认 | C | Gaza’s Children Protest as Israel’s Military Chief Declares Kite Flying a “Terrorist Act” - Democracy Now! |
+| 2026-08-28 22:39 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Iran Calls Trump’s New US Sanctions ‘State Terrorism’, Warns Countries Against Supporting Washington’s Economic Pressure - The Sunday Guardian |
