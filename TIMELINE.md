@@ -1,41 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-08-30 11:18
+更新时间（北京时间）: 2026-08-30 23:56
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-08-30 10:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post |
-| 2026-08-30 09:54 | Israel | 通报 | Israel | 命中 | C | The West Isn’t Safe. Europe Isn’t Safe. Israel Is Just Taking the First Hit - The Times of Israel |
-| 2026-08-30 07:50 | US | 通报 | Iran | 待确认 | C | US to hold direct talks with Iran in Islamabad to ease West Asia tensions - News On AIR |
-| 2026-08-30 07:31 | 未明确 | 通报 | 未明确 | 待确认 | C | West Asia conflict enters more intense phase with military activity spreading across several fronts / Akashvani News - News On AIR |
-| 2026-08-30 07:31 | US | 空袭 | Iran | 待确认 | C | Conflict in West Asia escalates as exchange of strikes intensifies between US-Israel & Iran - News On AIR |
-| 2026-08-30 07:15 | US | 空袭 | Iran | 待确认 | C | Tensions escalate in West Asia as strikes continue between US-Israel and Iran - News On AIR |
-| 2026-08-30 06:33 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran Live News: ‘The Environment Changed’ – Trump Shifts Iran War Strategy as Scott Bessent Takes Bigger Role in Economic Pressure Campaign - The Sunday Guardian |
-| 2026-08-30 06:07 | US | 通报 | Iran | 待确认 | C | Netanyahu’s Son Rushed Back to Israel After ‘Significant Threat’ in US Amid Iran War - Times Now |
-| 2026-08-30 05:24 | 未明确 | 空袭 | Lebanon | 命中 | C | Shafaq News..Airstrikes and artillery fire hit southern Lebanon - شفق نيوز |
-| 2026-08-30 04:12 | Israel | 通报 | Israel | 伤亡 | C | Shafaq News..Israeli Army: Two Hamas members killed in northern Gaza - شفق نيوز |
-| 2026-08-30 04:05 | US | 通报 | Iran | 待确认 | C | US Secretary of War & Pentagon chief, Pete Hegseth, says upcoming days of war with Iran to be decisive - News On AIR |
-| 2026-08-30 03:33 | 未明确 | 通报 | 未明确 | 待确认 | C | Several countries react to ongoing war in West Asia / Akashvani News - News On AIR |
-| 2026-08-30 03:25 | 未明确 | 通报 | Beirut | 待确认 | C | Niger Coup Attempt: Army Units Defect - Daily Beirut |
-| 2026-08-30 03:20 | Israel | 通报 | Israel | 待确认 | C | Israel-Lebanon deal under strain as Hezbollah disarmament falls short - worldisraelnews.com |
-| 2026-08-30 03:19 | Israel | 空袭 | Israel | 待确认 | C | Israel Strikes Southern Lebanon Across Multiple Sites, Lebanese Military Source Says - The Eastern Herald |
-| 2026-08-30 03:18 | Iran | 通报 | Iran | 待确认 | C | Trump once said Iran war would last weeks – 6-months later he's in no hurry - 1News |
-| 2026-08-30 03:17 | Hezbollah | 通报 | Beirut | 待确认 | C | U.S. State Department: Disarming Hezbollah Key for Lebanon - Daily Beirut |
-| 2026-08-30 03:12 | Iran | 通报 | Iran | 待确认 | C | Iran’s President Masoud Pezeshkian Says Neighbouring Countries Will No Longer Be Targeted Unless Provoked - News On AIR |
-| 2026-08-30 03:08 | Israel | 发射 | Iran | 待确认 | C | Yemen’s Iran-backed Houthi movement claims responsibility for third missile attack on Israel - News On AIR |
-| 2026-08-30 03:04 | Israel | 通报 | Iran | 待确认 | C | Reviving the 'Proxy Model': Israeli Assessments of Imminent Iranian Escalation from Lebanon - Daily Beirut |
-| 2026-08-30 03:02 | US | 空袭 | Iran | 待确认 | C | Gulf region air travel disrupted amid US-Israel Strikes on Iran - News On AIR |
-| 2026-08-30 02:12 | US | 通报 | Iran | 命中 | C | US-Israel-Iran War Latest Live News: Iran Parliament Speaker Ghalibaf Hits Back at Bessent Over ‘Economic Outcast’ Claims, Cites $130 Billion War Costs - The Sunday Guardian |
-| 2026-08-30 02:06 | Israel | 发射 | Tehran | 设施受损 | C | Iran launches missile and drone attacks across Gulf as Israel strikes Tehran infrastructure / Akashvani News - News On AIR |
-| 2026-08-30 01:53 | US | 通报 | Iran | 待确认 | C | We need a better strategy to weather the fallout of US-Israel war on Iran - The Daily Star |
-| 2026-08-30 01:46 | US | 通报 | 未明确 | 待确认 | C | Saudi Arabia suspends US military access to its bases and airspace - News On AIR |
-| 2026-08-30 01:41 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran Latest Live News: ‘Diplomacy And Defence Are…’ – Iran Vows To Resist US Sanctions As War Deepens Economic Crisis, Trade Falls 35% - The Sunday Guardian |
-| 2026-08-30 01:03 | Israel | 空袭 | Israel | 命中 | C | Israeli airstrikes hit southern Lebanon as tensions remain high near border - Business Upturn |
-| 2026-08-30 00:34 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran Latest Live News: 6 Months Into Trump’s Iran War – Why His ‘Little Excursion’ Has Become a Prolonged Stalemate, From US Politics and Global Energy Markets to Military Readiness - The Sunday Guardian |
-| 2026-08-29 23:56 | Iran | 通报 | Iran | 待确认 | C | Hezbollah Refuses Disarmament Deal as Iran Threatens Strait of Hormuz Closure - Kurdistan24 |
-| 2026-08-29 23:52 | US | 通报 | Iran | 待确认 | C | US-IRAN CONFLICT: WAR AND DIPLOMACY - Geo News |
-| 2026-08-29 23:52 | 未明确 | 通报 | West Bank | 待确认 | C | Netanyahu condemns rioters after weeks of West Bank settler violence, and other Middle East news - Audacy |
-| 2026-08-29 23:37 | US | 撤离 | 未明确 | 待确认 | C | Baghdad Says Committed to Completing US Troop Withdrawal by End of Sept. - شبكة تواصل الإخبارية |
-| 2026-08-29 23:24 | US | 空袭 | Iran | 命中 | C | US–Israel–Iran War Latest Live News: Successive Israeli Airstrikes Hit Lebanon’s Al-Mansouri; Another Raid Reported Near Zawtar Al-Gharbiyeh - The Sunday Guardian |
+| 2026-08-30 23:51 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Trump Tightens Iran Sanctions as Oil and Gas Stock Trades Face New Scrutiny Amid Escalating Middle East Tensions - The Sunday Guardian |
+| 2026-08-30 23:49 | Iran | 通报 | Iran | 伤亡 | C | Iran-backed Iraqi Militias Escalate Demands Ahead Of Disarmament Deadline - i24NEWS |
+| 2026-08-30 22:48 | Israel | 通报 | Israel | 待确认 | C | Secret document to Hegseth: 'We will carry out the orders, but at a price' - Israel National News |
+| 2026-08-30 22:45 | Iran | 通报 | Iran | 待确认 | C | Iran's leader calls for Muslim unity and other Mideast news - Bozeman Daily Chronicle |
+| 2026-08-30 22:38 | Israel | 通报 | Israel | 待确认 | C | Hezbollah’s Qassem: Any Retreat before Israel Risks ‘Annihilation’ - Palestine Chronicle |
+| 2026-08-30 22:05 | Israel | 空袭 | Iran | 待确认 | C | Another Israel-Iran War? Netanyahu Prepares For Fresh Strikes While Trump Seeks Diplomatic Way Out - News18 |
+| 2026-08-30 21:48 | US | 通报 | Iran | 待确认 | C | Iran war has gone on ‘much too long’ for American forces, officers warn – report - worldisraelnews.com |
+| 2026-08-30 21:46 | Iran | 通报 | Iran | 待确认 | C | Military Leaders Caution Hegseth on Iran War Extensions - Outside the Beltway |
+| 2026-08-30 21:43 | Iran | 通报 | Iran | 待确认 | C | How has life changed for Iranians six months into the war? - Al Jazeera |
+| 2026-08-30 21:39 | US | 通报 | Iran | 待确认 | C | Iran Facing Internal Division Six Months Into Conflict With US - Readers.id |
+| 2026-08-30 21:16 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Iran Supreme Leader Mojtaba Khamenei Urges Gulf Nations to ‘Recognise Your Real Enemy’ as Trump Escalates Iran Pressure - The Sunday Guardian |
+| 2026-08-30 21:05 | Iran | 通报 | Iran | 待确认 | C | Live - Iran’s leader urges Muslim rulers in written message to confront their true enemy - Iran International |
+| 2026-08-30 20:26 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Live News: Iraq Seeks to ‘Be a Bridge’ Between Iran and US for Communication to Reach an Agreement - The Sunday Guardian |
+| 2026-08-30 20:13 | US | 通报 | Iran | 待确认 | C | US commanders warn Iran campaign has been 'too much for too long' - www.israelhayom.com |
+| 2026-08-30 19:58 | US | 通报 | Israel | 待确认 | C | Khamenei Urges Muslim Unity: Identify Real Enemies US and Israel, End Dollar Reliance - zoomnews.in |
+| 2026-08-30 19:52 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Iran’s President to Attend Two-Day SCO Summit in Kyrgyzstan on Monday, Along with Chinese and Russian Presidents - The Sunday Guardian |
+| 2026-08-30 19:44 | US | 通报 | Iran | 待确认 | C | Six months into war, Iran’s new supreme leader calls for Muslim unity against US, Israel - Malay Mail |
+| 2026-08-30 19:28 | US | 通报 | Israel | 待确认 | C | Mojtaba Khamenei Urges Muslim Countries to Recognize 'True Enemy' and Unite Against US, Israel - Pragativadi |
+| 2026-08-30 19:12 | 未明确 | 通报 | Lebanon | 待确认 | C | U.S.-brokered “ceasefire” in Lebanon means bombing every week - Struggle-La Lucha |
+| 2026-08-30 18:48 | 未明确 | 通报 | 未明确 | 待确认 | C | Istanbul to host first committee meeting of Turkey-Saudi-Pakistan defence alliance: Report - The Times of India |
+| 2026-08-30 18:44 | US | 通报 | Iran | 待确认 | C | Hezbollah Chief Naim Qassem Says Unity Defeated US and Israel in Three Wars Against Iran: how 11 outlets framed it - NewsCord |
+| 2026-08-30 18:23 | Hezbollah | 通报 | 未明确 | 待确认 | C | Hezbollah – Situation Assessment: From a Large-Scale Terrorist Army to a Persistent Dispersed Threat - Alma Research and Education Center |
+| 2026-08-30 18:11 | US | 发射 | Iran | 待确认 | C | West Asia Conflict Enters Eighth Day as United States, Israel and Iran Launch Fresh Airstrikes / Akashvani News - News On AIR |
+| 2026-08-30 18:04 | US | 通报 | Israel | 待确认 | C | Khamenei calls US, Israel ‘sworn enemies’ of Muslim unity - JNS.org |
+| 2026-08-30 17:55 | 未明确 | 空袭 | 未明确 | 待确认 | C | Russia vows major strikes on Ukrainian energy grid amid conflict escalation - Crypto Briefing |
+| 2026-08-30 17:55 | US | 通报 | Iran | 待确认 | C | Pezeshkian says Iran-US peace MoU in global interest - Daijiworld |
+| 2026-08-30 17:53 | Iran | 通报 | Iran | 待确认 | C | No passage through Hormuz without Iranian Coordination, says IRGC Navy - DD India |
+| 2026-08-30 17:52 | Israel | 通报 | Israel | 待确认 | C | ‘Massive’ explosion rocks southern Lebanon after Israeli bombing - Türkiye Today |
+| 2026-08-30 17:41 | US | 通报 | Iran | 命中 | C | The home front: How Israel, Iran, and US leaders have been hit by the war - Al Jazeera |
+| 2026-08-30 17:41 | Israel | 通报 | Iran | 待确认 | C | America and Israel’s Imposed War on Iran: An Evaluation of the Broken Promises, Unaccounted Crimes and Failed Coercion - Countercurrents.org |
+| 2026-08-30 17:38 | US | 发射 | Tehran | 待确认 | C | US-Israel-Iran War Latest Live News: Israel Ready to Attack Again If Iran Revives Nuclear or Ballistic Missile Plans, Even If Tehran Reaches Agreement with Washington - The Sunday Guardian |
+| 2026-08-30 17:21 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: USS Abraham Lincoln Moves Toward Home After Middle East Mission, Passes Singapore - The Sunday Guardian |
+| 2026-08-30 17:00 | Iran | 通报 | Iran | 待确认 | C | ‘We won.’ ‘Winding down.’ ‘Close to over.’: Six months of Trump’s comments on Iran war - Jefferson City News Tribune |
+| 2026-08-30 16:59 | Iran | 空袭 | Iran | 待确认 | C | The war with Iran will not be won through airstrikes, so what's left? - opinion - The Jerusalem Post |
+| 2026-08-30 16:51 | US | 通报 | Iran | 待确认 | C | Iran vows strong response to US economic pressures, tensions rise - Crypto Briefing |
+| 2026-08-30 16:39 | Iran | 通报 | Iran | 待确认 | C | Iran’s Mojtaba Khamenei urges Gulf rulers in written message to confront ‘real enemy’ - NBC News |
+| 2026-08-30 16:37 | Israel | 通报 | Israel | 伤亡 | C | Lebanon: Deadly Israeli attack on journalist Amal Khalil must be investigated as a war crime - Amnesty International Canada |
+| 2026-08-30 16:35 | Iran | 通报 | Iran | 待确认 | C | Iran’s President Masoud Pezeshkian Says Neighbouring Countries Will No Longer Be Targeted Unless Provoked - News On AIR |
+| 2026-08-30 16:28 | Israel | 通报 | Israel | 待确认 | C | Hezbollah pauses attacks but Israel says war goes on - The Canberra Times |
+| 2026-08-30 16:15 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: Supreme Leader Issues Warning Over Alleged US-Israel Plan To ‘Fragment’ Muslim Nations - The Sunday Guardian |
