@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-09-01 11:17
+更新时间（北京时间）: 2026-09-01 23:58
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-09-01 10:03 | Israel | 空袭 | Israel | 待确认 | C | Israeli Airstrikes Kill Five Palestinians In Gaza City, Health Officials Say: who 21 outlets blamed - NewsCord |
-| 2026-09-01 10:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post |
-| 2026-09-01 09:30 | US | 通报 | Iran | 待确认 | C | Trump threatens further action as US and Iran exchange fire in new flare-up - The Guardian |
-| 2026-09-01 08:54 | US | 通报 | Iran | 待确认 | C | Netanyahu claims influence on US to extend military campaign against Iran - Crypto Briefing |
-| 2026-09-01 07:01 | US | 发射 | Iran | 待确认 | C | Meet 'Castle Breaker,' Iran's missile wreaking havoc in US war - USA Today |
-| 2026-09-01 06:25 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Qatar Condemns Israeli Minister’s Al-Aqsa Mosque Storming as ‘Outrageous Violation’ and ‘Unacceptable Provocation’ Amid Rising Middle East Tensions - The Sunday Guardian |
-| 2026-09-01 06:05 | US | 发射 | Iran | 待确认 | C | US strikes Iranian launchers on Larak Island as Israeli attacks kill four in Gaza and violence escalates across region - The Muslim News |
-| 2026-09-01 06:03 | Israel | 空袭 | Israel | 待确认 | C | Israel Kills Five Palestinians in Drone Strikes Across Gaza City: 13 outlets compared - NewsCord |
-| 2026-09-01 05:53 | US | 通报 | 未明确 | 待确认 | C | Famed ‘Manchester by the Sea’ Director Defends Mark Ruffalo Amid Claims Actor is Antisemitic - Us Weekly |
-| 2026-09-01 05:52 | Israel | 通报 | Israel | 待确认 | C | Israeli occupation leaves Lebanese children without schools - Muslim Network TV |
-| 2026-09-01 05:35 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Trump Refuses to Say If Latest Iran Hostilities Signal Return to Full-Scale War, UKMTO Reports Tanker Incident Near Oman - The Sunday Guardian |
-| 2026-09-01 05:17 | Israel | 通报 | Israel | 待确认 | C | Lebanon asks Greece to help enforce agreement with Israel - Al Jazeera |
-| 2026-09-01 05:10 | Israel | 通报 | Israel | 待确认 | C | Lebanon calls for Greece to help implement deal with Israel - Free Malaysia Today |
-| 2026-09-01 05:06 | 未明确 | 通报 | 未明确 | 待确认 | C | America in Strategic Disarray - Geopolitical Chat #8: Q&A Session for Paid Subscribers - Trita Parsi / Substack |
-| 2026-09-01 05:05 | 未明确 | 通报 | 未明确 | 待确认 | C | Vance hosts members from Michigan synagogue attack at rally after el Sayed apology - Washington Examiner |
-| 2026-09-01 05:04 | Israel | 通报 | Israel | 待确认 | C | Hezbollah’s FPV Drones Pose an Acute Challenge to Israel - Institute for the Study of War |
-| 2026-09-01 04:53 | 未明确 | 通报 | 未明确 | 待确认 | C | West Asia conflict enters more intense phase with military activity spreading across several fronts / Akashvani News - News On AIR |
-| 2026-09-01 04:49 | 未明确 | 通报 | 未明确 | 待确认 | C | A Strategic Disaster that Devalues U.S. Military Prowess - Carnegie Endowment for International Peace |
-| 2026-09-01 04:44 | Israel | 通报 | Iran | 待确认 | C | U.S. Air Force Chief of Staff Meets Israeli Leaders Amid Ongoing Iran Conflict - SSBCrack |
-| 2026-09-01 04:21 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Mutual Return to MoU Seen as ‘Clearest Path to De-Escalation’ After Fresh Middle East Attacks - The Sunday Guardian |
-| 2026-09-01 04:08 | US | 通报 | Iran | 待确认 | C | Iran Looks to Trump Friend for Support as US War Intensifies - Newsweek |
-| 2026-09-01 03:49 | Israel | 发射 | Tehran | 设施受损 | C | Iran launches missile and drone attacks across Gulf as Israel strikes Tehran infrastructure / Akashvani News - News On AIR |
-| 2026-09-01 03:45 | US | 空袭 | Iran | 待确认 | C | Report: Trump weighs limited US Strikes on Iran in Strait of Hormuz - Israel National News |
-| 2026-09-01 03:43 | Iran | 空袭 | Iran | 命中 | C | Trump Vows to Hit Iran ‘Hard’ After First Fresh Strikes in a Month - Time Magazine |
-| 2026-09-01 03:11 | Israel | 通报 | Israel | 伤亡 | C | Shafaq News..Israel: Hamas weapons-supply commander killed in Gaza - شفق نيوز |
-| 2026-09-01 03:09 | US | 空袭 | Iran | 待确认 | C | Today's Headlines: US Strikes Larak Island / Iran Retaliates against UAE, Jordan Targets / ‘Until Victory’ - Palestine Chronicle |
-| 2026-09-01 03:02 | Israel | 通报 | Israel | 伤亡 | C | Lebanon: Deadly Israeli attack on journalist Amal Khalil must be investigated as a war crime - Amnesty International Canada |
-| 2026-09-01 02:48 | Israel | 空袭 | Iran | 设施受损 | C | Israel-Iran strikes escalate as threats to infrastructure deepen global energy crisis - DD News |
-| 2026-09-01 02:36 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Pakistan, Saudi Arabia & Turkiye Take First Big Step After Mecca Pact, Announce New Secretariat for Regional Peace & Stability - The Sunday Guardian |
-| 2026-09-01 02:04 | US | 通报 | Israel | 待确认 | C | US, IRGC clash in Strait of Hormuz; Erdogan declares war on Zionism TV7 Israel News - 31 Aug. - TV7 Israel News |
-| 2026-09-01 01:53 | US | 空袭 | Iran | 待确认 | C | Iran, US Trade Strikes Across Gulf for First Time Since July - caspiannews.com |
-| 2026-09-01 01:40 | Israel | 发射 | Iran | 待确认 | C | Yemen’s Iran-backed Houthi movement claims responsibility for third missile attack on Israel - News On AIR |
-| 2026-09-01 01:09 | Israel | 通报 | Israel | 待确认 | C | Global Oil Prices & Economic Realities of the Blockade - TV7 Israel News |
-| 2026-09-01 01:05 | US | 通报 | Iran | 待确认 | C | Iran FM Accuses ‘Serpent’ Netanyahu of Misleading US Into War - Real Broadcasting Network |
-| 2026-09-01 00:52 | US | 通报 | 未明确 | 待确认 | C | Saudi Arabia suspends US military access to its bases and airspace - News On AIR |
-| 2026-09-01 00:21 | Israel | 通报 | Israel | 待确认 | C | Lebanon Urges Greece to Help Implement Truce with Israel - شبكة تواصل الإخبارية |
-| 2026-09-01 00:21 | Israel | 通报 | Israel | 待确认 | C | Lebanon Urges Greece to Help Implement Truce with Israel - ASHARQ AL-AWSAT English |
-| 2026-09-01 00:15 | Iran | 通报 | 未明确 | 命中 | C | Supertanker Suffered Damage After Hitting Mines in Hormuz: IRGC - telesurenglish.net |
-| 2026-09-01 00:10 | US | 通报 | Iran | 待确认 | C | Trump vows strong US retaliation as Iran conflict reignites - Crypto Briefing |
-| 2026-09-01 00:10 | US | 通报 | Iran | 待确认 | C | Iran accuses Netanyahu of pushing US toward conflict - Crypto Briefing |
+| 2026-09-01 23:44 | Israel | 通报 | Israel | 待确认 | C | A Framework for Mutually Beneficial U.S.-Israel Defense Technology Cooperation - J Street |
+| 2026-09-01 23:43 | US | 通报 | Iran | 待确认 | C | Iran's president says Iran would return to ceasefire agreement if US does, and other Mideast news - Huron Daily Tribune |
+| 2026-09-01 23:43 | Israel | 通报 | Israel | 待确认 | C | 2,030 Israeli attacks in West Bank in August; Postal Service plan could disenfranchise millions; Nepal death toll passes 1,000 - Drop Site News |
+| 2026-09-01 23:33 | US | 通报 | Iran | 待确认 | C | Qatar says efforts under way to end Iran-US war and reopen Strait of Hormuz - Al Jazeera |
+| 2026-09-01 23:09 | 未明确 | 通报 | Lebanon | 待确认 | C | Pezeshkian criticizes UN response to Gaza, Lebanon - Daily Times |
+| 2026-09-01 23:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post |
+| 2026-09-01 22:31 | US | 通报 | Iran | 待确认 | C | Oil jumps over 2% as tanker attacks deepen US-Iran tensions - Al-Monitor |
+| 2026-09-01 21:52 | Hezbollah | 通报 | 未明确 | 待确认 | C | Lebanese Presidents and Hezbollah: From Containment to Confrontation - ASHARQ AL-AWSAT English |
+| 2026-09-01 21:40 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: ‘We Appreciate Your Support,’ Iran’s President Thanks Putin For Russia’s Backing as Saudi Crown Prince, Oman’s Sultan Discuss Regional Security - The Sunday Guardian |
+| 2026-09-01 21:30 | US | 通报 | Iran | 待确认 | C | China's Xi visits Egypt as US sanctions threat looms over Iran links - Aaj English TV |
+| 2026-09-01 21:11 | US | 通报 | Iran | 待确认 | C | Iran, Russia can stand against US unilateralism: Pezeshkian - PressTV |
+| 2026-09-01 21:03 | US | 发射 | Iran | 待确认 | C | Meet 'Castle Breaker,' Iranian missile wreaking havoc in US war - USA Today |
+| 2026-09-01 21:02 | Israel | 通报 | Israel | 待确认 | C | For a “Big Bang” in Israeli Politics - Middle East Forum |
+| 2026-09-01 21:00 | Hezbollah | 通报 | 未明确 | 待确认 | C | There’s a ticking time bomb inside America — it’s called Hezbollah - Washington Examiner |
+| 2026-09-01 20:53 | Israel | 空袭 | Israel | 待确认 | C | Israeli strikes kill five in Gaza as military says it arrests Hamas militant - Reuters |
+| 2026-09-01 20:52 | US | 通报 | Iran | 命中 | C | US-Israel-Iran War Latest Live News: Pezeshkian Warns ‘Pressure and Threats’ Could Derail Diplomacy as Trump Vows to ‘Hit Them Hard’ After Iran Attack - The Sunday Guardian |
+| 2026-09-01 20:40 | US | 空袭 | Iran | 待确认 | C | Iran expands deterrence as Gulf strikes expose US munitions limits, analysts say - Harici |
+| 2026-09-01 20:30 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Live News: Ishaq Dar Calls for ‘Sincere Implementation’ of Islamabad MoU, Calls It the ‘Only Way Forward’ – Meets Abbas Araghchi at SCO Summit - The Sunday Guardian |
+| 2026-09-01 20:30 | 未明确 | 通报 | 未明确 | 待确认 | C | Abdul el Sayed swings back at Vance after he called him 'very, very evil' - Washington Examiner |
+| 2026-09-01 20:18 | Iran | 通报 | Iran | 待确认 | C | Iranian President: We Will Return To Commitments If U.S. Does - KOA 850 AM & 94.1 FM |
+| 2026-09-01 19:54 | Iran | 通报 | Iran | 待确认 | C | Issue Brief on “U.S. Iran Conflict Timeline” - Institute of Strategic Studies Islamabad (ISSI) |
+| 2026-09-01 19:41 | Iran | 通报 | Iran | 命中 | C | ‘Hit them hard’: Does Trump have another ‘new’ Iran strategy, can it work? - Al Jazeera |
+| 2026-09-01 19:36 | US | 通报 | Iran | 待确认 | C | US to hold direct talks with Iran in Islamabad to ease West Asia tensions - News On AIR |
+| 2026-09-01 19:31 | Israel | 空袭 | Israel | 待确认 | C | Israeli Airstrike Near Deir Al-Balah Kills Hussam Nusair And 3-Year-Old Tayyem Hamdan: 105 outlets compared - NewsCord |
+| 2026-09-01 19:30 | Israel | 通报 | Iran | 待确认 | C | Iranian president criticises UN response to Israeli actions in Gaza, Lebanon - The Express Tribune |
+| 2026-09-01 19:26 | US | 通报 | Tehran | 待确认 | C | US-Israel-Iran War Latest Live News: Iran President Masoud Pezeshkian Says Tehran Ready To Return To Ceasefire If US Restores Commitments; Hormuz, Sanctions & Peace Talks At Centre Of Tensions - The Sunday Guardian |
+| 2026-09-01 19:13 | Israel | 通报 | Jerusalem | 待确认 | C | Israel prepares for possible Turkish challenges in the Mediterranean, Jerusalem Post reports - en.philenews.com |
+| 2026-09-01 18:48 | US | 通报 | Iran | 待确认 | C | Trump insists he will never nuke Iran despite his own Pentagon reportedly saying they were considering it - bizpacreview.com |
+| 2026-09-01 18:39 | Iran | 通报 | Iran | 待确认 | C | Abroad and at odds: How the war has divided Iranians in the diaspora - Al Jazeera |
+| 2026-09-01 18:26 | Israel | 空袭 | Israel | 待确认 | C | Israeli Strikes Kill At Least Four, Including Three Children, In Gaza City And Deir Al-Balah: 10 outlets compared - NewsCord |
+| 2026-09-01 18:25 | Israel | 通报 | Israel | 待确认 | C | Lebanon vows legal action against Israel over ‘genocide crimes’ - Türkiye Today |
+| 2026-09-01 18:15 | US | 空袭 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Israeli Strikes Kill At Least 4 Palestinians, Including Two Children, as Gaza City and Deir el-Balah Face Fresh Attacks - The Sunday Guardian |
+| 2026-09-01 18:06 | US | 通报 | 未明确 | 待确认 | C | Pezeshkian says American pressure, threats derailing diplomacy / LIVE - L'Orient Today |
+| 2026-09-01 17:40 | US | 通报 | Iran | 命中 | C | US-Israel-Iran War Latest Live News: Two Oil Tankers Hit by Unknown Projectiles in Strait of Hormuz Amid Renewed Hostilities - The Sunday Guardian |
+| 2026-09-01 17:35 | Israel | 通报 | Iran | 待确认 | C | Six months on, Israel waiting in the wings as Trump’s war on Iran shifts to economic pressure - israeltoday.co.il |
+| 2026-09-01 17:32 | US | 通报 | Iran | 待确认 | C | Oil prices jump as US, Iranian attacks stoke fears of escalation - Al Jazeera |
+| 2026-09-01 17:30 | Israel | 空袭 | Israel | 待确认 | C | Israeli strikes pound Gaza, killing at least two children - Middle East Eye |
+| 2026-09-01 17:29 | US | 通报 | Iran | 待确认 | C | Iran and the US: Always on the edge of wider war - Al Arabiya English |
+| 2026-09-01 16:50 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: ‘I Would Never Say That’ – Donald Trump Refuses to Rule Out Nuclear Weapons, Calls Reporter’s Question ‘Stupid’ - The Sunday Guardian |
+| 2026-09-01 16:48 | US | 通报 | Iran | 命中 | C | US-Israel-Iran War Latest News: Trump Threatens to Hit Iran ‘Hard’ After First Exchanges of Fire – Tanker Hit by 3 Projectiles Near Strait of Hormuz - The Sunday Guardian |
