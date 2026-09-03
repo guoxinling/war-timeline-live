@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-09-02 23:52
+更新时间（北京时间）: 2026-09-03 10:42
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-09-02 22:19 | US | 空袭 | Iran | 待确认 | C | Iran fires on its Gulf neighbours, retaliating for US strikes after a month-long lull - Nine.com.au |
-| 2026-09-02 22:13 | US | 空袭 | Iran | 伤亡 | C | Iran says US strike killed four at wedding after biggest exchange in weeks - bbc.com |
-| 2026-09-02 21:38 | US | 空袭 | Iran | 待确认 | C | US Central Command denies targeting civilians after Iran reports wedding strike - The Times of Israel |
-| 2026-09-02 21:30 | Israel | 通报 | Israel | 待确认 | C | Tracing Israeli army's gradual expansion beyond self-established 'security zone' in south Lebanon - thenationalnews.com |
-| 2026-09-02 21:26 | US | 发射 | Iran | 待确认 | C | Iran accuses US of ‘war crime’ after missile blast kills four people at wedding - The Guardian |
-| 2026-09-02 21:18 | US | 空袭 | Iran | 待确认 | C | Iran retaliates against US strikes, ending monthslong lull with attacks on Gulf allies - KVII |
-| 2026-09-02 21:18 | Iran | 通报 | Iran | 待确认 | C | Iran targets U.S. allies in Gulf after overnight attacks, and other Mideast news - The Tribune-Democrat |
-| 2026-09-02 21:15 | 未明确 | 通报 | 未明确 | 待确认 | C | Xi visits Egypt as China seeks deeper influence across Mideast - The Tribune-Democrat |
-| 2026-09-02 21:10 | US | 空袭 | Iran | 待确认 | C | CENTCOM completes wave of strikes on Iran in retaliation for targeting of US troops in region - The Jerusalem Post |
-| 2026-09-02 20:43 | US | 发射 | Iran | 待确认 | C | What is Iran’s Castle Breaker missile, used against US bases? - Al Jazeera |
-| 2026-09-02 20:41 | US | 通报 | Israel | 待确认 | C | Focus - UNIFIL peacekeepers patrol south Lebanon, caught between Israel and Hezbollah - France 24 |
-| 2026-09-02 20:38 | US | 空袭 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Iran Accuses US of ‘War Crime’ After Sirik Wedding Airstrike Kills Civilians, Injures Dozens as Red Crescent Seeks ICC Probe - sundayguardianlive.com |
-| 2026-09-02 20:33 | Israel | 发射 | Israel | 命中 | C | IDF says it hit Hezbollah after group launched 2 drones at troops in Lebanon - The Times of Israel |
-| 2026-09-02 20:23 | Israel | 发射 | Israel | 伤亡 | C | 1 killed in IDF strike carried out in response to Hezbollah drone attack on troops, Lebanese media says - The Times of Israel |
-| 2026-09-02 20:15 | Israel | 空袭 | Israel | 待确认 | C | Strike kills one in Nabatieh as Israel escalates attacks around Ali al-Taher - Naharnet |
-| 2026-09-02 20:14 | Israel | 空袭 | Israel | 待确认 | C | Israeli Strike on Lebanon Kills One - شبكة تواصل الإخبارية |
-| 2026-09-02 20:09 | Israel | 空袭 | Israel | 待确认 | C | Israeli strike on Lebanon kills one - Al Arabiya English |
-| 2026-09-02 19:56 | US | 空袭 | Iran | 待确认 | C | US strikes wedding party in southern Iran: What we know so far - The New Arab |
-| 2026-09-02 19:42 | US | 空袭 | Tehran | 待确认 | C | US-Israel-Iran War Live News: US Strikes Iranian Air Defences, Radar & Maritime Assets Near Strait Of Hormuz; Tehran Warns Of Dangerous Escalation - sundayguardianlive.com |
-| 2026-09-02 19:32 | US | 空袭 | Iran | 待确认 | C | Iran fires on its Gulf neighbors after US military strikes Iran after a monthlong lull - myMotherLode.com |
-| 2026-09-02 19:32 | 未明确 | 通报 | 未明确 | 待确认 | C | Tracking U.S., state and county gas prices, in maps and charts. Updated daily. - NBC News |
-| 2026-09-02 19:28 | US | 空袭 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: ‘Tanker for Tanker’ – Trump Approves New Iran War Strategy as US Strikes Iranian Government Ships Amid Strait of Hormuz Crisis - sundayguardianlive.com |
-| 2026-09-02 19:24 | US | 通报 | Iran | 命中 | C | US-Israel-Iran War Latest Live News: 2 Filipino Seafarers Killed After Saudi Vessel SIDR Hit By Unknown Projectiles In Strait Of Hormuz - sundayguardianlive.com |
-| 2026-09-02 19:17 | US | 通报 | Iran | 待确认 | C | Israel’s air force says it dropped over 1,200 munitions across 24 of Iran’s 31 provinces over past day in its joint attack with US / Akashvani News - newsonair.gov.in |
-| 2026-09-02 19:02 | US | 空袭 | Iran | 待确认 | C | US-Israel-Iran War Latest News: Iran Red Crescent Seeks ICC Probe Into US Strike On Wedding Ceremony - sundayguardianlive.com |
-| 2026-09-02 18:59 | US | 通报 | Iran | 待确认 | C | What do we know about the fatal US bombing of a wedding in Iran’s Sirik? - Al Jazeera |
-| 2026-09-02 18:57 | Israel | 空袭 | Iran | 待确认 | C | Iran heats up as U.S. conducts second round of strikes following tension in Strait of Hormuz - All Israel News |
-| 2026-09-02 18:55 | Israel | 通报 | Iran | 待确认 | C | Shafaq News..Katz: Israel prepares for Iran attack during Jewish holidays - شفق نيوز |
-| 2026-09-02 18:33 | Iran | 空袭 | Iran | 待确认 | C | What we know about reported strike on Iran wedding celebrations - bbc.com |
-| 2026-09-02 18:30 | Iran | 通报 | Iran | 待确认 | C | Trump's Iran Dilemma: No Easy Way Forward And No Easy Way Out - ETV Bharat |
-| 2026-09-02 18:22 | US | 通报 | Iran | 待确认 | C | We need a better strategy to weather the fallout of US-Israel war on Iran - The Daily Star |
-| 2026-09-02 18:10 | Israel | 通报 | Iran | 待确认 | C | Katz warns Iran could attack on Jewish holidays: ‘Our planes are ready’ - Israel National News |
-| 2026-09-02 18:09 | Iran | 通报 | Iran | 伤亡 | C | Iran Claims U.S. Attack Killed Civilians At Wedding - Newsradio WTAM 1100 |
-| 2026-09-02 18:00 | US | 通报 | Iran | 伤亡 | C | Fragile Truce Shatters: US-Iran Hostilities Reignite as Peace Deal Deadline Collapses - Modern Ghana |
-| 2026-09-02 17:52 | Israel | 通报 | Iran | 待确认 | C | Israel says prepared to ‘respond with great force’ if Iran attacks - Free Malaysia Today |
-| 2026-09-02 17:28 | 未明确 | 通报 | 未明确 | 待确认 | C | Pezeshkian urges effective UN role to address intl. crises - nournews.ir |
-| 2026-09-02 17:20 | US | 空袭 | Iran | 伤亡 | C | Iran attacks US bases in Middle East after reports US strike killed four at wedding party - Yahoo News Australia |
-| 2026-09-02 17:15 | US | 空袭 | Iran | 待确认 | C | Iran attacks US sites after American strikes, wedding deaths - IraqiNews |
-| 2026-09-02 17:15 | US | 空袭 | Iran | 伤亡 | C | Four dead in wedding strike as US-Iran conflict intensifies - novanews.co.za |
-| 2026-09-02 17:12 | Israel | 空袭 | Israel | 待确认 | C | Israel intensifies overnight strikes across southern Lebanon - aa.com.tr |
+| 2026-09-03 10:28 | Israel | 空袭 | Israel | 待确认 | C | Hamas warns ceasefire in Gaza will collapse after Israeli raid - PressReader |
+| 2026-09-03 10:12 | 未明确 | 通报 | Lebanon | 伤亡 | C | Netherlands wants UN peacekeepers in Lebanon beyond December deadline - thenationalnews.com |
+| 2026-09-03 10:01 | US | 空袭 | Tehran | 待确认 | C | SHOCKING Iran War News! US Pressure Mounts On Tehran As Netanyahu Warns Of More Strikes / News18 - news18.com |
+| 2026-09-03 09:50 | Israel | 通报 | Israel | 待确认 | C | Ali al-Taher ridge emerges as flashpoint in Israel-Hezbollah war - The Economic Times |
+| 2026-09-03 09:32 | US | 通报 | Iran | 待确认 | C | Oil prices edge lower on US-Iran war uncertainty; Brent at $95/bbl - Livemint |
+| 2026-09-03 09:00 | 未明确 | 通报 | 未明确 | 待确认 | C | Cal Thomas - A message for men over 50 - The Crescent-News |
+| 2026-09-03 08:47 | US | 发射 | Iran | 命中 | C | ISRAELIRANWAR. Bessent: "Hormuz will be useless in two years." Missile and drone launches between the United States and Iran. American bases in Jordan, Bahrain, and Kuwait were hit. Radar systems in southern Iran were destroyed - agc communication news |
+| 2026-09-03 08:39 | US | 空袭 | Iran | 待确认 | C | US military says it completed latest wave of strikes on Iran - The Daily Star |
+| 2026-09-03 06:53 | Israel | 通报 | Israel | 待确认 | C | Trump team avoiding war before midterms; president says Israel won’t be drawn into conflict - worldisraelnews.com |
+| 2026-09-03 06:42 | Israel | 通报 | Iran | 设施受损 | C | Israel-Iran Tensions: Energy Infrastructure Warning Issued - JFeed |
+| 2026-09-03 06:29 | US | 发射 | Iran | 命中 | C | Iran retaliates after US missile strike reportedly hits wedding – video - The Guardian |
+| 2026-09-03 06:03 | Israel | 通报 | Israel | 待确认 | C | Israeli military uproots olive trees in occupied West Bank - Reuters |
+| 2026-09-03 05:45 | Israel | 空袭 | Iran | 待确认 | C | Netanyahu: Israel Can Strike Iran Any Moment - Daily Beirut |
+| 2026-09-03 05:14 | Israel | 通报 | Iran | 待确认 | C | Trump: Iran conflict 'will not be very much longer' - Israel National News |
+| 2026-09-03 05:06 | US | 空袭 | Iran | 待确认 | C | US-Iran strikes raise fears of renewed war across the Middle East - Reuters |
+| 2026-09-03 05:02 | Iran | 空袭 | Iran | 待确认 | C | What we know about reported strike on Iran wedding celebrations - BBC |
+| 2026-09-03 04:38 | US | 通报 | Iran | 待确认 | C | US-Iran conflict hands China's Xi upper hand ahead of Trump meeting: Experts - ABC News - Breaking News, Latest News and Videos |
+| 2026-09-03 04:31 | US | 通报 | Iran | 伤亡 | C | World News in Brief: US-Iran war intensifies, aid for Myanmar, casualties in Ukraine - news.un.org |
+| 2026-09-03 04:27 | Iran | 通报 | Iran | 待确认 | C | Trump suggests renaming Strait of Hormuz as Trump Strait amid Iran war - Al Jazeera |
+| 2026-09-03 04:24 | US | 通报 | Iran | 待确认 | C | Israel Warns Iran of Massive Retaliation Following Attacks on US Bases - Head Topics |
+| 2026-09-03 04:05 | US | 通报 | Iran | 待确认 | C | US military ‘never targets civilians, unlike the IRGC,’ CENTCOM says - Iran International |
+| 2026-09-03 03:27 | Israel | 通报 | Israel | 待确认 | C | Israel Says Netanyahu Will Address U.N. Despite Mamdani Protest Call - VINnews |
+| 2026-09-03 03:01 | Israel | 通报 | Israel | 待确认 | C | Israel braces for possible Hezbollah flare-up - www.israelhayom.com |
+| 2026-09-03 02:28 | US | 通报 | Iran | 待确认 | C | India's Bold Shift: SCO Statement Condemns US and Israel's Actions Against Iran / News18 - news18.com |
+| 2026-09-03 02:26 | 未明确 | 通报 | 未明确 | 待确认 | C | Trump proposes renaming Strait of Hormuz ‘Trump Strait’ - The Siasat Daily |
+| 2026-09-03 02:24 | Israel | 通报 | Iran | 待确认 | C | Benjamin Netanyahu: Potential Iranian attack would result in significant Israeli response - The Jerusalem Post |
+| 2026-09-03 02:22 | US | 通报 | Iran | 待确认 | C | Iran’s military benefitted technologically from US-Israeli aggression - PressTV |
+| 2026-09-03 02:20 | US | 空袭 | Iran | 待确认 | C | US CENTCOM completes wave of retaliatory strikes against Iran - The Jerusalem Post |
+| 2026-09-03 02:19 | Iran | 通报 | Iran | 命中 | C | Iran's currency hits record low - The New Indian Express |
+| 2026-09-03 02:09 | US | 空袭 | Iran | 待确认 | C | Israel readies Iran strike plans as US pressure raises risk of attack - Ynetnews |
+| 2026-09-03 01:40 | US | 发射 | Iran | 待确认 | C | Today's Headlines: Iran Launches Major Retaliatory Strikes / US Strikes Wedding Hall in Iran / 'Gaza Rising' - Palestine Chronicle |
+| 2026-09-03 01:35 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Xi Jinping Warns Middle East Against ‘External Interference’, Offers Support for Safe Shipping - The Sunday Guardian |
+| 2026-09-03 01:31 | US | 通报 | Tehran | 待确认 | C | Iran war fractures US administration: Driscoll quits amid Pentagon chaos - Tehran Times |
+| 2026-09-03 01:10 | US | 发射 | Iran | 待确认 | C | Middle East Violence Escalates as Iran and Joint US‑Israel Forces Launch New Missile & Drone Waves - News On AIR |
+| 2026-09-03 01:03 | Israel | 通报 | Israel | 命中 | C | Lebanon talks hit roadblock as Israel weighs next steps - LBCI Lebanon |
+| 2026-09-03 00:50 | US | 通报 | 未明确 | 待确认 | C | Trump / Strait of Hormuz / Trump Strait / US President’s Name Change Remark - Aaj News - Aaj English TV |
+| 2026-09-03 00:41 | Iran | 通报 | Iran | 待确认 | C | Iran war: Trump floats renaming Strait of Hormuz as ‘Trump Strait’ - South China Morning Post |
+| 2026-09-03 00:05 | Israel | 空袭 | Israel | 待确认 | C | Sour Aerial Raid: Israeli Strike During Swimming at Al-Munassir - Daily Beirut |
+| 2026-09-03 00:01 | US | 发射 | Iran | 待确认 | C | Iran’s Kheibar Shekan Missile Highlights Escalating US-Israel Conflict - SSBCrack |
+| 2026-09-02 23:45 | 未明确 | 通报 | 未明确 | 待确认 | C | China’s Xi urges new Middle East security framework during rare Egypt visit - Al Jazeera |
