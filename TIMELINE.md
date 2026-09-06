@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-09-05 22:27
+更新时间（北京时间）: 2026-09-06 10:38
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-09-05 22:23 | US | 空袭 | Iran | 待确认 | C | US Strikes Three Iranian Crude Oil Tankers, Destroying One - Benzinga |
-| 2026-09-05 22:22 | US | 发射 | Iran | 待确认 | C | US strikes 3 Iranian oil carriers after Navy warships evaded missiles, CENTCOM says - stripes.com |
-| 2026-09-05 22:13 | US | 发射 | Iran | 待确认 | C | US disables three Iranian oil tankers after missile attacks on Navy warships - Saudi Gazette |
-| 2026-09-05 22:12 | Iran | 通报 | Iran | 设施受损 | C | U.S. military says it destroyed three Iranian oil tankers - The Hindu |
-| 2026-09-05 22:01 | US | 通报 | Iran | 设施受损 | C | US military says it destroyed three IRGC-linked oil tankers in retaliation to Iranian fire - The Times of Israel |
-| 2026-09-05 22:00 | US | 发射 | Iran | 设施受损 | C | US military says it destroyed 3 Iranian oil tankers after missile attacks - Anadolu Ajansı |
-| 2026-09-05 21:22 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: US Faces Record-High Petrol Prices to Top $4 Per Gallon as War on Iran Continues to Raise Energy Costs - The Sunday Guardian |
-| 2026-09-05 21:22 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Iraq Faces Petrol Shortage as Strait of Hormuz Disruption Delays Vital Gasoline Shipments – Long Queues Return in Baghdad - The Sunday Guardian |
-| 2026-09-05 21:21 | US | 通报 | Iran | 待确认 | C | Iran accuses the US of targeting a tanker near Kharg Island, and other key Mideast developments - WHDH |
-| 2026-09-05 21:16 | US | 发射 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Houthis Accuse Yemen Government Forces Of Killing 3 In Airstrikes Across Hodeida & Taiz As Military Launches 15+ Attacks - The Sunday Guardian |
-| 2026-09-05 21:11 | Israel | 通报 | Israel | 待确认 | C | Hezbollah blames Lebanon govt.’s ‘failure’ as Israel escalates ‘killing and destruction’ - PressTV |
-| 2026-09-05 21:02 | Iran | 空袭 | Iran | 待确认 | C | Why is Trump threatening to strike Iran’s Pickaxe Mountain again, now? - Al Jazeera |
-| 2026-09-05 21:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post |
-| 2026-09-05 20:52 | US | 通报 | Iran | 待确认 | C | Senior US military staff subjeced to polygraphs over Iran leaks - The New Arab |
-| 2026-09-05 20:52 | US | 通报 | Iran | 伤亡 | C | US-Israel-Iran War Latest Live News: IRGC Says It Killed Two Suspects Linked to US and Israel Aiming to Carry Out Attacks in Sistan and Baluchestan Province - The Sunday Guardian |
-| 2026-09-05 20:50 | US | 发射 | Iran | 待确认 | C | Iran accuses US of missile strike on tanker near Kharg Island - Daily Sabah |
-| 2026-09-05 20:06 | Israel | 通报 | Tehran | 待确认 | C | Netanyahu says Iran will face severe response if Tehran attacks Israel - Business Upturn |
-| 2026-09-05 19:42 | Iran | 发射 | Iran | 待确认 | C | Video Does Not Show Iranian Cluster Missiles Targeting U.S. Bases in Jordan - موقع مسبار |
-| 2026-09-05 19:38 | US | 通报 | Israel | 待确认 | C | US ambassador says Israel not planning forced displacement from Gaza - Business Recorder |
-| 2026-09-05 19:27 | US | 空袭 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Pete Hegseth Says ‘Decisive’ Days ahead as US Refuses To Rule Out Ground Troops; Trump Slams Europe, Iran Blamed For Oil Tanker Strike Near Dubai - The Sunday Guardian |
-| 2026-09-05 19:15 | Iran | 通报 | Iran | 待确认 | C | Iran accuses U.S. of targeting a tanker near Kharg Island, and other Mideast news - The Tribune-Democrat |
-| 2026-09-05 19:01 | Iran | 通报 | Iran | 待确认 | C | Iran war: Explosions reported near Kharg Island - DW.com |
-| 2026-09-05 19:00 | Israel | 空袭 | Israel | 伤亡 | C | Four killed, 32 wounded in Israeli strikes in southern Lebanon: Health Ministry - Business Upturn |
-| 2026-09-05 18:56 | US | 发射 | Iran | 命中 | C | Iran Oil Tanker Hit By Missile Near Kharg Island Amid US Tensions, Gulf Crisis Escalates - Dynamite News |
-| 2026-09-05 18:52 | US | 通报 | Iran | 待确认 | C | US gives polygraph tests to military officials over Iran war leaks - Muslim Network TV |
-| 2026-09-05 18:52 | Israel | 通报 | Israel | 待确认 | C | Palestinian football returns after nearly three-year halt amid Israeli genocide - Muslim Network TV |
-| 2026-09-05 18:52 | 未明确 | 通报 | Gaza | 待确认 | C | Trump Gaza board member gave $1.5M to AIPAC-linked super PAC - Muslim Network TV |
-| 2026-09-05 18:52 | Israel | 通报 | Israel | 待确认 | C | House passes bill threatening university funding over Israel boycotts - Muslim Network TV |
-| 2026-09-05 18:52 | US | 通报 | 未明确 | 命中 | C | US spends billions to deport as it widens welcome for white refugees - Muslim Network TV |
-| 2026-09-05 18:17 | US | 发射 | Iran | 命中 | C | Iranian tanker hit by four US missiles near Kharg Island - The Siasat Daily |
-| 2026-09-05 18:11 | Israel | 通报 | Iran | 待确认 | C | Israeli PM Netanyahu posts AI video pairing NYC Mayor Zohran Mamdani with Iran's Mojtaba Khamenei - Dailyhunt |
-| 2026-09-05 18:09 | US | 空袭 | Iran | 命中 | C | US-Israel-Iran War Latest Live News: ‘Small Potatoes’ - Trump Downplays Iran Conflict Despite Ongoing Strikes; Says Pickaxe Mountain Could Be Hit ‘Very Soon’ - The Sunday Guardian |
-| 2026-09-05 17:57 | Israel | 发射 | Israel | 待确认 | C | South Lebanon horror: Hezbollah unleashes drone attack on IDF, Israel fires back, killing 3 - Mid-Day |
-| 2026-09-05 17:53 | US | 通报 | Tehran | 待确认 | C | US-Israel-Iran War Latest Live News: Entire Country Could ‘Erode from Within,’ Says Tehran Mayor If It Ignores Internal Problems - The Sunday Guardian |
-| 2026-09-05 17:37 | Israel | 通报 | Israel | 待确认 | C | Months After Ceasefire, Israel and Hezbollah Clash Over Strategic Hill in Lebanon - 10net.in |
-| 2026-09-05 17:26 | Iran | 通报 | Iran | 待确认 | C | Blasts Near Iran’s Kharg Oil Hub After Trump Dismisses Conflict As 'Small Potatoes' - Outlook India |
-| 2026-09-05 17:19 | Israel | 空袭 | Israel | 待确认 | C | Strike on Israeli Golan Heights kills 11 and threatens to spark wider war, Hezbollah denies role - Arab News PK |
-| 2026-09-05 16:58 | US | 通报 | Iran | 待确认 | C | US Clears $5 Billion Sale Of JDAM Bombs To Saudi Arabia Amid Iran War - NDTV Profit |
-| 2026-09-05 16:55 | US | 空袭 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Trump Warns US Could Strike Pickaxe Mountain ‘Very Soon’ as Explosions Heard Near Kharg Island Oil Terminal - The Sunday Guardian |
-| 2026-09-05 16:45 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Live News: UK Warns of ‘Economic Fallout’ as US Approves $5 Billion Saudi Arms Deal and Expands Iran Sanctions – What’s Next? - The Sunday Guardian |
+| 2026-09-06 09:56 | US | 发射 | Iran | 命中 | C | US military says it struck three Iranian tankers after American warships came under missile attack - The Guardian |
+| 2026-09-06 09:52 | US | 空袭 | Iran | 待确认 | C | Iran targets US carrier, destroyer after American strikes on Iranian tankers - Muslim Network TV |
+| 2026-09-06 09:35 | US | 通报 | Iran | 待确认 | C | Watch: US forces destroy Iranian oil tanker in Gulf of Oman - Israel National News |
+| 2026-09-06 09:34 | Iran | 通报 | Iran | 命中 | C | U.S. military says it hit 3 Iranian tankers after Navy ships targeted - The Washington Post |
+| 2026-09-06 09:12 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post |
+| 2026-09-06 08:48 | Israel | 发射 | Iran | 命中 | C | Motsai Shabbos Updates: Israel Strikes Hezbollah Targets After Drone Attack as U.S. Hits Iranian Oil Network - 5 Towns Central |
+| 2026-09-06 07:43 | US | 空袭 | Iran | 待确认 | C | Live - Iran threatens harsher strikes on US warships as Hegseth vows to sink tankers - iranintl.com |
+| 2026-09-06 07:24 | US | 通报 | Iran | 命中 | C | US says it hit Iran oil tankers accused of helping ‘regional proxies’ - Al Jazeera |
+| 2026-09-06 07:19 | Israel | 空袭 | Tehran | 待确认 | C | Israel reports fresh airstrikes on Iranian targets east of Tehran / Akashvani News - News On AIR |
+| 2026-09-06 07:09 | US | 通报 | Iran | 设施受损 | C | US, Iranian forces fire at vessels in waters near Iran - Reuters |
+| 2026-09-06 06:44 | US | 发射 | Iran | 待确认 | C | Iran war: US destroys Iranian oil tankers after missile attacks on ships - Nine.com.au |
+| 2026-09-06 05:31 | Israel | 通报 | Israel | 待确认 | C | Israel considers new 'security zone' up to 4 km inside Lebanon — report - TRT World |
+| 2026-09-06 04:52 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: IRGC Says ‘Unauthorised’ Routes Will Be Targeted as Qatar Pushes De-escalation Amid Strait of Hormuz Crisis - The Sunday Guardian |
+| 2026-09-06 04:31 | US | 空袭 | Iran | 待确认 | C | US military strikes oil tankers as Iran vows tougher reprisals - Oman Observer |
+| 2026-09-06 04:10 | Israel | 发射 | Israel | 伤亡 | C | Lebanon reports at least 3 killed, over 20 hurt in Israeli strikes following Hezbollah drone attack - The Times of Israel |
+| 2026-09-06 04:09 | US | 通报 | Iran | 待确认 | C | Iran warns US against Israeli attack on south Lebanon ridge held by Hezbollah, sources say - The Business Standard |
+| 2026-09-06 03:42 | US | 空袭 | Iran | 待确认 | C | Iran slams 'illegal' US strikes, vows 'more severe' reprisals - TRT World |
+| 2026-09-06 03:30 | US | 发射 | Iran | 待确认 | C | CENTCOM Strikes Three Iranian Oil Tankers After IRGC Ballistic Missile Attack on U.S. Warships: 13 outlets compared - NewsCord |
+| 2026-09-06 03:24 | US | 空袭 | Iran | 伤亡 | C | US-Israel-Iran War Latest Live News: 3 Wounded in Israeli Strike on Gaza City’s Tuffah Neighbourhood as Palestinian Red Crescent Confirms Casualties - The Sunday Guardian |
+| 2026-09-06 03:01 | 未明确 | 通报 | 未明确 | 待确认 | C | West Asia conflict enters more intense phase with military activity spreading across several fronts / Akashvani News - News On AIR |
+| 2026-09-06 02:50 | Israel | 通报 | Iran | 待确认 | C | Israel Has Put America in the Centre of a Chakravyuh and Washington Has No Easy Exit from Iran - Goa Chronicle |
+| 2026-09-06 02:45 | Iran | 通报 | Iran | 待确认 | C | Trump Planning "Something Much Bigger" For Middle East After Iran War: Report - NDTV |
+| 2026-09-06 02:22 | US | 空袭 | Iran | 待确认 | C | US strikes 3 Iranian oil tankers after IRGC attack on American naval ship - The Korea Times |
+| 2026-09-06 02:00 | US | 空袭 | Iran | 待确认 | C | Middle-East Conflict: US Strikes Three Iranian Oil Tankers As Iran Targets American Warships - Sahara Reporters |
+| 2026-09-06 01:59 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: US Defence Secretary Hegseth Says ‘Iran’s Oil Tanker Fleet Is Defenceless’ as Qatar and UAE Minister Push for Regional De-escalation - The Sunday Guardian |
+| 2026-09-06 01:59 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Iran Chief Justice Ayatollah Gholam-Hossein Mohseni-Eje’i Calls for Global Action Over Alleged War Crimes, Urges BRICS Nations To ‘Stand With the Law’ - The Sunday Guardian |
+| 2026-09-06 01:58 | US | 空袭 | Iran | 待确认 | C | Iran threatens to expand strikes if US keeps 'harassing' its ships - Ynetnews |
+| 2026-09-06 01:58 | Israel | 通报 | Iran | 待确认 | C | Israeli Channel: Iran Determined to Continue War with U.S. - WANA News Agency |
+| 2026-09-06 01:41 | US | 通报 | Iran | 待确认 | C | US army targets Iranian oil tankers in response to Iran attacks - The New Arab |
+| 2026-09-06 01:41 | Iran | 通报 | Iran | 待确认 | C | Trump plans ‘much bigger’ Middle East reset after Iran war: What’s on the table? - Livemint |
+| 2026-09-06 01:25 | Israel | 空袭 | Israel | 伤亡 | C | Lebanon raises toll to four dead in overnight Israeli strikes - english.alarabiya.net |
+| 2026-09-06 01:20 | Iran | 通报 | Tehran | 命中 | C | Everyone is against this war, except its architects - tehrantimes.com |
+| 2026-09-06 01:18 | US | 通报 | Iran | 待确认 | C | WATCH: US forces destroy three Iranian tankers - worldisraelnews.com |
+| 2026-09-06 00:30 | Hamas | 通报 | 未明确 | 待确认 | C | Netanyahu held secret talks with Hamas during 2014 war - knewz.com |
+| 2026-09-06 00:29 | US | 通报 | Tehran | 待确认 | C | Israel sees rising risk of Iranian attack as Tehran weighs escalation before US midterms - Ynetnews |
+| 2026-09-06 00:08 | Israel | 通报 | Israel | 待确认 | C | Israel claims control of Lebanon’s key Ali al-Taher ridge: What that means - Al Jazeera |
+| 2026-09-05 23:45 | Israel | 通报 | Israel | 待确认 | C | As Elections Approach, Netanyahu Casts Turkey as Israel’s Latest Adversary - شبكة يافا الإخبارية |
+| 2026-09-05 23:39 | US | 发射 | Iran | 待确认 | C | US blitzes 3 Iranian tankers after 'missiles launched towards navy warships' - the-sun.com |
+| 2026-09-05 23:36 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: US Embassy in Bahrain Urges ‘Heightened Vigilance’ as Egypt and Bahrain Discuss Strait of Hormuz Disruption - The Sunday Guardian |
+| 2026-09-05 23:07 | US | 空袭 | Iran | 待确认 | C | Shafaq News..CENTCOM claims strikes on three Iranian oil tankers - شفق نيوز |
