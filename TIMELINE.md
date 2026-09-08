@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-09-08 01:07
+更新时间（北京时间）: 2026-09-08 10:48
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-09-08 00:53 | Israel | 空袭 | Israel | 伤亡 | C | Twelve killed as Israel strikes Lebanese village - Moree Champion |
-| 2026-09-08 00:45 | Iran | 通报 | Tehran | 待确认 | C | Iran war latest: Tehran says it will act against vessels beyond Strait of Hormuz - thenationalnews.com |
-| 2026-09-08 00:43 | Israel | 空袭 | Israel | 待确认 | C | Israel carries out fresh strikes on Lebanon, killing 12 - ABC News & Headlines – Australian Broadcasting Corporation |
-| 2026-09-08 00:43 | Israel | 通报 | Israel | 待确认 | C | Claimed Israeli capture of Lebanese ridge reshapes negotiation dynamics - aljazeera.com |
-| 2026-09-08 00:41 | Israel | 通报 | Israel | 待确认 | C | Gaza Board of Peace official presses Israel to honor roadmap commitments - Muslim Network TV |
-| 2026-09-08 00:34 | Israel | 空袭 | Israel | 待确认 | C | Israeli strikes on Lebanese town kill 12 as escalation fears mount - staradvertiser.com |
+| 2026-09-08 10:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post |
+| 2026-09-08 09:37 | Israel | 空袭 | Israel | 待确认 | C | Israeli airstrikes on a village in southern Lebanon kill 12 people, including 2 children - Politico |
+| 2026-09-08 09:16 | US | 通报 | Iran | 待确认 | C | "Paying the price of war": Turkish President accuses Israel of derailing US-Iran MoU, sabotaging peace efforts - ANI News |
+| 2026-09-08 08:35 | Israel | 空袭 | Israel | 命中 | C | Reporter and cameraman for Hezbollah-controlled Lebanese TV station hit on air by Israeli strike - Yahoo News Canada |
+| 2026-09-08 08:21 | Israel | 空袭 | Israel | 待确认 | C | Israel strikes Lebanon, accuses Hezbollah of truce violations - Daily Trust |
+| 2026-09-08 07:09 | Israel | 空袭 | Israel | 待确认 | C | Israeli airstrikes kill 12 people, including two children, in southern Lebanon - Washington Examiner |
+| 2026-09-08 06:45 | Iran | 发射 | Iran | 待确认 | C | Iran says improved ballistic missile shows it will take preemptive action against threats - The Tribune-Democrat |
+| 2026-09-08 06:09 | Israel | 空袭 | Israel | 待确认 | C | Israeli strikes on southern Lebanon kill at least 12 people - Sky News |
+| 2026-09-08 05:33 | US | 空袭 | Iran | 待确认 | C | Oil prices surge as US-Iran strikes intensify in Strait of Hormuz - Al Jazeera |
+| 2026-09-08 05:32 | Israel | 空袭 | Israel | 待确认 | C | Israel intensifies South Lebanon strikes, killing 13 in new escalation - France 24 |
+| 2026-09-08 05:15 | Israel | 空袭 | Israel | 伤亡 | C | Israel strikes southern Lebanon, 12 killed in Kfar Rumman amid ceasefire tensions - Moneycontrol.com |
+| 2026-09-08 04:21 | US | 空袭 | Iran | 待确认 | C | War, latest news. Oil prices rise following US-Iran air strikes. UN: appalled by Israel’s proposals on Gaza - Il Sole 24 ORE |
+| 2026-09-08 03:54 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: 8 Countries Reject Israeli Ministers’ Gaza Displacement Plans, Warn of Grave Consequences for Palestinians & Regional Peace - sundayguardianlive.com |
+| 2026-09-08 03:45 | Israel | 空袭 | 未明确 | 待确认 | C | Caught on camera: IDF drone strike wounds Hezbollah-linked reporter moments before broadcast - Ynetnews |
+| 2026-09-08 03:14 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Pentagon Reverses Combat Pay Decision for US Airman’s Widow After Viral Post, Clarifies Benefits After His Death During Iran Operations - sundayguardianlive.com |
+| 2026-09-08 03:02 | US | 通报 | Iran | 待确认 | C | Qatar warns Gulf stability can no longer be taken for granted amid US-Iran conflict - Muslim Network TV |
+| 2026-09-08 02:53 | Israel | 空袭 | Israel | 伤亡 | C | Two members of family killed in Israeli strike on Kfar Roummane were Hezbollah members; one killed in drone strike on Sojod-Rihan road/ LIVE - L'Orient Today |
+| 2026-09-08 02:48 | Iran | 通报 | Iran | 待确认 | C | The war happening while the world watches Iran - ABC News & Headlines – Australian Broadcasting Corporation |
+| 2026-09-08 02:31 | US | 通报 | Iran | 命中 | C | US denies that Iran struck an uncrewed US military ship in the Strait of Hormuz - WSVN |
+| 2026-09-08 02:28 | US | 空袭 | Iran | 待确认 | C | Trump: US may strike Pickaxe Mountain; Iran aims to halt all Hormuz shipping TV7 Israel News 7 Sept. - TV7 Israel News |
+| 2026-09-08 02:00 | Israel | 空袭 | Israel | 待确认 | C | Israeli Strikes Kill At Least 12 in Kfar Rumman, Lebanon Health Ministry Says: who 23 outlets blamed - NewsCord |
+| 2026-09-08 01:57 | 未明确 | 通报 | 未明确 | 待确认 | C | Oil prices rise to six-week highs on worsening Middle East conflict - Reuters |
+| 2026-09-08 01:52 | Iran | 通报 | Iran | 命中 | C | Gas prices in U.S. hit record Labor Day high, thanks to Iran war and refinery issues - PBS |
+| 2026-09-08 01:36 | Israel | 空袭 | Israel | 待确认 | C | Video: Israeli Strikes Kill at Least 11 in Southern Lebanon - The New York Times |
+| 2026-09-08 01:30 | Israel | 发射 | Israel | 伤亡 | C | Israel Launches Deadly Strikes in Lebanon as Military Campaign Intensifies - The New York Times |
+| 2026-09-08 01:23 | Israel | 空袭 | Israel | 伤亡 | C | Lebanon says 12 killed in strikes as Israel vows to ‘remove threats’ - Free Malaysia Today |
+| 2026-09-08 01:17 | Israel | 通报 | Israel | 待确认 | C | What is Israel's reported 'grey line' plan for southern Lebanon? - The New Arab |
+| 2026-09-08 01:00 | Israel | 空袭 | Israel | 伤亡 | C | Twelve killed as Israel strikes Lebanese village - wellingtontimes.com.au |
+| 2026-09-08 00:54 | Israel | 空袭 | Israel | 伤亡 | C | Twelve killed as Israel strikes Lebanese village - The Singleton Argus |
+| 2026-09-08 00:51 | Israel | 空袭 | Israel | 待确认 | C | Israeli strikes on southern Lebanon kill at least 12 people - Manx Radio Motorsport |
+| 2026-09-08 00:49 | Israel | 通报 | Israel | 待确认 | C | Claimed Israeli capture of Lebanese ridge reshapes negotiation dynamics - Al Jazeera |
+| 2026-09-08 00:47 | 未明确 | 通报 | 未明确 | 待确认 | C | / Deniliquin Pastoral Times - Deniliquin Pastoral Times |
+| 2026-09-08 00:04 | US | 通报 | Iran | 待确认 | C | Record Fuel Prices BREAK American’s Back Due To Iran War; Israel Slashes Fuel Tax To Favor Citizens - Oneindia |
+| 2026-09-08 00:03 | Israel | 空袭 | Israel | 待确认 | C | Israeli airstrikes on Lebanon kill 11 - The Manila Times |
 | 2026-09-07 23:59 | US | 通报 | Iran | 待确认 | C | Erdogan accuses Israel of sabotaging Iran-US MoU, fueling regional war - Iran International |
-| 2026-09-07 23:39 | US | 空袭 | Iran | 待确认 | C | Trump swaps Iran map with own portrait as US strikes oil tankers - Herald Sun |
+| 2026-09-07 23:53 | Israel | 空袭 | Israel | 伤亡 | C | Israel air strikes on Lebanese village leave 12 dead - Morning Star / The People’s Daily |
+| 2026-09-07 23:27 | US | 通报 | Iran | 待确认 | C | Iran’s parliamentary speaker accuses US secretly planning ground invasion - News On AIR |
 | 2026-09-07 23:25 | US | 空袭 | Iran | 命中 | C | West Asia conflict escalates as US‑Israel strikes hit Iran, US Embassy attacked in Riyadh / Akashvani News - News On AIR |
-| 2026-09-07 23:23 | Israel | 空袭 | Israel | 待确认 | C | Israeli strikes on southern Lebanon kill at least 12 people - Sky News |
-| 2026-09-07 23:14 | Israel | 发射 | Israel | 伤亡 | C | Israel Launches Deadly Strikes in Lebanon as Military Campaign Intensifies - The New York Times |
-| 2026-09-07 23:13 | US | 空袭 | Iran | 伤亡 | C | US-Israel-Iran War Latest Live News: Israeli Strikes Kill 27, Wound 69 in Lebanon Over 3 Days; Kfar Rumman Residential Attack Leaves 11 Dead - The Sunday Guardian |
-| 2026-09-07 23:12 | Israel | 空袭 | Israel | 伤亡 | C | Nine killed in southern Lebanese village after Israeli strike - Vatican News |
-| 2026-09-07 23:12 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post |
-| 2026-09-07 23:01 | Israel | 空袭 | Israel | 伤亡 | C | Lebanon says Israel conducts wave of deadly strikes - Newswav |
-| 2026-09-07 22:45 | Israel | 空袭 | Israel | 待确认 | C | Israeli airstrikes on a village in southern Lebanon kill 9 people, wound 13 - CHAT News Today |
-| 2026-09-07 22:44 | Israel | 空袭 | Israel | 待确认 | C | Israeli airstrikes kill at least 12 in southern Lebanon amid renewed escalation - Castanet |
-| 2026-09-07 22:20 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: ‘New Exclusion Zone’ – Iran Moves to Tighten Control Over Strait of Hormuz as New Shipping Corridor With Oman Takes Shape and Oil Prices Near $100 - The Sunday Guardian |
-| 2026-09-07 22:02 | US | 空袭 | Israel | 待确认 | C | Israeli airstrikes on Lebanese village kill 9, plus other key Mideast developments - The Tribune-Democrat |
-| 2026-09-07 21:53 | US | 通报 | Iran | 待确认 | C | Baghaei Says Iran Will Respond to Any “Ill-Advised” Move by US and European States - WANA News Agency |
-| 2026-09-07 21:48 | US | 通报 | Iran | 待确认 | C | Day 188 / Trump says renewed US campaign against Iran won't last long - Roya News |
-| 2026-09-07 21:44 | Israel | 空袭 | Israel | 伤亡 | C | Lebanon says Israel conducts wave of deadly strikes - RFI |
-| 2026-09-07 21:42 | Israel | 通报 | Israel | 伤亡 | C | Two 'Israeli' soldiers injured in Hezbollah firefight - Roya News |
-| 2026-09-07 21:22 | Israel | 空袭 | Israel | 待确认 | C | CNN's Diamond Claims 4 Israeli Strikes In 20 Minutes In Yet Another One-Sided Report - newsbusters.org |
-| 2026-09-07 21:20 | Israel | 空袭 | Jerusalem | 伤亡 | C | Two IDF soldiers injured by Hezbollah terrorist in southern Lebanon, military strikes in response - The Jerusalem Post |
-| 2026-09-07 21:13 | Iran | 通报 | Iran | 待确认 | C | UAE says its energy exports will not be 'held hostage' by Iran war - Reuters |
-| 2026-09-07 21:09 | Israel | 空袭 | Israel | 伤亡 | C | At least 12 killed in Israeli air strikes on village in southern Lebanon - theglobeandmail.com |
-| 2026-09-07 20:55 | US | 通报 | Iran | 待确认 | C | Israeli Opinion Piece Proposes Debt Forgiveness as Incentive To Lure Young Americans To Fight in Iran - International Business Times UK |
-| 2026-09-07 20:52 | Iran | 通报 | Iran | 待确认 | C | Does the Video Show a Recent Iranian Preemptive Attack on U.S. Bases? - موقع مسبار |
-| 2026-09-07 20:50 | Israel | 空袭 | Lebanon | 待确认 | C | IDF strikes Hezbollah targets in Southern Lebanon - JNS.org |
-| 2026-09-07 20:45 | Israel | 通报 | Israel | 伤亡 | C | Watch: Lebanese reporter injured during live broadcast - Israel National News |
-| 2026-09-07 20:40 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: US Pushes Diplomatic Route Over Iran’s Nuclear Non-Compliance; Washington Seeks UN Security Council Referral Amid IAEA Inspection Standoff - The Sunday Guardian |
-| 2026-09-07 20:40 | US | 通报 | Iran | 待确认 | C | Qatar warns Gulf stability can no longer be taken for granted amid US-Iran conflict - Muslim Network TV |
-| 2026-09-07 20:38 | Israel | 空袭 | Israel | 命中 | C | Nine killed as Israeli strikes hit southern Lebanon - Tribune Online |
-| 2026-09-07 20:37 | Israel | 空袭 | Israel | 伤亡 | C | Eleven said killed, including 2 children, in overnight IDF strikes in south Lebanon - The Times of Israel |
-| 2026-09-07 20:32 | US | 通报 | Iran | 待确认 | C | Iran warning as tensions with US soar over Israel-Lebanon attacks - Daily Mirror |
-| 2026-09-07 20:27 | Israel | 空袭 | Israel | 待确认 | C | Residents live in constant anxiety as Israel escalates strikes on Nabatieh region - Naharnet |
-| 2026-09-07 20:18 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Live News: Oman Rescued 16 Crew Members from ⁠Saudi-Owned Tanker Sidr After it ⁠was Attacked by Iran - The Sunday Guardian |
-| 2026-09-07 20:18 | Israel | 空袭 | Israel | 待确认 | C | Israeli Strikes Kill Nine in Lebanese Village - radionigeriaibadan.gov.ng |
-| 2026-09-07 20:14 | US | 通报 | Iran | 设施受损 | C | 27 Iranian airports damaged during US-Israeli aggression - Mehr News Agency |
+| 2026-09-07 23:13 | US | 空袭 | Iran | 伤亡 | C | US-Israel-Iran War Latest Live News: Israeli Strikes Kill 27, Wound 69 in Lebanon Over 3 Days; Kfar Rumman Residential Attack Leaves 11 Dead - sundayguardianlive.com |
+| 2026-09-07 23:12 | Israel | 空袭 | Israel | 伤亡 | C | Nine killed in southern Lebanese village after Israeli strike - vaticannews.va |
