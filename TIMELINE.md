@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-09-11 23:46
+更新时间（北京时间）: 2026-09-12 10:52
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-09-11 23:30 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Pakistan Faces Pressure To Honour Saudi Defence Pact While Keeping Diplomatic Channel With Iran Open Amid Houthi Attacks Over Yemen - The Sunday Guardian |
-| 2026-09-11 23:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post |
-| 2026-09-11 22:47 | Israel | 空袭 | Israel | 待确认 | C | Israel’s 1,100-ton strike in Lebanon brings earthquake, 2-km Hezbollah tunnel explodes near Nabatieh - Mid-Day |
-| 2026-09-11 22:24 | Israel | 通报 | Israel | 设施受损 | C | Israel says it has destroyed major underground Hezbollah base - peopledaily.digital |
-| 2026-09-11 22:09 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Hamas Condemns Killing Of Qassam Brigades Commander Muhammad Al-Yazouri By Israeli Forces In Khan Younis - The Sunday Guardian |
-| 2026-09-11 21:56 | Israel | 空袭 | Israel | 待确认 | C | Israeli strike with 1,000 tonnes of explosives shakes Lebanon - observerbd.com |
-| 2026-09-11 21:53 | 未明确 | 通报 | 未明确 | 待确认 | C | Gulf states to talk Hormuz on September 14 in Oman - Breakingthenews.net |
-| 2026-09-11 21:35 | Israel | 通报 | Israel | 待确认 | C | Documentary alleging Israel committed wanton killing in Gaza gets standing ovation in Venice - South African Jewish Report |
-| 2026-09-11 21:29 | US | 通报 | Tehran | 待确认 | C | US-Israel-Iran War Latest Live News: BRICS Faces Divisions Over Iran War As China, Russia Back Tehran While India, Saudi Arabia & UAE Take Cautious Stance - The Sunday Guardian |
-| 2026-09-11 21:16 | US | 通报 | Iran | 待确认 | C | Lamola calls for stronger BRICS amid Israel, US-Iran war divisions - ECR |
-| 2026-09-11 21:12 | Israel | 通报 | Israel | 待确认 | C | In Nabatieh, Zamir claims full Israeli control of ‘Yellow Line,’ warns against attacks on Israel / LIVE - L'Orient Today |
-| 2026-09-11 21:10 | Israel | 通报 | Israel | 待确认 | C | Israel destroys major Hezbollah tunnel network in southern Lebanon - myind.net |
-| 2026-09-11 20:52 | Israel | 空袭 | Israel | 待确认 | C | Israel Says Ready for More Strikes on Hezbollah after Tunnel Detonation - ASHARQ AL-AWSAT English |
-| 2026-09-11 20:48 | Israel | 空袭 | Israel | 待确认 | C | Literal shockwave: Israeli strike on Hezbollah tunnel triggers 4.1 magnitude earthquake in Lebanon / VIDEO - India TV News |
-| 2026-09-11 20:28 | US | 空袭 | Iran | 待确认 | C | US-Israeli Strikes in Iran May Constitute War Crimes: Amnesty - The Defense Post |
-| 2026-09-11 20:26 | Israel | 通报 | Iran | 待确认 | C | Inside IDF chief Eyal Zamir's war on all fronts, from Iran to Gaza - The Jerusalem Post |
-| 2026-09-11 20:26 | US | 通报 | Iran | 待确认 | C | BRICS 2026: US-Israel's war has pushed Iran’s economy into a ‘far more dangerous phase’, says President Ma - economictimes.com |
-| 2026-09-11 19:44 | Israel | 通报 | Israel | 设施受损 | C | Israel says it destroyed Hezbollah underground network at Ali al-Taher - Bol News |
-| 2026-09-11 19:43 | 未明确 | 通报 | 未明确 | 待确认 | C | Tracking U.S., state and county gas prices, in maps and charts. Updated daily. - NBC News |
-| 2026-09-11 19:35 | US | 通报 | Iran | 命中 | C | US President Donald Trump Says He Has No Regrets Over Iran War Despite Possible Impact On Midterm Elections / - Free Press Journal |
-| 2026-09-11 19:34 | Israel | 通报 | Israel | 设施受损 | C | Israel says it has destroyed major underground Hezbollah base - BBC |
-| 2026-09-11 19:33 | Israel | 空袭 | Israel | 待确认 | C | Israel, Katz: "After the Ali al-Taher tunnels, we are ready to strike Hezbollah at other sites in Lebanon." - Agenzia Nova |
-| 2026-09-11 19:30 | US | 通报 | Iran | 待确认 | C | Trump / Iran Conflict / Midterm Elections / Nuclear Weapons / US Policy - Aaj News - Aaj English TV |
-| 2026-09-11 19:26 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: Why Are Rising Saudi-Houthi Tensions Putting Pakistan in a Tough Position as Mediator? - The Sunday Guardian |
-| 2026-09-11 19:25 | Israel | 空袭 | Israel | 待确认 | C | Katz says Israel ready for more Hezbollah strikes - Breakingthenews.net |
-| 2026-09-11 19:18 | Israel | 撤离 | Lebanon | 待确认 | C | After bombing key Hezbollah base, IDF officials rule out withdrawal from Lebanon - Haaretz |
-| 2026-09-11 19:11 | US | 通报 | Iran | 待确认 | C | Iran-US War Latest Live News: US Naval Base in Bahrain ‘Blown the Hell Out of’ by Iran, Acting Navy Secretary Says; ‘We’re Not Getting Back There Anytime Soon’ - The Sunday Guardian |
-| 2026-09-11 19:03 | Israel | 通报 | Israel | 待确认 | C | How the Events of September 11 Helped Israel Sell Its War Against the Palestinians to America - open.kg |
-| 2026-09-11 19:02 | Iran | 通报 | Iran | 待确认 | C | Field Marshal Munir, Iran’s Araghchi discuss return to talks as Houthi attacks on Saudi Arabia escalate - thecurrent.pk |
-| 2026-09-11 19:00 | Iran | 通报 | Iran | 待确认 | C | Iran-backed Houthis advance near key Red Sea shipping route as Yemeni forces retreat - Iran International |
-| 2026-09-11 18:48 | Israel | 空袭 | Israel | 待确认 | C | Katz says Israel prepared for further strikes on Hezbollah after tunnel detonation - The Times of Israel |
-| 2026-09-11 18:45 | US | 通报 | Iran | 设施受损 | C | ‘Blew the hell out of it’: How Iran damaged US bases in Bahrain, Jordan - Al Jazeera |
-| 2026-09-11 18:43 | Iran | 空袭 | Iran | 待确认 | C | Trump says war to end "immediately" after midterms as Iran damages U.S. jets in strikes - cbsnews.com |
-| 2026-09-11 18:34 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: Yemen’s Houthis Seize Strategic Red Sea Port of Mokha; Why It Matters for Global Shipping - The Sunday Guardian |
-| 2026-09-11 18:26 | Hezbollah | 通报 | 未明确 | 待确认 | C | Is Nabatiyeh’s vocal dissent the beginning of a political shift in Hezbollah’s southern heartland? - Arab News |
-| 2026-09-11 18:17 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: US Diesel Prices Cross $6 a Gallon for the First Time Ever as Oil Tops $100 & Supply Disruptions Raise Inflation Fears - The Sunday Guardian |
-| 2026-09-11 18:15 | Houthis | 空袭 | Yemen | 命中 | C | Saudi airstrikes hit Yemen's rebel-held Mokha airport as Houthis take an island near a key strait - The Tribune-Democrat |
-| 2026-09-11 18:05 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: US Treasury Imposes Fresh Sanctions On Hezbollah And Iran-Linked Networks In Iraq, UAE, Lebanon And Turkey Under ‘Operation Economic Outcast’ - The Sunday Guardian |
-| 2026-09-11 17:55 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Live News: Iran-Linked Operators Used Claude AI to Track US Naval Forces, Profile Israeli & Jewish Targets – Anthropic Report Reveals - The Sunday Guardian |
-| 2026-09-11 17:23 | Israel | 通报 | Israel | 待确认 | C | Israel says destroys Hezbollah tunnels as explosions triggers tremor - France 24 |
+| 2026-09-12 10:30 | Israel | 通报 | Israel | 待确认 | C | United Airlines ships war materiel to 'Israel' aboard passenger flights, report says - Roya News |
+| 2026-09-12 10:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and the Middle East - jpost.com |
+| 2026-09-12 09:23 | US | 发射 | Iran | 待确认 | C | US-Israel-Iran War Latest News: ‘Drone Attack Came From Maysan’ – Iraq Dismisses Operations Commander After Saudi Strike Amid Rising Tensions - The Sunday Guardian |
+| 2026-09-12 09:19 | Iran | 通报 | Iran | 命中 | C | Donald Trump Says He Does Not Regret Iran War Despite U.S. Midterm Election Impact: how 11 outlets framed it - newscord.org |
+| 2026-09-12 09:16 | Iran | 通报 | Iran | 待确认 | C | Six months into the Iran war, no end is in sight - Gulf News |
+| 2026-09-12 09:04 | 未明确 | 通报 | 未明确 | 待确认 | C | Conflict in West Asia escalates as several countries are becoming involved; Fighting is spreading across different parts of region / Akashvani News - News On AIR |
+| 2026-09-12 08:53 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: ‘Danger Has Passed’ – Saudi Arabia’s Khamis Mushait After Security Alert, Civil Defence Issues Fresh Warning - The Sunday Guardian |
+| 2026-09-12 08:49 | US | 通报 | Iran | 命中 | C | US-Israel-Iran War Latest News: Saudi Arabia Says East-West Oil Pipeline Hit by Drones From Iraq, Holds Off on Retaliation Amid Rising Regional Tensions - The Sunday Guardian |
+| 2026-09-12 07:30 | Israel | 空袭 | Israel | 待确认 | C | Israel strikes Hezbollah base in Lebanon, causing 4.1-magnitude tremor - Yahoo |
+| 2026-09-12 06:07 | Israel | 通报 | Israel | 待确认 | C | Israel bombs Lebanon ridge with underground Hezbollah site - wng.org |
+| 2026-09-12 05:22 | Iran | 通报 | Iran | 待确认 | C | Trump on 9/11 Anniversary Ties Iran Fight to War on Terror — ‘There Can Only Be Victory’ - breitbart.com |
+| 2026-09-12 04:50 | US | 通报 | Iran | 待确认 | C | Iran has successfully stood against Israel, US: Iranian President - dailyfinland.fi |
+| 2026-09-12 04:35 | 未明确 | 通报 | 未明确 | 待确认 | C | Netanyahu’s Fragile Coalition Has Survived. Can He? - الحرة |
+| 2026-09-12 04:26 | Israel | 通报 | Israel | 设施受损 | C | A huge explosion sent shock waves across southern Lebanon overnight, as the Israeli military said it had destroyed an underground Hezbollah base at a strategic hilltop that overlooks the region and that has seen intense fighting. https://nyti.ms/4rapLPx - facebook.com |
+| 2026-09-12 04:08 | Israel | 通报 | Israel | 待确认 | C | Israel Destroys Hezbollah Tunnels Under Ali al-Taher Ridge, Triggers 4.1 Tremor: how 10 outlets framed it - newscord.org |
+| 2026-09-12 03:53 | Iran | 通报 | Iran | 待确认 | C | We fight hard, we fight to win: Trump defends Iran war on 9/11 anniversary - India Today |
+| 2026-09-12 03:52 | Iran | 通报 | Iran | 待确认 | C | Yemen's Iranian-backed Houthis seize an island in a key strait, opening a new front in Iran war - The Tribune-Democrat |
+| 2026-09-12 03:50 | US | 通报 | Iran | 待确认 | C | Trump Defends US War on Iran at Pentagon, Tying It to 9/11 Memorial Remarks: how 25 outlets framed it - newscord.org |
+| 2026-09-12 03:49 | US | 通报 | Iran | 待确认 | C | Trump And Pete Hegseth Link 9/11 Memorial To U.S. War Against Iran At Pentagon: how 21 outlets framed it - newscord.org |
+| 2026-09-12 03:47 | Israel | 空袭 | Israel | 待确认 | C | Israel Vows More Strikes on Hezbollah After Destroying Southern Lebanon Tunnels - News.com.au |
+| 2026-09-12 03:44 | US | 通报 | Iran | 待确认 | C | Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war - BBC |
+| 2026-09-12 03:39 | Iran | 通报 | Iran | 待确认 | C | Amid war and sanctions, many Iranians are losing their jobs and struggling to get by - NPR |
+| 2026-09-12 03:20 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Iran’s President Pezeshkian Says ‘Bullying’ Won’t Work as Regional Tensions Rise Amid Escalating Middle East Conflict - The Sunday Guardian |
+| 2026-09-12 03:14 | Israel | 通报 | Iran | 待确认 | C | Israeli attacks on Hezbollah fuel hardline calls for Iran to escalate - Iran International |
+| 2026-09-12 03:00 | Houthis | 通报 | Yemen | 待确认 | C | Final body recovered from Nabatieh’s Ghandour Hospital rubble; Yemeni army shells Houthis in Mokha / LIVE - L'Orient Today |
+| 2026-09-12 03:00 | Israel | 通报 | Iran | 待确认 | C | Iran-supported Houthis in Yemen chanted "Death to America, death to Israel" as they took control of Mocha, a port city in the Red Sea. / via ANC 24/7 Link to the full story in the comments section - facebook.com |
+| 2026-09-12 02:50 | Israel | 通报 | Israel | 待确认 | C | Video: Blast Shakes Southern Lebanon as Israel Detonates Hezbollah Base - The New York Times |
+| 2026-09-12 02:41 | Israel | 通报 | Iran | 待确认 | C | Can Lebanon Break Free From Iran's Grip? - TV7 Israel News |
+| 2026-09-12 02:28 | US | 通报 | Iran | 命中 | C | US-Israel-Iran War Latest Live News: Iran Conflict Exposes US Oil Supply Risk As Fuel Prices Face Shock; White House Weighs Expanding Domestic Refining Capacity - The Sunday Guardian |
+| 2026-09-12 02:27 | Israel | 通报 | Israel | 待确认 | C | Israel orders people to leave swathe of Beirut - DD News |
+| 2026-09-12 02:14 | US | 通报 | Iran | 设施受损 | C | US-Israel-Iran War Live News: Yemen Houthis Seize UN Humanitarian Facility In Mocha After Capturing Red Sea Port City, UN Says Amid Iran War - The Sunday Guardian |
+| 2026-09-12 02:10 | Israel | 空袭 | Israel | 待确认 | C | Lebanese official to ToI: ‘Indiscriminate’ IDF strikes hinder Hezbollah disarmament - The Times of Israel |
+| 2026-09-12 02:07 | Iran | 通报 | Iran | 待确认 | C | U.S. attacks on southern Iran envelop families in grief and fear, as civilian deaths mount - NBC News |
+| 2026-09-12 02:04 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Netanyahu Wishes Trump on Israeli New Year Message as Iranian Cleric Accuses US of ‘Warmongering’ Amid Regional Tensions Escalate - The Sunday Guardian |
+| 2026-09-12 01:57 | Israel | 通报 | Israel | 待确认 | C | Israel blew up a Hezbollah base: the explosion caused a 4.1 magnitude earthquake - Zamon |
+| 2026-09-12 01:24 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: PM Modi, Iran President Pezeshkian Discuss Lasting Regional Peace & Stability Amid Ongoing Conflict; Check Latest Updates - The Sunday Guardian |
+| 2026-09-12 01:21 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: UAE Releases 10 Iranian Fishermen Detained For Months After GPS Jamming, Boats Strayed Into Emirati Waters Amid War - The Sunday Guardian |
+| 2026-09-12 01:13 | Iran | 通报 | Iran | 待确认 | C | 'That's why we fight': Trump links 9/11 to Iran conflict - Aaj English TV |
+| 2026-09-12 00:56 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Hegseth Vows To ‘Finish This Fight’ With Iran In 9/11 Remarks, Says US Controls Strait Of Hormuz, Will Block Nuclear Weapon - The Sunday Guardian |
+| 2026-09-12 00:46 | US | 空袭 | Iran | 待确认 | C | Iran, US trade competing claims over strikes near Strait of Hormuz - The Business Standard |
