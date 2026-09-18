@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-09-18 10:55
+更新时间（北京时间）: 2026-09-18 23:43
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-09-18 10:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post |
-| 2026-09-18 08:59 | Iran | 通报 | Iran | 待确认 | C | Netanyahu touts Gaza genocide and attacks on Iran, Lebanon, Syria as he kicks off election campaign - TRT World |
-| 2026-09-18 08:46 | Israel | 通报 | Tehran | 设施受损 | C | ISRAELIRANWAR. Iran has destroyed 60 MQ-9 Reapers since the conflict began . Yemen: Houthis advance on Taiz. Stockholm-Tehran tensions rise as diplomats are mutually expelled. - agc communication news |
-| 2026-09-18 08:03 | Iran | 通报 | Iran | 待确认 | C | Trump weighs major Iran escalation as China steps up diplomatic push - Iran International |
-| 2026-09-18 06:48 | US | 空袭 | Iran | 命中 | C | West Asia conflict escalates as US‑Israel strikes hit Iran, US Embassy attacked in Riyadh / Akashvani News - newsonair.gov.in |
-| 2026-09-18 06:35 | US | 通报 | Syria | 待确认 | C | Syria’s Tartus port seen as Hormuz trade alternative - Muslim Network TV |
-| 2026-09-18 06:30 | US | 通报 | Israel | 待确认 | C | US plans $2.8B bomb shipment to Israel amid Gaza toll - Muslim Network TV |
-| 2026-09-18 06:30 | Israel | 通报 | Jerusalem | 待确认 | C | Israel advances 3,401-unit illegal settlement plan near Jerusalem - Muslim Network TV |
-| 2026-09-18 06:30 | 未明确 | 通报 | Syria | 待确认 | C | Syria signs first syndicated Islamic financing deal - Muslim Network TV |
-| 2026-09-18 06:10 | Israel | 通报 | Israel | 命中 | C | IRGC claims to have struck tanker during attempted Hormuz crossing - Israel National News |
-| 2026-09-18 05:57 | Israel | 发射 | Tehran | 设施受损 | C | Iran launches missile and drone attacks across Gulf as Israel strikes Tehran infrastructure / Akashvani News - newsonair.gov.in |
-| 2026-09-18 05:53 | Israel | 空袭 | Tehran | 待确认 | C | Israel reports fresh airstrikes on Iranian targets east of Tehran / Akashvani News - newsonair.gov.in |
-| 2026-09-18 05:24 | Iran | 空袭 | Iran | 待确认 | C | UN mission finds 'grounds to believe' U.S. committed war crimes in strikes on Iranian school, sports centre - CBC |
-| 2026-09-18 04:57 | US | 空袭 | Iran | 待确认 | C | 'Reasonable grounds' to believe US committed war crime in Iran school strike, UN experts claim - Sky News |
-| 2026-09-18 04:57 | Israel | 通报 | Israel | 待确认 | C | Netanyahu ignores war’s toll, but what did intelligence say: Was Israel facing annihilation? - Ynetnews |
-| 2026-09-18 04:40 | Iran | 发射 | Iran | 待确认 | C | Netanyahu vows to topple Iranian regime at campaign launch - scanx.trade |
-| 2026-09-18 04:39 | US | 空袭 | Iran | 待确认 | C | UN-backed experts cite possible US war crimes in Iran strikes - AP News |
-| 2026-09-18 04:15 | US | 通报 | Iran | 待确认 | C | Iran changing US war equations - PressTV |
-| 2026-09-18 03:42 | Iran | 通报 | Iran | 待确认 | C | Trump threatens Iran again, says 'anything can happen with me' / LIVE - L'Orient Today |
-| 2026-09-18 03:32 | Iran | 通报 | Iran | 待确认 | C | JP Morgan says it has no clear oil market endgame as Iran conflict drags on - Reuters |
-| 2026-09-18 02:56 | Iran | 通报 | Iran | 待确认 | C | U.S. approves visas for top Iranian leaders to attend UN high-level meeting even with sides at war - The Tribune-Democrat |
-| 2026-09-18 02:55 | US | 通报 | Iran | 待确认 | C | Iranian delegation will be able to attend UN General Assembly, US says - GMA Network |
-| 2026-09-18 02:49 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: US Forces Redirect 104 Vessels in Strait of Hormuz as Trump Says America Has Protected Gulf Countries; New US Sanctions Target Iranian Crypto Network - The Sunday Guardian |
-| 2026-09-18 02:40 | Israel | 通报 | Iran | 待确认 | C | Satellite images show Iran rapidly working to rebuild nuclear site bombed by Israel - The Times of Israel |
-| 2026-09-18 02:39 | Israel | 通报 | Israel | 待确认 | C | Israel prepares to expand activity in Lebanon as conflict with Hezbollah escalates - ABC News - Breaking News, Latest News and Videos |
-| 2026-09-18 02:34 | Israel | 通报 | Iran | 待确认 | C | Israel, Morocco upgrade diplomatic ties; Turkey highlights close ties with Iran TV7 Israel 17 Sept. - TV7 Israel News |
-| 2026-09-18 02:30 | Israel | 通报 | Israel | 待确认 | C | Saudi fears of an 'Oct. 7 scenario' drove kingdom to desperate move - www.israelhayom.com |
-| 2026-09-18 02:28 | Israel | 通报 | Israel | 待确认 | C | Shafaq News..Israeli army warns of $8.3 billion defense budget shortfall - shafaq.com |
-| 2026-09-18 02:21 | US | 空袭 | Iran | 待确认 | C | US war crime in Iran: UN experts say dem get grounds to believe say US commit war crimes for Iran strikes - BBC |
-| 2026-09-18 02:11 | US | 空袭 | Natanz | 设施受损 | C | Iran confirms US and Israel carried out joint strike on its Natanz nuclear facility - newsonair.gov.in |
-| 2026-09-18 02:10 | Iran | 通报 | Iran | 待确认 | C | U.N. Report Finds 'Reasonable Grounds' for U.S. War Crimes, Iranian Crimes Against Humanity - 19FortyFive |
-| 2026-09-18 02:06 | US | 拦截 | Iran | 拦截 | C | Iran recently shot down at least two MQ-1 American military drones, US officials say - report - The Jerusalem Post |
-| 2026-09-18 02:02 | US | 通报 | Iran | 待确认 | C | The Limitations of US Pressure on Iran over the Decades - ORF Middle East |
-| 2026-09-18 01:48 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Strait of Hormuz to Remain Closed Until Trump and Netanyahu Removed From Power, Iran Adviser Says as 2 US Aircraft Downed - The Sunday Guardian |
-| 2026-09-18 01:41 | US | 空袭 | Iran | 待确认 | C | Oil Prices Rise as US, Iran Trade Strikes, Israel Moves Further Into Lebanon - EnergyNow.com |
-| 2026-09-18 01:05 | US | 通报 | Iran | 待确认 | C | UN fact-finding mission says US committed possible war crimes in Iran - Al Jazeera |
-| 2026-09-18 01:02 | Houthis | 通报 | Red Sea | 待确认 | C | Houthis Claim a Saudi F-15 Kill and Riyadh Downs a Drone Near Mecca — Red Sea War's Threat to Global Energy - Latin Times |
-| 2026-09-18 00:59 | US | 发射 | Iran | 待确认 | C | Ghalibaf’s maths missile at Trump decoded: Is Iran fixing US interest rates? - Al Jazeera |
-| 2026-09-18 00:54 | Israel | 通报 | Iran | 设施受损 | C | Satellite images show Iran rapidly working to rebuild nuclear facility bombed by Israel - The Times of Israel |
-| 2026-09-18 00:44 | 未明确 | 通报 | 未明确 | 待确认 | C | THE MISTAKE THAT CLOSED THE STRAIT OF HORMUZ - Seymour Hersh / Substack |
+| 2026-09-18 23:30 | Israel | 通报 | Iran | 待确认 | C | Could Trump Unleash Israel Against Iran? - TV7 Israel News |
+| 2026-09-18 23:04 | 未明确 | 通报 | 未明确 | 待确认 | C | Congress told AI is already killing people - Responsible Statecraft |
+| 2026-09-18 23:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post |
+| 2026-09-18 22:48 | 未明确 | 通报 | 未明确 | 伤亡 | C | Saudi Aramco cuts oil shipments to Europe; Midterm voting begins; 16 killed in Pakistan mosque bombing - Drop Site News |
+| 2026-09-18 22:20 | US | 通报 | Iran | 待确认 | C | China Increases Crude Oil Purchases After US-Israel War on Iran - News and Statistics - IndexBox |
+| 2026-09-18 21:43 | 未明确 | 通报 | 未明确 | 待确认 | C | Michigan man charged with hate crimes over threats to kill Muslims - Muslim Network TV |
+| 2026-09-18 21:20 | US | 通报 | Iran | 待确认 | C | US voter opposition to war on Iran grows to new highs: Poll - aljazeera.com |
+| 2026-09-18 21:00 | US | 通报 | Iran | 待确认 | C | UN Fact-Finding Mission Exposes US War Crimes and Iran's Crimes Against Humanity - Kompas.id |
+| 2026-09-18 20:58 | US | 通报 | 未明确 | 待确认 | C | As Houthis grab Bab al-Mandeb, US appears willing to watch from sidelines - aljazeera.com |
+| 2026-09-18 20:53 | US | 空袭 | Iran | 待确认 | C | UN Experts: US May Have Committed War Crimes in Iran Strikes Killing Dozens of Children - Clarion India |
+| 2026-09-18 20:51 | US | 通报 | Tehran | 待确认 | C | Iran ends the American Middle East: analysis - Tehran Times |
+| 2026-09-18 20:51 | Israel | 通报 | Jerusalem | 待确认 | C | The next strategic Israeli surprise could be something other than a war - The Jerusalem Post |
+| 2026-09-18 20:44 | Israel | 通报 | Israel | 待确认 | C | Israeli, Lebanese armies face off in village after Israel advances - Arab News |
+| 2026-09-18 20:23 | US | 通报 | Iran | 伤亡 | C | US-Israel-Iran War Latest Live News: 2 Palestinian Women Injured By Israeli Gunfire In Gaza’s Nuseirat, Bureij Camps; Al-Awda Hospital Treats Victims - The Sunday Guardian |
+| 2026-09-18 20:18 | Israel | 通报 | Iran | 待确认 | C | Tamra resident indicted for allegedly contacting Hamas, Iran with offers to help - The Times of Israel |
+| 2026-09-18 19:42 | Israel | 通报 | Iran | 待确认 | C | Hundreds of thousands of Iranians rally in government-organized demonstration - The Times of Israel |
+| 2026-09-18 19:09 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Saudi Arabia Sells 60 Million Barrels Via Oman Amid Hormuz Disruption; China, India, Japan Buyers As Oil Prices Fall As Supply Fears Ease - The Sunday Guardian |
+| 2026-09-18 19:07 | Israel | 通报 | Israel | 待确认 | C | Israel is killing the people who could end its wars - aljazeera.com |
+| 2026-09-18 19:02 | 未明确 | 通报 | Iraq | 待确认 | C | Palestinian state more distant than ever, a year after recognition - IraqiNews |
+| 2026-09-18 18:45 | US | 通报 | Iran | 待确认 | C | United Nations says US may have committed war crimes in Iran: What it means - aljazeera.com |
+| 2026-09-18 18:43 | US | 空袭 | Iran | 待确认 | C | Oil Prices Rise as US, Iran Trade Strikes, Israel Moves Further Into Lebanon - EnergyNow.com |
+| 2026-09-18 18:40 | US | 通报 | Iran | 待确认 | C | US Israel Iran War Latest News: Hundreds of Thousands of Iranians Rally in Biggest Show of Defiance Since War Began - The Sunday Guardian |
+| 2026-09-18 18:37 | US | 空袭 | Iran | 命中 | C | UN mission: US strike that hit Iran school was ‘indiscriminate,’ likely a war crime - The Times of Israel |
+| 2026-09-18 18:15 | Iran | 通报 | Iran | 待确认 | C | Week after Houthis seized Red Sea city, Iranian-backed rebels eye oil-rich east - The Tribune-Democrat |
+| 2026-09-18 18:00 | Iran | 通报 | Iran | 待确认 | C | U.S. May Have Committed War Crimes in Iran, U.N. Report Says - Time Magazine |
+| 2026-09-18 17:36 | Israel | 通报 | Israel | 待确认 | C | Mr. Netanyahu focuses efforts on running for election, vows not to compromise an inch of Israeli land - Laodong.vn |
+| 2026-09-18 17:25 | US | 通报 | Israel | 待确认 | C | Rashida Tlaib / Israel Arms Sale / Trump Administration / US Senate - Aaj English TV |
+| 2026-09-18 17:20 | 未明确 | 通报 | 未明确 | 待确认 | C | West Asia conflict enters more intense phase with military activity spreading across several fronts / Akashvani News - News On AIR |
+| 2026-09-18 17:00 | 未明确 | 通报 | 未明确 | 伤亡 | C | 7 Swedish troops injured in blast at military training area - Muslim Network TV |
+| 2026-09-18 17:00 | Israel | 通报 | Iran | 待确认 | C | Three Things that Concern Israelis – No, It Is Not Iran, Hamas and Hezbollah - gatestoneinstitute.org |
+| 2026-09-18 16:59 | Iran | 通报 | Iran | 待确认 | C | Trump faces ‘big decision’ on Iran war as Gulf meeting nears - The Siasat Daily |
+| 2026-09-18 16:51 | 未明确 | 通报 | 未明确 | 待确认 | C | Vance: Trump willing to ‘part ways’ with Netanyahu when necessary, and has often opposed him - South African Jewish Report |
+| 2026-09-18 16:48 | US | 通报 | Iran | 待确认 | C | Iranians rally in biggest show of defiance since US war began - The New Arab |
+| 2026-09-18 16:37 | US | 通报 | Iran | 待确认 | C | US approves visas for top Iranian leaders to attend UN high-level meeting - Gulf News |
+| 2026-09-18 16:33 | 未明确 | 通报 | Jerusalem | 待确认 | C | Ahmed al-Sharaa diverting Syrian funds to build up military forces, weapon systems - The Jerusalem Post |
+| 2026-09-18 16:28 | US | 通报 | 未明确 | 待确认 | C | North Korea warns of ‘more offensive’ response to US-led military drills - Muslim Network TV |
+| 2026-09-18 16:26 | US | 通报 | Iran | 命中 | C | US-Israel-Iran War Latest Live News: Tanker Hit By “Unknown Projectile” In Strait Of Hormuz, Fire Extinguished, Crew Safe; UKMTO Issues Update - The Sunday Guardian |
+| 2026-09-18 16:26 | Iran | 通报 | Iran | 命中 | C | Iran says it struck Togo-flagged tanker in Strait of Hormuz - Muslim Network TV |
+| 2026-09-18 16:26 | 未明确 | 通报 | Gaza | 待确认 | C | Gaza’s Kuwait Specialty Hospital to suspend most services over fuel supply cutoff - Muslim Network TV |
+| 2026-09-18 16:26 | 未明确 | 通报 | 未明确 | 伤亡 | C | 6 soldiers, 10 militants killed in northwest Pakistan security operations - Muslim Network TV |
