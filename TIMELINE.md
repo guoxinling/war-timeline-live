@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-09-22 11:02
+更新时间（北京时间）: 2026-09-23 00:09
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-09-22 10:11 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Iran FM Araghchi Discusses UN Agenda With Guterres as Yemen Condemns Houthi Attack on Lahj Market - sundayguardianlive.com |
-| 2026-09-22 09:07 | US | 通报 | Iran | 待确认 | C | Iran Warns US, Israel of ‘Destructive Response’ as Ansarallah Rejects Saudi War - Palestine Chronicle |
-| 2026-09-22 08:55 | 未明确 | 通报 | 未明确 | 待确认 | C | Saudi Arabia cancels October oil shipments to European refineries - The Business Standard |
-| 2026-09-22 08:34 | US | 通报 | Iran | 待确认 | C | Senators raised concerns over the proposed decrease in the budget of the Department of Migrant Workers as conflict in the Middle East started by US and Israeli attacks on Iran in February continues. I via ANC 24/7 Link to the full story in the comments section. - facebook.com |
-| 2026-09-22 08:16 | Hezbollah | 通报 | Lebanon | 待确认 | C | Experts say Hezbollah has weakened in Lebanon — Asharq Al-Awsat - UA.NEWS |
-| 2026-09-22 08:15 | Houthis | 通报 | Yemen | 待确认 | C | Houthis push for control of Yemen highlands - Business Recorder |
-| 2026-09-22 08:09 | Hezbollah | 通报 | 未明确 | 待确认 | C | What’s Left of Hezbollah Two Years after the War? - شبكة تواصل الإخبارية |
-| 2026-09-22 08:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and the Middle East - jpost.com |
-| 2026-09-22 07:43 | US | 空袭 | Iran | 待确认 | C | Oil Prices Rise as US, Iran Trade Strikes, Israel Moves Further Into Lebanon - EnergyNow.com |
-| 2026-09-22 07:41 | US | 通报 | Iran | 待确认 | C | UN says Iran committed crimes against humanity, US committed war crimes - Iran International |
-| 2026-09-22 06:48 | Israel | 通报 | Israel | 待确认 | C | Why Israel Wants More One-Ton Bombs From the U.S. and Why the Sale Is Controversial - The New York Times |
-| 2026-09-22 06:17 | 未明确 | 通报 | 未明确 | 待确认 | C | The War No One Wants to Fight Yet - Nuovo Giornale Nazionale |
-| 2026-09-22 06:16 | US | 通报 | 未明确 | 待确认 | C | Alarming satellite images show 25 US tankers awaiting Trump's orders in Middle East - the-express.com |
-| 2026-09-22 05:13 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Iran President Masoud Pezeshkian Heads to New York for UNGA After Trump Threatens to ‘Blow Entire Nation Up’; Check Hormuz, Saudi-Houthi Tensions & Key Updates - sundayguardianlive.com |
-| 2026-09-22 05:11 | US | 撤离 | Iran | 待确认 | C | US-Israel-Iran War Latest News: IRGC Says US and Israel ‘Must Accept Withdrawal’ From Region Amid Ongoing Conflict; Check Latest Update - sundayguardianlive.com |
-| 2026-09-22 05:10 | US | 通报 | Iran | 待确认 | C | UN General Assembly 2026: US-Israeli Iran Conflict Takes Center Stage - newsfire.gr |
-| 2026-09-22 05:02 | 未明确 | 通报 | 未明确 | 待确认 | C | West Asia conflict enters more intense phase with military activity spreading across several fronts / Akashvani News - News On AIR |
-| 2026-09-22 04:43 | US | 通报 | 未明确 | 待确认 | C | Editorial Roundup: United States - KGW |
-| 2026-09-22 04:30 | Iran | 通报 | Iran | 待确认 | C | Iran threatens wider war as tanker attacks test mediation efforts - Iran International |
-| 2026-09-22 04:26 | Israel | 通报 | Israel | 待确认 | C | Israel Is Expanding and Upgrading Compounds for Palestinian Militias in Gaza - Drop Site News |
-| 2026-09-22 04:00 | US | 通报 | Iran | 待确认 | C | US and Iran Near Breaking Point as Military Preparedness Reaches Peak Levels - JFeed |
-| 2026-09-22 03:50 | US | 通报 | Iran | 待确认 | C | UN General Assembly 2026: US-Israeli conflict with Iran takes center stage - Crypto Briefing |
-| 2026-09-22 03:04 | Israel | 通报 | Israel | 待确认 | C | Israeli incursion near Kfar Shuba in southern Lebanon; new attack on a vessel in Strait of Hormuz - L'Orient Today |
-| 2026-09-22 03:00 | 未明确 | 通报 | 未明确 | 待确认 | C | A new order - The News Pakistan |
-| 2026-09-22 02:39 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: JD Vance Says Oil, Gas Continue to Flow Through Strait of Hormuz Despite Iranian Attacks on Shipping; Check Latest Update - sundayguardianlive.com |
-| 2026-09-22 02:37 | Israel | 通报 | Israel | 命中 | C | IDF: Unmanned IDF engineering vehicle hit by explosive in Gaza; no injuries caused - The Times of Israel |
-| 2026-09-22 02:23 | US | 通报 | Iran | 待确认 | C | Iran to attend UN assembly in New York — even as peace with US remains elusive - CNN |
-| 2026-09-22 02:21 | US | 通报 | Iran | 待确认 | C | Iran threatens to expand war with new weapons if US attacks resume - Al-Monitor |
-| 2026-09-22 02:09 | US | 空袭 | Iran | 待确认 | C | US-Israel-Iran War Latest News: Trump Rules Out New Middle East Conflict as Houthi Talks Continue, Calls Off Planned Military Strikes – Here’s What We Know So Far - sundayguardianlive.com |
-| 2026-09-22 02:09 | Israel | 通报 | Israel | 待确认 | C | In defence of Israel's Jewish settlers in the West Bank - Middle East Eye |
-| 2026-09-22 02:00 | US | 通报 | Iran | 待确认 | C | Iran, US trade threats as Houthi attacks escalate regional conflict - The Financial Express |
-| 2026-09-22 01:42 | US | 通报 | Israel | 设施受损 | C | Today's Headlines: Israeli Attacks Escalate in Gaza / US MQ-1 Drone Destroyed over Hormuz / Saving Gaza's Memory - Palestine Chronicle |
-| 2026-09-22 01:37 | US | 通报 | Iran | 待确认 | C | Iranian president’s media team denied US visa, says official - usmuslims.com |
-| 2026-09-22 01:36 | US | 通报 | Iran | 待确认 | C | US-Israeli war on Iran to take centre stage at UN General Assembly - Middle East Eye |
-| 2026-09-22 01:24 | Israel | 空袭 | Israel | 待确认 | C | Shafaq News..Israeli strikes continue across southern Lebanon - شفق نيوز |
-| 2026-09-22 01:18 | Israel | 通报 | Iran | 待确认 | C | Iran: Israel’s Terrorism, Atrocities Against Palestinians Most Severe Blows to UN’s Credibility - خبرگزاری فارس |
-| 2026-09-22 01:11 | Israel | 通报 | Iran | 待确认 | C | ‘Blank Check For Israel…’: Van Hollen Exposes Trump’s Deal With Netanyahu; ‘Reality Of Iran & Gaza…’ - timesofindia.indiatimes.com |
-| 2026-09-22 00:54 | US | 通报 | Iran | 待确认 | C | As Trump touts Hormuz oil flows, can the US outlast Iran? - The New Arab |
-| 2026-09-22 00:39 | US | 拦截 | Iran | 拦截 | C | US-Israel-Iran War Latest News: Yemeni Forces Say Houthi Drone Was Shot Down in Taiz as Fighting Intensifies; Check Latest Update - sundayguardianlive.com |
-| 2026-09-22 00:29 | Israel | 通报 | Israel | 待确认 | C | Photos of divers exploring Tyre’s ancient ruins after the Israel-Hezbollah ceasefire - Goshen News |
+| 2026-09-22 23:46 | US | 通报 | Iran | 待确认 | C | Live: Rubio says US open to meeting Iranian officials at UN - Middle East Eye |
+| 2026-09-22 23:16 | Israel | 通报 | Israel | 待确认 | C | Netanyahu says he will defend Israel at UN and accuses New York mayor of supporting Hamas - Межа. Новини України. |
+| 2026-09-22 23:12 | Iran | 通报 | Iran | 待确认 | C | What Trump May Say At UN: Iran War, Gaza Peace Push And More - Times Now |
+| 2026-09-22 23:10 | US | 通报 | 未明确 | 待确认 | C | The value of Africa’s most powerful military nation to the US comes into focus as the head of the CIA discusses some of the world’s most critical issues in Cairo - africa.businessinsider.com |
+| 2026-09-22 23:06 | Iran | 通报 | Iran | 待确认 | C | Trump defends Iran war, touts ‘America is back’ agenda in UN speech - South China Morning Post |
+| 2026-09-22 23:02 | US | 拦截 | Jerusalem | 待确认 | C | US and Israel coordinate air defense systems in the region — Jerusalem Post - UA.NEWS |
+| 2026-09-22 23:00 | Israel | 通报 | Jerusalem | 待确认 | C | Houthi attacks deepen Saudi-Israeli security cooperation - The Jerusalem Post |
+| 2026-09-22 22:48 | US | 通报 | Iran | 待确认 | C | Seeking talks, Iran offers to open Hormuz if US ends blockade, curtails military threat - The Times of Israel |
+| 2026-09-22 22:43 | Israel | 撤离 | Israel | 待确认 | C | Israel's Defense Minister Warns of Gaza Evacuation and Destruction - Ratopati |
+| 2026-09-22 22:22 | Israel | 撤离 | Israel | 待确认 | C | Israel Katz threatens to evacuate Gaza residents if Hamas abducts Israelis - Armenpress |
+| 2026-09-22 22:12 | US | 通报 | Iran | 待确认 | C | Iran ‘wary’ of fresh US talks as Middle East wars loom over UN General Assembly - East London and West Essex Guardian Series |
+| 2026-09-22 22:04 | US | 通报 | Israel | 待确认 | C | Lebanon’s Joseph Aoun is learning the limits of US influence over Israel - thenationalnews.com |
+| 2026-09-22 21:48 | US | 通报 | Iran | 伤亡 | C | Today’s Headlines: Three Killed in Gaza / Iran Warns US / ‘A Big Victory’ - Palestine Chronicle |
+| 2026-09-22 21:43 | US | 拦截 | Jerusalem | 待确认 | C | Arab states, Israel expand regional air defense cooperation under CENTCOM - The Jerusalem Post |
+| 2026-09-22 21:41 | Iran | 通报 | Iran | 待确认 | C | Trump rails against 'cowards & traitors' ahead of UN speech set to zero in on Iran nuclear threat & Gaza peace plan - the-sun.com |
+| 2026-09-22 21:40 | US | 发射 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: ‘The Cowards and Traitors’ – Trump Denies US Munitions Shortage Reports as Pentagon Faces Questions Over Missile Interceptor Stocks - The Sunday Guardian |
+| 2026-09-22 21:24 | US | 通报 | Iran | 待确认 | C | Trump lashes out at the "cowards and traitors" who claim that the US has "little ammunition" due to the war in Iran. - Demócrata |
+| 2026-09-22 21:16 | 未明确 | 通报 | 未明确 | 待确认 | C | U.N. leaders' meeting convenes with secretary-general calling for 'world built on interdependence' - The Tribune-Democrat |
+| 2026-09-22 21:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post |
+| 2026-09-22 20:55 | 未明确 | 通报 | 未明确 | 待确认 | C | Middle East wars loom over U.N. General Assembly, and other Mideast developments - The Tribune-Democrat |
+| 2026-09-22 20:53 | Israel | 发射 | Iran | 待确认 | C | Israel’s defense minister: Until the regime falls, we will launch a third round of strikes on Iran if necessary - MTV Lebanon |
+| 2026-09-22 20:53 | Israel | 通报 | Iran | 待确认 | C | Argentine judge charges 7 Iranians, 1 Lebanese over 1994 AMIA Jewish center bombing - The Times of Israel |
+| 2026-09-22 20:51 | US | 通报 | Iran | 待确认 | C | Iran to sell seized US, Israeli vessels to compensate families affected by war - Türkiye Today |
+| 2026-09-22 20:35 | US | 通报 | Iran | 待确认 | C | Israel, US repeat Saddam’s miscalculation about Iran: Expediency Council chief - PressTV |
+| 2026-09-22 20:29 | 未明确 | 通报 | 未明确 | 待确认 | C | Fishing boat in Florida reels in unexpected catch: a U.S. military drone - SSBCrack |
+| 2026-09-22 20:28 | US | 通报 | Iran | 待确认 | C | US Military Estimates Iran War Cost at $43.6B - The Defense Post |
+| 2026-09-22 20:14 | Israel | 撤离 | Israel | 待确认 | C | Israel Threatens Mass Evacuation Of Gaza City Over Future Abductions - The Whistler Newspaper |
+| 2026-09-22 20:06 | Israel | 通报 | Israel | 待确认 | C | Katz Issues Harsh Warning: Gaza City Could Be Emptied If Hamas Captures An Israeli - VINnews |
+| 2026-09-22 20:01 | Israel | 通报 | Israel | 待确认 | C | Trump readies 40,000 bombs for Israel, wider war after Nov. 3 - mronline.org |
+| 2026-09-22 19:52 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: ‘We’re Open To That’ – Marco Rubio Says US Is Ready To Meet Iran At UN, But No Talks Scheduled Yet - The Sunday Guardian |
+| 2026-09-22 19:46 | Israel | 通报 | Israel | 待确认 | C | WATCH: Hezbollah MP boasts of Houthi ties, claims terror group ready to fight Israel from Lebanon - worldisraelnews.com |
+| 2026-09-22 19:44 | US | 通报 | Iran | 待确认 | C | Iran war live: Rubio says the United States is open to meeting Iran at UN - Arabian Business |
+| 2026-09-22 19:43 | US | 通报 | Iran | 待确认 | C | Iran to Sell US and Israeli Vessels Seized in Strait of Hormuz - Tempo.co English |
+| 2026-09-22 19:41 | US | 通报 | Tehran | 命中 | C | US Says it Struck Iranian Military Sites, Tehran Responds with Air Base Attack - EnergyNow.com |
+| 2026-09-22 19:19 | Israel | 通报 | Israel | 待确认 | C | Pakistan urges coordinated OIC action to hold Israel accountable for rights violations - Arab News PK |
+| 2026-09-22 19:18 | US | 通报 | Iran | 待确认 | C | Iran plans sale of US, Israel-linked vessels seized in Hormuz - Latest news from Azerbaijan |
+| 2026-09-22 19:15 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: ‘There is A Possibility Of…’ – Iran Sets 7-Day Timeline To Reopen Strait Of Hormuz If US Takes Steps To Ease Military Pressure - The Sunday Guardian |
+| 2026-09-22 19:15 | Israel | 通报 | Iran | 待确认 | C | Iran to Raise U.S., Israeli War Crimes Claims at UN - teleSUR English |
+| 2026-09-22 19:00 | Israel | 通报 | Iran | 待确认 | C | Report: Iran's offer to reopen the Strait of Hormuz - Israel National News |
+| 2026-09-22 18:55 | Israel | 通报 | Israel | 待确认 | C | The Israeli Card - RealClearDefense |
