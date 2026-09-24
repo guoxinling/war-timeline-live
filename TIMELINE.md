@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-09-23 23:58
+更新时间（北京时间）: 2026-09-24 10:53
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-09-23 23:57 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post |
-| 2026-09-23 23:43 | US | 通报 | Iran | 待确认 | C | Iran assesses US response to proposal aimed at ending conflict as diplomacy resumes at UN - Business Upturn |
-| 2026-09-23 23:11 | US | 通报 | Iran | 待确认 | C | US delegation walks out as Iranian President attacks Israel, US at UN - Israel National News |
-| 2026-09-23 22:52 | US | 通报 | Iran | 命中 | C | 'Groveling Never Satisfies A Bully': Iran FM Hits Out At Europe For Supporting US-Israeli 'War Crimes' - NDTV Profit |
-| 2026-09-23 22:38 | Israel | 通报 | Israel | 待确认 | C | 600 centenarian olive trees uprooted by Israel in south Lebanon: War crimes complaint filed in Paris - L'Orient Today |
-| 2026-09-23 22:25 | Iran | 通报 | Iran | 待确认 | C | Iran's president speaks at the United Nations in rare wartime address - The Tribune-Democrat |
-| 2026-09-23 22:23 | US | 通报 | Iran | 待确认 | C | ‘They Bombed Our School’: Iran President Pezeshkian Slams US At UN General Assembly - ABP Live English |
-| 2026-09-23 22:20 | US | 通报 | Iran | 命中 | C | ‘America-Israel Hit Iran But We Didn’t Bend The Knee’: Pezeshkian’s Fiery UNGA Address Amid US Walkout - News18 |
-| 2026-09-23 22:17 | US | 通报 | Iran | 待确认 | C | Scraping the bottom of the arsenal: MQ-9 losses in war against Iran force US to bring back retired MQ-1 - PressTV |
-| 2026-09-23 21:34 | US | 通报 | Iran | 待确认 | C | Iran Downplays Indirect Talks With US, and Other Mideast Developments - Military.com |
-| 2026-09-23 21:15 | US | 空袭 | Iran | 待确认 | C | Iran Attacks US Facilities In Bahrain, Kuwait And Jordan After Strikes Near Hormuz Ester Expósito (qXfrlxpXCG) - Unisba Media |
-| 2026-09-23 20:54 | Iran | 通报 | Iran | 待确认 | C | Live: After 'annihilation' threat, Trump hails 'very productive' Iran talks - middleeasteye.net |
-| 2026-09-23 20:52 | US | 通报 | Iran | 待确认 | C | Iran downplays indirect talks with US, and other Mideast developments - Boston Herald |
-| 2026-09-23 20:41 | Israel | 空袭 | Israel | 命中 | C | Shafaq News..Israeli strikes kill four, hit near Gaza hospital - شفق نيوز |
-| 2026-09-23 20:40 | Israel | 通报 | Iran | 待确认 | C | Iran’s Pezeshkian accuses Israel of double standards on nuclear weapons at UN - The Jerusalem Post |
-| 2026-09-23 20:38 | 未明确 | 通报 | 未明确 | 待确认 | C | President Erdoğan gives voice to oppressed, pushes global peace efforts - Daily Sabah |
-| 2026-09-23 20:30 | US | 通报 | Iran | 待确认 | C | US and Iran Weigh Extending Their Ceasefire by Two Weeks - EnergyNow.com |
-| 2026-09-23 20:28 | Israel | 通报 | Israel | 待确认 | C | WATCH: Lebanese military expert admits Hezbollah deterrence completely shattered - worldisraelnews.com |
-| 2026-09-23 19:54 | 未明确 | 通报 | 未明确 | 待确认 | C | Conflict in West Asia escalates as several countries are becoming involved; Fighting is spreading across different parts of region / Akashvani News - News On AIR |
-| 2026-09-23 19:45 | US | 空袭 | Iran | 待确认 | C | Pezeshkian set for first UN address since US-Israel strikes triggered Iran war - newsdrum.in |
-| 2026-09-23 19:33 | US | 发射 | Iran | 待确认 | C | Iran says it turns back US warship from Strait of Hormuz, US official denies missile strike - DD News |
-| 2026-09-23 19:24 | US | 通报 | Iran | 待确认 | C | Iran war’s cost grows to $43.6 billion in new US military estimate - The Commercial Dispatch |
-| 2026-09-23 19:11 | 未明确 | 通报 | 未明确 | 待确认 | C | Watch: 18,000 cows die in a Texas dairy farm explosion fire - Straight Arrow |
-| 2026-09-23 19:07 | 未明确 | 通报 | 未明确 | 待确认 | C | West Asia conflict enters more intense phase with military activity spreading across several fronts / Akashvani News - News On AIR |
-| 2026-09-23 19:02 | Israel | 通报 | Israel | 伤亡 | C | Hezbollah Fake News: Commanders Killed by Israel, Not Yemen - jfeed.com |
-| 2026-09-23 18:55 | Israel | 发射 | Iran | 待确认 | C | Iran fires missiles at Israeli cities of Dimona & Arad, near Negev Nuclear Research Center - News On AIR |
-| 2026-09-23 18:55 | Iran | 通报 | Iran | 待确认 | C | Iran downplays indirect talks with U.S., and other Mideast developments - The Tribune-Democrat |
-| 2026-09-23 18:53 | 未明确 | 通报 | Tabriz | 待确认 | C | 'Helma' becomes symbol of resilience after act of aggression on Tabriz - PressTV |
-| 2026-09-23 18:53 | Israel | 撤离 | Israel | 待确认 | C | Israel's DM threatens to evacuate entire Gaza City if any Israeli abducted - 巴士的報 |
-| 2026-09-23 18:43 | Israel | 通报 | Israel | 待确认 | C | French legal complaint says Israeli army uprooted and stole ancient olive trees from Lebanon - middleeasteye.net |
-| 2026-09-23 18:40 | Iran | 通报 | Iran | 待确认 | C | Iran denies dropping preconditions amid ‘very productive’ three-hour UN talks in New York - The Guardian |
-| 2026-09-23 18:24 | 未明确 | 通报 | 未明确 | 命中 | C | Watch: How would mass EV adoption impact the environment? And is it feasible? - Straight Arrow |
-| 2026-09-23 18:12 | US | 通报 | Tehran | 命中 | C | US Says it Struck Iranian Military Sites, Tehran Responds with Air Base Attack - EnergyNow.com |
-| 2026-09-23 17:59 | 未明确 | 通报 | 未明确 | 待确认 | C | Azerbaijani president pardons French national convicted of espionage - usmuslims.com |
-| 2026-09-23 17:55 | 未明确 | 通报 | 未明确 | 待确认 | C | Middle East faces risk of wider escalation as regional flashpoints converge - Daijiworld |
-| 2026-09-23 17:43 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Iran FM Araghchi Slams France’s ‘Double Standards’ During UNGA Talks With French Counterpart Barrot - The Sunday Guardian |
-| 2026-09-23 17:43 | US | 空袭 | Iran | 待确认 | C | Market Analysts React to US-Israel Strikes on Iran - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com |
-| 2026-09-23 17:41 | Iran | 通报 | Iran | 待确认 | C | Iran accuses European states of ‘double standards’ over regional developments - usmuslims.com |
-| 2026-09-23 17:15 | Israel | 通报 | Jerusalem | 待确认 | C | Israeli officials warn of risk of escalation in the Middle East — Jerusalem Post - UA.NEWS |
-| 2026-09-23 17:07 | US | 通报 | Iran | 命中 | C | US Israel Iran War Latest News: Iran Hits Back at Trump’s ‘Annihilate’ Remark at UN; Calls It ‘Strategic Desperation’ - The Sunday Guardian |
+| 2026-09-24 09:30 | Iran | 通报 | Iran | 命中 | C | Iran’s president hits out at ‘bully’ Trump in UN speech but signals willingness to talk - The Guardian |
+| 2026-09-24 09:25 | 未明确 | 通报 | 未明确 | 待确认 | C | U.N. Updates: Zelensky Warns of Growing Global Cost of Russia’s War in Ukraine - The New York Times |
+| 2026-09-24 07:19 | 未明确 | 通报 | 未明确 | 待确认 | C | Conflict in West Asia escalates as several countries are becoming involved; Fighting is spreading across different parts of region / Akashvani News - News On AIR |
+| 2026-09-24 07:05 | US | 通报 | Iran | 待确认 | C | Pakistan 'absolutely determined to make progress' in de-escalating US-Iran conflict: Premier - Anadolu Ajansı |
+| 2026-09-24 06:53 | US | 通报 | Iran | 待确认 | C | US Democrat senator urges Trump to press Xi over China-Iran ties - The New Arab |
+| 2026-09-24 06:53 | US | 通报 | Iran | 待确认 | C | Iran President Addresses UN Assembly Amid Conflict With US and Israel - suaragarut.id |
+| 2026-09-24 06:50 | Israel | 空袭 | Israel | 待确认 | C | Ceasefire Holds as Israeli Strikes Kill 14 in Southern Lebanon - TOLOnews |
+| 2026-09-24 06:42 | 未明确 | 通报 | 未明确 | 待确认 | C | 10-year Treasury yield spikes to highest point since 2007 - The Hill |
+| 2026-09-24 06:28 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post |
+| 2026-09-24 06:26 | Israel | 通报 | Israel | 待确认 | C | Israeli military carried out several bombings in southern Lebanon, according to Al Masirah - Newsquawk |
+| 2026-09-24 06:13 | Iran | 通报 | Iran | 待确认 | C | Live: Iran is a 'victim of terrorism', Pezeshkian tells UN General Assembly - middleeasteye.net |
+| 2026-09-24 05:52 | 未明确 | 通报 | 未明确 | 待确认 | C | Watch: Governor to pay $270K for pandemic church service ban: Media Miss - Straight Arrow |
+| 2026-09-24 05:50 | Iran | 通报 | Iran | 待确认 | C | Iran's president delivers defiant UN speech, and other Mideast developments - CTPost |
+| 2026-09-24 05:37 | Iran | 通报 | Iran | 待确认 | C | Iran won’t bow to military action or sanctions and will retain nuclear program, country’s president tells UNGA - Jewish Telegraphic Agency |
+| 2026-09-24 05:31 | 未明确 | 通报 | 未明确 | 待确认 | C | Watch: Behind the feed: TikTok employees voice concerns amid North Carolina lawsuit - Straight Arrow |
+| 2026-09-24 05:20 | US | 通报 | Iran | 待确认 | C | Watch: What messages did the US and Iran send about the war? - bbc.com |
+| 2026-09-24 05:15 | Israel | 通报 | Israel | 待确认 | C | WATCH: Lebanese military expert admits Hezbollah deterrence completely shattered - worldisraelnews.com |
+| 2026-09-24 05:10 | US | 通报 | 未明确 | 待确认 | C | Shafaq News..CENTCOM: 115 ships diverted in Strait of Hormuz - شفق نيوز |
+| 2026-09-24 04:57 | US | 通报 | Iran | 待确认 | C | Pezeshkian says Iran will not surrender to US pressure, keeps door open to diplomacy - İlke Haber Ajansı |
+| 2026-09-24 04:08 | US | 发射 | 未明确 | 待确认 | C | US warns Saudi-Houthi fighting could ‘escalate rapidly’ after missile targets Riyadh - Bol News |
+| 2026-09-24 04:00 | Israel | 通报 | Israel | 待确认 | C | Turkish president real threat to Israel - Cleveland Jewish News |
+| 2026-09-24 03:39 | US | 通报 | Iran | 待确认 | C | In Defiant UN Speech, Iranian President Says US and Israel Are the Real Terrorists - Common Dreams |
+| 2026-09-24 03:35 | Iran | 通报 | Tehran | 待确认 | C | Iran’s president laid out Tehran’s demands to the world, from a podium in New York - CNN |
+| 2026-09-24 03:01 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Trump Says Witkoff, Kushner Held ‘Very Good’ Talks With Iran In New York amid War Tensions & UNGA Diplomacy; Check Latest Update - The Sunday Guardian |
+| 2026-09-24 02:23 | Israel | 通报 | Iran | 待确认 | C | Iran's president speaks at UN, accuses U.S. and Israel of terrorism - Heraldo USA |
+| 2026-09-24 02:22 | US | 通报 | Iran | 待确认 | C | CENTCOM says 115 commercial vessels redirected under US blockade - Iran International |
+| 2026-09-24 02:19 | Iran | 通报 | Iran | 待确认 | C | Iran's president says country won't surrender after Trump threat to 'annihilate' Islamic republic - CBC |
+| 2026-09-24 02:18 | US | 通报 | Iran | 待确认 | C | The top moments from Iran president’s tense visit to US soil as war rages - WFIN |
+| 2026-09-24 02:15 | Iran | 通报 | Iran | 待确认 | C | Iran's president tells Trump it will never 'bend the knee' - bbc.com |
+| 2026-09-24 02:06 | Israel | 通报 | Israel | 待确认 | C | ICYMI: Temple Israel Congregants Back Mike Rogers - Senate Leadership Fund |
+| 2026-09-24 01:47 | Israel | 通报 | Iran | 待确认 | C | Iran’s Pezeshkian accuses Israel of double standards on nuclear weapons at UN - The Jerusalem Post |
+| 2026-09-24 01:45 | US | 通报 | Iran | 待确认 | C | Pezeshkian UN Speech / Iran / US / Israel / Peaceful Nuclear Program - Aaj English TV |
+| 2026-09-24 01:40 | Iran | 通报 | Tehran | 待确认 | C | Iran seals French language centre in Tehran, accuses it of illegal activities - The Business Standard |
+| 2026-09-24 01:34 | Israel | 通报 | Israel | 待确认 | C | Report: Anti-Israel Activists Appear in El-Sayed Video Post - Newsmax |
+| 2026-09-24 01:32 | Israel | 空袭 | Israel | 待确认 | C | Israel kills Hamas finance chief in Gaza strike, Netanyahu says ‘won’t stop’ until group no longer exists - The Times of India |
+| 2026-09-24 01:08 | Israel | 通报 | Israel | 待确认 | C | WATCH: ‘World doesn’t need a crisis in Judea and Samaria,’ says Rubio - worldisraelnews.com |
+| 2026-09-24 00:58 | 未明确 | 通报 | 未明确 | 待确认 | C | Pictures of the Day / September 23, 2026 - Reuters |
+| 2026-09-24 00:55 | Iran | 通报 | Iran | 待确认 | C | Iran will never 'bend the knee’: Pezeshkian tells UN - thenewregion.com |
+| 2026-09-24 00:50 | Israel | 通报 | Israel | 待确认 | C | Israeli blast in Lebanon's Khiam damages school miles away - The New Arab |
+| 2026-09-24 00:43 | US | 通报 | Israel | 伤亡 | C | Son of Israel’s ambassador to US critically injured in ramming attack in the occupied West Bank - ABC27 |
