@@ -1,41 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-09-27 11:21
+更新时间（北京时间）: 2026-09-28 00:17
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-09-27 11:10 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Trump Rejects Iran’s Hormuz Proposal as Iraq, UAE, Oman and Other Countries Halt Iranian Flights After US Sanctions - The Sunday Guardian |
-| 2026-09-27 10:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post |
-| 2026-09-27 09:35 | US | 通报 | Iran | 待确认 | C | 'Conditions Are Clear': Iran Insists 'Only Diplomacy' Can End War With US After Trump Rejects Hormuz Propos - News18 |
-| 2026-09-27 09:34 | Israel | 通报 | Israel | 待确认 | C | Abbas Kamel Warned Israel About Hamas Attack Before October 7, The Atlantic Says: 23 outlets compared - NewsCord |
-| 2026-09-27 09:30 | 未明确 | 通报 | 未明确 | 待确认 | C | Kuwait Among Nearly 70 Nations to Walk Out During Netanyahu’s UN Address - Arab Times Kuwait News |
-| 2026-09-27 08:42 | US | 通报 | Tehran | 待确认 | C | US Iran war: Tehran insists on diplomatic solution after Trump rejects peace plan - The Economic Times |
-| 2026-09-27 08:31 | US | 通报 | Tehran | 待确认 | C | 'Iran is in trouble, wants to reopen Hormuz': Trump says US imposed an iron-wall blockade; Tehran shared pl... - Bhaskar English |
-| 2026-09-27 08:26 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: Iranian Army Warns US Will Be ‘Slapped’ If It Intervenes in Strait of Hormuz Amid Rising Tensions - The Sunday Guardian |
-| 2026-09-27 08:12 | Iran | 通报 | Iran | 待确认 | C | Trump rejects Iran’s seven-day roadmap to end war and reopen Hormuz - aljazeera.com |
-| 2026-09-27 08:06 | Iran | 通报 | Iran | 待确认 | C | ‘Surprises in store’: Iran’s Armed Forces vow to counter any fresh aggression with ‘new technologies’ - PressTV |
-| 2026-09-27 06:33 | US | 通报 | Iran | 伤亡 | C | Iran says over 5,000 killed in US, Israeli attacks - newswatchplus.ph - t.co |
-| 2026-09-27 06:22 | Israel | 通报 | Israel | 待确认 | C | Erdogan Rejects Israeli 'Threat' Narrative as Tensions Escalate - Newsmax |
-| 2026-09-27 06:15 | Iran | 通报 | Iran | 待确认 | C | Trump rejects Iran deal to reopen Strait of Hormuz in seven days - BBC |
-| 2026-09-27 06:00 | Iran | 通报 | Iran | 待确认 | C | Trump spurns Iran 7-day Hormuz deal amid CIA warnings on China and Russia - Bankingnews |
-| 2026-09-27 06:00 | 未明确 | 通报 | 未明确 | 待确认 | C | Conflict in West Asia escalates as several countries are becoming involved; Fighting is spreading across different parts of region / Akashvani News - News On AIR |
-| 2026-09-27 05:32 | 未明确 | 通报 | Gaza | 待确认 | C | “Gaza Is the Most Inhumane and Most Shameful Concentration Camp of Our Time” - greatreporter |
-| 2026-09-27 05:11 | US | 通报 | Iran | 待确认 | C | Iran-US conflict: Donald Trump rejects Iran’s latest proposal to reopen the Strait of Hormuz - Nine.com.au |
-| 2026-09-27 04:11 | Iran | 通报 | Iran | 待确认 | C | Philippines declares national energy emergency as Asia risks energy crisis amid Iran war - abcnews.com |
-| 2026-09-27 03:58 | US | 通报 | Iran | 待确认 | C | US-Iran conflict hands China's Xi upper hand ahead of Trump meeting: Experts - abcnews.com |
-| 2026-09-27 02:59 | Israel | 通报 | Israel | 待确认 | C | Shafaq News..Israeli attacks spread across Southern Lebanon - شفق نيوز |
-| 2026-09-27 02:39 | Israel | 通报 | Israel | 待确认 | C | Qatari PM says Netanyahu is ‘biggest obstacle’ to fulfilling Gaza peace plan - The Times of Israel |
-| 2026-09-27 02:34 | 未明确 | 通报 | Jerusalem | 待确认 | C | Qatar's Al Thani claims Netanyahu's 'far-right government' sabotaging Gaza talks - The Jerusalem Post |
-| 2026-09-27 02:09 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Sergey Lavrov Calls Killing of Iran Supreme Leader Ali Khamenei, Family Members ‘Unacceptable’; Pushes Russia’s Gulf Peace Initiative Over Hormuz Crisis - The Sunday Guardian |
-| 2026-09-27 01:44 | 未明确 | 通报 | 未明确 | 待确认 | C | Why did actors Susan Sarandon and Hannah Einbinder protest Netanyahu outside UN? - The Indian Express |
-| 2026-09-27 01:37 | Israel | 通报 | Israel | 待确认 | C | Benjamin Netanyahu Says Oct 7 Attack By Hamas Was Like 16 Times '9/11' For Israel - NDTV Profit |
-| 2026-09-27 00:47 | 未明确 | 空袭 | Yemen | 待确认 | C | Yemeni army releases footage showing strikes on Saudi military buildups, vehicles - PressTV |
-| 2026-09-27 00:21 | US | 通报 | Israel | 待确认 | C | 'Paging Hezbollah' Movie Goes Inside Israel's Most Audacious Intelligence Operation - JFeed |
-| 2026-09-27 00:20 | Israel | 通报 | Iran | 待确认 | C | Trump: Iran’s seven-day truce proposal ‘not acceptable’ - worldisraelnews.com |
-| 2026-09-26 23:49 | Iran | 通报 | Tehran | 待确认 | C | Netanyahu faces his nightmare at UN: The Soleimani portrait in Iran’s empty seat - Tehran Times |
-| 2026-09-26 23:35 | US | 通报 | Iran | 待确认 | C | Live: US refuses visas for Iran UN delegation members - Middle East Eye |
-| 2026-09-26 23:34 | US | 通报 | Iran | 待确认 | C | In UN General Assembly address, China opposes ‘unilateral military actions’ amid US-Iran war, calls for 2-state Palestine solution track - Middle East Monitor |
-| 2026-09-26 23:22 | Iran | 通报 | Iran | 待确认 | C | Iran denies plans for military retaliation over aviation restrictions - Anadolu Ajansı |
-| 2026-09-26 23:21 | Iran | 通报 | Iran | 待确认 | C | Iran war live: Trump rejects Iran’s 7-day roadmap to end the war - Arabian Business |
+| 2026-09-27 23:42 | Israel | 通报 | Israel | 待确认 | C | Hezbollah chief says 'Israel' unable to 'break the resistance' - Roya News |
+| 2026-09-27 23:39 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: ‘Clearly Desperate ’ – US Rejects Iran’s ‘Captured’ US Underwater Drone Claim in Strait of Hormuz - The Sunday Guardian |
+| 2026-09-27 23:30 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Trump Says US Transported ‘Record Amount’ Of Oil Through Strait Of Hormuz, Predicts Prices Will Fall Soon - The Sunday Guardian |
+| 2026-09-27 23:28 | 未明确 | 通报 | Gaza | 待确认 | C | Palestinian death toll in Gaza war passes 74,000, and other Mideast news - Bozeman Daily Chronicle |
+| 2026-09-27 23:06 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and the Middle East - jpost.com |
+| 2026-09-27 22:47 | Hezbollah | 通报 | 未明确 | 待确认 | C | Hezbollah marks second anniversary of former chief Nasrallah's killing - Region - World - Ahram Online |
+| 2026-09-27 22:47 | US | 通报 | Iran | 待确认 | C | Strait of Hormuz tensions linger as Iran and US move further from a deal - Al Jazeera |
+| 2026-09-27 22:42 | Hezbollah | 通报 | 未明确 | 待确认 | C | 'We miss you': Supporters gather near the mausoleum of former Hezbollah leader - L'Orient Today |
+| 2026-09-27 22:36 | Hezbollah | 通报 | 未明确 | 待确认 | C | Hezbollah marks second anniversary of former chief Nasrallah's killing - bssnews.net |
+| 2026-09-27 22:29 | US | 通报 | Iran | 待确认 | C | Houthis Seized U.S. “Drone Submarine” ‘Smokey’ in 2018 — Now Iran Claims Another Remus 600 in Hormuz - EurAsian Times |
+| 2026-09-27 22:20 | Hezbollah | 通报 | Beirut | 待确认 | C | Hezbollah Supporters Mark Second Anniversary of Nasrallah’s Killing in Beirut - کوردستان 24 |
+| 2026-09-27 21:42 | Israel | 发射 | Israel | 待确认 | C | Israel steps up southern Lebanon attacks, citing Hezbollah drone attack - middle-east-online.com |
+| 2026-09-27 21:23 | 未明确 | 通报 | 未明确 | 待确认 | C | Why India stayed during Netanyahu’s UN speech: Diplomacy of Modi govt triggers leftist meltdown - opindia.com |
+| 2026-09-27 21:20 | US | 空袭 | Iran | 伤亡 | C | US-Israel-Iran War Latest Live News: 7 Killed, 40 Injured In Yemen Market Strike In Taiz Province; Children Among Injured, Houthi Officials Say - The Sunday Guardian |
+| 2026-09-27 21:06 | Israel | 通报 | Israel | 待确认 | C | Israel's Smotrich calls for ‘war’ in West Bank, seeks annexation of parts of Gaza, southern Lebanon - Firstpost |
+| 2026-09-27 20:56 | Israel | 空袭 | Israel | 命中 | C | Israeli airstrikes hit southern Lebanon despite framework agreement - Operativ Məlumat Mərkəzi |
+| 2026-09-27 20:21 | US | 通报 | Iran | 待确认 | C | Iran says diplomacy is the only way to resolve conflict with US and Israel - Cyprus Inform |
+| 2026-09-27 20:19 | Israel | 通报 | Israel | 待确认 | C | Israel seals occupied West Bank for weeklong Sukkot closure - Yeni Şafak English |
+| 2026-09-27 20:13 | Israel | 通报 | Israel | 待确认 | C | Hundreds protest in Stockholm against Israel’s Gaza assault - Yeni Şafak English |
+| 2026-09-27 19:59 | Israel | 发射 | Israel | 待确认 | C | Israel targets several localities after Hezbollah launches ‘booby-trapped drone’ - L'Orient Today |
+| 2026-09-27 19:53 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: ‘Not Far Away’ – Iran Army Chief Amir Hatami Says US Removal From Middle East Is Near, Warns Over Strait of Hormuz - The Sunday Guardian |
+| 2026-09-27 19:53 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Iran’s Revolutionary Guard Says It Captured US Autonomous Underwater Vehicle in Strait of Hormuz - The Sunday Guardian |
+| 2026-09-27 19:40 | 未明确 | 通报 | Gaza | 待确认 | C | Palestinian death toll in Gaza war rises above 74,000 since the war began - The Tribune-Democrat |
+| 2026-09-27 19:26 | US | 通报 | Tehran | 待确认 | C | US-Israel-Iran War Latest Live News: ‘Pulled From Rubble’ – Mojtaba Khamenei Was Rescued After Tehran Hospital Was Bombed, Iranian Cleric Claims - The Sunday Guardian |
+| 2026-09-27 19:13 | US | 通报 | Iran | 待确认 | C | Iran says it captured an American underwater drone in the Strait of Hormuz - The Herald |
+| 2026-09-27 19:10 | Israel | 通报 | Israel | 待确认 | C | Israel bombs southern Lebanon after accusing Hezbollah of using an explosive drone - Demócrata |
+| 2026-09-27 19:03 | Israel | 空袭 | Israel | 命中 | C | Israeli airstrikes hit southern Lebanon despite framework deal - Latest news from Azerbaijan |
+| 2026-09-27 19:03 | US | 通报 | Israel | 待确认 | C | Mustafa Barghouti: How Israel's War Machine Runs on Support From the US, India, and Europe ‎ - Modern Ghana |
+| 2026-09-27 18:42 | Israel | 空袭 | Israel | 命中 | C | Israeli airstrikes continue to hit southern Lebanon despite framework deal - Anadolu Ajansı |
+| 2026-09-27 18:36 | Iran | 通报 | Iran | 待确认 | C | GOP Rep. Turner: 'Not a lot of options' for Trump in Iran - ABC News - Breaking News, Latest News and Videos |
+| 2026-09-27 18:15 | Hezbollah | 通报 | 未明确 | 待确认 | C | Two Years after Nasrallah’s Assassination, Hezbollah Releases Unseen Footage - Palestine Chronicle |
+| 2026-09-27 17:52 | US | 空袭 | Iran | 待确认 | C | West Asia Conflict: Israel warns Iran on nuclear push, signals fresh strikes as US-Iran talks stall & tensions escalate - organiser.org |
+| 2026-09-27 17:37 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: ‘War Is Not Over’ – Iran Army Chief Amir Hatami Claims Victory Over US, Says Forces Ready for Further Military Action - The Sunday Guardian |
+| 2026-09-27 17:32 | US | 通报 | Iran | 待确认 | C | Iran urges UN to address European states’ complicity in US-Israeli aggression - PressTV |
+| 2026-09-27 17:27 | US | 通报 | Tehran | 待确认 | C | Tehran ready for confrontation, warns US of greater damage:Iranian army spokesperson - Business Upturn |
+| 2026-09-27 17:27 | 未明确 | 通报 | 未明确 | 待确认 | C | The World Refuses Washington and Netanyahu’s Distorted View - dailyindependent.com.pk |
+| 2026-09-27 17:16 | US | 通报 | Tehran | 待确认 | C | US-Israel-Iran War Latest Live News: Iran Says Only ‘Negotiated Solution’ Can End Conflict After Trump Rejects Hormuz Proposal; Tehran Awaits Definitive US Response - The Sunday Guardian |
+| 2026-09-27 17:01 | Iran | 发射 | Iran | 待确认 | C | Life Under Iran’s Rockets - by Seth J. Frantzman - The Free Press |
+| 2026-09-27 16:59 | US | 空袭 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Israeli Army Claims Strikes on Hezbollah Targets in South Lebanon as US-Iran Military Escalation Risk Grows Ahead of Elections - The Sunday Guardian |
+| 2026-09-27 16:37 | Iran | 通报 | Iran | 待确认 | C | Iran keeps diplomacy open but holds firm on conditions - Daily Times |
