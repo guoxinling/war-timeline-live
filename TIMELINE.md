@@ -1,48 +1,44 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-09-28 00:17
+更新时间（北京时间）: 2026-09-28 11:18
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-09-27 23:42 | Israel | 通报 | Israel | 待确认 | C | Hezbollah chief says 'Israel' unable to 'break the resistance' - Roya News |
+| 2026-09-28 10:53 | US | 空袭 | Tehran | 待确认 | C | US-Israel-Iran War Latest Live News: Trump Says US Will ‘Win’ Iran War ‘Very Soon’, Leaves Door Open For More Strikes Before Midterm Elections; Tehran Warns Of ‘Doomsday War’ - The Sunday Guardian |
+| 2026-09-28 10:15 | US | 通报 | Iran | 伤亡 | C | Eight US Marines injured in Iranian attack in Hormuz: NBC - Roya News |
+| 2026-09-28 09:16 | US | 通报 | Iran | 待确认 | C | Iran says only diplomacy can end US-Israel conflict as Trump rejects Hormuz proposal - Moneycontrol.com |
+| 2026-09-28 09:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post |
+| 2026-09-28 08:55 | Hezbollah | 通报 | 未明确 | 待确认 | C | Hezbollah marks second anniversary of Hassan Nasrallah’s killing - Dawn |
+| 2026-09-28 08:22 | 未明确 | 通报 | Gaza | 待确认 | C | Palestinian death toll in Gaza war passes 74,000, and other Mideast news - Stamford Advocate |
+| 2026-09-28 08:12 | US | 通报 | Iran | 待确认 | C | Air Base At The Center Of A UK Terror Probe Has Been Used By The US Air Force During The Iran War - VINnews |
+| 2026-09-28 06:11 | Israel | 通报 | Israel | 待确认 | C | Hezbollah Chief Says Israel Unable to ‘Break’ Group on Anniversary of Nasrallah’s Killing - شبكة تواصل الإخبارية |
+| 2026-09-28 05:35 | US | 通报 | Israel | 待确认 | C | On anniversary of Nasrallah’s killing, Hezbollah says Israel unable to break us - Free Malaysia Today |
+| 2026-09-28 05:01 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: Iran’s Top Negotiator Challenges US Claims Over Strait of Hormuz Control – Check Latest Update - The Sunday Guardian |
+| 2026-09-28 05:00 | 未明确 | 通报 | Yemen | 待确认 | C | Watch: BBC reports from the front-line of an escalating war in Yemen - BBC |
+| 2026-09-28 04:06 | 未明确 | 通报 | Gaza | 待确认 | C | Palestinian death toll in Gaza war crosses 74,000, and other Mideast news - The New Indian Express |
+| 2026-09-28 04:02 | 未明确 | 通报 | 未明确 | 待确认 | C | UK police arrest Palestine Action protesters in Liverpool - Muslim Network TV |
+| 2026-09-28 03:44 | Israel | 空袭 | Tehran | 待确认 | C | Israel reports fresh airstrikes on Iranian targets east of Tehran / Akashvani News - News On AIR |
+| 2026-09-28 03:39 | Iran | 通报 | Iran | 待确认 | C | ‘Better deal’: What’s behind Trump’s rejection of Iran’s truce offer? - Al Jazeera |
+| 2026-09-28 03:26 | Israel | 空袭 | Israel | 待确认 | C | Ceasefire Holds as Israeli Strikes Kill 14 in Southern Lebanon - TOLOnews |
+| 2026-09-28 03:20 | 未明确 | 通报 | 未明确 | 待确认 | C | Ten things you didn't know about Hassan Nasrallah - JFeed |
+| 2026-09-28 02:43 | Israel | 空袭 | Israel | 待确认 | C | Israeli Strikes Surge Across Southern Lebanon in Latest Escalation - news.antiwar.com |
+| 2026-09-28 02:38 | 未明确 | 通报 | 未明确 | 待确认 | C | Shiites Mark Two Years Since Nasrallah Elimination - JFeed |
+| 2026-09-28 02:05 | 未明确 | 通报 | 未明确 | 待确认 | C | U.S. and Russia remove ethical safeguards from draft U.N. agreement on AI weapons - The New Voice of Ukraine |
+| 2026-09-28 01:54 | US | 通报 | Iran | 待确认 | C | Iran says only diplomacy can resolve US, Israel conflict - Bol News |
+| 2026-09-28 01:47 | US | 通报 | Iran | 待确认 | C | Mike Waltz: US offered to sell Iran uranium for civilian programme - Al Jazeera |
+| 2026-09-28 01:25 | Iran | 通报 | Tehran | 待确认 | C | Hezbollah marks second anniversary of Sayyed Nasrallah’s martyrdom with vows of continued resistance - Tehran Times |
+| 2026-09-28 01:18 | 未明确 | 通报 | 未明确 | 待确认 | C | No peace in West Asia without Palestine justice: Pezeshkian - The Siasat Daily |
+| 2026-09-28 01:16 | US | 通报 | Tehran | 待确认 | C | US-Israel-Iran War Latest Live News: Iran FM Abbas Araghchi Says Tehran Prepared For War To Resume ‘Even If It Comes To A Doomsday War’; Reiterates Peace Plan Terms - The Sunday Guardian |
+| 2026-09-28 01:04 | US | 通报 | Iran | 待确认 | C | Gaza death toll crosses 74,000 as Iran awaits US response - indiatoday.in |
+| 2026-09-28 01:01 | US | 通报 | Iran | 待确认 | C | US Oil Prices Soar in Early Trading on Supply Fears Amid Expanding U.S.-Israeli War With Iran - EnergyNow |
+| 2026-09-28 01:01 | US | 通报 | Israel | 待确认 | C | Hezbollah: Israel failed to break us ᐉ News from Fakti.bg - World - fakti.bg |
+| 2026-09-28 00:50 | Hezbollah | 通报 | Lebanon | 待确认 | C | Two years after Nasrallah's death, Hezbollah faces a new Lebanon - The New Arab |
+| 2026-09-27 23:57 | Israel | 通报 | Israel | 待确认 | C | Hezbollah chief says 'Israel' unable to 'break the resistance' - Roya News |
+| 2026-09-27 23:54 | Israel | 通报 | Israel | 待确认 | C | Sheikh Naim Qassem Says Israel Failed To Break Hezbollah Resistance At Hassan Nasrallah Mausoleum - NewsCord |
+| 2026-09-27 23:47 | Israel | 通报 | Israel | 待确认 | C | Naim Qassem Urges Lebanon To Suspend Direct Negotiations With Israel On Nasrallah Anniversary - NewsCord |
+| 2026-09-27 23:46 | Israel | 通报 | Israel | 待确认 | C | Naim Qassem Says Israel Failed To Break Hezbollah At Beirut Anniversary Event: how 13 outlets framed it - NewsCord |
+| 2026-09-27 23:42 | Hezbollah | 通报 | 未明确 | 待确认 | C | Naim Qassem Says Hezbollah’s Covenant Continues After Nasrallah and Hashem Safi al-Din Martyrdom - NewsCord |
 | 2026-09-27 23:39 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: ‘Clearly Desperate ’ – US Rejects Iran’s ‘Captured’ US Underwater Drone Claim in Strait of Hormuz - The Sunday Guardian |
 | 2026-09-27 23:30 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Trump Says US Transported ‘Record Amount’ Of Oil Through Strait Of Hormuz, Predicts Prices Will Fall Soon - The Sunday Guardian |
-| 2026-09-27 23:28 | 未明确 | 通报 | Gaza | 待确认 | C | Palestinian death toll in Gaza war passes 74,000, and other Mideast news - Bozeman Daily Chronicle |
-| 2026-09-27 23:06 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and the Middle East - jpost.com |
-| 2026-09-27 22:47 | Hezbollah | 通报 | 未明确 | 待确认 | C | Hezbollah marks second anniversary of former chief Nasrallah's killing - Region - World - Ahram Online |
-| 2026-09-27 22:47 | US | 通报 | Iran | 待确认 | C | Strait of Hormuz tensions linger as Iran and US move further from a deal - Al Jazeera |
-| 2026-09-27 22:42 | Hezbollah | 通报 | 未明确 | 待确认 | C | 'We miss you': Supporters gather near the mausoleum of former Hezbollah leader - L'Orient Today |
-| 2026-09-27 22:36 | Hezbollah | 通报 | 未明确 | 待确认 | C | Hezbollah marks second anniversary of former chief Nasrallah's killing - bssnews.net |
-| 2026-09-27 22:29 | US | 通报 | Iran | 待确认 | C | Houthis Seized U.S. “Drone Submarine” ‘Smokey’ in 2018 — Now Iran Claims Another Remus 600 in Hormuz - EurAsian Times |
-| 2026-09-27 22:20 | Hezbollah | 通报 | Beirut | 待确认 | C | Hezbollah Supporters Mark Second Anniversary of Nasrallah’s Killing in Beirut - کوردستان 24 |
-| 2026-09-27 21:42 | Israel | 发射 | Israel | 待确认 | C | Israel steps up southern Lebanon attacks, citing Hezbollah drone attack - middle-east-online.com |
-| 2026-09-27 21:23 | 未明确 | 通报 | 未明确 | 待确认 | C | Why India stayed during Netanyahu’s UN speech: Diplomacy of Modi govt triggers leftist meltdown - opindia.com |
-| 2026-09-27 21:20 | US | 空袭 | Iran | 伤亡 | C | US-Israel-Iran War Latest Live News: 7 Killed, 40 Injured In Yemen Market Strike In Taiz Province; Children Among Injured, Houthi Officials Say - The Sunday Guardian |
-| 2026-09-27 21:06 | Israel | 通报 | Israel | 待确认 | C | Israel's Smotrich calls for ‘war’ in West Bank, seeks annexation of parts of Gaza, southern Lebanon - Firstpost |
-| 2026-09-27 20:56 | Israel | 空袭 | Israel | 命中 | C | Israeli airstrikes hit southern Lebanon despite framework agreement - Operativ Məlumat Mərkəzi |
-| 2026-09-27 20:21 | US | 通报 | Iran | 待确认 | C | Iran says diplomacy is the only way to resolve conflict with US and Israel - Cyprus Inform |
-| 2026-09-27 20:19 | Israel | 通报 | Israel | 待确认 | C | Israel seals occupied West Bank for weeklong Sukkot closure - Yeni Şafak English |
-| 2026-09-27 20:13 | Israel | 通报 | Israel | 待确认 | C | Hundreds protest in Stockholm against Israel’s Gaza assault - Yeni Şafak English |
-| 2026-09-27 19:59 | Israel | 发射 | Israel | 待确认 | C | Israel targets several localities after Hezbollah launches ‘booby-trapped drone’ - L'Orient Today |
-| 2026-09-27 19:53 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: ‘Not Far Away’ – Iran Army Chief Amir Hatami Says US Removal From Middle East Is Near, Warns Over Strait of Hormuz - The Sunday Guardian |
-| 2026-09-27 19:53 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Iran’s Revolutionary Guard Says It Captured US Autonomous Underwater Vehicle in Strait of Hormuz - The Sunday Guardian |
-| 2026-09-27 19:40 | 未明确 | 通报 | Gaza | 待确认 | C | Palestinian death toll in Gaza war rises above 74,000 since the war began - The Tribune-Democrat |
-| 2026-09-27 19:26 | US | 通报 | Tehran | 待确认 | C | US-Israel-Iran War Latest Live News: ‘Pulled From Rubble’ – Mojtaba Khamenei Was Rescued After Tehran Hospital Was Bombed, Iranian Cleric Claims - The Sunday Guardian |
-| 2026-09-27 19:13 | US | 通报 | Iran | 待确认 | C | Iran says it captured an American underwater drone in the Strait of Hormuz - The Herald |
-| 2026-09-27 19:10 | Israel | 通报 | Israel | 待确认 | C | Israel bombs southern Lebanon after accusing Hezbollah of using an explosive drone - Demócrata |
-| 2026-09-27 19:03 | Israel | 空袭 | Israel | 命中 | C | Israeli airstrikes hit southern Lebanon despite framework deal - Latest news from Azerbaijan |
-| 2026-09-27 19:03 | US | 通报 | Israel | 待确认 | C | Mustafa Barghouti: How Israel's War Machine Runs on Support From the US, India, and Europe ‎ - Modern Ghana |
-| 2026-09-27 18:42 | Israel | 空袭 | Israel | 命中 | C | Israeli airstrikes continue to hit southern Lebanon despite framework deal - Anadolu Ajansı |
-| 2026-09-27 18:36 | Iran | 通报 | Iran | 待确认 | C | GOP Rep. Turner: 'Not a lot of options' for Trump in Iran - ABC News - Breaking News, Latest News and Videos |
-| 2026-09-27 18:15 | Hezbollah | 通报 | 未明确 | 待确认 | C | Two Years after Nasrallah’s Assassination, Hezbollah Releases Unseen Footage - Palestine Chronicle |
-| 2026-09-27 17:52 | US | 空袭 | Iran | 待确认 | C | West Asia Conflict: Israel warns Iran on nuclear push, signals fresh strikes as US-Iran talks stall & tensions escalate - organiser.org |
-| 2026-09-27 17:37 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: ‘War Is Not Over’ – Iran Army Chief Amir Hatami Claims Victory Over US, Says Forces Ready for Further Military Action - The Sunday Guardian |
-| 2026-09-27 17:32 | US | 通报 | Iran | 待确认 | C | Iran urges UN to address European states’ complicity in US-Israeli aggression - PressTV |
-| 2026-09-27 17:27 | US | 通报 | Tehran | 待确认 | C | Tehran ready for confrontation, warns US of greater damage:Iranian army spokesperson - Business Upturn |
-| 2026-09-27 17:27 | 未明确 | 通报 | 未明确 | 待确认 | C | The World Refuses Washington and Netanyahu’s Distorted View - dailyindependent.com.pk |
-| 2026-09-27 17:16 | US | 通报 | Tehran | 待确认 | C | US-Israel-Iran War Latest Live News: Iran Says Only ‘Negotiated Solution’ Can End Conflict After Trump Rejects Hormuz Proposal; Tehran Awaits Definitive US Response - The Sunday Guardian |
-| 2026-09-27 17:01 | Iran | 发射 | Iran | 待确认 | C | Life Under Iran’s Rockets - by Seth J. Frantzman - The Free Press |
-| 2026-09-27 16:59 | US | 空袭 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Israeli Army Claims Strikes on Hezbollah Targets in South Lebanon as US-Iran Military Escalation Risk Grows Ahead of Elections - The Sunday Guardian |
-| 2026-09-27 16:37 | Iran | 通报 | Iran | 待确认 | C | Iran keeps diplomacy open but holds firm on conditions - Daily Times |
