@@ -1,42 +1,37 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-10-03 11:32
+更新时间（北京时间）: 2026-10-03 23:37
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-10-03 11:23 | US | 通报 | Iran | 命中 | C | US-Israel-Iran War Latest Live News: 5 Indians Rescued After Kuwait-Flagged Tanker MT Kazimah III Hit By Projectile In Strait Of Hormuz; What Happened? - The Sunday Guardian |
-| 2026-10-03 11:09 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: Yemeni Army Claims to Attack 71 Houthi Targets in Taiz Region; Donald Trump Promises End of Conflict ‘Right After the Election’ - The Sunday Guardian |
-| 2026-10-03 11:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post |
-| 2026-10-03 10:14 | Israel | 通报 | Israel | 待确认 | C | Gaza war could have ended a year earlier, says ex Israeli hostage negotiator - The Times of India |
-| 2026-10-03 09:34 | 未明确 | 通报 | 未明确 | 待确认 | C | Oman barred FlyDubai co-pilot from flying over extremism concerns, and other Mideast developments - The Killeen Daily Herald |
-| 2026-10-03 09:00 | 未明确 | 通报 | 未明确 | 待确认 | C | Cal Thomas - Britain bails out possible terrorists - The Crescent-News |
-| 2026-10-03 08:47 | US | 空袭 | Iran | 待确认 | C | ISRAELIRANWAR. The US is preparing a new offensive against Iran. The Houthis are preparing to finalize their push for another 1,000 kilometers: Israel is threatening to move to Beirut to strike Hezbollah - agc communication news |
-| 2026-10-03 08:19 | US | 通报 | Iran | 待确认 | C | China's Role in the Iran-US-Israel Conflict Is Becoming Increasingly Important - Nacionale News |
-| 2026-10-03 07:18 | Israel | 空袭 | Israel | 命中 | C | Shafaq News..Israeli artillery and airstrikes hit southern Lebanon - shafaq.com |
-| 2026-10-03 06:46 | Israel | 通报 | Jerusalem | 待确认 | C | 'Switzerland of the Middle East': What is Oman’s relationship with Israel, if any? - The Jerusalem Post |
-| 2026-10-03 06:33 | 未明确 | 通报 | 未明确 | 待确认 | C | Vietnam airlines brace for jet fuel shortage as Middle East tensions rise - Báo VietNamNet |
-| 2026-10-03 06:33 | Israel | 通报 | Israel | 待确认 | C | Kushner pushes back on CNN report about Israeli investments tied to military - The Hill |
-| 2026-10-03 06:11 | 未明确 | 通报 | 未明确 | 待确认 | C | Pilot stabbing heightens Mideast aviation security fears - thetraveler.org |
-| 2026-10-03 05:59 | 未明确 | 通报 | 未明确 | 待确认 | C | AIPAC Is Spending Millions to Elect Friends. It’s Also Making Enemies. - nytimes.com |
-| 2026-10-03 05:05 | US | 通报 | Iran | 待确认 | C | Where does China stand in Iran-US-Israel war? - Daily Sabah |
-| 2026-10-03 04:37 | Israel | 撤离 | Israel | 待确认 | C | Lebanon PM in Nabatieh demands full Israeli withdrawal and one army - theinsightinternational.com |
-| 2026-10-03 03:32 | Israel | 通报 | Israel | 待确认 | C | United Airlines ships war materiel to 'Israel' aboard passenger flights, report says - Roya News |
-| 2026-10-03 02:20 | Israel | 通报 | Israel | 待确认 | C | The Saudi-Israeli War On Yemen’s Resistance: Intelligence Sharing, Civilian Targets & Sectarian Propaganda - mintpressnews.com |
-| 2026-10-03 02:16 | 未明确 | 通报 | Beirut | 待确认 | C | Beirut's new skyline: Flashy apartments pop up despite war and dire economy - thenationalnews.com |
-| 2026-10-03 02:11 | Iran | 通报 | Iran | 待确认 | C | Is Iran's proxy strategy back? - thenationalnews.com |
-| 2026-10-03 02:02 | Israel | 通报 | Iran | 待确认 | C | Trump, China & Iran: Is the Middle East Entering a New Power Struggle? - TV7 Israel News |
-| 2026-10-03 01:47 | US | 通报 | Iran | 待确认 | C | US releases $320 million in military aid for Egypt citing role in Iran war - Roya News |
-| 2026-10-03 01:43 | Iran | 通报 | Tehran | 待确认 | C | Trump talking his own imagination about Iran - Tehran Times |
-| 2026-10-03 01:37 | Iran | 通报 | Tehran | 待确认 | C | Arab monarchies’ capital flows through Kushner firm to wage genocidal wars - Tehran Times |
-| 2026-10-03 01:34 | Iran | 通报 | Iran | 待确认 | C | If North Korea and Iran get together - Daily Tribune |
-| 2026-10-03 01:26 | Iran | 通报 | Iran | 待确认 | C | How a Houthi Blockade in the Red Sea Tightens Iran’s Grip on Global Energy Supplies - EnergyNow.com |
-| 2026-10-03 01:23 | US | 通报 | Iran | 待确认 | C | US and Iran Agree to Deal Halting War That Shook Middle East - EnergyNow |
-| 2026-10-03 01:00 | Iran | 通报 | Iran | 待确认 | C | How Europe’s Terrorism Reports Lost Track of Iran - Algemeiner.com |
-| 2026-10-03 00:39 | 未明确 | 通报 | 未明确 | 待确认 | C | The U.S. Just Dramatically Upped The Ante In The Middle East - The Daily Wire |
-| 2026-10-03 00:36 | US | 通报 | Iran | 待确认 | C | Iran War: U.S. Awards F-22 Pilots for Midnight Hammer as Pentagon Sends 3rd Carrier Towards Middle East - EurAsian Times |
-| 2026-10-03 00:28 | 未明确 | 通报 | 未明确 | 待确认 | C | Lessons From Anniversaries: October 7, Three Years On - Council on Foreign Relations (CFR) |
-| 2026-10-03 00:17 | US | 通报 | Iran | 待确认 | C | US War on Iran, Day 218: Trump Camp Sending 3rd Aircraft Carrier - EA WorldView |
-| 2026-10-03 00:00 | 未明确 | 通报 | 未明确 | 待确认 | C | Is Argentina at war? - Buenos Aires Times |
-| 2026-10-02 23:59 | Israel | 通报 | Israel | 待确认 | C | Israel destroys building in Beirut amid escalating Hezbollah conflict - ABC News - Breaking News, Latest News and Videos |
+| 2026-10-03 21:35 | US | 空袭 | Iran | 待确认 | C | Live Updates: War returns to Iran with Israel, US strikes - Dawn |
+| 2026-10-03 21:02 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: UK-Iranian Man Released On Bail After RAF Fairford Incident; UK Probes Suspected Iran Link, 6 Held in Terror Case - The Sunday Guardian |
+| 2026-10-03 20:52 | US | 通报 | Iran | 待确认 | C | Iran-US war latest: Oil tankers attacked in Strait of Hormuz as Trump aides hold ‘secret’ meeting on Iran - Newswav |
+| 2026-10-03 20:20 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Trump Says Iran ‘Not Doing Well’, Hints At Upcoming US Action As He Keeps Details Of Next Move Secret - The Sunday Guardian |
+| 2026-10-03 19:03 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Loud Explosions Heard In Yemen’s Capital Sanaa amid Rising Middle East Tensions, Report Says - The Sunday Guardian |
+| 2026-10-03 18:57 | US | 通报 | Iran | 待确认 | C | US Israel Iran War Latest News: Iran Official Mocks Trump’s ‘Ready to Fold Up’ Claim, Says ‘You Can Win in Imagination’ - The Sunday Guardian |
+| 2026-10-03 18:27 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Iran Prepares For Potentially Bigger US Bombing Campaign As Washington Builds Up Forces In Middle East; What Happens Next? - The Sunday Guardian |
+| 2026-10-03 18:15 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: IRGC Spokesman Hossein Mohbi Says Trump Should ‘Learn’ From Yemen, Accept Iran’s Conditions After Failing to Achieve US Objectives - The Sunday Guardian |
+| 2026-10-03 18:06 | Israel | 空袭 | Israel | 待确认 | C | Israel targets Hamas figure Ali al-Amoudi in Gaza strike, fate remains unclear - Business Upturn |
+| 2026-10-03 17:36 | US | 通报 | Israel | 待确认 | C | Flydubai attack, UK base arrests: Terror shadow looms as war rages on, US and Israel head for polls - The Indian Express |
+| 2026-10-03 17:23 | US | 空袭 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Gaza Strike Kills 5, Including Women and Child; Residents Recall “Another Terrifying Night” Amid Reported Ceasefire Violations - The Sunday Guardian |
+| 2026-10-03 17:21 | 未明确 | 通报 | 未明确 | 待确认 | C | Tracking U.S., state and county gas prices, in maps and charts. Updated daily. - NBC News |
+| 2026-10-03 17:07 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Iran Security Chief Rejects Trump’s ‘Surrender’ Claim, Says US President’s Statements Don’t Match Reality - The Sunday Guardian |
+| 2026-10-03 16:37 | US | 发射 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Iran Missile Industry ‘Mature’, South Pars Gas Output Rises; Yemen Hunger Crisis Deepens, Trump Rules Out Diesel Export Ban - The Sunday Guardian |
+| 2026-10-03 15:30 | Iran | 通报 | Iran | 待确认 | C | Trump officials hold Camp David talks on Iran war, Yemen conflict - Aaj English TV |
+| 2026-10-03 15:27 | Israel | 空袭 | Israel | 待确认 | C | Israeli military shocks Hamas in Khan Younis; eliminates sniper Tamer Hamaidah in aerial strike - mid-day.com |
+| 2026-10-03 15:00 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Iran Prepares For ‘Major Round Of Fighting’ As Diplomacy Falters, US Moves More Forces To Middle East; What Happens Next? - The Sunday Guardian |
+| 2026-10-03 14:38 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Iran’s South Pars Phase 11 Reaches 1 Billion Cubic Feet Daily Gas Output, Boosting Winter Energy Supplies Amid Regional Tensions - The Sunday Guardian |
+| 2026-10-03 14:30 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Three in Four Yemen Households Go Hungry as Fighting Displaces Tens of Thousands, UN Food Agency Warns - The Sunday Guardian |
+| 2026-10-03 14:21 | 未明确 | 通报 | 未明确 | 待确认 | C | Sanders warns AIPAC spending $233M to target Netanyahu critics - Yeni Şafak English |
+| 2026-10-03 14:19 | 未明确 | 通报 | 未明确 | 待确认 | C | Co-pilot in FlyDubai attack is identified, and other Mideast developments - Audacy |
+| 2026-10-03 13:50 | US | 通报 | 未明确 | 待确认 | C | US targets Hamas Finance Network - Malawi24 |
+| 2026-10-03 13:36 | US | 发射 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Trump-Hegseth Tension Over Iran War Munitions, Patriot Interceptors & Tomahawk Missiles; What We Know About Reported Pentagon Stockpile Crisis - The Sunday Guardian |
+| 2026-10-03 12:53 | Israel | 通报 | Israel | 待确认 | C | Three years, seven fronts and no end in sight: Israel's war grinds on - Ynetnews |
+| 2026-10-03 12:53 | 未明确 | 通报 | 未明确 | 命中 | C | Oil tanker struck by unknown projectile off Oman: UKMTO - Aaj English TV |
+| 2026-10-03 12:49 | US | 通报 | Iran | 命中 | C | Iran-US war latest: Trump gives new reason for starting conflict after threatening to hit Iran ‘very hard’ - Newswav |
+| 2026-10-03 12:39 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: Trump Says Saudi Arabia, Israel ‘Wouldn’t Be Here’ Without Him, Claims They’d Be ‘Wiped Off’ - The Sunday Guardian |
+| 2026-10-03 12:34 | Iran | 通报 | Iran | 待确认 | C | Scoop: Trump's top national security aides meet secretly at Camp David on Iran, Yemen - Axios |
+| 2026-10-03 12:25 | 未明确 | 通报 | Gaza | 待确认 | C | Gaza war heralds era of ‘technologically advanced barbarism’ - BreakingNews.ie |
