@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-10-08 02:20
+更新时间（北京时间）: 2026-10-08 12:13
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
+| 2026-10-08 11:50 | Israel | 通报 | Israel | 命中 | C | Israeli military says it struck 100,000 targets across Middle East since October 2023 - Mid-Day |
+| 2026-10-08 11:16 | Iran | 通报 | Iran | 待确认 | C | Tanker attacked off Qatar as Iran claims route transporting oil through strait of Hormuz will be ‘closed’ - The Guardian |
+| 2026-10-08 10:23 | US | 空袭 | Iran | 待确认 | C | Pentagon orders US military to gear up for Iran strikes; Trump yet to decide dates - The Times of India |
+| 2026-10-08 10:08 | US | 空袭 | Iran | 待确认 | C | US Prepares for Possible Fresh Strikes on Iran: Report - Deccan Chronicle |
+| 2026-10-08 10:04 | US | 通报 | Iran | 待确认 | C | US rejects Iran's claim that Hormuz is closed, says crude moving through - Business Standard |
+| 2026-10-08 09:56 | US | 空袭 | Iran | 待确认 | C | US Military Finalises Iran Strike Preparations As Donald Trump Weighs Pre-Election Timing - LatestLY |
+| 2026-10-08 09:44 | Iran | 空袭 | Iran | 待确认 | C | Trump may order new strike on Iran before midterms: Reports - Anadolu Ajansı |
+| 2026-10-08 09:41 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post |
+| 2026-10-08 09:02 | US | 空袭 | Iran | 待确认 | C | Is Trump planning new strikes on Iran before the US midterms? - Mathrubhumi English |
+| 2026-10-08 09:02 | US | 空袭 | Iran | 待确认 | C | Is Trump planning new strikes on Iran? Pentagon asked to prepare attack options - Mathrubhumi English |
+| 2026-10-08 08:17 | Israel | 发射 | Israel | 待确认 | C | UN peacekeeping force in Lebanon says shots fired at Israeli border post - Al Jazeera |
+| 2026-10-08 08:14 | Israel | 空袭 | Israel | 伤亡 | C | Oct 7 anniversary: Israel strikes Gaza, ‘at least two dead’ - The Daily Telegraph |
+| 2026-10-08 07:56 | Israel | 通报 | Israel | 待确认 | C | Three years after Oct. 7, Israel is stronger and more alone / Opinion - USA Today |
+| 2026-10-08 07:50 | US | 通报 | Israel | 伤亡 | C | The Washington deadline: why Israel must secure permanent military resolution before US political tides shift - Ynetnews |
+| 2026-10-08 07:44 | Iran | 通报 | Iran | 待确认 | C | El-Sayed: Netanyahu Helped Push Trump Into Iran War - Newsmax |
+| 2026-10-08 07:22 | Iran | 空袭 | Iran | 待确认 | C | Military ordered to be ready for possible Iran strikes as Trump weighs timing - Axios |
+| 2026-10-08 06:46 | US | 通报 | Iran | 待确认 | C | Iran says response to US war-ending proposals will go via mediators - TRT World |
+| 2026-10-08 06:17 | US | 空袭 | Iran | 待确认 | C | Market Analysts React to US-Israel Strikes on Iran - EnergyNow |
+| 2026-10-08 06:13 | US | 通报 | Tehran | 命中 | C | US Says it Struck Iranian Military Sites, Tehran Responds with Air Base Attack - EnergyNow.com |
+| 2026-10-08 05:53 | US | 拦截 | 未明确 | 待确认 | C | Gulf State Security Runs on US Air Defense, Not Pacts - The National Interest |
+| 2026-10-08 05:44 | US | 通报 | Iran | 待确认 | C | El-Sayed says Netanyahu pushed US into Iran war - The Hill |
+| 2026-10-08 05:13 | US | 通报 | Iran | 待确认 | C | Iran says response to US proposals aimed at ending war will be delivered through mediators - Anadolu Ajansı |
+| 2026-10-08 05:11 | 未明确 | 通报 | Gaza | 待确认 | C | Anniversary of Gaza war marks 3 years of pain for Canadians with ties to Middle East - thecanadianpressnews.ca |
+| 2026-10-08 04:30 | Israel | 通报 | Iran | 待确认 | C | The New York Times. . As the U.S.-Israeli war with Iran continues, it’s being felt in a wider region. Eric Schmitt, our national security correspondent, explains how the conflict is reaching U.S. bases and why the U.S. is pulling back its military presence in some lo - Facebook |
+| 2026-10-08 04:28 | Israel | 通报 | Iran | 待确认 | C | Hezbollah got $200 million from Iran to help displaced Lebanese, sources say - The Times of Israel |
+| 2026-10-08 04:09 | US | 通报 | Israel | 待确认 | C | The US wants to end a war Israel cannot afford to - www.israelhayom.com |
+| 2026-10-08 04:00 | Israel | 通报 | Israel | 待确认 | C | Israelis mourn Oct. 7 attack as Palestinians in Gaza languish in ruins of the war it sparked - AP News |
+| 2026-10-08 03:38 | US | 通报 | Iran | 待确认 | C | Iran sends $200 million to Hezbollah for Lebanon war aid amid US sanctions - Moneycontrol.com |
+| 2026-10-08 03:27 | 未明确 | 通报 | 未明确 | 命中 | C | Russia says forces struck ship carrying cargo for Ukrainian military - Devdiscourse |
+| 2026-10-08 03:27 | 未明确 | 通报 | Gaza | 待确认 | C | Is the Gaza War Really Over? Difficult Questions Linger 3 Years After Oct. 7 / World News / U.S. News - U.S. News & World Report |
+| 2026-10-08 03:20 | 未明确 | 通报 | 未明确 | 待确认 | C | Trump expected to award science medal to SpaceX's Elon Musk, Fox News reports - Devdiscourse |
+| 2026-10-08 03:10 | 未明确 | 通报 | 未明确 | 待确认 | C | EPA says will soon act to rescind Biden policy targeting methane leaks - Devdiscourse |
+| 2026-10-08 03:10 | US | 通报 | Iran | 待确认 | C | Iran transfers $200 million to Hezbollah despite tightening US sanctions - Ynetnews |
+| 2026-10-08 02:55 | Israel | 通报 | Lebanon | 待确认 | C | IDF shifts southern Lebanon forces toward ‘forward-defense’ posture as troops prepare for winter - The Long War Journal |
+| 2026-10-08 02:44 | Israel | 通报 | Israel | 待确认 | C | Three Years After October 7: Israel Honors the Victims of the Hamas Attack - bluewin.ch |
+| 2026-10-08 02:37 | Israel | 空袭 | Iran | 待确认 | C | Israel Reportedly Prepares Strikes On Iran-Backed Militias In Iraq - Sada Elbalad English |
+| 2026-10-08 02:22 | Israel | 空袭 | Israel | 待确认 | C | Israel strikes Gaza on war anniversary - Oman Observer |
 | 2026-10-08 01:49 | Iran | 通报 | Iran | 待确认 | C | Iran sends Hezbollah $200 million to aid displaced Lebanese: Report - The Times of India |
-| 2026-10-08 00:52 | Israel | 通报 | Israel | 命中 | C | Israeli military says it struck about 100,000 targets across region in 3 years - Arab News |
-| 2026-10-08 00:50 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post |
-| 2026-10-08 00:49 | 未明确 | 通报 | 未明确 | 待确认 | C | EXCLUSIVE: The Chareidi Intelligence Behind the Nasrallah Assassination - Belaaz |
-| 2026-10-07 23:43 | US | 发射 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Israel Warns Iran May Launch Missiles Amid US Pressure, Strait of Hormuz Blockade & Worsening Economic Crisis; Check Latest Update - The Sunday Guardian |
-| 2026-10-07 23:34 | Israel | 通报 | Israel | 待确认 | C | Three years after October 7: What changed for Israel, the Middle East and Russia? - Big News Network.com |
-| 2026-10-07 23:26 | Iran | 通报 | Iran | 待确认 | C | War-torn Iran sends $200 million to Hezbollah as Lebanon reels from devastation - India Today |
-| 2026-10-07 23:22 | Iran | 通报 | Iran | 设施受损 | C | U.S. Reports 81 Aircraft Lost or Damaged in Iran Operations - Legis1 |
-| 2026-10-07 23:14 | 未明确 | 通报 | Gaza | 待确认 | C | Anniversary of Gaza war marks 3 years of pain for Canadians with ties to Middle East - thecanadianpressnews.ca |
-| 2026-10-07 23:10 | Iran | 通报 | Iran | 待确认 | C | Lebanon’s Hezbollah gets $200 million from Iran to help displaced, sources say - MyJoyOnline |
-| 2026-10-07 23:08 | US | 通报 | Iran | 设施受损 | C | READ: 81 US aircraft lost or damaged during Iran war, congressional document shows - Dawn |
-| 2026-10-07 23:07 | 未明确 | 通报 | 未明确 | 待确认 | C | UPDATE 1-Pharmaceutical lobby sues Trump administration over most favored nation pricing - Devdiscourse |
-| 2026-10-07 23:01 | Israel | 通报 | Iran | 待确认 | C | Iran at the Breaking Point: Is Victory Finally Within Reach? - TV7 Israel News |
-| 2026-10-07 22:51 | Israel | 通报 | Israel | 待确认 | C | Israelis mourn on 3rd anniversary of Oct. 7 attacks as Palestinians grapple with war it sparked - CBC |
-| 2026-10-07 22:29 | 未明确 | 通报 | Gaza | 伤亡 | C | 74,250 Palestinians in Gaza killed since Oct. 7, 2023; U.S. trade deficit top $100 billion; Kenya confirms first Ebola case - Drop Site News |
-| 2026-10-07 22:28 | 未明确 | 通报 | Tel Aviv | 待确认 | C | Tel Aviv Shares Decline Sharply on Second Anniversary of 7 October Attacks - Business Upturn |
-| 2026-10-07 22:21 | Israel | 空袭 | Israel | 伤亡 | C | Israel strikes Gaza on October 7 anniversary, three dead - www.standardmedia.co.ke |
-| 2026-10-07 22:21 | 未明确 | 通报 | Yemen | 待确认 | C | Saudi forces made no progress in al-Jawf amid Yemeni operations: Saree - Howl.link |
-| 2026-10-07 22:18 | Iran | 通报 | Iran | 待确认 | C | EXCLUSIVE-Lebanon's Hezbollah gets $200 million from Iran to help displaced, sources say - Devdiscourse |
-| 2026-10-07 22:10 | Israel | 通报 | Israel | 待确认 | C | Israelis mourn Oct. 7 attack as Palestinians in Gaza languish in ruins of the war it sparked - Los Angeles Times |
-| 2026-10-07 21:52 | US | 通报 | 未明确 | 待确认 | C | Six US lawmakers demand release of Dr. Hussam Abu Safiya - Roya News |
-| 2026-10-07 21:45 | Israel | 空袭 | Iran | 待确认 | C | "Iran will strike before October 27" – Israel is no longer invincible, trembles at the new balance of power in the Middle East - Bankingnews |
-| 2026-10-07 21:39 | US | 通报 | Iran | 设施受损 | C | US Iran war losses: 81 aircraft damaged or lost as equipment bill runs into billions - The Financial Express |
-| 2026-10-07 21:38 | US | 通报 | Iran | 设施受损 | C | 81 US aircraft lost or damaged during Iran war, congressional document shows - Anadolu Ajansı |
-| 2026-10-07 21:19 | Israel | 通报 | Israel | 待确认 | C | October 7, three years on: A Hamas attack that has reshaped Israel, Gaza and West Asia - Firstpost |
-| 2026-10-07 21:13 | Israel | 通报 | Israel | 待确认 | C | Three years later, the wounds of Oct. 7 remain open across Israel and Gaza - Scripps News |
-| 2026-10-07 21:07 | US | 通报 | Tehran | 待确认 | C | US-Israel-Iran War Latest Live News: Iran Says It Will Never Give Up Uranium Enrichment Right; Vance Demands ‘Meaningful’ Cut, Rubio Says Tehran Lost Control of Strait of Hormuz - The Sunday Guardian |
-| 2026-10-07 20:57 | Israel | 通报 | Iran | 待确认 | C | Iran military chief says Oct. 7 attack accelerated 'Israel’s decline' - Türkiye Today |
-| 2026-10-07 20:51 | Israel | 通报 | Israel | 待确认 | C | Israelis mourn Oct. 7 attack as Gazans live amid ruins of war it sparked - Spectrum News |
-| 2026-10-07 20:18 | Israel | 通报 | Israel | 待确认 | C | Israel Marks 3 Years Since Hamas Oct. 7 Attack - Newsmax |
-| 2026-10-07 20:11 | US | 通报 | Israel | 待确认 | C | Former envoy: Israel, more than US, seeks to drag UAE into Yemen conflict - ISNA News Agency |
-| 2026-10-07 20:11 | 未明确 | 通报 | 未明确 | 待确认 | C | Three Years After Oct. 7: Operation Al-Aqsa Flood Marks Dawn of a New Era in the Middle East - ISNA News Agency |
-| 2026-10-07 20:06 | US | 空袭 | Israel | 待确认 | C | US lifts Iraq strike limits for Israel after pullout - JFeed |
-| 2026-10-07 19:56 | Iran | 通报 | Iran | 待确认 | C | Opinion / Are Iran's 'Proxies' Rising Again? Inside Hamas, Hezbollah's Strange Resurgence - NDTV |
-| 2026-10-07 19:44 | US | 通报 | Israel | 伤亡 | C | The Washington deadline: why Israel must secure permanent military resolution before US political tides shift - Ynetnews |
-| 2026-10-07 19:19 | Israel | 通报 | Israel | 待确认 | C | Three Years After October 7: What Comes Next In The Israel-Palestine Conflict? - ETV Bharat |
-| 2026-10-07 19:03 | Iran | 通报 | Iran | 待确认 | C | 1 p.m. recap: 3 years since Oct. 7; new Houthi attacks on Riyadh and Aden; Rubio says Iran 'lost control' of Hormuz - L'Orient Today |
-| 2026-10-07 19:01 | US | 通报 | Iran | 待确认 | C | US sets new demands for Iran deal: What are they? - Al Jazeera |
-| 2026-10-07 18:53 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Can Iran War Hurt Trump And Republicans In US Midterms? Rising Energy Costs, Low Approval And Democratic Gains Raise Election Stakes - The Sunday Guardian |
-| 2026-10-07 18:40 | Israel | 通报 | Israel | 待确认 | C | Israelis mourn on the anniversary of the Oct. 7 attack as Palestinians live in devastated Gaza - The Tribune-Democrat |
+| 2026-10-08 01:42 | Israel | 通报 | Israel | 待确认 | C | Israelis mourn on October 7 anniversary as Palestinians live in devastated Gaza - London Now |
+| 2026-10-08 01:38 | Iran | 通报 | Iran | 待确认 | C | Iran sends Hezbollah $200M for Lebanon war aid - Daily Sabah |
