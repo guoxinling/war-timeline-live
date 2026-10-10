@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-10-10 12:03
+更新时间（北京时间）: 2026-10-11 00:51
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-10-10 11:31 | US | 通报 | Iran | 待确认 | C | Iranian women take part in military training as tensions with US, Israel persist - Awani International |
-| 2026-10-10 10:22 | 未明确 | 通报 | 未明确 | 待确认 | C | Tracking U.S., state and county gas prices, in maps and charts. Updated daily. - NBC News |
-| 2026-10-10 09:54 | US | 空袭 | Iran | 待确认 | C | Live Updates: War returns to Iran with Israel, US strikes - Dawn |
-| 2026-10-10 09:27 | US | 通报 | Iran | 待确认 | C | US Military Reroutes 133 Ships to Enforce Blockade on Iran - جريدة القدس |
-| 2026-10-10 09:23 | 未明确 | 通报 | 未明确 | 待确认 | C | Command decisions - PressReader |
-| 2026-10-10 09:00 | 未明确 | 通报 | 未明确 | 待确认 | C | Cal Thomas - Lessons from the death of Jim Bakker - The Crescent-News |
-| 2026-10-10 08:46 | US | 通报 | Iran | 待确认 | C | ISRAELIRANWAR. USA military aircraft return to the Middle East. Israel, the United States, and Iran ready to resume arms. Gaza and Lebanon under attack. The Houthis repel a pro-Saudi offensive at Bab el-Mandeb. - agc communication news |
-| 2026-10-10 08:28 | US | 通报 | Iran | 待确认 | C | Pakistan working to narrow differences in Iran-US conflict: ISPR - Daily Times |
-| 2026-10-10 08:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post |
-| 2026-10-10 07:44 | Israel | 空袭 | Iran | 待确认 | C | IDF says Lebanon strike targeted Syrian operative who was plotting attacks on behalf of Iran - The Times of Israel |
-| 2026-10-10 07:30 | US | 通报 | Iran | 待确认 | C | Iran-linked actors used US AI for fake journalism, military targeting - Iran International |
-| 2026-10-10 06:31 | 未明确 | 空袭 | Syria | 待确认 | C | Shafaq News..Strike targets Syrian national near Syrian-Lebanese border - شفق نيوز |
-| 2026-10-10 06:22 | US | 通报 | 未明确 | 待确认 | C | Snippets from IRGC’s ‘Open Letter to American People’ - Workers World |
-| 2026-10-10 06:07 | Iran | 通报 | Iran | 待确认 | C | Iran Faces Security Attacks as Regional Network Weakens - SuaraGarut.ID |
-| 2026-10-10 05:34 | Israel | 通报 | Israel | 待确认 | C | A Year into Ceasefire, Israel Wages a Scaled-Down War in Gaza - شبكة تواصل الإخبارية |
-| 2026-10-10 04:59 | Iran | 空袭 | Iran | 待确认 | C | Trump pauses Iran strike before midterms: what happens next? - Foundation for Defense of Democracies |
-| 2026-10-10 04:57 | Israel | 通报 | Israel | 待确认 | C | Israel’s Scorn of Nobel Peace Prize Laureate Highlights its Combative Relationship with UN Bodies - شبكة تواصل الإخبارية |
-| 2026-10-10 04:51 | Iran | 空袭 | Iran | 待确认 | C | 'Three golden weeks': Trump’s no-strike pledge fuels calls in Iran to act first - Iran International |
-| 2026-10-10 04:40 | Israel | 通报 | Iran | 伤亡 | C | Lebanon Says 6 Wounded in Attack That Israel Says Targeted Pro-Iran Syrian Operative - شبكة تواصل الإخبارية |
-| 2026-10-10 04:17 | US | 通报 | Israel | 待确认 | C | Israel emerges as flashpoint in key Senate races as Dems face questions over US alliance - WBFF |
-| 2026-10-10 04:09 | Iran | 通报 | Iran | 待确认 | C | How Far Have the U.S. and Iran Got Towards Ending the Iran War? - EnergyNow |
-| 2026-10-10 04:03 | Israel | 空袭 | Israel | 待确认 | C | Israeli drone strike wounds six in northeast Lebanon near Syrian border - Middle East Eye |
-| 2026-10-10 03:48 | Israel | 通报 | Israel | 待确认 | C | Has the war in Gaza weakened Israel? - DW.com |
-| 2026-10-10 03:29 | Israel | 空袭 | Iran | 待确认 | C | Clock Ticking On Iran Strike: U.S. Briefing Puts Israeli Elections In The Line Of Fire - Tampa Free Press |
-| 2026-10-10 03:29 | US | 通报 | Tehran | 命中 | C | US Says it Struck Iranian Military Sites, Tehran Responds with Air Base Attack - EnergyNow.com |
-| 2026-10-10 03:06 | US | 空袭 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Saudi Arabia Urges UN Action on Yemen Crisis; Check Houthi Attacks, Riyadh Airport Strike and Red Sea Security Concerns Amid Iran War - The Sunday Guardian |
-| 2026-10-10 03:01 | Israel | 通报 | Israel | 待确认 | C | October 7 Taught Israel a Brutal Lesson; Egypt Is the Next Test - Middle East Forum |
-| 2026-10-10 02:46 | 未明确 | 通报 | 未明确 | 伤亡 | C | Attacks on Riyadh’s international airport killed 3 Saudi citizens, and other Mideast developments - FOX4KC.com |
-| 2026-10-10 02:23 | Israel | 空袭 | Israel | 待确认 | C | Israel strikes Syrian man near Lebanese border who plotted attacks against Israel, says IDF - The Times of Israel |
-| 2026-10-10 02:16 | US | 通报 | Iran | 命中 | C | Stock Market Crash: Sensex, Nifty Hit 1-Year Low; How US-Israel-Iran War Wiped Out Rs 4,753,333 Crore - Goodreturns |
-| 2026-10-10 02:14 | Iran | 通报 | Iran | 待确认 | C | Lebanese Aviation Ban Will Not Close Iran-Hezbollah Funding Network - VOI.ID |
-| 2026-10-10 02:11 | US | 通报 | Iran | 待确认 | C | Brace for US$200 Oil if Iran War Lasts Until June, Macquarie Warns - EnergyNow |
-| 2026-10-10 02:03 | Israel | 空袭 | Iran | 待确认 | C | Trump rules out Iran strikes before vote; EU weighs Lebanon security mission TV7 Israel News 09 Oct. - TV7 Israel News |
-| 2026-10-10 01:51 | Israel | 通报 | Iran | 待确认 | C | Iran's Gulf attacks are an 'own goal' - www.israelhayom.com |
-| 2026-10-10 01:44 | 未明确 | 通报 | 未明确 | 待确认 | C | High-Stakes UN General Assembly Closes After Week of Tense Crises Talks - Vision Times |
-| 2026-10-10 01:29 | US | 通报 | Iran | 待确认 | C | Iran Threatens Painful Response if US Renews Attacks - EnergyNow.com |
-| 2026-10-10 01:20 | Iran | 通报 | Iran | 待确认 | C | Trump: U.S. won't attack Iran before midterms - Axios |
-| 2026-10-10 01:09 | Iran | 通报 | Iran | 待确认 | C | Hezbollah receives $200 million from Iran for displaced Lebanese - Aaj English TV |
-| 2026-10-10 01:04 | Israel | 通报 | Israel | 伤亡 | C | Israeli Officer Killed in Humvee Rollover in Southern Lebanon as Hezbollah Disarmament Stalls - Algemeiner.com |
-| 2026-10-10 01:03 | 未明确 | 通报 | Tel Aviv | 待确认 | C | Tel Aviv's TA-125 Inches Lower at the Close - Business Upturn |
+| 2026-10-11 00:25 | US | 发射 | Iran | 待确认 | C | US reportedly urged ‘Israel’ to launch unilateral attack on Iran, 'Israeli' media says - Roya News |
+| 2026-10-11 00:16 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Kuwait Airways Cancels Riyadh Flights as Regional Tensions Disrupt Air Travel and Escalating Gulf Security Concerns - The Sunday Guardian |
+| 2026-10-10 23:52 | 未明确 | 通报 | 未明确 | 待确认 | C | Tracking U.S., state and county gas prices, in maps and charts. Updated daily. - NBC News |
+| 2026-10-10 23:51 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: ‘More US Blood and Treasure’ – Iran’s Araghchi Accuses Netanyahu of Seeking Political Survival Amid Escalating Tensions - The Sunday Guardian |
+| 2026-10-10 23:35 | Iran | 空袭 | Iran | 伤亡 | C | Live - Dozens wounded in Riyadh airport strike, Western nations issue warnings - Iran International |
+| 2026-10-10 23:25 | Houthis | 空袭 | 未明确 | 待确认 | C | Day 225 / Houthi strike on Riyadh airport kills three Saudis - Roya News |
+| 2026-10-10 23:01 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Saudi Arabia’s King Khalid International Airport Issues Travel Alert t as Saudi Arabia and Oman Hold Diplomatic Talks for Regional De-escalation - The Sunday Guardian |
+| 2026-10-10 22:57 | 未明确 | 通报 | 未明确 | 伤亡 | C | 4.5 Million People Killed Since 2001, Mostly In Muslim Countries – OpEd - Eurasia Review |
+| 2026-10-10 22:54 | Iran | 通报 | Iran | 待确认 | C | Shafaq News..How Iran’s ‘unity of fronts’ strategy is changing across the Middle East - شفق نيوز |
+| 2026-10-10 22:30 | Houthis | 通报 | 未明确 | 待确认 | C | Riyadh Airport Attack Kills 3 as Houthis Declare Saudi Airspace War Zone - La Voce di New York |
+| 2026-10-10 22:27 | Israel | 通报 | Israel | 待确认 | C | Al-Haddad Predicted an 80-Day Israeli War… Saad Called for It to End - شبكة تواصل الإخبارية |
+| 2026-10-10 22:10 | Israel | 发射 | Iran | 待确认 | C | Iran said still able to produce missiles and drones, is being armed by Russia - The Times of Israel |
+| 2026-10-10 21:21 | Iran | 通报 | Tehran | 待确认 | C | Tehran mural portrays Netanyahu as isolated at UN - Roya News |
+| 2026-10-10 21:06 | US | 空袭 | Iran | 待确认 | C | Report: US Pressed Israel To Strike Iran Ahead Of Elections - i24NEWS |
+| 2026-10-10 21:05 | US | 空袭 | Lebanon | 待确认 | C | Drone strike in Sudan kills 40, Lebanon welcomes US flight ban lift, and other Mideast developments - Jacksonville Journal-Courier |
+| 2026-10-10 21:02 | 未明确 | 通报 | Tel Aviv | 待确认 | C | Why did former ICC judge Navi Pillay’s Nobel Peace Prize provoke fury in Tel Aviv and Washington - PressTV |
+| 2026-10-10 21:00 | US | 通报 | Iran | 待确认 | C | US pushed for lone Israeli Iran operation as midterm elections loom - The Jerusalem Post |
+| 2026-10-10 20:35 | Israel | 发射 | Israel | 待确认 | C | Israeli Regime Drone Attack Wounds Six in Lebanon near Syrian Border - تسنیم |
+| 2026-10-10 20:17 | 未明确 | 通报 | 未明确 | 待确认 | C | Remembering October 7 - DCReport.org |
+| 2026-10-10 20:14 | US | 通报 | Gaza | 待确认 | C | A US-brokered ceasefire was supposed to end the war in Gaza. A year later, progress has stalled - myMotherLode.com |
+| 2026-10-10 19:48 | 未明确 | 通报 | 未明确 | 待确认 | C | Palestine welcomes Navi Pillay’s 2026 Nobel Peace Prize - Muslim Network TV |
+| 2026-10-10 19:48 | Houthis | 通报 | 未明确 | 待确认 | C | Riyadh airport resumes normal operations after Houthi attacks - Muslim Network TV |
+| 2026-10-10 19:43 | US | 空袭 | Iran | 设施受损 | C | US-Israel-Iran War Latest Live News: EU Chief Ursula von der Leyen Calls on Iran-Backed Houthis to Stop ‘Violent Acts’ After Riyadh Airport Attacks, Says Civilian Infrastructure Strikes ‘Unacceptable’ - The Sunday Guardian |
+| 2026-10-10 19:42 | US | 发射 | Iran | 待确认 | C | Iran can still produce missiles despite US-Israeli strikes - The Jerusalem Post |
+| 2026-10-10 19:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post |
+| 2026-10-10 18:49 | Israel | 发射 | Iran | 待确认 | C | Khamenei's Assassination Backfired? Israeli Leader Says Killing Iran Supreme Leader Was 'Mistake' - The Daily Jagran |
+| 2026-10-10 18:18 | US | 发射 | Iran | 待确认 | C | Iran sustains missile production capacity, drone factories amid US war - Howl.Link |
+| 2026-10-10 18:12 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Vladimir Putin Conveys Iran President Masoud Pezeshkian’s Position on Ending War to Donald Trump, Check Kremlin’s Latest Statement on US-Iran Peace Talks - The Sunday Guardian |
+| 2026-10-10 18:03 | US | 通报 | Lebanon | 待确认 | C | Lebanon welcomes Trump's move to lift 41-year US flight ban, and other Mideast developments - Midland Daily News |
+| 2026-10-10 17:54 | US | 通报 | Tehran | 待确认 | C | US-Israel-Iran War Live News: Iran’s Crisis Management Chief Calls for Fuel Storage Tanks to be Moved Out of Tehran to Protect Civilians from US-Israeli Attacks - The Sunday Guardian |
+| 2026-10-10 17:44 | US | 通报 | Tehran | 待确认 | C | Putin conveyed to Trump Tehran’s position on ending US-Iran war, Kremlin says - The Times of Israel |
+| 2026-10-10 17:40 | Israel | 通报 | Israel | 待确认 | C | Why Was “Israel” Unable to Bring the War Against Hezbollah to a Decisive Conclusion? - اسلام تايمز |
+| 2026-10-10 17:34 | Iran | 通报 | Iran | 待确认 | C | Iran detains football coach over child sexual abuse allegations - Iran International |
+| 2026-10-10 17:30 | US | 通报 | Iran | 待确认 | C | Decoding the Threats: Iran and the United States’ Strategic Options - نورنیوز |
+| 2026-10-10 17:07 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Trump Says Iran War Could End Quickly, Yemen Offensive Intensifies, Strait of Hormuz Shipping Risks Persist - The Sunday Guardian |
+| 2026-10-10 17:03 | 未明确 | 通报 | 未明确 | 待确认 | C | Ossoff and Collins spar over Trump and extremism - Savannah Morning News |
+| 2026-10-10 16:56 | US | 通报 | Iran | 待确认 | C | The US signals a compromise with Iran, but three major sticking points remain. - Vietnam.vn |
+| 2026-10-10 16:52 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: ‘Assassinating Ali Khamenei was Mistake’, Says Yair Golan, Israeli Opposition Political Leader of Democrats Party - The Sunday Guardian |
+| 2026-10-10 16:30 | Israel | 通报 | Iran | 待确认 | C | Yair Golan on Iran War / Khamenei Killing Criticism / Netanyahu / Israel Iran Conflict - Aaj English TV |
+| 2026-10-10 16:18 | 未明确 | 通报 | Gaza | 待确认 | C | Gaza ceasefire ‘exists only on paper,’ say over 100 international organizations - PressTV |
