@@ -1,48 +1,44 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-10-12 01:14
+更新时间（北京时间）: 2026-10-12 12:02
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-10-12 00:51 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post |
+| 2026-10-12 11:30 | Hezbollah | 通报 | 未明确 | 待确认 | C | The Pager Operation and the Illusion That Hezbollah Is Finished - Frontier India |
+| 2026-10-12 11:12 | 未明确 | 通报 | 未明确 | 待确认 | C | Tracking U.S., state and county gas prices, in maps and charts. Updated daily. - NBC News |
+| 2026-10-12 11:00 | US | 通报 | 未明确 | 待确认 | C | Opinion / What American Jewish groups got wrong on Mamdani and October 7 - Haaretz |
+| 2026-10-12 10:51 | US | 通报 | Iran | 待确认 | C | Iran accuses CENTCOM chief of running oil smuggling operations in Strait of Hormuz - Anadolu Ajansı |
+| 2026-10-12 09:51 | Iran | 通报 | Iran | 命中 | C | Iran’s Revolutionary Guard Navy says oil tanker struck mine in Strait of Hormuz - The Malaysian Reserve |
+| 2026-10-12 09:22 | Israel | 通报 | Israel | 伤亡 | C | Two killed in southern Lebanon olive harvest by 'Israel' - Roya News |
+| 2026-10-12 09:18 | Houthis | 通报 | 未明确 | 命中 | C | Riyadh airport struck day after 12 killed and 300 injured in Houthi attack at same hub - AOL.co.uk |
+| 2026-10-12 09:10 | Iran | 通报 | Iran | 待确认 | C | Iran's moment of opportunity - The Korea Times |
+| 2026-10-12 08:57 | Iran | 通报 | Iran | 待确认 | C | Iran’s FM urges diplomacy in call with Saudi counterpart - Al Jazeera |
+| 2026-10-12 08:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post |
+| 2026-10-12 07:56 | 未明确 | 通报 | 未明确 | 待确认 | C | Trump claims Russia-Ukraine ceasefire brokered - Global News |
+| 2026-10-12 07:29 | Iran | 通报 | Iran | 待确认 | C | Hormuz attacks intensify as efforts to end war on Iran stall - www.victoriannews.com.au |
+| 2026-10-12 06:46 | US | 空袭 | Iran | 待确认 | C | Oil Prices Rise as US, Iran Trade Strikes, Israel Moves Further Into Lebanon - EnergyNow.com |
+| 2026-10-12 06:07 | US | 通报 | Iran | 待确认 | C | Trump Says US Navy Acting ‘Like Pirates’ to Carry Out Naval Blockade of Iranian Ports - EnergyNow.com |
+| 2026-10-12 05:43 | Iran | 通报 | Iran | 待确认 | C | Iran calls latest U.S. proposal to end war 'insufficient' as Netanyahu's corruption trial resumes - PBS |
+| 2026-10-12 04:50 | Israel | 通报 | Israel | 伤亡 | C | Two killed near Israeli-occupied area in south Lebanon - Al Jazeera |
+| 2026-10-12 04:48 | US | 空袭 | Israel | 待确认 | C | US explores Israeli strikes on Yemen's Houthis; IDF chief warns of election delay - Ynetnews |
+| 2026-10-12 04:34 | US | 通报 | Iran | 待确认 | C | Mojtaba Khamenei defies ‘malicious’ attacks as US Army zeroes in on Iran’s 350,000 troops - Fox News |
+| 2026-10-12 04:27 | Israel | 空袭 | Israel | 待确认 | C | Houthis threaten more Saudi airport attacks after strike kills 12 in Riyadh - World Israel News |
+| 2026-10-12 04:10 | Israel | 通报 | Israel | 待确认 | C | Flydubai hero calls for probe into flight attendants he suspects aided attacker - World Israel News |
+| 2026-10-12 04:00 | 未明确 | 通报 | Gaza | 待确认 | C | The forgotten war in Gaza - Ceylon Daily News |
+| 2026-10-12 03:05 | US | 通报 | Jerusalem | 待确认 | C | Former Harris advisor warns US-Israel ties may never recover from Gaza war - The Jerusalem Post |
+| 2026-10-12 02:55 | US | 通报 | Iran | 待确认 | C | 'Insufficent': Iranian regime rejects US response to conditions set to reopen Strait of Hormuz - The Jerusalem Post |
+| 2026-10-12 02:36 | Israel | 通报 | Israel | 待确认 | C | WATCH: How Israel finally cornered former Hezbollah leader Hassan Nasrallah in his bunker - World Israel News |
+| 2026-10-12 02:36 | US | 空袭 | Iran | 待确认 | C | US tankers to Europe as Israel prepares for Iran strike - JFeed |
+| 2026-10-12 02:29 | Israel | 通报 | Israel | 伤亡 | C | 2 killed near Israeli-occupied zone in south Lebanon: official media - 24 News HD |
+| 2026-10-12 02:24 | Israel | 通报 | Tehran | 待确认 | C | Gaza protests fill Europe and Washington three years into Israel’s war - Tehran Times |
+| 2026-10-12 02:16 | Iran | 通报 | Iran | 待确认 | C | No signed Hormuz deal expected yet from Oman meeting on Monday, Iranian official says - ARYnews.tv |
+| 2026-10-12 01:56 | US | 空袭 | Iran | 待确认 | C | Iran warns of lasting environmental damage from US-Israeli strikes as tensions escalate - Pakistan Today |
+| 2026-10-12 01:45 | Israel | 通报 | Iran | 待确认 | C | Netanyahu convenes security officials amid concerns of Iran escalation - The Times of Israel |
+| 2026-10-12 01:42 | 未明确 | 通报 | 未明确 | 待确认 | C | Trump’s Middle East war has spiralled beyond America’s control - The Independent |
+| 2026-10-12 01:24 | US | 通报 | Iran | 待确认 | C | US forces disable cargo ship breaching Iran blockade in Gulf of Oman - Yeni Şafak English |
+| 2026-10-12 00:38 | Israel | 通报 | Iran | 待确认 | C | Israel Awaits Iranian Mistake for Third Round of War - Daily Beirut |
+| 2026-10-12 00:19 | US | 通报 | Iran | 待确认 | C | Latest Status of US and Israeli Threats Against Iran - WANA News Agency |
 | 2026-10-12 00:15 | 未明确 | 通报 | 未明确 | 命中 | C | Passenger terminal at Riyadh airport struck again, day after 12 were killed - The Tribune-Democrat |
 | 2026-10-12 00:14 | US | 空袭 | Iran | 命中 | C | US-Israel-Iran War Latest Live News: Fresh ‘Unidentified Projectile’ Strike Hits Riyadh Airport Terminal 4 After Attack Killed 12, Injured 309 – Airport Closure and Flight Disruptions Continue - The Sunday Guardian |
-| 2026-10-11 23:59 | Israel | 通报 | Iran | 待确认 | C | Israeli army ’warning against attacking Iran’ before election - The New Arab |
-| 2026-10-11 23:34 | 未明确 | 通报 | 未明确 | 待确认 | C | Tracking U.S., state and county gas prices, in maps and charts. Updated daily. - NBC News |
-| 2026-10-11 23:06 | Iran | 发射 | Iran | 待确认 | C | Rav Ben Artzi: Don't wait for Iran's severe missile attack - JFeed |
-| 2026-10-11 22:54 | Israel | 通报 | Israel | 伤亡 | C | Two killed during olive harvest in south Lebanon — official media - The Times of Israel |
-| 2026-10-11 22:24 | US | 通报 | Iran | 待确认 | C | Iran says environmental damage from US-Israeli attacks 'silent victim of war' - Middle East Eye |
-| 2026-10-11 22:05 | Iran | 通报 | Iran | 待确认 | C | Hormuz attacks intensify as efforts to end war on Iran stall - Al Jazeera |
-| 2026-10-11 21:51 | Israel | 通报 | Israel | 待确认 | C | Netanyahu evades responsibility on Qatar and Oct. 7 - www.israelhayom.com |
-| 2026-10-11 21:29 | US | 通报 | Iran | 伤亡 | C | Pentagon raises US-Iran war toll to 21 killed, over 800 wounded - The New Arab |
-| 2026-10-11 21:22 | US | 通报 | Iran | 待确认 | C | US military disables cargo ship attempting to breach Iran blockade - Daily Times |
-| 2026-10-11 20:58 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Iran President Masoud Pezeshkian, Oman Sultan Haitham bin Tariq Discuss Regional Peace & Stability In Phone Call; Check Key Details - The Sunday Guardian |
-| 2026-10-11 20:30 | Israel | 通报 | Jerusalem | 待确认 | C | How Israel's pager operation shattered Nasrallah’s aura of invincibility - opinion - The Jerusalem Post |
-| 2026-10-11 19:42 | US | 通报 | Iran | 待确认 | C | Latest Status of US and Israeli Threats Against Iran - WANA News Agency |
-| 2026-10-11 19:38 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: ‘Complete Solidarity With Ukraine’ – UK PM Pledges Tougher Russia Sanctions After Call With Zelensky; Check Latest Update - The Sunday Guardian |
-| 2026-10-11 19:33 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Houthi Forces Issue Saudi Airport Warning Except Mecca and Medina After Riyadh Attack Reportedly Kills 12 and Injures Over 300 - The Sunday Guardian |
-| 2026-10-11 18:34 | Israel | 通报 | Iran | 待确认 | C | Iran Remains Active in Southern Syria: Local Networks and an Ongoing Threat to Israel - Alma Research and Education Center |
-| 2026-10-11 18:33 | US | 通报 | Israel | 待确认 | C | On US soil: Far-left summer camp praises Hamas, Hezbollah - World Israel News |
-| 2026-10-11 18:23 | Hezbollah | 通报 | 未明确 | 待确认 | C | Al-Aqsa Flood at 3: Hezbollah’s ironclad support for Palestine and martyrdom of top leaders, commanders - PressTV |
-| 2026-10-11 18:22 | Israel | 通报 | Israel | 待确认 | C | Inside Israel’s plot to kill Hezbollah chief as Netanyahu warned Biden aide would ‘jump out of his skin’ - WWBL |
-| 2026-10-11 18:22 | US | 通报 | Israel | 待确认 | C | Pro-Palestinian protesters demand US arms embargo on Israel - Minute Mirror |
-| 2026-10-11 18:14 | Houthis | 发射 | 未明确 | 伤亡 | C | Saudi Arabia extends closure of airport after 12 killed in suspected Houthi missile attack - The Tribune-Democrat |
-| 2026-10-11 17:32 | US | 通报 | Iran | 待确认 | C | US military says it disabled cargo vessel trying to run Iran blockade - Al Arabiya English |
-| 2026-10-11 17:31 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Houthis Warn Airlines, Airport Staff & Travellers To Avoid Saudi Airports After Riyadh Airport Attack Kills 12, Injures Over 300; Check Latest Updates - The Sunday Guardian |
-| 2026-10-11 17:17 | US | 空袭 | Iran | 伤亡 | C | US-Israel-Iran War Latest Live News: US Military Strikes And Disables Panama-Flagged Cargo Ship In Gulf Of Oman After It Allegedly Defies Iran Blockade, CENTCOM Says No Crew Members Injured - The Sunday Guardian |
-| 2026-10-11 16:42 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: ‘Saving Himself with US Blood’, Iran’s Araghchi Calls Netanyahu a ‘Wanted War Criminal’ Amid Rising Gulf Security & Middle East Tensions - The Sunday Guardian |
-| 2026-10-11 16:40 | Israel | 通报 | Israel | 待确认 | C | Israel’s economy prospers despite years of war, but rising prices worry voters - Western Post |
-| 2026-10-11 16:39 | Iran | 通报 | Iran | 待确认 | C | Iran FM calls for international accountability over wartime environmental destruction - PressTV |
-| 2026-10-11 16:35 | Houthis | 拦截 | 未明确 | 待确认 | C | Houthis say Saudi Arabia responsible for failed interceptions, urge airlines to heed warning - Business Upturn |
-| 2026-10-11 16:12 | US | 通报 | Iran | 待确认 | C | Iran-US War: Not Gold, Silver or Dollar: This Asset Is Stealing the Spotlight Amid Global Crisis - Goodreturns |
-| 2026-10-11 16:12 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: Canadian PM Mark Carney Slams ‘Abhorrent’ Attacks on Saudi Arabia; UN Says Houthis’ Attacks Pose Risk to Regional Security - The Sunday Guardian |
-| 2026-10-11 16:06 | Israel | 通报 | Israel | 待确认 | C | Protesters rally in Washington, European capitals demanding end to Gaza genocide, Israeli arms embargo - PressTV |
-| 2026-10-11 15:52 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Syria Says Saudi Arabia’s Security Is Integral to Middle East Stability as Riyadh Airport Closure Disrupts Jazeera Airways Flights - The Sunday Guardian |
-| 2026-10-11 15:51 | US | 通报 | Iran | 待确认 | C | US bombs cargo vessel in Gulf of Oman ‘trying to run Iran blockade’ - Al Jazeera |
-| 2026-10-11 15:45 | 未明确 | 通报 | 未明确 | 待确认 | C | UAE guard rescues 22 from burning oil tanker - Northwest Arkansas Democrat-Gazette |
-| 2026-10-11 15:45 | 未明确 | 通报 | 未明确 | 待确认 | C | UAE guard rescues 22 from burning oil tanker - The Arkansas Democrat-Gazette |
-| 2026-10-11 15:30 | US | 通报 | Israel | 待确认 | C | WATCH: US forces disable cargo vessel in Gulf of Oman - World Israel News |
-| 2026-10-11 15:15 | US | 通报 | Iran | 待确认 | C | ‘Saving himself with US blood’: Iran tears into Netanyahu, calls him ‘wanted war criminal’ - The Business Standard |
-| 2026-10-11 15:10 | Iran | 通报 | Iran | 伤亡 | C | Iran war live: 12 killed and 309 injured in attack on Riyadh’s King Khalid International Airport - Arabian Business |
