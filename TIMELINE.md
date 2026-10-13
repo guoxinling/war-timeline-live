@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-10-13 04:49
+更新时间（北京时间）: 2026-10-13 13:12
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-10-13 04:39 | Iran | 通报 | Iran | 待确认 | C | Nechirvan Barzani says Kurdish opposition groups behaved ‘irresponsibly’ during Iran war - The New Region |
+| 2026-10-13 13:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post |
+| 2026-10-13 12:34 | Israel | 通报 | Israel | 待确认 | C | Unexploded Hezbollah Bomblet Kills Student and Wounds 24 on Israel Hike, IDF Says - The SOFX Report |
+| 2026-10-13 12:09 | US | 通报 | Israel | 待确认 | C | Meet the retired US top brass now working to advance Israeli policy - Responsible Statecraft |
+| 2026-10-13 12:02 | Iran | 通报 | Iran | 待确认 | C | Trump says he does not believe China and Russia are helping Iran 'at all' - The Economic Times |
+| 2026-10-13 11:51 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Iran’s IRGC Claims Attack on Supertanker in Strait of Hormuz as Regional Tensions Escalate Over Global Oil Supplies - The Sunday Guardian |
+| 2026-10-13 11:12 | 未明确 | 通报 | 未明确 | 待确认 | C | Tracking U.S., state and county gas prices, in maps and charts. Updated daily. - NBC News |
+| 2026-10-13 11:10 | 未明确 | 通报 | Gaza | 待确认 | C | UNRWA warns Gaza becoming increasingly unlivable place - Manila Bulletin |
+| 2026-10-13 10:40 | Israel | 空袭 | Israel | 待确认 | C | Netanyahu seeks Saudi nod for Israel to join strikes on Houthis: Report - The Times of India |
+| 2026-10-13 10:13 | Israel | 通报 | Iran | 待确认 | C | The biggest threat to victory over Iran may be what comes next – opinion - World Israel News |
+| 2026-10-13 09:51 | 未明确 | 空袭 | 未明确 | 待确认 | C | Russia strikes Ukraine despite Trump’s ‘energy ceasefire’ - Global News |
+| 2026-10-13 09:45 | US | 通报 | Iran | 待确认 | C | Iran Says It Has Documented Neighboring Countries’ Role in Facilitating US-“Israeli” Aggression - اسلام تايمز |
+| 2026-10-13 09:37 | 未明确 | 通报 | 未明确 | 待确认 | C | Who benefits when conflicts never end? - China Daily |
+| 2026-10-13 09:03 | Israel | 通报 | Israel | 待确认 | C | The Media Line: Warsaw’s Reliance on Israeli Security Technology Under Scrutiny as Turkey Expands Defense Footprint in Poland - KSLM Radio |
+| 2026-10-13 08:45 | US | 通报 | Tehran | 伤亡 | C | ISRAELIRANWAR. Tehran defines inadequate US response to Hormuz deal. 20 injured in security incident in Israel. Yemen: Pro-Saudi forces risk encirclement at Bab el-Mandeb. - agc communication news |
+| 2026-10-13 08:21 | 未明确 | 通报 | 未明确 | 待确认 | C | Daily World Briefing, Oct. 13 - Xinhua |
+| 2026-10-13 06:39 | Israel | 通报 | Israel | 待确认 | C | Northern Israel explosion kills at least 1 person, injures 19 - Al Jazeera |
+| 2026-10-13 06:32 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Abbas Araghchi Says Iran Is ‘Serious’ About Diplomacy to Protect National Interests, End US Sanctions & Pursue Peace Talks Amid War - The Sunday Guardian |
+| 2026-10-13 06:12 | Iran | 通报 | Iran | 待确认 | C | Beyond the Battlefield: The U.S. and Iran Contest for Narrative Dominance - Manara Magazine |
+| 2026-10-13 06:00 | Iran | 通报 | Iran | 待确认 | C | Iran Accuses U.S. of Oil Smuggling in Strait of Hormuz - teleSUR English |
+| 2026-10-13 05:39 | Israel | 通报 | Israel | 待确认 | C | Palestinians say Gaza ceasefire has failed to end Israeli devastation - Muslim Network TV |
+| 2026-10-13 05:31 | Iran | 通报 | Iran | 待确认 | C | Nechirvan Barzani says Kurdish opposition groups behaved ‘irresponsibly’ during Iran war - The New Region |
+| 2026-10-13 04:54 | US | 通报 | Yemen | 待确认 | C | Houthi official warns of 'swift, painful response' if US enters Yemen war - The New Arab |
+| 2026-10-13 04:48 | US | 通报 | 未明确 | 待确认 | C | US, UK discuss maritime security in Strait of Hormuz, resolving Russia-Ukraine war - Anadolu Ajansı |
+| 2026-10-13 04:20 | Iran | 通报 | Iran | 伤亡 | C | Today's Headlines: Seven-Year-Old Killed in Gaza / Netanyahu vs. NAZA / Former Qatari PM on Iran - Palestine Chronicle |
+| 2026-10-13 04:20 | US | 通报 | Iran | 待确认 | C | Trump Says US Navy Acting ‘Like Pirates’ to Carry Out Naval Blockade of Iranian Ports - EnergyNow.com |
 | 2026-10-13 04:10 | Iran | 通报 | Iran | 待确认 | C | Iran war live: Saudi Arabia extends closure of Riyadh Airport - Arabian Business |
-| 2026-10-13 03:59 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post |
-| 2026-10-13 03:48 | Israel | 通报 | Israel | 待确认 | C | War: latest news. Israel: possible national unity government with Netanyahu and Eisenkot - Il Sole 24 ORE |
+| 2026-10-13 04:06 | Israel | 拦截 | Israel | 待确认 | C | Israeli interceptor explodes over Khiam in southern Lebanon, NNA and IDF say - The Insight International |
+| 2026-10-13 04:06 | US | 通报 | Tehran | 命中 | C | US Says it Struck Iranian Military Sites, Tehran Responds with Air Base Attack - EnergyNow.com |
+| 2026-10-13 04:01 | US | 发射 | Iran | 待确认 | C | Mideast War escalates: US orders more missiles as Iran rejects ceasefire proposal - National Accord Newspaper |
+| 2026-10-13 03:55 | US | 通报 | Iran | 待确认 | C | How US-Iran Tensions Could Shape World Markets - EnergyNow |
+| 2026-10-13 03:52 | US | 空袭 | Iran | 待确认 | C | Oil Prices Rise as US, Iran Trade Strikes, Israel Moves Further Into Lebanon - EnergyNow.com |
 | 2026-10-13 03:14 | Israel | 通报 | Israel | 待确认 | C | Munition blast during school trip kills student in Israel, and other Mideast developments - WRAL |
+| 2026-10-13 03:09 | Israel | 通报 | Israel | 待确认 | C | War: latest news. Israel: possible national unity government with Netanyahu and Eisenkot - Il Sole 24 ORE |
 | 2026-10-13 02:50 | US | 发射 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Saudi Arabia Shoots Down Yemen Missiles After Explosions Rock Riyadh, Civil Defence Issues Aerial Threat Alert - The Sunday Guardian |
-| 2026-10-13 01:58 | Israel | 通报 | Israel | 待确认 | C | Unexploded Hezbollah Munition Kills Teen on Israeli School Trip Near Lebanon Border: who 11 outlets blamed - NewsCord |
-| 2026-10-13 01:22 | Israel | 通报 | Israel | 伤亡 | C | Israeli teen killed, 23 wounded in apparent detonation of unexploded Hezbollah munition near Lebanese border - All Israel News |
-| 2026-10-13 01:20 | Israel | 通报 | Israel | 待确认 | C | Israel at risk of civil war and ‘total collapse’, CIA report warns - The London Economic |
-| 2026-10-13 01:15 | Israel | 通报 | Israel | 待确认 | C | Israel's TA-125 edges up in subdued Monday session - Business Upturn |
-| 2026-10-13 01:11 | US | 通报 | Tehran | 待确认 | C | Pezeshkian condemns US complicity in Israeli genocide in Gaza, slams Western double standards - Tehran Times |
-| 2026-10-13 01:04 | 未明确 | 通报 | 未明确 | 待确认 | C | Tracking U.S., state and county gas prices, in maps and charts. Updated daily. - NBC News |
-| 2026-10-13 01:03 | Iran | 通报 | Jerusalem | 待确认 | C | FMs of 29 countries condemn IRGC proxy attacks abroad - The Jerusalem Post |
-| 2026-10-13 00:47 | Israel | 空袭 | Israel | 待确认 | C | IDF Reports 100,000 Strikes Across Middle East in Three Years of War - Israel Defense |
-| 2026-10-13 00:41 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Andy Burnham Says Iran’s IRGC ‘Almost Certainly’ Directed RAF Fairford Plot as UK-Iran Tensions Rise Amid Security Concerns - The Sunday Guardian |
-| 2026-10-13 00:31 | Israel | 通报 | Israel | 待确认 | C | The Middle East gains that must not be squandered - World Israel News |
-| 2026-10-13 00:15 | Israel | 通报 | Iran | 待确认 | C | What the U.S.-Israel-Iran War Broke in the Rules of Conventional Conflict - CAPSS India |
-| 2026-10-13 00:07 | Israel | 通报 | Israel | 待确认 | C | Netanyahu seeks prosecution of Israeli military insiders who exposed Gaza killings in ‘NAZA’ - PressTV |
-| 2026-10-13 00:06 | Israel | 通报 | Israel | 待确认 | C | Israeli army dismantles 100s of metres of Hezbollah tunnels, Massive weapons exposed in Lebanon - Mid-Day |
-| 2026-10-13 00:02 | Israel | 通报 | Iran | 待确认 | C | Pro-Iran networks in southern Syria threaten IDF forces, analysis warns - The Jerusalem Post |
-| 2026-10-12 23:41 | Israel | 通报 | Israel | 伤亡 | C | Israel teen dies on school hike, 20 injured, as ‘leftover’ bomb detonates - South China Morning Post |
-| 2026-10-12 23:24 | Iran | 通报 | Iran | 命中 | C | Iran Says It Struck Supertanker in Strait of Hormuz - Kurdistan24 |
-| 2026-10-12 23:23 | Israel | 通报 | Israel | 伤亡 | C | Hezbollah-linked device explodes in student's bag during Israel school trip, 1 killed - The Times of India |
-| 2026-10-12 22:54 | Iran | 通报 | Iran | 命中 | C | Which war is having the biggest impact on diesel prices - Iran or Ukraine? - BBC |
-| 2026-10-12 22:30 | US | 通报 | Iran | 待确认 | C | Iran sets crosshairs on ‘US-UAE’ oil shuttle out of Strait of Hormuz - Al Jazeera |
-| 2026-10-12 22:30 | Houthis | 通报 | 未明确 | 伤亡 | C | Saudis probe how defense systems failed to stop deadly Houthi attack on Riyadh airport - Breitbart News |
-| 2026-10-12 22:19 | 未明确 | 发射 | 未明确 | 待确认 | C | Saudi Arabia responds to drone and cruise missile attacks, and other Mideast developments - The Tribune-Democrat |
-| 2026-10-12 22:11 | US | 通报 | Iran | 待确认 | C | Iran studies the American response and hints at military opt - جريدة القدس |
-| 2026-10-12 22:04 | US | 通报 | 未明确 | 命中 | C | US Diesel Hits $4 Per Gallon as Fuel Costs Rise Amid Escalating Middle East Conflict - EnergyNow.com |
-| 2026-10-12 22:04 | US | 通报 | Tehran | 待确认 | C | Hegseth Says Iran War at Decisive Moment, Tehran Threatens US Businesses in Region - EnergyNow.com |
-| 2026-10-12 22:01 | US | 通报 | 未明确 | 待确认 | C | Senior Lebanese army officer: 'No disarmament without consensus, Washington decides what weapons we get' - thecradle.co |
-| 2026-10-12 21:58 | US | 通报 | Iran | 待确认 | C | Trump Says US Navy Acting ‘Like Pirates’ to Carry Out Naval Blockade of Iranian Ports - EnergyNow.com |
-| 2026-10-12 21:56 | Iran | 通报 | Iran | 待确认 | C | How a Houthi Blockade in the Red Sea Tightens Iran’s Grip on Global Energy Supplies - EnergyNow.com |
-| 2026-10-12 21:44 | US | 通报 | Iran | 待确认 | C | Mediators Set Up De-Escalation Channels Ahead of US-Iran Talks, Source Says - EnergyNow.com |
-| 2026-10-12 21:43 | Israel | 通报 | Lebanon | 待确认 | C | IDF destroys Hezbollah terror tunnels in southern Lebanon - JFeed |
-| 2026-10-12 21:38 | US | 通报 | Iran | 待确认 | C | US Vows ‘Economic D-Day’ as Iran Threatens to Halt All Oil Exports - EnergyNow.com |
-| 2026-10-12 21:33 | Houthis | 通报 | 未明确 | 待确认 | C | Oil Heads for Record Monthly Leap as Houthi Attacks Widen Gulf Conflict - EnergyNow |
-| 2026-10-12 21:28 | 未明确 | 通报 | 未明确 | 待确认 | C | Lebanese PM vows firm action against illegal weapons after explosives seizure - TRT World |
-| 2026-10-12 21:25 | US | 发射 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Saudi Forces Respond To Attacks After Yemen Airstrikes Kill 1, Injure 12 In Sanaa; Houthi Missile & Drone Launches Raise Regional Tensions - The Sunday Guardian |
-| 2026-10-12 21:21 | US | 通报 | Iran | 待确认 | C | Iran War Sends US Crude Up Over $10 a Barrel, Topping $90 - EnergyNow.com |
+| 2026-10-13 02:47 | Hezbollah | 通报 | Beirut | 待确认 | C | Adel Nassar: No Interference in Hezbollah Explosives Probe - Daily Beirut |
+| 2026-10-13 02:46 | US | 通报 | Gaza | 待确认 | C | A US-brokered ceasefire was supposed to end the war in Gaza. A year later, progress has stalled - Boston Herald |
+| 2026-10-13 02:41 | Israel | 通报 | Israel | 伤亡 | C | Pupil killed by suspected leftover Hezbollah bomb in north Israel: officials - News24 |
+| 2026-10-13 02:30 | Israel | 通报 | Iran | 待确认 | C | U.S. Pressure, Economic Suffocation, and Iran’s Nuclear Dilemma - TV7 Israel News |
+| 2026-10-13 02:28 | 未明确 | 通报 | Lebanon | 待确认 | C | Veteran driver adopts "safe roadmap" to navigate Lebanon's war-torn areas - 巴士的報 |
+| 2026-10-13 02:13 | 未明确 | 通报 | Gaza | 待确认 | C | Netanyahu seeks prosecution of Gaza documentary sources - Journalism Pakistan |
