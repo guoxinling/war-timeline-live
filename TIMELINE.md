@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-10-14 02:47
+更新时间（北京时间）: 2026-10-14 11:18
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
+| 2026-10-14 11:04 | US | 通报 | Iran | 待确认 | C | US and Israel ready to resume attacks on Iran ahead of elections - Laodong.vn |
+| 2026-10-14 10:44 | Israel | 通报 | Israel | 待确认 | C | Blame It on Hezbollah: The Tragedy of Twelve Druze Children in Israel - The Times of Israel |
+| 2026-10-14 10:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post |
+| 2026-10-14 09:56 | Israel | 发射 | Israel | 待确认 | C | Hezbollah Launches Housing Aid for Israeli Strike Victims in Lebanon - teleSUR English |
+| 2026-10-14 09:15 | Israel | 通报 | Israel | 待确认 | C | The Future of Israel May Belong to This Man - The Free Press |
+| 2026-10-14 09:08 | Israel | 通报 | Israel | 待确认 | C | How Will Israelis—and History—Judge Benjamin Netanyahu? - The Free Press |
+| 2026-10-14 08:36 | US | 通报 | Iran | 待确认 | C | US and Israel could resume military operations against Iran before elections — Axios - Apa.az |
+| 2026-10-14 08:24 | US | 通报 | Tehran | 待确认 | C | Iran-US War to escalate before US midterm elections in November? Experts claim Tehran's new tactics to con - The Economic Times |
+| 2026-10-14 08:22 | US | 通报 | 未明确 | 待确认 | C | Washington Policy Weekly: United States Sanctions International Criminal Court - Arab Center Washington DC |
+| 2026-10-14 08:08 | US | 通报 | Iran | 待确认 | C | US military says it disabled cargo vessel trying to run Iran blockade - FBC News |
+| 2026-10-14 08:06 | Israel | 通报 | Iran | 待确认 | C | PM: Iran working to orchestrate attack to influence election, maybe through Hamas and Hezbollah - The Times of Israel |
+| 2026-10-14 07:51 | Israel | 空袭 | Iran | 待确认 | C | Netanyahu-Trump talks on renewing Iran strikes before election revealed - World Israel News |
+| 2026-10-14 07:23 | Iran | 空袭 | Iran | 待确认 | C | Iran Fortifies Nuclear Sites, Threatens Wider War as U.S. Weighs New Strikes - Breitbart News |
+| 2026-10-14 07:00 | US | 通报 | Iran | 待确认 | C | Netanyahu reportedly pressed Trump to renew Iran fighting before Israeli and US elections - The Times of Israel |
+| 2026-10-14 06:58 | US | 空袭 | Iran | 待确认 | C | Oil Prices Rise as US, Iran Trade Strikes, Israel Moves Further Into Lebanon - EnergyNow.com |
+| 2026-10-14 06:27 | US | 通报 | Iran | 待确认 | C | Iran threatens ground invasions of neighboring countries if US resumes war – report - World Israel News |
+| 2026-10-14 06:08 | Hezbollah | 通报 | 未明确 | 伤亡 | C | Student killed by suspected leftover Hezbollah bomb - Borneo Bulletin |
+| 2026-10-14 04:55 | US | 通报 | Iran | 待确认 | C | Trump Says US Navy Acting ‘Like Pirates’ to Carry Out Naval Blockade of Iranian Ports - EnergyNow.com |
+| 2026-10-14 04:42 | US | 通报 | Tehran | 命中 | C | US Says it Struck Iranian Military Sites, Tehran Responds with Air Base Attack - EnergyNow.com |
+| 2026-10-14 04:31 | US | 通报 | Iran | 命中 | C | Stock Market Crash: Sensex, Nifty Hit 1-Year Low; How US-Israel-Iran War Wiped Out Rs 4,753,333 Crore - Goodreturns |
+| 2026-10-14 04:28 | 未明确 | 通报 | 未明确 | 待确认 | C | What Lies Behind Indias Silence on Nobel Peace Prize for Navi Pillay? - TheWire.in |
+| 2026-10-14 04:28 | Iran | 空袭 | Iran | 待确认 | C | Netanyahu, President Trump Discuss Renewed Iran Strikes Ahead of Elections - The Media Line |
+| 2026-10-14 03:57 | Iran | 空袭 | Iran | 待确认 | C | Inside Trump, Netanyahu's dilemma: Strike Iran before elections or wait - Axios |
+| 2026-10-14 03:56 | US | 通报 | Iran | 待确认 | C | Report: US, Israel weigh reigniting military ops. against Iran - The Jerusalem Post |
+| 2026-10-14 03:47 | Israel | 通报 | Israel | 待确认 | C | Farthest Israeli city reached by Hamas terrorists forever changed by Oct 7 - All Israel News |
+| 2026-10-14 03:47 | Israel | 通报 | Israel | 待确认 | C | New uproar over ‘Qatargate’: Opposition blasts Netanyahu over fmr aide’s alleged ChatGPT-fueled pro-Qatar campaign - All Israel News |
+| 2026-10-14 03:20 | Israel | 通报 | Iran | 待确认 | C | Netanyahu, Trump discussed striking Iran before election - World Israel News |
+| 2026-10-14 03:13 | Israel | 通报 | Iran | 待确认 | C | Netanyahu urges Trump to resume attacks on Iran ahead of the Israeli elections - Il Sole 24 ORE |
+| 2026-10-14 03:03 | US | 通报 | 未明确 | 待确认 | C | As force exposure becomes perilous, wars become long - The Strategist / ASPI's analysis and commentary site |
+| 2026-10-14 02:46 | Iran | 通报 | Iran | 待确认 | C | Trump-Netanyahu relationship and the cost of war with Iran: - جريدة القدس |
+| 2026-10-14 02:45 | 未明确 | 通报 | 未明确 | 待确认 | C | Netanyahu threatens the Palestinian Authority and confirms c - جريدة القدس |
+| 2026-10-14 02:39 | Iran | 空袭 | Iran | 待确认 | C | As Houthis strike Riyadh, Saudi Arabia confronts the costs of U.S. war on Iran - The Washington Post |
 | 2026-10-14 02:35 | Hezbollah | 通报 | 未明确 | 待确认 | C | Hezbollah Lays Out Compensation Plan for Lebanese Who Lost Homes in the War - Antiwar.com |
-| 2026-10-14 02:16 | Iran | 空袭 | Iran | 待确认 | C | As Houthis strike Riyadh, Saudi Arabia confronts the costs of U.S. war on Iran - The Washington Post |
-| 2026-10-14 02:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post |
+| 2026-10-14 02:34 | Iran | 通报 | Iran | 待确认 | C | Netanyahu Reportedly Discussed Resuming the War Against Iran With Trump This Month: 'Get Ready' - International Business Times |
+| 2026-10-14 02:23 | US | 通报 | Iran | 待确认 | C | US ffficials impressed by Netanyahu’s interest in resuming Iran attacks before elections - Business Upturn |
+| 2026-10-14 02:18 | Iran | 通报 | Iran | 待确认 | C | Iran increases threat to Strait of Hormuz shipping, and other Middle East developments - Jacksonville Journal-Courier |
 | 2026-10-14 01:59 | US | 通报 | Iran | 待确认 | C | Israel–US Strategic Cooperation Against Iran: Limits And Divergences – Analysis - Eurasia Review |
-| 2026-10-14 01:58 | US | 通报 | Iran | 待确认 | C | US ffficials impressed by Netanyahu’s interest in resuming Iran attacks before elections - Business Upturn |
-| 2026-10-14 01:35 | US | 通报 | Israel | 待确认 | C | The History of the Saudi-Houthi Conflict & US Policy Shifts - TV7 Israel News |
+| 2026-10-14 01:50 | Israel | 通报 | Israel | 待确认 | C | Will Israel Ditch Netanyahu? With Haviv Rettig Gur - The Free Press |
 | 2026-10-14 01:28 | US | 拦截 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Trump Says Iran Decision Coming ‘Very Soon’ as Houthis Escalate Saudi Attacks, Riyadh Reports Drone Interceptions & Yemen Strikes Intensify - The Sunday Guardian |
-| 2026-10-14 01:17 | Hezbollah | 通报 | 未明确 | 待确认 | C | Lankford Indicates That a Hezbollah Affiliate Is Supporting El-Sayed in Michigan - PJ Media |
 | 2026-10-14 01:02 | Hezbollah | 通报 | Lebanon | 命中 | C | Up to $14,000 in housing aid: Hezbollah outlines payments for war-hit families - LBCI Lebanon |
-| 2026-10-14 01:00 | Israel | 通报 | Jerusalem | 待确认 | C | The world keeps blaming Israel based on false narratives - The Jerusalem Post |
-| 2026-10-14 00:53 | Israel | 空袭 | Israel | 命中 | C | 7 p.m. recap: Saudi Arabia warns Houthis as Israeli strikes hit south Lebanon - L'Orient Today |
-| 2026-10-14 00:34 | Iran | 通报 | Iran | 伤亡 | C | Iran's Houthi allies' deadly attacks on Saudi Arabia create "a difficult dilemma for President Trump" - CBS News |
-| 2026-10-14 00:32 | Israel | 通报 | Israel | 待确认 | C | Poll: Most Lebanese Shiites Support Israel Deal, Hezbollah Disarmament - JFeed |
-| 2026-10-14 00:31 | US | 通报 | Israel | 待确认 | C | Israel and the New American Right - The American Mind |
-| 2026-10-14 00:26 | 未明确 | 通报 | 未明确 | 待确认 | C | Middle East braces for October surprises - World - Al-Ahram Weekly - Ahram Online |
-| 2026-10-14 00:13 | 未明确 | 通报 | 未明确 | 待确认 | C | Westerman, Russell criticize Trump’s Russia diesel deal, split on other issues in debate - Pine Bluff Commercial |
-| 2026-10-14 00:02 | Hezbollah | 通报 | Lebanon | 待确认 | C | Hezbollah announces aid for displaced in Lebanon, despite pressures - The New Arab |
-| 2026-10-13 23:53 | Houthis | 通报 | Jerusalem | 待确认 | C | Trump: Houthis 'behaving very badly,' striking Saudi Arabia to drive up oil prices - The Jerusalem Post |
-| 2026-10-13 23:43 | Israel | 通报 | Iran | 待确认 | C | Iran said shoring up defenses at nuclear sites, warning it could invade neighbors if war resumes - The Times of Israel |
-| 2026-10-13 23:19 | 未明确 | 空袭 | 未明确 | 待确认 | C | Ansarallah threatens to strike Aramco; Elon Musk pours $276 million into midterms; Russia violated Trump’s “energy ceasefire,” Zelenskyy says - Drop Site News |
-| 2026-10-13 23:14 | Iran | 发射 | Iran | 待确认 | C | Iran targets Kurdish opposition groups in Iraq with new round of drone attacks - The Long War Journal |
-| 2026-10-13 23:11 | US | 通报 | 未明确 | 待确认 | C | US assures Aoun it will not approve security zone expansion without pretext — Asharq Al-Awsat - UA.NEWS |
-| 2026-10-13 22:59 | Israel | 通报 | Israel | 设施受损 | C | Hezbollah to compensate owners of homes destroyed in Lebanon during war with Israel - Los Angeles Times |
-| 2026-10-13 22:56 | Israel | 通报 | Israel | 待确认 | C | ICEJ eBook review: The Ingathering: How the Three Feasts of the Lord Reveal God's Plan for Aliyah - All Israel News |
-| 2026-10-13 22:55 | Iran | 通报 | Iran | 待确认 | C | How Iran made the Houthis into such a problem for the U.S. and its allies - CBS News |
-| 2026-10-13 22:54 | US | 空袭 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Yemen Air Strikes Reported in Saada’s Bani Muin and Bakil; Houthi-Affiliated Media Reports At Least Two Attacks in Razih District - The Sunday Guardian |
-| 2026-10-13 22:48 | Israel | 空袭 | Israel | 待确认 | C | Israeli army shakes Rafah Brigade, eliminates elite Hamas Nukhba commanders in Gaza precision strike - Mid-Day |
-| 2026-10-13 22:45 | Israel | 通报 | Israel | 待确认 | C | Inside Israel's secret intelligence ties with Saudi Arabia - www.israelhayom.com |
-| 2026-10-13 22:40 | Israel | 通报 | Israel | 待确认 | C | Hezbollah ’upgrading capabilities’ for next war with Israel - The New Arab |
-| 2026-10-13 22:28 | 未明确 | 通报 | Tel Aviv | 待确认 | C | Tel Aviv's TA-125 Climbs Nearly 2% to Breach 4,000 Mark - Business Upturn |
-| 2026-10-13 22:28 | Iran | 通报 | Iran | 命中 | C | Iran’s IRGC Says It Struck Another Tanker in Strait of Hormuz - Democracy Now! |
-| 2026-10-13 22:28 | Israel | 通报 | Iran | 待确认 | C | MI5 chief says Iran is targeting military bases in UK, airbase plot ‘not unique’ - The Times of Israel |
-| 2026-10-13 22:28 | Israel | 通报 | Israel | 设施受损 | C | Hezbollah vows to compensate owners of Lebanese homes destroyed in war with Israel - The Times of Israel |
-| 2026-10-13 22:19 | Israel | 通报 | Israel | 待确认 | C | Lebanon-Israel Military Talks Scheduled for October 20 and 22 in Tampa - The Daily Star Lebanon |
-| 2026-10-13 22:12 | Hezbollah | 通报 | Jerusalem | 待确认 | C | Hezbollah faces Lebanese outrage over seized explosives plot and cash payouts - The Jerusalem Post |
-| 2026-10-13 22:12 | Iran | 通报 | Iran | 待确认 | C | Hezbollah announces housing assistance after Iran's $200 million transfer - The Jerusalem Post |
-| 2026-10-13 22:07 | Iran | 通报 | Iran | 待确认 | C | 'Too much to lose': Why Trump thinks Russia, China won’t risk helping Iran - Deccan Herald |
-| 2026-10-13 22:02 | Houthis | 发射 | Yemen | 待确认 | C | Yemeni government launches air strikes on Houthi positions - Al Jazeera |
-| 2026-10-13 21:48 | Hezbollah | 通报 | Jerusalem | 待确认 | C | Hezbollah reportedly upgrades FPV drones in Lebanon — Jerusalem Post - UA.NEWS |
-| 2026-10-13 21:17 | Israel | 通报 | Israel | 待确认 | C | Israel and Greece are expanding their military cooperation. The benefits for each country differ - Defence24.com |
