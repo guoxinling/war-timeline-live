@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-10-16 10:54
+更新时间（北京时间）: 2026-10-16 23:58
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-10-16 10:52 | Iran | 通报 | Iran | 待确认 | C | Electoral calculations in Prime Minister Netanyahu's statement on containing Iran. - Vietnam.vn |
-| 2026-10-16 09:56 | US | 通报 | Iran | 待确认 | C | CENTCOM rejects Iran's claims on Hormuz, cargo ship sinking and US deaths - Israel National News |
-| 2026-10-16 08:43 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post |
-| 2026-10-16 08:37 | Iran | 通报 | Iran | 待确认 | C | Iran war live: Saudi Aramco studying alternative oil export routes - Arabian Business |
-| 2026-10-16 08:34 | 未明确 | 通报 | 未明确 | 待确认 | C | Tracking U.S., state and county gas prices, in maps and charts. Updated daily. - NBC News |
-| 2026-10-16 07:53 | Hezbollah | 通报 | Lebanon | 待确认 | C | Rubio tells Lebanon president not to return seized explosives to Hezbollah amid rising tensions - Firstpost |
-| 2026-10-16 07:33 | Israel | 通报 | Iran | 待确认 | C | Netanyahu, Rubio Discuss Iran as Israel Weighs Military Action - Newsmax |
-| 2026-10-16 07:25 | US | 通报 | 未明确 | 待确认 | C | Progress toward a US-Mexico tariff deal has stalled, WSJ reports - Devdiscourse |
-| 2026-10-16 06:31 | US | 通报 | Iran | 待确认 | C | US and Israel dominate Iran's skies, but still can't force it to surrender - Ynetnews |
-| 2026-10-16 06:04 | US | 通报 | Iran | 待确认 | C | Iranian President Says US Blockade Aims to Trigger Protests - VOI.ID |
-| 2026-10-16 05:36 | Israel | 通报 | Israel | 伤亡 | C | Beyond the Deadlock: Five Scenarios for Israel After the Election - Word on the Street / Jeremy Ben-Ami |
-| 2026-10-16 04:49 | Israel | 通报 | Iran | 待确认 | C | PM adviser says Israel is 'very close' to fostering Iranian regime change - The Jerusalem Post |
-| 2026-10-16 04:28 | Iran | 发射 | Iran | 待确认 | C | Ousted general warned of years-long missile defense shortage before Iran war - CBS News |
-| 2026-10-16 04:25 | Israel | 空袭 | Iran | 待确认 | C | Even before the elections? Growing signs of an impending strike on Iran - www.israelhayom.com |
-| 2026-10-16 04:17 | Israel | 通报 | Iran | 待确认 | C | Israel Moves to Prevent Surprise Attack Amid Iran Tests - JFeed |
-| 2026-10-16 04:12 | Israel | 通报 | Israel | 待确认 | C | 'It's Actually Making It Worse': Jewish Dem Whose Son Attends Temple Israel Pans El-Sayed's Defense of 'Hurt People Hurt People' Remark - freebeacon.com |
-| 2026-10-16 04:12 | US | 空袭 | Iran | 设施受损 | C | Iran’s precision strikes picked apart Gulf infrastructure, blunting US war plans - The Express Tribune |
-| 2026-10-16 04:01 | Iran | 通报 | Iran | 待确认 | C | Shafaq News..Trump predicts swift victory over Iran - شفق نيوز |
-| 2026-10-16 03:33 | Israel | 通报 | Israel | 待确认 | C | Israel on high alert: Fears of pre-election escalation - Israel National News |
-| 2026-10-16 03:06 | Israel | 通报 | Israel | 待确认 | C | Hezbollah Says Seized Explosives Belonged to Group, Meant for Attacks on Israel - Haaretz |
-| 2026-10-16 02:53 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Yemen Urges Firm EU Action as Houthi Fighting Escalates in Taiz, Millions Face Humanitarian Crisis and Shortages of Essential Supplies - The Sunday Guardian |
-| 2026-10-16 02:32 | Iran | 通报 | Iran | 待确认 | C | West Detects 'Extreme Steps' by Iran Amid Economic Crisis - JFeed |
-| 2026-10-16 02:28 | Israel | 通报 | Iran | 待确认 | C | Israel Heightens Military Readiness Amid Rising Tensions with Iran and Hezbollah - وردنا |
-| 2026-10-16 02:03 | Israel | 通报 | Jerusalem | 待确认 | C | Colombia opens embassy in Jerusalem; Herzog hopes for regional peace TV7 Israel News - 15 Oct. - TV7 Israel News |
-| 2026-10-16 01:53 | Hamas | 通报 | 未明确 | 待确认 | C | Netanyahu’s rival vows to end Hamas rule within 18 months if elected - The Hindu |
-| 2026-10-16 01:50 | 未明确 | 发射 | 未明确 | 待确认 | C | Saudi Arabia says it thwarted a missile strike on Medina, and other Middle East developments - The Tribune-Democrat |
-| 2026-10-16 01:43 | Israel | 通报 | Israel | 待确认 | C | Hezbollah says it owned confiscated explosives, meant to attack Israel - Devdiscourse |
-| 2026-10-16 01:40 | Israel | 通报 | Iran | 待确认 | C | Iran pressuring Hezbollah to escalate attacks on Israel, including soldier abductions - JFeed |
-| 2026-10-16 01:23 | Hezbollah | 通报 | Lebanon | 待确认 | C | Hezbollah admits to seized explosives in Lebanon ᐉ News from Fakti.bg - World - Fakti.bg |
-| 2026-10-16 01:04 | Israel | 空袭 | Iran | 待确认 | C | Trump and Netanyahu unlikely to strike Iran before elections, but Israel fears surprise attack - Ynetnews |
-| 2026-10-16 00:49 | Iran | 通报 | Iran | 待确认 | C | Saudi Arabia accuses Iran of encouraging Houthis in latest escalation - Aaj English TV |
-| 2026-10-16 00:44 | Israel | 通报 | Iran | 待确认 | C | Netanyahu posts AI video claiming he saved ‘Israel’ from Iran - Roya News |
-| 2026-10-16 00:36 | Israel | 通报 | Israel | 待确认 | C | Israel prevents farmers from harvesting olives, injures child, sets school on fire - L'Orient Today |
-| 2026-10-16 00:33 | Israel | 通报 | Israel | 待确认 | C | Barack Obama Criticizes Israel's Military Approach to Gaza Conflict - VOI.ID |
-| 2026-10-16 00:31 | US | 通报 | 未明确 | 待确认 | C | Cargo ship carrying over 2,500 containers sinks after reported naval mine explosion near Strait of Hormuz despite US claims of clearing the waterway - Business Insider Africa |
-| 2026-10-16 00:20 | Israel | 发射 | Israel | 待确认 | C | How Israel Achieved a Year Without Rockets - Algemeiner.com |
-| 2026-10-16 00:12 | Israel | 通报 | Gaza | 待确认 | C | IDF Seals Tunnels and Eliminates Terrorists in Gaza - IFCJ |
-| 2026-10-15 23:55 | Israel | 通报 | Israel | 待确认 | C | ‘Should Have Acted Sooner’: Kamala Harris Takes Aim at Biden Over Israel in Potential 2028 Preview - The Daily Signal |
-| 2026-10-15 23:24 | 未明确 | 空袭 | 未明确 | 待确认 | C | Ukraine resumes Russian refinery strikes; U.S. sends troops to Latin America; EU-Gulf summit postponed amid Saudi airport strikes - Drop Site News |
-| 2026-10-15 23:18 | Iran | 通报 | Iran | 待确认 | C | Trump says Iran war will end ‘very soon,’ predicts oil prices will plunge - Muslim Network TV |
+| 2026-10-16 23:39 | Israel | 通报 | Israel | 待确认 | C | The Blogs: Netanyahu’s Unanswered Security Questions - The Times of Israel |
+| 2026-10-16 22:45 | US | 空袭 | Iran | 待确认 | C | Live Updates: War returns to Iran with Israel, US strikes - Dawn |
+| 2026-10-16 22:21 | Israel | 通报 | Israel | 待确认 | C | Italy names senior Israelis, Katz in probe over Gaza flotilla activists - Reuters |
+| 2026-10-16 21:33 | Israel | 通报 | Israel | 待确认 | C | What will decide Israel’s election psychodrama? It’s not what you think - The Australian |
+| 2026-10-16 21:33 | US | 空袭 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Trump Signals Possible US Strike on Iran’s ‘Pickaxe Mountain’ Nuclear Site, Rules Out Nuclear Weapons and Ground Troops Deployment - The Sunday Guardian |
+| 2026-10-16 21:31 | Iran | 通报 | Iran | 伤亡 | C | Iran: Oil tanker ablaze in the Strait of Hormuz. Washington Post journalist injured by settlers in the West Bank - Il Sole 24 ORE |
+| 2026-10-16 20:58 | Israel | 发射 | Iran | 待确认 | C | Israel Prepares For Iran-Lebanon Strikes As Saudi Airspace Closes Under Missile Threats - ScheerPost |
+| 2026-10-16 20:52 | Israel | 通报 | Israel | 待确认 | C | Israeli settlers attack Palestinians during olive harvest, and other Middle East developments - The Tribune-Democrat |
+| 2026-10-16 20:50 | Israel | 空袭 | Tehran | 待确认 | C | Fears of a Wider Iranian Response Leave Israel Hesitant to Strike Tehran - شبكة يافا الإخبارية |
+| 2026-10-16 20:42 | Israel | 空袭 | Lebanon | 待确认 | C | IDF strikes Lebanon; northern residents warned of explosions - JFeed |
+| 2026-10-16 20:41 | US | 撤离 | Iran | 待确认 | C | US Withdrawal Leaves Iraq Vulnerable to Iran - globalpost.com |
+| 2026-10-16 20:38 | 未明确 | 通报 | 未明确 | 待确认 | C | Tracking U.S., state and county gas prices, in maps and charts. Updated daily. - NBC News |
+| 2026-10-16 20:22 | Israel | 通报 | Israel | 待确认 | C | I was in the room when Israel decided to kill Nasrallah. Here’s why we had to do it - The Jewish Chronicle |
+| 2026-10-16 20:18 | Israel | 通报 | Israel | 待确认 | C | Israel halts commercial goods into Gaza, blaming Hamas truck fee - The Insight International |
+| 2026-10-16 20:03 | US | 通报 | Iran | 待确认 | C | EXCLUSIVE: Iran ships some LPG, jet fuel despite US blockade, data shows - Reuters |
+| 2026-10-16 19:53 | 未明确 | 通报 | 未明确 | 待确认 | C | iPhones Floating in Strait of Hormuz: iPhone Boxes and Luxury Perfumes Seen Floating After Cargo Ship GFS Pride Sinks – Watch Video - The Sunday Guardian |
+| 2026-10-16 19:52 | 未明确 | 通报 | 未明确 | 待确认 | C | Pakistan stands with Saudi Arabia under Makkah accord - Aaj English TV |
+| 2026-10-16 19:40 | Iran | 通报 | Iran | 待确认 | C | From Proxy War to Direct Deterrence: Is Iran Redefining Its Regional Strategy? - Geopolitical Monitor |
+| 2026-10-16 19:04 | US | 通报 | Iran | 待确认 | C | Israel, US and Gulf brace for renewed Iran war - Israel Today |
+| 2026-10-16 19:02 | US | 通报 | Iran | 待确认 | C | Iran manages to ship some gas, jet fuel despite US blockade, sanctions, data shows - The Jerusalem Post |
+| 2026-10-16 18:59 | Iran | 通报 | Iran | 待确认 | C | A Peace Deal Will Allow the Iranian Regime to Survive - The Free Press |
+| 2026-10-16 18:51 | US | 通报 | Jerusalem | 待确认 | C | 'An insane reality': Eisenkot accuses Netanyahu of blocking hostage deal despite unanimous support - The Jerusalem Post |
+| 2026-10-16 18:47 | Israel | 通报 | Israel | 待确认 | C | WATCH: Ex-Mossad chief wanted Hezbollah pager victims to be ‘walking testimony’ to Israeli stre... - World Israel News |
+| 2026-10-16 18:42 | Israel | 通报 | Israel | 待确认 | C | 1 p.m. recap: Lebanon's energy sector 'at the heart of Qatar’s priorities,' Rubio criticizes Lebanon's Israel boycott law - L'Orient Today |
+| 2026-10-16 18:34 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: Indian Airlines Extend Cancellation of Flights to Saudi Arabia; Pezeshkian Warns of Environmental Effects of War - The Sunday Guardian |
+| 2026-10-16 18:31 | 未明确 | 通报 | 未明确 | 待确认 | C | Ships in Strait of Hormuz still face "indiscriminate attacks," maritime monitor warns - CBS News |
+| 2026-10-16 18:25 | Iran | 通报 | Iran | 待确认 | C | Trump rules out using a nuclear bomb on Iran: Why that matters - Al Jazeera |
+| 2026-10-16 18:12 | US | 通报 | Israel | 待确认 | C | 'Don't fall into US-Israel trap': Turkish parties warn against Mecca alliance - PressTV |
+| 2026-10-16 17:57 | Israel | 拦截 | Israel | 待确认 | C | Defending a Partner: Air Defense as Diplomacy in Israel–UAE Relations - E-International Relations |
+| 2026-10-16 17:51 | Israel | 通报 | Iran | 待确认 | C | Iran’s ability to weaponize Hormuz ‘significantly undermined’ - World Israel News |
+| 2026-10-16 17:37 | US | 通报 | Iran | 待确认 | C | Military signals building: Is the US-Iran war about to escalate? - Euronews.com |
+| 2026-10-16 17:25 | US | 空袭 | Iran | 待确认 | C | Pentagon Preps for Renewed Iran Strikes as Netanyahu Highlights Jordan Security Wall - CBN.com |
+| 2026-10-16 17:07 | US | 通报 | Iran | 设施受损 | C | At least 78 ambulances destroyed in US-'Israeli' bombings, Iranian official says - Roya News |
+| 2026-10-16 17:00 | US | 通报 | Iran | 待确认 | C | Why a new US–Israeli war against Iran could carry enormous risks - Middle East Monitor |
+| 2026-10-16 17:00 | Iran | 通报 | Iran | 待确认 | C | Inside Iran, the war may be on pause. The misery isn't. - Newsweek |
+| 2026-10-16 16:46 | Israel | 通报 | Tehran | 待确认 | C | Iran, 12 delegations walk out on Herzog's CICA address as Tehran demands Israel's ouster - خبرگزاری بین المللی قدس |
+| 2026-10-16 16:45 | Israel | 通报 | Israel | 待确认 | C | China tells Israel to stop 'forced establishment' of West Bank settlements - BBC |
+| 2026-10-16 16:36 | Hezbollah | 通报 | 未明确 | 待确认 | C | Hezbollah acknowledges ownership of explosives seized by Lebanese authorities - Middle East Monitor |
+| 2026-10-16 16:33 | US | 通报 | Israel | 待确认 | C | Beyond Netanyahu: Lebanon’s dangerous bet on Israel’s elections - Al Arabiya English |
+| 2026-10-16 15:54 | Israel | 通报 | Israel | 待确认 | C | Sinwar’s notes reveal plans to film and broadcast Oct. 7 Hamas atrocities - World Israel News |
