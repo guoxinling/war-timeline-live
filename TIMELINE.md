@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-10-16 23:58
+更新时间（北京时间）: 2026-10-17 10:45
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-10-16 23:39 | Israel | 通报 | Israel | 待确认 | C | The Blogs: Netanyahu’s Unanswered Security Questions - The Times of Israel |
-| 2026-10-16 22:45 | US | 空袭 | Iran | 待确认 | C | Live Updates: War returns to Iran with Israel, US strikes - Dawn |
-| 2026-10-16 22:21 | Israel | 通报 | Israel | 待确认 | C | Italy names senior Israelis, Katz in probe over Gaza flotilla activists - Reuters |
-| 2026-10-16 21:33 | Israel | 通报 | Israel | 待确认 | C | What will decide Israel’s election psychodrama? It’s not what you think - The Australian |
-| 2026-10-16 21:33 | US | 空袭 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Trump Signals Possible US Strike on Iran’s ‘Pickaxe Mountain’ Nuclear Site, Rules Out Nuclear Weapons and Ground Troops Deployment - The Sunday Guardian |
-| 2026-10-16 21:31 | Iran | 通报 | Iran | 伤亡 | C | Iran: Oil tanker ablaze in the Strait of Hormuz. Washington Post journalist injured by settlers in the West Bank - Il Sole 24 ORE |
-| 2026-10-16 20:58 | Israel | 发射 | Iran | 待确认 | C | Israel Prepares For Iran-Lebanon Strikes As Saudi Airspace Closes Under Missile Threats - ScheerPost |
-| 2026-10-16 20:52 | Israel | 通报 | Israel | 待确认 | C | Israeli settlers attack Palestinians during olive harvest, and other Middle East developments - The Tribune-Democrat |
-| 2026-10-16 20:50 | Israel | 空袭 | Tehran | 待确认 | C | Fears of a Wider Iranian Response Leave Israel Hesitant to Strike Tehran - شبكة يافا الإخبارية |
-| 2026-10-16 20:42 | Israel | 空袭 | Lebanon | 待确认 | C | IDF strikes Lebanon; northern residents warned of explosions - JFeed |
-| 2026-10-16 20:41 | US | 撤离 | Iran | 待确认 | C | US Withdrawal Leaves Iraq Vulnerable to Iran - globalpost.com |
-| 2026-10-16 20:38 | 未明确 | 通报 | 未明确 | 待确认 | C | Tracking U.S., state and county gas prices, in maps and charts. Updated daily. - NBC News |
-| 2026-10-16 20:22 | Israel | 通报 | Israel | 待确认 | C | I was in the room when Israel decided to kill Nasrallah. Here’s why we had to do it - The Jewish Chronicle |
-| 2026-10-16 20:18 | Israel | 通报 | Israel | 待确认 | C | Israel halts commercial goods into Gaza, blaming Hamas truck fee - The Insight International |
-| 2026-10-16 20:03 | US | 通报 | Iran | 待确认 | C | EXCLUSIVE: Iran ships some LPG, jet fuel despite US blockade, data shows - Reuters |
-| 2026-10-16 19:53 | 未明确 | 通报 | 未明确 | 待确认 | C | iPhones Floating in Strait of Hormuz: iPhone Boxes and Luxury Perfumes Seen Floating After Cargo Ship GFS Pride Sinks – Watch Video - The Sunday Guardian |
-| 2026-10-16 19:52 | 未明确 | 通报 | 未明确 | 待确认 | C | Pakistan stands with Saudi Arabia under Makkah accord - Aaj English TV |
-| 2026-10-16 19:40 | Iran | 通报 | Iran | 待确认 | C | From Proxy War to Direct Deterrence: Is Iran Redefining Its Regional Strategy? - Geopolitical Monitor |
-| 2026-10-16 19:04 | US | 通报 | Iran | 待确认 | C | Israel, US and Gulf brace for renewed Iran war - Israel Today |
-| 2026-10-16 19:02 | US | 通报 | Iran | 待确认 | C | Iran manages to ship some gas, jet fuel despite US blockade, sanctions, data shows - The Jerusalem Post |
-| 2026-10-16 18:59 | Iran | 通报 | Iran | 待确认 | C | A Peace Deal Will Allow the Iranian Regime to Survive - The Free Press |
-| 2026-10-16 18:51 | US | 通报 | Jerusalem | 待确认 | C | 'An insane reality': Eisenkot accuses Netanyahu of blocking hostage deal despite unanimous support - The Jerusalem Post |
-| 2026-10-16 18:47 | Israel | 通报 | Israel | 待确认 | C | WATCH: Ex-Mossad chief wanted Hezbollah pager victims to be ‘walking testimony’ to Israeli stre... - World Israel News |
-| 2026-10-16 18:42 | Israel | 通报 | Israel | 待确认 | C | 1 p.m. recap: Lebanon's energy sector 'at the heart of Qatar’s priorities,' Rubio criticizes Lebanon's Israel boycott law - L'Orient Today |
-| 2026-10-16 18:34 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: Indian Airlines Extend Cancellation of Flights to Saudi Arabia; Pezeshkian Warns of Environmental Effects of War - The Sunday Guardian |
-| 2026-10-16 18:31 | 未明确 | 通报 | 未明确 | 待确认 | C | Ships in Strait of Hormuz still face "indiscriminate attacks," maritime monitor warns - CBS News |
-| 2026-10-16 18:25 | Iran | 通报 | Iran | 待确认 | C | Trump rules out using a nuclear bomb on Iran: Why that matters - Al Jazeera |
-| 2026-10-16 18:12 | US | 通报 | Israel | 待确认 | C | 'Don't fall into US-Israel trap': Turkish parties warn against Mecca alliance - PressTV |
-| 2026-10-16 17:57 | Israel | 拦截 | Israel | 待确认 | C | Defending a Partner: Air Defense as Diplomacy in Israel–UAE Relations - E-International Relations |
-| 2026-10-16 17:51 | Israel | 通报 | Iran | 待确认 | C | Iran’s ability to weaponize Hormuz ‘significantly undermined’ - World Israel News |
-| 2026-10-16 17:37 | US | 通报 | Iran | 待确认 | C | Military signals building: Is the US-Iran war about to escalate? - Euronews.com |
-| 2026-10-16 17:25 | US | 空袭 | Iran | 待确认 | C | Pentagon Preps for Renewed Iran Strikes as Netanyahu Highlights Jordan Security Wall - CBN.com |
-| 2026-10-16 17:07 | US | 通报 | Iran | 设施受损 | C | At least 78 ambulances destroyed in US-'Israeli' bombings, Iranian official says - Roya News |
-| 2026-10-16 17:00 | US | 通报 | Iran | 待确认 | C | Why a new US–Israeli war against Iran could carry enormous risks - Middle East Monitor |
-| 2026-10-16 17:00 | Iran | 通报 | Iran | 待确认 | C | Inside Iran, the war may be on pause. The misery isn't. - Newsweek |
-| 2026-10-16 16:46 | Israel | 通报 | Tehran | 待确认 | C | Iran, 12 delegations walk out on Herzog's CICA address as Tehran demands Israel's ouster - خبرگزاری بین المللی قدس |
-| 2026-10-16 16:45 | Israel | 通报 | Israel | 待确认 | C | China tells Israel to stop 'forced establishment' of West Bank settlements - BBC |
-| 2026-10-16 16:36 | Hezbollah | 通报 | 未明确 | 待确认 | C | Hezbollah acknowledges ownership of explosives seized by Lebanese authorities - Middle East Monitor |
-| 2026-10-16 16:33 | US | 通报 | Israel | 待确认 | C | Beyond Netanyahu: Lebanon’s dangerous bet on Israel’s elections - Al Arabiya English |
-| 2026-10-16 15:54 | Israel | 通报 | Israel | 待确认 | C | Sinwar’s notes reveal plans to film and broadcast Oct. 7 Hamas atrocities - World Israel News |
+| 2026-10-17 09:38 | Israel | 通报 | Israel | 待确认 | C | Trump: Israel Has Been ‘Very Helpful’ to Saudi Arabia Against Houthis — Abraham Accords ‘More Than Ever’ Possible - Breitbart News |
+| 2026-10-17 09:00 | 未明确 | 通报 | 未明确 | 待确认 | C | Cal Thomas - Whatever happened to initiative? - The Crescent-News |
+| 2026-10-17 08:45 | US | 通报 | Iran | 待确认 | C | ISRAELIRANWAR. New winds of war are blowing: Iran’s armed forces are on high alert for the next 72 hours. US military aircraft are arriving in the Middle East. - agc communication news |
+| 2026-10-17 08:37 | 未明确 | 通报 | 未明确 | 待确认 | C | Opinion / The stealth candidacy of Abdul El-Sayed - The Washington Post |
+| 2026-10-17 08:07 | US | 通报 | Israel | 待确认 | C | Israel: A Security Asset for the United States - Jewish Policy Center |
+| 2026-10-17 08:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post |
+| 2026-10-17 07:47 | Israel | 通报 | Israel | 待确认 | C | Analysis • Israel holds back Lebanon's government and opens the door to Hezbollah recovery - Haaretz |
+| 2026-10-17 07:44 | US | 通报 | Iran | 待确认 | C | Top US commander in Mideast says Iran's proxies sending money back to IRGC due to cash crunch - The Times of Israel |
+| 2026-10-17 07:22 | Israel | 通报 | Israel | 待确认 | C | DNC votes down 'dark money' resolution singling out AIPAC, defers resolution on military aid to Israel - ABC News - Breaking News, Latest News and Videos |
+| 2026-10-17 06:56 | 未明确 | 通报 | 未明确 | 待确认 | C | On Our Radar - International Crisis Group |
+| 2026-10-17 06:40 | Iran | 通报 | Iran | 待确认 | C | ADM Cooper: Iran-Backed Militias Funneling Cash Back to IRGC - Newsmax |
+| 2026-10-17 06:03 | Iran | 通报 | Iran | 待确认 | C | Iran war live: UK advises against all but essential travel to Saudi Arabia - Arabian Business |
+| 2026-10-17 06:01 | Israel | 通报 | Israel | 待确认 | C | Israel Prepares For Election-Related Threats Including Terror Attacks, Assassinations And Foreign Interference - VINnews |
+| 2026-10-17 05:58 | Israel | 发射 | Iran | 待确认 | C | Israel Prepares For Iran-Lebanon Strikes As Saudi Airspace Closes Under Missile Threats - ScheerPost |
+| 2026-10-17 05:34 | US | 通报 | Iran | 待确认 | C | CENTCOM chief says 400 ships crossed Hormuz in a week and blockade has cost Iran $25 billion in oil - The Insight International |
+| 2026-10-17 05:24 | Israel | 通报 | Israel | 待确认 | C | WATCH: Ex-Mossad chief wanted Hezbollah pager victims to be ‘walking testimony’ to Israeli stre... - World Israel News |
+| 2026-10-17 04:49 | Houthis | 发射 | Yemen | 命中 | C | Houthi Missiles Hit Yemen's Presidential Palace — 5 Dead, PM Survives - Latin Times |
+| 2026-10-17 04:42 | US | 通报 | Iran | 待确认 | C | Dozens of American Flag Officers Linked to Defense Industry Shill for Pro-Israel Outfit, Endorse War Against Iran - The New American |
+| 2026-10-17 04:39 | US | 通报 | Iran | 待确认 | C | CENTCOM chief: US has blocked Iran from exporting $25b worth of oil - The Times of Israel |
+| 2026-10-17 04:17 | Israel | 通报 | Israel | 待确认 | C | Inside Israel's secret intelligence gold mine - www.israelhayom.com |
+| 2026-10-17 03:37 | US | 通报 | Lebanon | 命中 | C | EXCLUSIVE: Trump move to restart direct US flights with Lebanon hits roadblock - Reuters |
+| 2026-10-17 03:21 | Israel | 通报 | Israel | 待确认 | C | Israel Releases Sinwar’s Secret Documents Revealing Brutal Strategy Behind Oct. 7 Massacre - Algemeiner.com |
+| 2026-10-17 03:05 | 未明确 | 通报 | Lebanon | 待确认 | C | Qatar pledges a lifeline for Lebanon’s economy - Egyptian Gazette |
+| 2026-10-17 03:04 | US | 通报 | Iran | 待确认 | C | Iran boosts defences after POTUS leaves room for 'Mother of all Bombs' - inkl |
+| 2026-10-17 03:03 | US | 空袭 | Iran | 命中 | C | US-Israel-Iran War Latest Live News: Tanker Carrying 15 Indian Seafarers Hit in Strait of Hormuz, Trump Signals Possible Iran Nuclear Site Strike - The Sunday Guardian |
+| 2026-10-17 02:42 | 未明确 | 通报 | 未明确 | 待确认 | C | How Far Should the U.S. Go to Defend Saudi Arabia? - The Cipher Brief |
+| 2026-10-17 02:28 | US | 通报 | Iran | 待确认 | C | How Iran messaging highlights cost of war ahead of US midterm elections - Al Jazeera |
+| 2026-10-17 02:25 | Israel | 通报 | Jerusalem | 待确认 | C | Netanyahu built Israel’s military power, but undermined its security - opinion - The Jerusalem Post |
+| 2026-10-17 02:22 | Israel | 通报 | Israel | 待确认 | C | Israeli genocide leaves Gaza facing ‘catastrophic’ levels of starvation: Health Ministry - PressTV |
+| 2026-10-17 02:19 | Israel | 通报 | Israel | 待确认 | C | escalating security threats across the Middle East - TV7 Israel News |
+| 2026-10-17 02:04 | Israel | 通报 | Iran | 待确认 | C | Israel warns of devastating retaliation; MI5: Russia, Iran threats quadrupled TV7Israel News 16 Oct. - TV7 Israel News |
+| 2026-10-17 02:03 | Israel | 通报 | Israel | 待确认 | C | Abdul El-Sayed in Unearthed Synagogue Speech: Hamas Is 'the Same' as the Israeli Military - freebeacon.com |
+| 2026-10-17 01:39 | Israel | 通报 | Israel | 待确认 | C | Trump: Abraham Accords back on the table, Israel has helped Saudi Arabia against Houthis - Ynetnews |
+| 2026-10-17 01:22 | Iran | 通报 | Iran | 待确认 | C | Lebanon’s Central Bank Revokes Bank Saderat Iran License Amid U.S. Pressure: how 9 outlets framed it - NewsCord |
+| 2026-10-17 01:18 | Israel | 通报 | Israel | 待确认 | C | Is Israel Signaling a Wider Occupation of Southern Lebanon? - ASHARQ AL-AWSAT English |
+| 2026-10-17 01:12 | US | 空袭 | Iran | 待确认 | C | Market Analysts React to US-Israel Strikes on Iran - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com |
+| 2026-10-17 01:00 | Iran | 通报 | Iran | 待确认 | C | Iran's military says oil tanker on fire in Gulf of Oman - The Hindu |
+| 2026-10-17 00:45 | 未明确 | 通报 | 未明确 | 待确认 | C | Michigan GOP Leader Raises Questions About Abdul El-Sayed, Cites New Evidence - VINnews |
+| 2026-10-17 00:43 | US | 发射 | 未明确 | 待确认 | C | CBS News: US faces critical shortage of interceptor missiles, with stockpiles not expected to recover until 2030 - ProtoThema English |
+| 2026-10-17 00:38 | 未明确 | 通报 | 未明确 | 待确认 | C | New Brunswick announces $2 million subsidy for Moncton company supplying U.S. military giant Lockheed Martin - Frequency News |
