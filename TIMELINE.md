@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-10-24 00:21
+更新时间（北京时间）: 2026-10-24 11:02
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-10-23 23:59 | 未明确 | 拦截 | 未明确 | 待确认 | C | Middle East latest: Saudi-led coalition intercepts wave of overnight attacks - The National |
-| 2026-10-23 23:41 | Iran | 通报 | Iran | 待确认 | C | Turkish FM says military action on Iran is no solution - Breakingthenews.net |
-| 2026-10-23 23:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post |
-| 2026-10-23 22:53 | 未明确 | 通报 | 未明确 | 待确认 | C | In Netanyahu stronghold, signs of fraying loyalty emerge before election - Los Angeles Times |
-| 2026-10-23 22:28 | Israel | 通报 | Israel | 待确认 | C | Benjamin Netanyahu: Israel’s longest-serving PM fighting for survival - Gulf News |
-| 2026-10-23 22:10 | Israel | 通报 | Iran | 待确认 | C | How Netanyahu could attack Iran to force Israel into unity government after elections - Al-Monitor |
-| 2026-10-23 22:03 | 未明确 | 通报 | 未明确 | 待确认 | C | ‘They’re planning something’: troops brace for next October 7 - The Australian |
-| 2026-10-23 21:28 | US | 通报 | Israel | 待确认 | C | NAZA Is Not Just About Israel And Gaza. It’s About The Evil Lurking In Us All - Scheerpost |
-| 2026-10-23 21:23 | Israel | 通报 | Israel | 待确认 | C | Huckabee questions Board of Peace’s ability to Iimplement Gaza plan - World Israel News |
-| 2026-10-23 20:48 | US | 发射 | Iran | 设施受损 | C | US-Israel-Iran War Latest Live News: Saudi Arabia Expands Ballistic Missile Facility to Build Longer-Range Weapons, Satellite Images Reveal, Raising Iran Threat Concerns & US Nuclear Deal Opposition - The Sunday Guardian |
-| 2026-10-23 20:47 | Israel | 通报 | Iran | 待确认 | C | Iran threatens to target Israel’s Dimona nuclear site - The Siasat Daily |
-| 2026-10-23 20:38 | Israel | 通报 | Israel | 待确认 | C | WATCH: Inside the Mossad’s most daring operation ever – Hezbollah’s pagers - World Israel News |
-| 2026-10-23 20:33 | US | 通报 | Iran | 命中 | C | US-Israel-Iran War Latest Live Updates: Oil Prices Hit Five-Month High as Brent Crude Surges to $114.72 Amid Fears of Fresh Attacks on Iran, Gulf Energy Infrastructure and Global Supply Disruptions - The Sunday Guardian |
-| 2026-10-23 20:28 | Israel | 通报 | Israel | 待确认 | C | Israeli Intelligence Aids Saudi Campaign Against Houthis, Official Confirms - The Media Line |
-| 2026-10-23 20:17 | Iran | 通报 | Iran | 待确认 | C | 5 signs Iran war is escalating - TRT World |
-| 2026-10-23 20:06 | US | 通报 | Iran | 待确认 | C | Iran war live: US senators fume at Trump as staggering cost of conflict revealed - Arabian Business |
-| 2026-10-23 20:05 | Israel | 通报 | Iran | 待确认 | C | Israel Almost Crossed an Iran Red Line No One Saw Coming: Israel's Air Force Flew to Iran's Border and Turned Around - National Security Journal |
-| 2026-10-23 19:48 | US | 通报 | Iran | 待确认 | C | US-Iran war, then and now: How the landscape has changed since February - Al Jazeera |
-| 2026-10-23 19:32 | US | 空袭 | Iran | 待确认 | C | US signals prolonged Iran standoff as Trump weighs new strikes - Iran International |
-| 2026-10-23 19:31 | US | 通报 | Iran | 待确认 | C | 'Zero red lines': Iran threatens Gulf if US, Israel attack - NewsBytes |
-| 2026-10-23 19:31 | Iran | 通报 | Iran | 待确认 | C | Why Is Iran’s Supreme Leader Mojtaba Khamenei Missing From Public View? Iranian Diplomat Reveals Reason - LatestLY |
-| 2026-10-23 19:28 | US | 通报 | Iran | 待确认 | C | Mohammad Bagher Ghalibaf Warns US War With Iran Would Kill Soldiers, Crash Markets: what 9 outlets left out - NewsCord |
-| 2026-10-23 19:28 | US | 空袭 | Tehran | 待确认 | C | US and Israel draw up plans for new strikes on Iran as Tehran threatens retaliation - Азия-Плюс |
-| 2026-10-23 19:27 | US | 空袭 | Iran | 设施受损 | C | Iran Threatens Gulf Oil, Undersea Cables, Data Centres, And AI Infrastructure If US And Israel Strike: 7 outlets compared - NewsCord |
-| 2026-10-23 19:25 | Israel | 通报 | Israel | 待确认 | C | Eisenkot offers hawkish alternative to Netanyahu for Israeli PM - Reuters |
-| 2026-10-23 19:11 | Iran | 通报 | Iran | 待确认 | C | Trump Agenda Trails Cost Of Living And Iran War In Voters’ Priorities, Poll Shows - Outlook India |
-| 2026-10-23 19:00 | 未明确 | 通报 | 未明确 | 待确认 | C | Making foreign policy great again - Storm Lake Times Pilot |
-| 2026-10-23 18:56 | Iran | 通报 | Iran | 待确认 | C | Netanyahu stakes his re-election on the promise of another war with Iran and opposition to Arab parties - EL PAÍS English |
-| 2026-10-23 18:48 | Israel | 通报 | Iran | 待确认 | C | Israel, Iran ramp up war rhetoric, as prospect of open conflict looms - Semafor |
-| 2026-10-23 18:46 | US | 通报 | Iran | 待确认 | C | Iran Threatens Gulf Oil and AI Facilities if US-Israeli Attacks Resume - Sprouts News |
-| 2026-10-23 18:24 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: Netanyahu Orders ‘Closure’ of Hebron, Warns of ‘Full Lockdown’ Across Occupied West Bank Amid War - The Sunday Guardian |
-| 2026-10-23 18:07 | 未明确 | 通报 | 未明确 | 待确认 | C | Can Netanyahu win again? The secret to his political survival – and why it may finally fail him - The Forward |
-| 2026-10-23 17:59 | Iran | 通报 | Iran | 命中 | C | Iran War’s Architects Get Ready to Face Frustrated Voters - Bloomberg.com |
-| 2026-10-23 17:24 | US | 通报 | Iran | 待确认 | C | Iran-US conflict: Is a new war in the Middle East about to trigger a global recession? - The Week |
-| 2026-10-23 16:50 | US | 通报 | 未明确 | 待确认 | C | Jared Kushner's phone hacked by Dutch intelligence, revealing alleged suspicious Middle East money transfers, Vanity Fair reveals - ProtoThema English |
-| 2026-10-23 16:48 | Iran | 通报 | Iran | 待确认 | C | IRGC Says It Attacked Four Oil Tankers in Strait of Hormuz, Iran Warns U.S.: 53 outlets compared - NewsCord |
-| 2026-10-23 16:39 | Iran | 空袭 | Iran | 待确认 | C | Eagle 44: Iran Rebuilds Its Underground Air Base After Strikes - MiGFlug |
-| 2026-10-23 16:31 | Israel | 通报 | Israel | 待确认 | C | Is It Really About Protecting Jews? Jewish Deaths Mount in Ukraine as Israel Withholds Advanced Military Aid - SFL Media |
-| 2026-10-23 16:15 | Israel | 通报 | Iran | 待确认 | C | Israel’s Election May Change Its Leader, but Not Iran War Policy - ASHARQ AL-AWSAT English |
-| 2026-10-23 16:01 | US | 通报 | Iran | 待确认 | C | Iran war could worsen after US midterms - The Straits Times |
+| 2026-10-24 10:45 | US | 撤离 | Iran | 待确认 | C | Iran ‘plotting against US officials abroad’ as diplomats withdrawn - The Times |
+| 2026-10-24 09:16 | Israel | 通报 | Israel | 待确认 | C | No love for Trump or Netanyahu in Israeli town battered by Hezbollah - MS NOW |
+| 2026-10-24 09:11 | US | 通报 | Iran | 待确认 | C | European, Middle East ministers urge US-Iran diplomacy, not new attacks - Al Jazeera |
+| 2026-10-24 09:00 | 未明确 | 通报 | 未明确 | 待确认 | C | Cal Thomas - Why is much of France burning? - The Crescent-News |
+| 2026-10-24 08:49 | Israel | 空袭 | Iran | 伤亡 | C | ISRAELIRANWAR. Israel: Trump waits for the end of the elections to attack Iran. Attack in Hebron leaves two Israeli soldiers dead and six wounded. Raids on Lebanon, Gaza, and Syria. Attack on a church in Jordan. - agc communication news |
+| 2026-10-24 08:48 | US | 通报 | 未明确 | 待确认 | C | US has for years asked Musk to alter Starlink service in Ukraine, Middle East, sources say - The Economic Times |
+| 2026-10-24 08:16 | Israel | 通报 | Israel | 待确认 | C | Analysis • Israel's army is no stronger than the economy that stands behind it - Haaretz |
+| 2026-10-24 08:07 | US | 空袭 | Iran | 待确认 | C | US strikes on Iran now serve the blockade - Iran International |
+| 2026-10-24 08:00 | Israel | 通报 | Iran | 待确认 | C | Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post |
+| 2026-10-24 07:47 | US | 通报 | Iran | 待确认 | C | UPDATES: US War on Iran, Day 239 - Attacks on Shipping in Strait Of Hormuz Highest Since March - EA WorldView |
+| 2026-10-24 07:34 | US | 空袭 | Iran | 待确认 | C | Oil Prices Rise as US, Iran Trade Strikes, Israel Moves Further Into Lebanon - EnergyNow.com |
+| 2026-10-24 06:28 | Iran | 通报 | Iran | 命中 | C | Iran Has Plans to Hit Gulf Undersea Cables if War Resumes, Officials Say - Haaretz |
+| 2026-10-24 05:47 | Israel | 通报 | Israel | 待确认 | C | What’s at stake in Israel’s first elections since the October 7 attacks? - Atlantic Council |
+| 2026-10-24 05:44 | Israel | 空袭 | Iran | 伤亡 | C | Four Palestinians killed in Gaza as Israel continues strikes; UN reports 409 West Bank olive harvest attacks as Trump threatens further strikes on Iran - Muslim News UK - The Muslim News |
+| 2026-10-24 05:19 | 未明确 | 通报 | 未明确 | 待确认 | C | On The Brink Of Epic Fury Round Two? - TWZ |
+| 2026-10-24 05:10 | US | 空袭 | Iran | 待确认 | C | Why Post-Election US Iran Strikes Will Yield Diminishing Returns - The National Interest |
+| 2026-10-24 04:50 | US | 发射 | Iran | 待确认 | C | Trump says US may launch ‘another little Epic Fury’ attack on Iran - France 24 |
+| 2026-10-24 04:29 | US | 通报 | Iran | 待确认 | C | Iran-US War: Ahead of US midterm polls, Israel elections day, Donald Trump threatens another likely milita - The Economic Times |
+| 2026-10-24 04:27 | Israel | 通报 | Israel | 待确认 | C | Israel's Netanyahu Orders Large-Scale Military Operation in West Bank City of Hebron - Foreign Policy |
+| 2026-10-24 04:08 | Iran | 通报 | Iran | 待确认 | C | Salvation or tragedy? Iranians debate prospect of another war - Iran International |
+| 2026-10-24 04:04 | Iran | 通报 | Iran | 命中 | C | Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say - Reuters |
+| 2026-10-24 04:00 | 未明确 | 通报 | 未明确 | 待确认 | C | The Emir of Iowa, USA - الحرة |
+| 2026-10-24 03:18 | Israel | 通报 | Iran | 待确认 | C | Netanyahu Orders IDF and Mossad to Topple Iran’s Regime - The National Telegraph |
+| 2026-10-24 03:04 | Israel | 通报 | Israel | 待确认 | C | The Israeli Elections Will Not Rescue Lebanon - الحرة |
+| 2026-10-24 02:31 | US | 通报 | Iran | 待确认 | C | Signs point to renewed major US military ops against Iran - The New Arab |
+| 2026-10-24 02:19 | US | 通报 | Tehran | 待确认 | C | US-Israel-Iran War Latest live News: Oil Prices Surges 4% to $117.45 as Bessent Claims US Pressure Has Decimated Tehran’s Oil Lifeline Amid Middle East Tensions - The Sunday Guardian |
+| 2026-10-24 02:11 | Israel | 通报 | Israel | 待确认 | C | Israel elections: Meet the candidates facing Benjamin Netanyahu - Channel 4 |
+| 2026-10-24 01:54 | US | 通报 | Iran | 待确认 | C | Signs point to renewed major US military ops against Iran - France 24 |
+| 2026-10-24 01:43 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest live News: Yemen Army Claims 620 Houthi Members Neutralised in 24 Hours as Israeli Military Plans Two-Day Multi-Front Drill Amid Rising Regional Tensions - The Sunday Guardian |
+| 2026-10-24 01:41 | US | 空袭 | Iran | 待确认 | C | Israel and the US Have Plans for Strikes on Iran After the Election. Will They Carry Them Out? - PJ Media |
+| 2026-10-24 01:38 | Israel | 通报 | Israel | 待确认 | C | Are Israel’s drones signalling a new escalation with Hezbollah? - The New Arab |
+| 2026-10-24 01:37 | US | 空袭 | Iran | 待确认 | C | Trump said to order CENTCOM to draft Iran strike plan - Breakingthenews.net |
+| 2026-10-24 01:20 | US | 发射 | Iran | 待确认 | C | US and Israel are warned against launching fresh strikes on Iran - The Guardian |
+| 2026-10-24 01:17 | Israel | 通报 | Jerusalem | 待确认 | C | Israel’s election campaign falls short of the change the country needs - The Jerusalem Post |
+| 2026-10-24 01:15 | US | 空袭 | Iran | 待确认 | C | Iran officials say they will target undersea cables if US strikes – Reuters - Iran International |
+| 2026-10-24 01:12 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: ‘De-Escalation and Dialogue Are Essential,’ Egypt Urges US-Iran Talks Amid Rising Tensions; Check Latest Update - The Sunday Guardian |
+| 2026-10-24 00:37 | US | 通报 | Iran | 待确认 | C | 'Escalation is coming': Middle East on edge as new Israeli-US attack on Iran looms - Middle East Eye |
+| 2026-10-24 00:35 | Israel | 通报 | Iran | 待确认 | C | Strategic Debate on Iran’s Regime & Warfare - TV7 Israel News |
+| 2026-10-24 00:12 | US | 通报 | Iran | 待确认 | C | ‘Foreign policy is the economy’: How Iran war is shaping US midterm vote - Al Jazeera |
+| 2026-10-24 00:00 | US | 通报 | Israel | 待确认 | C | Billions of Dollars for Israel’s Defense: American Taxpayers Foot the Bill for Regional Wars - خبرگزاری صدای افغان |
