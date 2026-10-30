@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-10-30 01:56
+更新时间（北京时间）: 2026-10-30 12:06
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-10-30 01:05 | US | 通报 | Iran | 待确认 | C | Somali piracy surges as Iran war diverts US naval attention - CNN - Iran International |
-| 2026-10-30 01:04 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: US Senator Calls Trump’s Renewed Attack Plan ‘Insane’ as Iran Confirms Receipt of JD Vance’s Letter, Yet to Respond Amid Diplomatic Uncertainty - The Sunday Guardian |
-| 2026-10-30 01:00 | US | 通报 | Iran | 待确认 | C | US-Israel war on Iran - The Guardian |
-| 2026-10-30 00:52 | US | 通报 | Iran | 待确认 | C | Pentagon says Iran war has cost US taxpayers $47bn: What that means - Al Jazeera |
-| 2026-10-30 00:36 | 未明确 | 通报 | 未明确 | 待确认 | C | Strategic planning general ousted - Heartlander News |
-| 2026-10-30 00:18 | US | 空袭 | Iran | 待确认 | C | US ready for major Iran strikes within 96 hours of Trump order: Officials - The Business Standard |
-| 2026-10-30 00:17 | Iran | 通报 | Iran | 命中 | C | Iran says four tankers on fire after hitting mines in Hormuz - Region - World - Ahram Online |
-| 2026-10-30 00:08 | Israel | 通报 | Israel | 待确认 | C | Turkey's Expanding Ambitions, Maritime Conflicts & Israel’s National Security - TV7 Israel News |
-| 2026-10-30 00:02 | Israel | 发射 | Israel | 待确认 | C | Chinese Missiles in Iraq? Israel’s Fighter Jets Aren’t the Main Vulnerability - Middle East Forum |
-| 2026-10-30 00:01 | US | 通报 | Iran | 待确认 | C | Iran targeted Israeli election, US midterms with cyber, recruitment plans – report - The Jerusalem Post |
-| 2026-10-29 23:56 | US | 通报 | Iran | 待确认 | C | US Military Spending on Iran War Surges Past $47 Billion - The Defense Post |
-| 2026-10-29 23:53 | 未明确 | 通报 | 未明确 | 待确认 | C | Who is Gadi Eisenkot? - Washington Examiner |
-| 2026-10-29 23:53 | US | 空袭 | Iran | 待确认 | C | US and Israel Plan Possible New Strikes on Iran: Reports - UzDaily.uz |
-| 2026-10-29 23:41 | US | 通报 | Israel | 待确认 | C | Qatar rejects 'dangerous' accusations that it interfered in Israeli elections - Aaj English TV |
-| 2026-10-29 23:14 | 未明确 | 空袭 | Yemen | 待确认 | C | 280,000+ Yemenis displaced by war; El Salvador surges more troops to Haiti; Russian drone strike kills 14 - Drop Site News |
-| 2026-10-29 23:09 | 未明确 | 通报 | 未明确 | 待确认 | C | Middle East war: What UAE residents need to know this evening (Thursday, October 29) - Gulf News |
-| 2026-10-29 23:09 | Israel | 通报 | Israel | 待确认 | C | Today’s Headlines: Israel Bombs Gaza Ministry / MQ-1 Drone Downed near Hormuz / 'Keep Fighting' - Palestine Chronicle |
-| 2026-10-29 23:04 | US | 通报 | Iran | 待确认 | C | Iran’s hidden web of military agencies is slipping hardware past the US blockade - Reuters |
-| 2026-10-29 22:51 | US | 空袭 | Iran | 待确认 | C | Israel seeks US approval to strike Iranian energy facilities as Trump signals end to war - AzerNews |
-| 2026-10-29 22:44 | Israel | 通报 | Israel | 待确认 | C | Netanyahu, at risk of losing power, steps up attacks on Israel's Arab parties - Aaj English TV |
-| 2026-10-29 22:36 | US | 通报 | Iran | 待确认 | C | US military denies claim that Iran captured American drone - The Siasat Daily |
-| 2026-10-29 22:30 | Israel | 通报 | Israel | 待确认 | C | Hezbollah chief rules out disarmament, says Lebanon–Israel deal 'null and void' - thecradle.co |
-| 2026-10-29 22:27 | Hezbollah | 通报 | Jerusalem | 待确认 | C | Hezbollah explosives case continues to roil Lebanese politics as ministers boycott cabinet meeting - The Jerusalem Post |
-| 2026-10-29 22:20 | Israel | 通报 | Iran | 待确认 | C | War with Iran likely regardless of who leads Israel - Al Majalla |
-| 2026-10-29 22:17 | 未明确 | 通报 | 未明确 | 待确认 | C | Netanyahu poised to remain caretaker despite losing majority - Muslim Network TV |
-| 2026-10-29 21:57 | US | 通报 | Iran | 待确认 | C | The cost of the Iran war exceeds $47 billion, and the US faces pressure ahead of the midterm elections. - Vietnam.vn |
-| 2026-10-29 21:55 | 未明确 | 通报 | 未明确 | 待确认 | C | PM Shehbaz directs PML-N to prepare for KP local government elections - Aaj English TV |
-| 2026-10-29 21:45 | US | 通报 | Iran | 待确认 | C | US and Israel prepare weeklong bombing campaign against Iran – Axios - RBC-Ukraine |
-| 2026-10-29 21:41 | Iran | 通报 | Iran | 命中 | C | Iran says 3 oil tankers struck mines, and other Mideast news - The Tribune-Democrat |
-| 2026-10-29 21:29 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live Updates: US Military Campaign Against Iran Costs $47.1 Billion as Pentagon Warns of Rising Expenses Ahead of November Midterm Elections - The Sunday Guardian |
-| 2026-10-29 21:22 | US | 通报 | Iran | 待确认 | C | Jordan’s US Alliance Becomes a Double-Edged Sword Amid Iranian Attacks and Israeli Expansion - https://globalpost.com/ |
-| 2026-10-29 21:16 | US | 空袭 | Israel | 待确认 | C | Report: US tells Aoun Israel won't strike Lebanon if not attacked - Naharnet |
-| 2026-10-29 21:13 | US | 通报 | Iran | 伤亡 | C | 22 Indian Nationals, Including 14 Seafarers, Killed In US-Iran War, Confirms External Ministry - Marine Insight |
-| 2026-10-29 20:39 | Israel | 通报 | Israel | 待确认 | C | Israeli forces carry out fresh shelling attacks in southern Lebanon - Latest news from Azerbaijan |
-| 2026-10-29 20:39 | Israel | 通报 | Iran | 待确认 | C | Iran rejects Qatar’s draft deal to end U.S.-Israel war - Bol News |
-| 2026-10-29 19:47 | 未明确 | 通报 | 未明确 | 待确认 | C | What we know of Vance’s letter to Rezaei, as Trump warns Gulf to ‘prepare’ - Al Jazeera |
-| 2026-10-29 19:46 | US | 通报 | Iran | 待确认 | C | Live Updates: LIVE: Iran-US war - Business Recorder |
-| 2026-10-29 19:24 | Israel | 通报 | Israel | 待确认 | C | From Gaza to the West Bank, Palestinians expect no major change after Israeli election - The Times of Israel |
-| 2026-10-29 19:13 | Iran | 通报 | Iran | 命中 | C | Iran says three oil tankers hit mines near Strait of Hormuz - Aaj English TV |
-| 2026-10-29 19:01 | US | 空袭 | Iran | 待确认 | C | Pressure mounts on Iran as US, Israel prepare week-long strikes - Gulf News |
+| 2026-10-30 11:25 | US | 通报 | Iran | 待确认 | C | Live Updates: LIVE: Iran-US war - Business Recorder |
+| 2026-10-30 09:29 | Iran | 通报 | Iran | 命中 | C | Iran says four tankers on fire after hitting mines - Business Recorder |
+| 2026-10-30 09:13 | US | 通报 | Iran | 待确认 | C | US reportedly deploys 10 military cargo planes to Israel amid fears of renewed war on Iran - TRT World |
+| 2026-10-30 08:59 | Iran | 通报 | Iran | 待确认 | C | Trump Says Vance Sent Letter To Iran To 'Help' With Medicine - Radio Free Europe/Radio Liberty |
+| 2026-10-30 08:37 | Israel | 撤离 | Jerusalem | 待确认 | C | Trump pledges to push for IDF withdrawal from Lebanon if Beirut joins Abraham Accords - report - The Jerusalem Post |
+| 2026-10-30 08:35 | US | 通报 | Iran | 待确认 | C | Top US commander briefs Trump on Iran military options as 10 US military transport planes land in Israel - The Times of Israel |
+| 2026-10-30 08:20 | US | 空袭 | Iran | 待确认 | C | US sends 10 transport planes to Israel as Trump prepares to strike Iran - World Israel News |
+| 2026-10-30 08:18 | US | 通报 | Iran | 待确认 | C | CENTCOM Chief Briefs Trump on Iran War, With Focus on Naval Blockade - Belaaz |
+| 2026-10-30 08:04 | US | 通报 | Iran | 待确认 | C | Iran Targets Israeli and US Elections With Cyber Operations - Demokratis.co.id |
+| 2026-10-30 07:57 | US | 通报 | Iran | 待确认 | C | Iran Pursues Election Interference in Israel and US Midterms - SuaraGarut.ID |
+| 2026-10-30 07:44 | Israel | 发射 | Iran | 待确认 | C | U.S. Rushes Patriot Missiles From Texas To Israel As Trump Weighs Fresh Iran Strikes - The Times of India |
+| 2026-10-30 07:38 | Israel | 通报 | Iran | 待确认 | C | Will the election results in Israel increase the risk of conflict with Iran? - Vietnam.vn |
+| 2026-10-30 07:28 | US | 空袭 | Israel | 待确认 | C | US military movements don't signal decision to strike: Israel prepares, waits on Trump again - Ynetnews |
+| 2026-10-30 07:23 | US | 空袭 | Iran | 待确认 | C | US sends 10 military cargo planes to Israel amid Iran strike preparations - Operativ Məlumat Mərkəzi |
+| 2026-10-30 07:17 | US | 空袭 | Iran | 待确认 | C | US deploys 10 military cargo planes to Israel amid preparations for possible strike on Iran: Report - Anadolu Ajansı |
+| 2026-10-30 07:17 | US | 空袭 | Iran | 待确认 | C | US and Israel Plan Weeklong Iran Strikes, Axios Reports - Военное дело |
+| 2026-10-30 07:05 | Israel | 通报 | Israel | 待确认 | C | Live updates: 2026 Israel election - TRT World |
+| 2026-10-30 06:23 | Hezbollah | 通报 | Lebanon | 待确认 | C | Lebanon bets on diplomacy to avert another war, amid reports of Hezbollah preparing for battle - Arab News |
+| 2026-10-30 06:16 | US | 空袭 | Iran | 命中 | C | Ahead of another Iran strike? Report: CENTCOM chief briefs Trump at the White House - Israel National News |
+| 2026-10-30 05:28 | US | 空袭 | Iran | 待确认 | C | U.S. moves toward Iran strikes as Centcom chief briefs Trump on options - Chosunbiz |
+| 2026-10-30 05:24 | US | 通报 | Iran | 待确认 | C | CENTCOM Chief Briefs Trump on Options for Bombing Iran - Antiwar.com |
+| 2026-10-30 05:02 | 未明确 | 通报 | 未明确 | 待确认 | C | Netanyahu poised to remain caretaker despite losing majority - Muslim Network TV |
+| 2026-10-30 04:44 | Israel | 通报 | Israel | 待确认 | C | Two elections one week apart could reshape Israel's government, U.S. military aid and the global energy market - Latin Times |
+| 2026-10-30 04:38 | Iran | 通报 | Iran | 待确认 | C | Top admiral briefs Trump on Iran attack options - The Australian |
+| 2026-10-30 04:16 | 未明确 | 通报 | 未明确 | 待确认 | C | Netanyahu and Eisenkot: Different routes to the same goals - نون بوست |
+| 2026-10-30 04:15 | US | 通报 | Iran | 待确认 | C | CENTCOM chief briefs Trump on options for renewed attacks on Iran: Report - Anadolu Ajansı |
+| 2026-10-30 04:00 | Iran | 空袭 | Tehran | 待确认 | C | Talk Or Strike? Vance Sends Message To Tehran As Iran Holds Firm On Seven-Point Framework - The Times of India |
+| 2026-10-30 03:58 | US | 通报 | Iran | 待确认 | C | CENTCOM chief briefs Trump on Iran military options in meeting, source tells 'Post' - The Jerusalem Post |
+| 2026-10-30 03:57 | US | 通报 | Iran | 待确认 | C | JD Vance letter may offer last chance to avert fresh conflict between US and Iran - The Guardian |
+| 2026-10-30 03:40 | US | 通报 | Iran | 命中 | C | CENTCOM chief presents Iran military options to Trump at White House — WSJ - The Times of Israel |
+| 2026-10-30 03:20 | Israel | 通报 | Israel | 待确认 | C | Today’s Headlines: Israel Bombs Gaza Ministry / MQ-1 Drone Downed near Hormuz / 'Keep Fighting' - Palestine Chronicle |
+| 2026-10-30 03:20 | US | 通报 | Iran | 待确认 | C | Top US commander briefs Trump on military options for Iran - WSJ - Iran International |
+| 2026-10-30 03:11 | Iran | 通报 | Iran | 待确认 | C | A New War on Iran Would Deal a Death Blow to U.S. Leadership in the Mideast - Foreign Policy |
+| 2026-10-30 03:03 | Israel | 通报 | Iran | 待确认 | C | IDF soldier charged with spying for Iran in exchange for cryptocurrency - The Times of Israel |
+| 2026-10-30 02:47 | Israel | 通报 | Iran | 待确认 | C | Iran rejects Qatar’s draft deal to end U.S.-Israel war - Bol News |
+| 2026-10-30 02:22 | Israel | 撤离 | Israel | 待确认 | C | Report: Trump Links Israeli Withdrawal to Lebanon Signing Abraham Accords - Antiwar.com |
+| 2026-10-30 02:20 | US | 通报 | Iran | 待确认 | C | Iran Crisis / War or Diplomacy? / Iran US Tensions / Global News - News Insight with Amir Zia - Aaj English TV |
+| 2026-10-30 02:01 | US | 拦截 | Israel | 待确认 | C | US transfers Patriot air defense system from Texas to Israel: Report - thecradle.co |
+| 2026-10-30 01:19 | 未明确 | 通报 | Beirut | 待确认 | C | Beirut International Airport Restores Electricity After Technical Fault, Operations Resume: 10 outlets compared - NewsCord |
+| 2026-10-30 01:18 | 未明确 | 通报 | 未明确 | 待确认 | C | ‘Prince Donald Sold America…’: Ossoff Unleashes ‘Mar-a-Lago Mafia’ Attack On Trump’s Inner Circle - The Times of India |
