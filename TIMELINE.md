@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-11-01 00:43
+更新时间（北京时间）: 2026-11-01 11:59
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-11-01 00:37 | US | 通报 | Iran | 命中 | C | Middle East tensions escalate as Israeli attacks hit Lebanon, Gaza and West Bank; Iran warns of wider conflict if attacked by US-Israel - Muslim News UK - The Muslim News |
-| 2026-10-31 23:52 | US | 通报 | Iran | 待确认 | C | Iran's Army Warns Any New US Attack Would Spread War Wider - ASHARQ AL-AWSAT English |
-| 2026-10-31 23:45 | US | 通报 | Israel | 待确认 | C | Khamenei Orders IRGC to Target All US and Israeli Assets - JFeed |
-| 2026-10-31 23:43 | US | 通报 | Israel | 待确认 | C | Khamenei warns US, Israel of ‘geographically unrestricted’ response - The Siasat Daily |
-| 2026-10-31 23:00 | Israel | 通报 | Israel | 命中 | C | Today’s Headlines: Israel Kills Two in Nuseirat / Fourth Oil Tanker Hit / 'We Do Not Work for War' - Palestine Chronicle |
-| 2026-10-31 23:00 | US | 通报 | Iran | 待确认 | C | Iran-US deal: Draft proposes uranium transfer, Hormuz reopening in 7 days, China to play major role; what we know so far - News24 World - News24Online |
-| 2026-10-31 22:53 | US | 通报 | Iran | 待确认 | C | Iran threatens US and Israel with widespread retaliation over fresh attack threats - https://novanews.co.za/ |
-| 2026-10-31 22:38 | US | 通报 | Iran | 待确认 | C | Iran’s Mojtaba Khamenei warns US, Israel of response ‘without geographic limits’ - The Indian Express |
-| 2026-10-31 22:35 | Israel | 撤离 | Israel | 待确认 | C | Israel Intensifies Attacks on South Lebanon despite Withdrawal Agreement - Palestine Chronicle |
-| 2026-10-31 22:30 | US | 通报 | Israel | 待确认 | C | Khamenei said to order military response without ‘geographic limits’ if US, Israel attacks - The Times of Israel |
-| 2026-10-31 22:28 | US | 通报 | Iran | 待确认 | C | Iran's Khamenei warns US, Israel against fresh attacks, orders 'unrestricted' military response to threats - IBTimes India |
-| 2026-10-31 22:22 | Israel | 通报 | Iran | 待确认 | C | Iran Braces for More War, No Matter the Outcome of the U.S. and Israeli Elections - The New York Times |
-| 2026-10-31 22:17 | US | 通报 | Iran | 待确认 | C | Touch Iran and face retaliation: Mojtaba Khamenei warns US, Israel - Madhyamam |
-| 2026-10-31 22:16 | 未明确 | 通报 | 未明确 | 待确认 | C | Middle East latest: Attacks on ships transiting Hormuz in October highest since start of war - The National |
-| 2026-10-31 22:10 | US | 通报 | Jerusalem | 待确认 | C | Khamenei: IRGC will have 'immediate, unrestricted response' to any US, Israeli threats - The Jerusalem Post |
-| 2026-10-31 21:58 | 未明确 | 通报 | 未明确 | 待确认 | C | Tracking U.S., state and county gas prices, in maps and charts. Updated daily. - NBC News |
-| 2026-10-31 21:39 | US | 通报 | Iran | 待确认 | C | Iran's Supreme Leader Warns US, Israel of Unrestricted Response to Renewed Attacks - Kurdistan24 |
-| 2026-10-31 21:25 | Israel | 发射 | Israel | 待确认 | C | Israel launches new airstrikes in southern Lebanon — Anadolu Agency - UA.NEWS |
-| 2026-10-31 21:21 | US | 通报 | Iran | 待确认 | C | Trump says Iran war will end soon, US military insists Hormuz is secure - アラブニュース |
-| 2026-10-31 21:07 | US | 通报 | Iran | 待确认 | C | Iran's Supreme Leader Warns US and Israel Against New Conflict - Ratopati |
-| 2026-10-31 21:04 | US | 通报 | Iran | 待确认 | C | Iran's Supreme Leader Warns US and Israel Against New Conflict - Hamro Patro |
-| 2026-10-31 21:00 | Israel | 通报 | Iran | 待确认 | C | Gulf states scramble to avert another U.S.-Israeli war on Iran they cannot stop - Mondoweiss |
-| 2026-10-31 20:49 | US | 空袭 | Iran | 待确认 | C | Iran buying time in nuclear talks as US prepares for possible strikes - The Jerusalem Post |
-| 2026-10-31 20:46 | US | 通报 | Israel | 待确认 | C | "We Will Decide How Conflicts End": Khamenei Orders Immediate Response to US, Israeli Threats - Pragativadi |
-| 2026-10-31 20:37 | US | 通报 | Iran | 待确认 | C | Iran negotiators in Doha for Qatar-mediated talks to end US-Iran war, official confirms - The Times of Israel |
-| 2026-10-31 20:28 | US | 通报 | Iran | 待确认 | C | Iran’s Mojtaba Khamenei orders ‘immediate’ response to any renewed US-Israel attack - Firstpost |
-| 2026-10-31 20:27 | Iran | 通报 | Tehran | 待确认 | C | Iran’s supreme leader says Tehran will decide when conflict ends if ‘enemies resume attacks’ - Anadolu Ajansı |
-| 2026-10-31 20:25 | Iran | 撤离 | Iran | 待确认 | C | Iran lawmakers call for withdrawal from NPT: Will we have war or peace? - Al Jazeera |
-| 2026-10-31 20:09 | US | 通报 | Iran | 待确认 | C | Iran's supreme leader warns US, Israel of 'unrestricted geographical response' to new attacks - Dawn |
-| 2026-10-31 20:09 | US | 通报 | Iran | 待确认 | C | Iran's Supreme Leader Khamenei Warns US and Israel Against Resuming War - Head Topics |
-| 2026-10-31 20:07 | US | 通报 | Iran | 待确认 | C | Iran says fishermen found after accusing US of attack in Hormuz - The Times of Israel |
-| 2026-10-31 20:00 | 未明确 | 通报 | 未明确 | 待确认 | C | Mideast leaders call for calm as fears mount of a renewed war in the region, and other Mideast news - The Tribune-Democrat |
-| 2026-10-31 19:57 | Iran | 空袭 | Iran | 待确认 | C | A new strike on Iran? Trump and Netanyahu may not be on the same page - Ynetnews |
-| 2026-10-31 19:23 | US | 空袭 | Iran | 待确认 | C | 'War will engulf wider region': Iran warns Trump against fresh US strikes amid stalled negotiations - Firstpost |
-| 2026-10-31 19:21 | US | 通报 | Iran | 待确认 | C | Trump Says War With Iran Will End Soon After CENTCOM Briefing: how 7 outlets framed it - NewsCord |
-| 2026-10-31 19:20 | Iran | 通报 | Iran | 待确认 | C | JD Vance Leads U.S. Delegation To Islamabad Talks With Iran Over Lebanon And Sanctions: how 5 outlets framed it - NewsCord |
-| 2026-10-31 19:18 | US | 空袭 | Israel | 待确认 | C | Israel strikes southern Lebanon despite US ceasefire talks - Yeni Şafak English |
-| 2026-10-31 19:15 | Iran | 通报 | Iran | 待确认 | C | Iran’s supreme leader orders military production drive, puts intelligence and domestic weapons first - Business Upturn |
-| 2026-10-31 19:14 | Iran | 空袭 | Iran | 待确认 | C | Iran's Khamenei Meets Military Brass as U.S. Said to Plot Post-Midterm Strikes - Haaretz |
-| 2026-10-31 19:01 | US | 空袭 | Iran | 待确认 | C | Fresh US strikes will unleash ‘geographically unrestricted response’, Iran’s supreme leader warns - The Straits Times |
+| 2026-11-01 11:20 | US | 发射 | Iran | 待确认 | C | Iran's Supreme Leader warned the US and Israel against launching new attacks. - Vietnam.vn |
+| 2026-11-01 11:00 | US | 通报 | Iran | 待确认 | C | Hezbollah limits US-Iran intervention to existential threats, official says - The Jerusalem Post |
+| 2026-11-01 10:59 | 未明确 | 通报 | 未明确 | 待确认 | C | Gadi Eisenkot is the bereaved general trying to outmaneuver Netanyahu - The Washington Post |
+| 2026-11-01 10:08 | US | 空袭 | Iran | 待确认 | C | Live Updates: War returns to Iran with Israel, US strikes - Dawn |
+| 2026-11-01 09:41 | US | 通报 | Iran | 待确认 | C | Iran’s Supreme Leader, Army Warn against US, Israeli Threats, Say Any New Attack Would Spread War Wider - THISDAYLIVE |
+| 2026-11-01 09:27 | Israel | 通报 | Iran | 待确认 | C | The Israeli press wrote that preparations for an attack on Iran are complete, and Trump's decision is awaited. - Haberler.com |
+| 2026-11-01 09:21 | US | 空袭 | Iran | 待确认 | C | Trump discusses Iran with Netanyahu as US weighs fresh strikes: Report - The Economic Times |
+| 2026-11-01 09:19 | Israel | 通报 | Iran | 待确认 | C | Iran Braces for More War, No Matter the Outcome of the U.S. and Israeli Elections - NewsCord |
+| 2026-11-01 09:07 | US | 通报 | Iran | 待确认 | C | Diplomacy in overdrive as Iran-US war fears mount - The Express Tribune |
+| 2026-11-01 08:20 | US | 通报 | Iran | 命中 | C | Donald Trump says US capable of hitting Iran 'in ten minutes' after Benjamin Netanyahu meeting - The Jerusalem Post |
+| 2026-11-01 07:26 | US | 通报 | Iran | 待确认 | C | Iran says US tone shifts but demands still block talks - Iran International |
+| 2026-11-01 07:21 | US | 通报 | Iran | 待确认 | C | Israel completes 'preparations' for Iran confrontation as US weighs options — report - TRT World |
+| 2026-11-01 07:21 | Israel | 通报 | Israel | 待确认 | C | Israel shells south Lebanon towns, builds roads connecting military outposts - Middle East Eye |
+| 2026-11-01 07:17 | Israel | 通报 | Iran | 待确认 | C | Trump, Netanyahu hold talks amid Iran tensions - Israel National News |
+| 2026-11-01 07:09 | Iran | 通报 | Iran | 待确认 | C | Iran war live: Trump has not decided on renewed Iran military action: Rubio - Arabian Business |
+| 2026-11-01 06:29 | Israel | 通报 | Iran | 待确认 | C | Israel completes preparations for possible renewed confrontation with Iran - Operativ Məlumat Mərkəzi |
+| 2026-11-01 06:27 | Israel | 通报 | Iran | 待确认 | C | Israel completes preparations for renewed confrontation with Iran: Report - Anadolu Ajansı |
+| 2026-11-01 06:25 | Israel | 通报 | Iran | 待确认 | C | Israel Could Unleash Hezbollah-Style Pager Attack on Iran Leaders - Newsmax |
+| 2026-11-01 06:22 | US | 通报 | Iran | 待确认 | C | Why tensions between Iran, Israel and the United States are rising again - SBS |
+| 2026-11-01 06:16 | US | 空袭 | Iran | 待确认 | C | Israel expects US to delay strike on Iran until elections — Jerusalem Post - UA.NEWS |
+| 2026-11-01 05:46 | US | 通报 | Iran | 待确认 | C | War with Iran looms as Israeli politicians focus on their own agendas - www.israelhayom.com |
+| 2026-11-01 04:19 | Israel | 通报 | Israel | 待确认 | C | Lebanon-Israel Border Topic - 961 - 961 News |
+| 2026-11-01 04:01 | 未明确 | 通报 | 未明确 | 待确认 | C | Two leaders and their political twilight - The Express Tribune |
+| 2026-11-01 03:27 | Israel | 通报 | Iran | 待确认 | C | Iran Prepares for Renewed War Regardless of U.S. and Israeli Election Results — Warns of “Immediate Response” to Any Threat - NewsBreak: Local News & Alerts |
+| 2026-11-01 02:44 | Israel | 通报 | Iran | 待确认 | C | Trump: ‘The war in Iran will end soon, one way or another.’ Israel: Netanyahu in the lead but without a majority - Il Sole 24 ORE |
+| 2026-11-01 02:36 | Israel | 通报 | Jerusalem | 待确认 | C | Israel’s offensive strategy in the West Bank has curbed terrorism - The Jerusalem Post |
+| 2026-11-01 02:25 | US | 通报 | Iran | 待确认 | C | Iran warns US, Israel against new attacks - Oman Observer |
+| 2026-11-01 02:09 | US | 通报 | Iran | 待确认 | C | Iran warns US and Israel: What to know as fears of wider conflict grow - Gulf News |
+| 2026-11-01 01:59 | US | 发射 | Iran | 待确认 | C | Iran warns war could spread ‘much wider’ if US launches ‘another military adventure’ - NewsCord |
+| 2026-11-01 01:52 | US | 通报 | Iran | 命中 | C | US-Israel-Iran War Latest Live News: Iran’s Navy Says Oil Tanker Struck Naval Mines in Strait of Hormuz as Rubio Reveals Trump Has Yet to Decide on Military Action Against Iran - The Sunday Guardian |
+| 2026-11-01 01:31 | US | 空袭 | Iran | 待确认 | C | Iran threatens wider war if US and Israel strike again - Gulf News |
+| 2026-11-01 01:07 | Israel | 通报 | Iran | 待确认 | C | Israel ready for another Iran war, but Trump has yet to decide - Ynetnews |
+| 2026-11-01 01:00 | US | 通报 | Iran | 待确认 | C | US Asks Gulf Nations to Brace for Possible Military Action Against Iran - Kashmir Life |
+| 2026-11-01 01:00 | US | 通报 | Iran | 待确认 | C | Iran's Khamenei warns US and Israel against new attacks - France 24 |
+| 2026-11-01 01:00 | US | 通报 | Iran | 待确认 | C | Iran's Khamenei warns US and Israel against new attacks - Big News Network.com |
+| 2026-11-01 00:47 | US | 空袭 | Iran | 命中 | C | 'Immediate, Impactful, Unrestricted Response': Iran's Mojtaba Khamenei Warns US and Israel as Trump Hints at Fresh Strikes - Pragativadi |
+| 2026-11-01 00:44 | Iran | 通报 | Iran | 待确认 | C | Middle East on edge as fears mount the Iran war could restart after the midterms - CNN |
+| 2026-11-01 00:37 | US | 通报 | Iran | 命中 | C | Middle East tensions escalate as Israeli attacks hit Lebanon, Gaza and West Bank; Iran warns of wider conflict if attacked by US-Israel - The Muslim News |
+| 2026-11-01 00:37 | US | 通报 | Iran | 待确认 | C | Iran’s Mojtaba Khamenei Warns US, Israel Against Fresh Attacks, Orders Immediate Response - ABP Live English |
+| 2026-11-01 00:29 | US | 空袭 | Iran | 待确认 | C | Iran strikes on US Mideast bases first took out early-warning systems, analysis finds - The Times of Israel |
