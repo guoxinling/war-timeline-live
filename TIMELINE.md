@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-11-02 01:33
+更新时间（北京时间）: 2026-11-02 12:04
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-11-02 01:28 | US | 通报 | Iran | 待确认 | C | US-Iran talks progress, but nuclear disputes remain - The Jerusalem Post |
-| 2026-11-02 01:06 | US | 空袭 | Iran | 待确认 | C | Live Updates: War returns to Iran with Israel, US strikes - Dawn |
-| 2026-11-02 00:50 | US | 空袭 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Trump Weighs Fresh Strikes After Midterm Elections As Iran Threatens Retaliation, US Military Bases Face Damage Concerns - The Sunday Guardian |
-| 2026-11-02 00:45 | Israel | 通报 | Israel | 待确认 | C | Netanyahu Election Setback / DG ISPR Major Announcement / Protests Erupt in Israel / 09PM HEADLINES - Aaj English TV |
-| 2026-11-02 00:24 | US | 通报 | Iran | 待确认 | C | Iran's top diplomat hopes US shows 'rationality,' and other Mideast news - Rocky Mount Telegram |
-| 2026-11-02 00:10 | Hezbollah | 空袭 | 未明确 | 待确认 | C | U.S. Drone Strike Kills Kataib Hezbollah Commander Abu Baqir Al-Saadi In Baghdad: who 7 outlets blamed - NewsCord |
-| 2026-11-02 00:10 | US | 通报 | Iran | 待确认 | C | Iran warns US, Israel against new attacks after Trump, Netanyahu threats - The Manila Times |
-| 2026-11-02 00:04 | Iran | 空袭 | Iran | 待确认 | C | Iran warns new war could last longer after Trump threatens strikes - The Hindu |
-| 2026-11-02 00:00 | US | 通报 | Iran | 待确认 | C | Do the US, Israel agree on targets, challenges, timelines in a potential third Iran war? - analysis - The Jerusalem Post |
-| 2026-11-01 23:58 | Israel | 通报 | Iran | 待确认 | C | Israel Completes Military Preparations for Possible Renewed War With Iran: Report - Kashmir Life |
-| 2026-11-01 23:45 | 未明确 | 通报 | 未明确 | 待确认 | C | Tracking U.S., state and county gas prices, in maps and charts. Updated daily. - NBC News |
-| 2026-11-01 23:39 | Iran | 空袭 | Iran | 待确认 | C | Unbelievable: Mossad plans new pager strike in Iran - Targets Rezaei, the head of IRGC, and two generals - Bankingnews |
-| 2026-11-01 23:34 | US | 通报 | Iran | 待确认 | C | 'Prepared to defend ourselves' if US attacks, says representative of Iran's Supreme Leader in India - The Economic Times |
-| 2026-11-01 23:25 | Israel | 通报 | Israel | 待确认 | C | Netanyahu Faces Setback in Israel Elections / Big News Regarding Petrol / 08PM HEADLINES 01 NOV 2026 - Aaj English TV |
-| 2026-11-01 23:14 | Iran | 通报 | Iran | 待确认 | C | UAE seeks diplomatic breakthrough with Iran amid Gulf unrest - The Jerusalem Post |
-| 2026-11-01 22:51 | US | 通报 | Iran | 待确认 | C | Middle East latest: Iran offers to open strait in two days if US meets demands - The National |
-| 2026-11-01 22:46 | US | 通报 | Iran | 待确认 | C | US/Israel-Iran war: Five key developments UAE residents should know this evening (Sunday, November 1) - Gulf News |
-| 2026-11-01 22:43 | US | 通报 | Iran | 待确认 | C | Iran, Qatari mediators hold third day of talks to end US-Iran war - Reuters |
-| 2026-11-01 22:39 | US | 空袭 | Iran | 待确认 | C | Iran, Qatar hold third day of talks as fears of renewed US strikes grow - The Jerusalem Post |
-| 2026-11-01 22:29 | Israel | 通报 | Israel | 待确认 | C | Israel forces Palestinians in Gaza to choose between assassination alone or death with their families: Report - thecradle.co |
-| 2026-11-01 22:10 | Israel | 空袭 | Israel | 伤亡 | C | Eight Palestinians killed in Israeli strikes on Gaza as fragile ceasefire comes under fresh strain - Firstpost |
-| 2026-11-01 21:57 | US | 通报 | Iran | 待确认 | C | Military briefing: what would another US-Iran conflict look like? - tovima.com |
-| 2026-11-01 21:53 | Iran | 通报 | Iran | 待确认 | C | Live - Iran warns any new war could spread beyond the Middle East - Iran International |
-| 2026-11-01 21:36 | 未明确 | 通报 | Syria | 待确认 | C | Syria: From Regime Preservation to Position Preservation - Begin-Sadat Center for Strategic Studies |
-| 2026-11-01 21:28 | US | 通报 | Iran | 待确认 | C | US and Israel Reportedly Plan Hezbollah Style Pager Attacks on Iranian Military Leadership - Pakistan Matters |
-| 2026-11-01 21:12 | US | 通报 | Iran | 待确认 | C | Iran and US explore diplomacy amid rising threats of war - Al Jazeera |
-| 2026-11-01 21:09 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War News Live: Saudi Military Chief Fahd al-Ghufaili Calls For Global Action To Protect Key Maritime Routes, Says ‘Force Is No Substitute For Law’ - The Sunday Guardian |
-| 2026-11-01 21:07 | US | 通报 | Iran | 待确认 | C | Israel prepares for renewed Iran war as Trump, Netanyahu speak ahead of US midterms - India Today |
-| 2026-11-01 20:51 | US | 通报 | Iran | 待确认 | C | Iran Warns of Longer War with US, Trump Cannot Dictate Terms - Ratopati |
-| 2026-11-01 20:30 | US | 通报 | Iran | 待确认 | C | Midterm Elections Could Shape Iran Strategy as US Military Buildup Continues in Middle East - VINnews |
-| 2026-11-01 20:24 | US | 通报 | Iran | 待确认 | C | Iranian negotiators in Doha to continue talks to end the US-Iran war, official says - Yahoo |
-| 2026-11-01 20:10 | US | 空袭 | Iran | 待确认 | C | Iran threatens to expand war beyond Middle East as US weighs new strikes - www.israelhayom.com |
-| 2026-11-01 20:06 | Iran | 通报 | Iran | 待确认 | C | Iran pushes for deal to end war as talks in Qatar enter third day - Philenews |
-| 2026-11-01 19:45 | Hezbollah | 通报 | 未明确 | 待确认 | C | Hezbollah Told to Prepare for War, Lebanese Source Says - JFeed |
-| 2026-11-01 19:41 | Israel | 空袭 | Tehran | 待确认 | C | Another 'exploding pager' plot? Israel eyes strike on Tehran’s top military bosses - The Times of India |
-| 2026-11-01 19:39 | US | 通报 | Iran | 待确认 | C | Iran has 'no intention' to engage in peace talks with US as war looms - Middle East Eye |
-| 2026-11-01 19:36 | Israel | 空袭 | Iran | 待确认 | C | Former Mossad Official Suggests Israel's Readiness for Covert Strike on Iranian Leadership - وردنا |
-| 2026-11-01 19:20 | US | 通报 | Iran | 待确认 | C | Mediators continue US-Iran negotiations amid war rhetoric: What we know - Al Jazeera |
-| 2026-11-01 19:10 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Live: ‘Innovative Ideas’ Urged by Israeli President Isaac Herzog as Parties Face Government Formation Challenge; Check Latest Update - The Sunday Guardian |
-| 2026-11-01 19:04 | Israel | 通报 | Iran | 待确认 | C | Israel completes preparations for renewed war with Iran: Report - Saudi Gazette |
+| 2026-11-02 11:58 | US | 通报 | Iran | 待确认 | C | Countdown until US midterm elections are over feels like waiting for war with Iran - editorial - The Jerusalem Post |
+| 2026-11-02 11:35 | US | 空袭 | Iran | 待确认 | C | US-Israel-Iran War Latest Live Updates: Will Trump Attack Iran After Midterm Elections? Netanyahu Reportedly Pushes for Renewed Military Strikes - The Sunday Guardian |
+| 2026-11-02 11:22 | US | 发射 | Tehran | 待确认 | C | US-Iran war: Trump to launch nuclear strike against Tehran amid pressure from Netanyahu? / What Tucker Carlson claimed - Livemint |
+| 2026-11-02 11:08 | US | 通报 | Iran | 待确认 | C | Iran, Qatar continue talks to end US-Israel war - Operativ Məlumat Mərkəzi |
+| 2026-11-02 10:58 | US | 通报 | Iran | 待确认 | C | Middle East latest: Iran offers to open strait in two days if US meets demands - The National |
+| 2026-11-02 10:46 | US | 通报 | Iran | 待确认 | C | US President and Israeli Prime Minister discuss next steps in Iran. - Vietnam.vn |
+| 2026-11-02 10:14 | US | 通报 | Iran | 待确认 | C | Next phase US-Iran of war looms? - The Vibes |
+| 2026-11-02 09:28 | US | 空袭 | Iran | 待确认 | C | Gulf States Fear Fiercer Iran Retaliation If US Strikes Again - Bloomberg.com |
+| 2026-11-02 09:00 | US | 通报 | Iran | 待确认 | C | ‘The mood has definitely shifted’: Signs pointing to renewed US-Iran war - Nine.com.au |
+| 2026-11-02 08:32 | Iran | 通报 | Iran | 待确认 | C | Trump and Netanyahu discuss possible next steps in Iran conflict - Dunya News |
+| 2026-11-02 08:23 | US | 通报 | Iran | 待确认 | C | Iran warns renewed war with US could outlast previous conflict - France 24 |
+| 2026-11-02 08:23 | US | 通报 | Iran | 待确认 | C | Iran warns renewed war with US could outlast previous conflict - Big News Network.com |
+| 2026-11-02 08:17 | US | 通报 | Iran | 待确认 | C | Iran: Talks are advancing, agreement depends on US 'rationality' - Israel National News |
+| 2026-11-02 07:19 | US | 通报 | Iran | 待确认 | C | Iran and Qatar Hold Third Day of Talks as US, Israel Prepare for Potential New Attacks - Antiwar.com |
+| 2026-11-02 06:08 | Israel | 通报 | Israel | 待确认 | C | Israel holds off targeting Hamas civil officials over fears of Gaza governance collapse - World Israel News |
+| 2026-11-02 05:40 | US | 通报 | Iran | 待确认 | C | Iran’s top diplomat hopes US shows ‘rationality,’ and other Mideast news - WTOP News |
+| 2026-11-02 05:37 | Israel | 通报 | Iran | 待确认 | C | Trump: Iran will make a deal or we will end the conflict - Israel National News |
+| 2026-11-02 04:56 | Iran | 空袭 | Iran | 待确认 | C | Unbelievable: Mossad plans new pager strike in Iran - Targets Rezaei, the head of IRGC, and two generals - Bankingnews |
+| 2026-11-02 04:56 | US | 空袭 | Iran | 待确认 | C | Trump Netanyahu Call: US Weighs Renewed Strikes on Iran - JFeed |
+| 2026-11-02 04:54 | Israel | 通报 | Iran | 待确认 | C | Former IDF chief: Israel misread Hamas, prioritized Iran before Oct. 7 attack - Ynetnews |
+| 2026-11-02 04:44 | Israel | 空袭 | Israel | 待确认 | C | SCOOP: Israel Preparing for Strike After Netanyahu’s Unusual Call With Mossad Chief - Belaaz |
+| 2026-11-02 04:40 | US | 通报 | Iran | 待确认 | C | US, Israeli targets, timelines, priorities for a potential third Iran war - The Jerusalem Post |
+| 2026-11-02 04:34 | Iran | 通报 | Iran | 待确认 | C | Trump holds call with Netanyahu over state of Iran war: report - The Hindu |
+| 2026-11-02 04:32 | Iran | 通报 | Iran | 待确认 | C | The Arab World Is Watching: Could Netanyahu Expand the Iran War Before Forming a Government? - Middle East Forum |
+| 2026-11-02 04:22 | US | 空袭 | Iran | 待确认 | C | Israel ready to strike Iran with US, but specific joint goals remain unclear - sources - The Jerusalem Post |
+| 2026-11-02 04:13 | Israel | 通报 | Iran | 待确认 | C | Israel Plotting 'Pager Attack 2.0'? Iran's Top Generals in Crosshairs - Times Now |
+| 2026-11-02 03:29 | Iran | 通报 | Iran | 伤亡 | C | Netanyahu uses election deadlock to ramp up Iran war threats and retain power - World Socialist Web Site |
+| 2026-11-02 03:23 | Hezbollah | 通报 | 未明确 | 待确认 | C | Movie: “Paging Hezbollah” - Why Evolution Is True |
+| 2026-11-02 03:16 | Israel | 通报 | Israel | 待确认 | C | Israel Naval Blockade of Beirut, Tripoli Planned if Hezbollah Joins - JFeed |
+| 2026-11-02 03:00 | Hezbollah | 通报 | 未明确 | 待确认 | C | Lebanese Concern Over 'Third War' Despite Hezbollah Assurances - ASHARQ AL-AWSAT English |
+| 2026-11-02 03:00 | US | 通报 | Iran | 待确认 | C | Despite ‘diplomatic breakthrough’: Trump calls Netanyahu, puts Iran’s mountain in focus - The News Pakistan |
+| 2026-11-02 02:42 | US | 通报 | Iran | 待确认 | C | Report: Netanyahu pressed Trump to resume Iran war after US midterms; president undecided - The Times of Israel |
+| 2026-11-02 02:42 | Israel | 通报 | Iran | 待确认 | C | 'Tough' Trump-Netanyahu call reveals disagreement over Iran war - Israel National News |
+| 2026-11-02 02:29 | US | 通报 | Iran | 待确认 | C | Iran-US talks continue in Doha amid fears of renewed war - Tribune Online |
+| 2026-11-02 02:27 | Israel | 通报 | Israel | 待确认 | C | Israel takes any renewed Hezbollah involvement against its military 'very seriously' - L'Orient Today |
+| 2026-11-02 02:25 | US | 通报 | Iran | 待确认 | C | Negotiators ‘braced for worst’ over US-Iran talks to reopen strait of Hormuz - The Guardian |
+| 2026-11-02 02:05 | US | 通报 | Iran | 待确认 | C | US-Iran talks progress, but nuclear disputes remain - The Jerusalem Post |
+| 2026-11-02 02:02 | US | 通报 | Iran | 待确认 | C | Gulf braced for escalation of war between US-Israel alliance and Iran - Financial Times |
+| 2026-11-02 02:00 | Israel | 通报 | Iran | 待确认 | C | Why Israel must prepare for an independent, open-ended war against Iran and its proxies - opinion - The Jerusalem Post |
+| 2026-11-02 01:42 | US | 通报 | Iran | 待确认 | C | Iranian army: War could be longer than previous one, Trump won’t dictate its duration - The Times of Israel |
