@@ -1,120 +1,140 @@
 {
-  "generatedAt": "2026-11-05 12:52",
+  "generatedAt": "2026-11-06 03:25",
   "entries": [
     {
-      "time": "2026-11-05 12:19",
+      "time": "2026-11-06 03:14",
       "actor": "US",
-      "action": "空袭",
-      "place": "Iran",
-      "result": "待确认",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "Live Updates: War returns to Iran with Israel, US strikes - Dawn",
-      "sources": [
-        "Dawn"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wWU1XcTJjVkhydDJ6REhTa1RGZHp5eHJhYXVpQlRoNndhUjBOamFNWlRERkdMYk53LWc4LVhDbktnSXZ3RkJyWmtEMEgycjRFNmJN?oc=5"
-      ]
-    },
-    {
-      "time": "2026-11-05 12:07",
-      "actor": "Israel",
       "action": "通报",
       "place": "未明确",
       "result": "待确认",
       "confidence": "C",
       "confidenceNote": "C 现场初报待核实",
-      "headline": "Hezbollah is back: Lebanese army fails to fill the vacuum left by IDF - Ynetnews",
+      "headline": "Can US midterm results save the Gulf states from war? - DW.com",
       "sources": [
-        "Ynetnews"
+        "DW.com"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wQWpoaGZhdGVoRzRqRUE3a2ZubUZjVVllVXpITHl1alNrTmxYbl9YM3M1Zkg0VVlGcUpWdUZDLTNONVBPblQ1cXM2RU9TdV9nRHF2bHB3?oc=5"
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVEttTHpiYWxuNFFTYXBiWUxsWUphTzRxMThBSnRGdXRoRk9QXzJ2REY2d0NQeUlPRGpUMEdVQkdYSnJsdkQ2TDFPVTFlNEJPS1BLUEZGSWlLbWR4LVdTWTlhNEtNcWFfYU9reVIyQm9Fb2N3cWc1czJlR2x1Z1lUaDhwbWZtb29teWxPeUxZTzlfV2ZkSFFsT2t0WUpBUGl3a1HSAaIBQVVfeXFMTlZFRVcxZ1ZKaHVkdDZfQ3ZPNDlxazVsendlSDFJRGNSd1JNbkxPMWhncWVyV2ZOM2p0X1UyTHlUaWRYcWhVM0pqalVuOFNvdVRfenkwZ2NDQjFSU1dRSWE2dHVMWmd1YlQ3Yy16dGtabExHbGo3cHhhcUFDckVZNkZMbTBYZ3h2MU94bVdiUHlJTVBmU1pFZmlacDNOcV8wWnVB?oc=5"
       ]
     },
     {
-      "time": "2026-11-05 11:34",
+      "time": "2026-11-06 03:00",
+      "actor": "Iran",
+      "action": "空袭",
+      "place": "Iran",
+      "result": "待确认",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "Is Trump admin planning nuclear strike on Iran in wake of midterms? What we know - Snopes",
+      "sources": [
+        "Snopes"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMic0FVX3lxTE11Z1g0SllIVDQ3WVkyOHExSjZkNVppTEZKYjRaLVdQbWY1U25Nc1dzS0VLMEVnalNVOEtFcVFaQWlIR0lUUFlHMDIxNzNJU2xNcmRlaFlySVBrZlA4MTYxdUw0dng4WGVEZF80a3pzckZLZTA?oc=5"
+      ]
+    },
+    {
+      "time": "2026-11-06 02:51",
       "actor": "Iran",
       "action": "通报",
       "place": "Iran",
       "result": "待确认",
       "confidence": "C",
       "confidenceNote": "C 现场初报待核实",
-      "headline": "Oil Prices Today: Brent Crude Falls Below $95 After 9% Crash As Trump Faces Pressure To End Iran War – Is Iran War Finally Losing Its Grip On Markets? - The Sunday Guardian",
+      "headline": "How Democrats Can Stop the Iran War Now - Reason Magazine",
       "sources": [
-        "The Sunday Guardian"
+        "Reason Magazine",
+        "Reason Magazine"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMimAJBVV95cUxPUFJlRW5ZYnBTYXc1VVZxM3R4WDZhVjg4ay1maUt6UlJQZmxrQ0N1SlNRcGtDbXJFQzlyeWNKRWUydUg5OUxDd0VvUXVWR2JkMWh2SXJMeDhkbWVjWnVpWUdVOGZnd2ZCQ1FIVHhENjBEa1BSd0lZWVJMOFhESU5kbFpKN3hqWmJpQ1IzQVJTTzhhczBJWjdQbnpsX29NcEZmZ0tKMVlMSm9yczB2ejl0TWhvdHJXVlBWMlNTemE3Z05VQ29aVFlOWXp3SjMzQ3lsQXRNN0tuY3BFTlI2bkg2X0JnSmJoRTNyaUtuN3lXeUJjMWgwVXY2SnZob01PRGdxZTVQN19fdWJRUERSVGVWd3E4eXFlOC000gGeAkFVX3lxTFBTNl9RQkpaYTJrUTNfcEJvVXo2MEJxREZlVnJIVkRzSkJ6SUNfOHA2MjdYVzdOQ0lSdHg4bE8wUERmQkVmbGVhb094TzFOd01HTFc4ODJoeURKOElwc0F6eXo5MkhZVjVCMTUtazd6UlFUZWc4cTA3THZoQThVb0M4Uy1qbkUxenhnVll2eTdTazMtMkFLb3FGNXBEcVVkU29OZlRjY0NSb2YwVVg5elFHTFlQYzh2RGxJaVJyWFJDQlYwZFlNSkhrX094azFHbHFjSURFZVc0RGRidUlnVkItZUswblQtODJRekdUdHZFcFBRVDd1dEVMb2NfMGVpbjROelZ3ZDhscW03TTVseHV5bUx6UHR0by1lOTB6eXc?oc=5"
+        "https://news.google.com/rss/articles/CBMiekFVX3lxTFBjRlZoeUg5X2Y5a2psNzJfQ09YM0o1MjBzajRfdmhtd1k2NUdFY0lfSlZVS29nbEFLWEZTWERMWWJlYk1EWnZFcV9aaWZTWkNfTE1neFRjQTdCQnBKaEt6WWVEUVZkdG5FNDBQTW9qYk5CeFdaX1d5QjR3?oc=5",
+        "https://news.google.com/rss/articles/CBMiekFVX3lxTFBjRlZoeUg5X2Y5a2psNzJfQ09YM0o1MjBzajRfdmhtd1k2NUdFY0lfSlZVS29nbEFLWEZTWERMWWJlYk1EWnZFcV9aaWZTWkNfTE1neFRjQTdCQnBKaEt6WWVEUVZkdG5FNDBQTW9qYk5CeFdaX1d5QjR3?oc=5"
       ]
     },
     {
-      "time": "2026-11-05 11:06",
+      "time": "2026-11-06 02:47",
+      "actor": "US",
+      "action": "通报",
+      "place": "Iran",
+      "result": "命中",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "Iran says tankers struck in Hormuz amid fears of new US attack - Al Jazeera",
+      "sources": [
+        "Al Jazeera"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSndUR0pGRi1MMEthNENuNFlReHRUcGJUVjdxMm9mbEp0bnVncHFlX0ZyMTVXUkR0Ql9CR2lLRElpcnRvQU5mUVFuT2oyakMxaEdGeHZqMnd5dTJyN3hhaFoyX1Z6NS03eUpMTmlCSFd2NktOeU43b0hhRXFKY0tqWHhKYW9FRzNibFFTVHdjSGFTVDhzMnZwak1MMGhTY1N0X3hCZkV30gGrAUFVX3lxTE5jd3JPYU1KcGFXeEJsc0VoM1FsaklHcnVnMkkwTmpZbkNNM2owMDlIOFViMmxWaTlwSzFSX0lqd2FCTWhNejlPeWE1QWxpcFEtbHZ5eklHbXJhTW0yWWlwQ05PeU04OVFLamJvcjBvUHI4ZW9INDFILXVGUHZFQmUwd3hVeW1NUFVmdVZTMGJMSUJfeEtFZS16bTI1SkhKZ3pIVzZaWWd0VG13aw?oc=5"
+      ]
+    },
+    {
+      "time": "2026-11-06 02:46",
       "actor": "US",
       "action": "通报",
       "place": "Iran",
       "result": "待确认",
       "confidence": "C",
       "confidenceNote": "C 现场初报待核实",
-      "headline": "US midterm election results 2026: What does ‘blue tsunami’ mean for Trump's war on Iran? Experts weigh in - Livemint",
+      "headline": "After US midterms, is there a time limit on the Iran war? - analysis - The Jerusalem Post",
       "sources": [
-        "Livemint"
+        "The Jerusalem Post",
+        "The Jerusalem Post"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOamRyeXU0NWhMTlRjV0U1QWhXdkp2ZW1hWHNfb2kwM0tnTHpwY0U0OEpEMVJ2V0FiU3ZvcUlRZTdhNTliZFQtbEtYMzEwU0kzY09Fbmk4Tkk2TVVKQnpGRnl5UW1ha0d3LVl6dWZoVldRRXVqbnJLNDFJZUpqSlJZN2ZtSVJDMWhHaW1GdDRmajNnd0cxT3NIa0dfamhRVjNQQXNyT1ZmVV9OYmVjY3JudzVKbnRMQkJOZzVNLURsNXZMMkpIQTNIaDJhVm5GOExTcVVwZ0NtS3NtNm8xOUk1cjZyZXQ0RFI3dkN4UW4tSk1STjZtWWZZbHRhQVQ0LVc4VXVTS015aF_SAY4CQVVfeXFMTW5VbkJ1anJOdTdLZ1ZQc1RuUGhVQ2RES0ZUXzhRMHItUkp6WDBYSVQyM0ExcFg3SUZ2LUlRVnFyT3JNTnpzX29xTWlvbVA1YzJIY1NhN2J4X2ZhSHNCOHVHTlJiTnhad2tlenEySW1RZ1R2NlF6NWV6MmN1VU93VEp1LVJqZUpOYUpqUUFZU0RMUlNyOFlmYnZsWGRLV0p5ZTJXUEVNOXhQSDljVldwRW50V3IxTFNqR3lnaHNRNGZ0ZzhQTXJOb1lJc2RVTnRrWkY2d0ZOMi1mMjNMcFlWc29aYzdzbGJuU3JpV1NKTlI0OGJacGlrSXdSV0NnYnZGNWFHWmZ2ZmFpWkVUSl93?oc=5"
+        "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wZGdZYUJiQUU4cFNFckZkUjJEX0tGWWZmSHNRYlZoN1Fpb3hzVkY5dTdiSlRvdTI0ZnZoZmN1cHVwRzlUOGpfcVFIVm54SDFHSFRNaTFYdTc3Tk9Xa2hMNmFadzV3bkJ6Vnc?oc=5",
+        "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wZGdZYUJiQUU4cFNFckZkUjJEX0tGWWZmSHNRYlZoN1Fpb3hzVkY5dTdiSlRvdTI0ZnZoZmN1cHVwRzlUOGpfcVFIVm54SDFHSFRNaTFYdTc3Tk9Xa2hMNmFadzV3bkJ6Vnc?oc=5"
       ]
     },
     {
-      "time": "2026-11-05 11:04",
+      "time": "2026-11-06 01:44",
+      "actor": "Iran",
+      "action": "通报",
+      "place": "Iran",
+      "result": "待确认",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "Iran is Reviewing ‘Concrete Proposals’ on Nuclear Program, Officials Say - The New York Times",
+      "sources": [
+        "The New York Times"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZXdqWVZaS0doMXFBRXRjYndqaGZUT0pBTVM1WlB0TlJNMHdTX1JlX0hOT1MyZUFrMTdMTThJczBJUUNyN3JTcllEZjlqN3E2b2VVRTFVbjRiaFJ3TW0ycFZsRlhVMjRaZkR5Rmw5VHp5YmVvdVI1TnNnb09aN0JpeTdubEptZWV1aGd3eDczYkxCdlBFV2tmdVQxUE95YmdOMFVDZXMzRVdDdW05OXc?oc=5"
+      ]
+    },
+    {
+      "time": "2026-11-06 01:43",
+      "actor": "US",
+      "action": "通报",
+      "place": "Iran",
+      "result": "待确认",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "Bernie Sanders urges Democrats to end Iran war and cut US funding for Israel - Latest news from Azerbaijan",
+      "sources": [
+        "Latest news from Azerbaijan"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMingFBVV95cUxQaF9McHVXZTlkdmk0eVVlcWtlT0RvZ1Q0MWhlb1p4UnNUcVVuTGdIenkyTzEwdFNtTy1JcExCRnZVR2JYMGp4MDhPWWdFRUJaRGg3dGNqUmtJVGpyazN4YVJGcUJHZjBxd1h5WTd6dmU5aHdzSFZrb3Yxa3p5TEItbnZ6cFo0aEJRNHJuVXdPaEJ4ZGlLNTdwR1JaeFYtdw?oc=5"
+      ]
+    },
+    {
+      "time": "2026-11-06 01:35",
       "actor": "Israel",
       "action": "通报",
-      "place": "Iran",
+      "place": "Israel",
       "result": "待确认",
       "confidence": "C",
       "confidenceNote": "C 现场初报待核实",
-      "headline": "'End Iran war, review Israel aid': Vance charts own course after midterm rout - Rediff",
+      "headline": "the dramatic geopolitics following the U.S. midterm elections. - TV7 Israel News",
       "sources": [
-        "Rediff"
+        "TV7 Israel News"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUjltQjBnSERLS3Z3UGNhcDlxV0x0bTdRQU1TOUp1TXRDU3hzUjNTT2NZeVp0ck45Z1dIQlkwRll5a3lfOHZiS1JNekVkbjJ0ODQxLVVqMnVrcGNTVnJISWxtZjctU0h4dll2Qk5ycVJ4TEw5QTJkMGVHQzBtVXRvRnZvWVhxVzZ5Nm51SC1tN0ttTnFNV2hNd3B4Q0tpQUVOU0EzZDBiUTBvQlFSRkJmalhZX2V0bWtUVjJDS0Nn?oc=5"
+        "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKVXJLM1FJSE5VdjVpSlVOSjY1N3VCNy1fbTQ1OEdmREx4bTNXMlpDQWc2ZVhLYUtsc0JSSVR0UmcyOGxNQ2U0TVRwS3R0RUh1Q1ZSVHVqeFpBMUZFUTNGRlFIeHd0RjdhSnhDSEYtOVBxRHBubW1MNlRQcw?oc=5"
       ]
     },
     {
-      "time": "2026-11-05 10:38",
-      "actor": "Iran",
-      "action": "通报",
-      "place": "Iran",
-      "result": "待确认",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "Iran war latest: Iranian general warns of Red Sea attacks if fighting resumes - The National",
-      "sources": [
-        "The National"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZUJpWFN1Mk9MR1J5dGYzd0xld25oanpjSXJvcS1jQWhVY2tBUi1iY2Q5Z3RUZW9Ia0hkcURmMHhoM3VvU1ZrMnRzcHM3S093cVNGQzdvR3NoRERIMmkxUWpuYnJaODBHU1pfTFNjNGk2WTdVNFRrVU5jUFJza19TUS1Mb3JWQTk0M0E?oc=5"
-      ]
-    },
-    {
-      "time": "2026-11-05 10:23",
-      "actor": "Iran",
-      "action": "通报",
-      "place": "Iran",
-      "result": "待确认",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "‘The Reason We Lost Is The War’: JD Vance Blames Iran Conflict For Republican Midterm Defeat - Outlook India",
-      "sources": [
-        "Outlook India"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOVlVRT3RKTUhJN3UxZV9EaEhXOThySEstWHEwY1RIeTFUT2FtYVZ5aUluTUotd2xIakhzbTZ2R3lhblNYZENFd2lRd3dQWnAwaG1HM1ZITHdraU9GM1h6bXFWX0VSWFhCckpvcmw5NUQ4amFxNEgyblMzWVEzOVFlemVBWlFGdnVid1RpeVpuSFRveTk5YTU1aGhyTnlUcDRXYmo4Q2ExR0ZxWWNPaFhwUXM3aW56dHhpb0RCMzdLZVdmbmJwOU4yeEFra1E5bUt2eVVUWkFaT1IwUmVtLVhnQnN1QXhhbFlIdTU4ZUlSNHU3Qjhka255bFloZXE5QWfSAYwCQVVfeXFMUERtM1NNTXFSalRaX09aTDgzTm9iYk1pNFRSVmtqZlNKZUZoQWVobi1LYmxhOGx4R0I5OElxYzl5MTY3d1NqWFlBSEU5UXg1RVA3WXNvR0tGcXRfZWdWdlplMkNBOV82ZXg4OFNBeEZJNnNwbFRtZ0NhWkF1WWkwR0xrX1gxUHhaT1NPalhmcV9yS2RMRFRqdUdXU08tTWh3Um9xbGVHci1kWGl3VU4xa3RQTkI5b0ZJbjFGc0Z5cHNvdFRBRERxQVEyMmZLRUtqWXRvQzNjRE5tRllqbTJ6MjhRRVdsZk9vTUlFcjlwQnE5c183UnFKYjJiZ3VUeVVUN1MwdlQxTFN4LU83Mw?oc=5"
-      ]
-    },
-    {
-      "time": "2026-11-05 10:21",
+      "time": "2026-11-06 01:31",
       "actor": "US",
       "action": "通报",
       "place": "Iran",
@@ -134,517 +154,503 @@
       ]
     },
     {
-      "time": "2026-11-05 10:06",
-      "actor": "US",
-      "action": "通报",
-      "place": "Tehran",
-      "result": "待确认",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "Israel Rejects Blame For US Iran War, Says Washington Took Decision To Attack Tehran - ABP Live English",
-      "sources": [
-        "ABP Live English"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUXVCa3hzZ0xKTnEyTkM3SzNKSXRhM203bzB3eEVRNm5LekhIWlBfZzdSV20tUzJtUVVVZm9MZ0d4R2VYU25CNkxPQW56NFU3Q3JvWkRSVkxMajUycExLbGt6SmdaVE1mbkZNcG5TTGJGcnNxSXVRalVaV2tXTjlaUWdnclJaUHA3MW5TU3VnbTFkTjRtbEs5YTJFM29MZ21WcnlwRUxmcGFralJqck1haWdhUTlnUzhFQTRLQkdMbGpyMGdGc29zdVpBWlMwZzBBaF8wS05mU0hBR19XSEhiM3N30gHnAUFVX3lxTE80MnhCWFRaNEpRS3pVbEtOWEI3T0VHbjJ5aXBJb3FYZ0hvUklZYWcxR2YwRlh2aHU3VjRyR2xSXzV6RlY2a2NPaUJuVWtzZDdtRUg1QUQ4OW5uRklJdUdGbkwzX243amRaN1FQazhzVGNuZnpJTjJ4QU1XcHQyVEhiY0JmNXk5WDdtNENlWWFiYndibDhaN0dzZmhEZ1RlLTlYUDA2Vmp3czlSZVUzRGdoeHc0azljMVRvM3lYZ2ZoTFhwTGI5LXF5YXJxUGgxVlV0QzNObnEtWkJnS0o3UFFSaXdKYlp2MA?oc=5"
-      ]
-    },
-    {
-      "time": "2026-11-05 09:47",
-      "actor": "Israel",
-      "action": "通报",
-      "place": "Tehran",
-      "result": "待确认",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "ISRAELIRANWAR. Iran is preparing for a potential nuclear attack and planning to respond by striking beyond the Middle Eastern frontier. Borders with Azerbaijan have been reinforced, as have political and military headquarters in Tehran. - agc communication news",
-      "sources": [
-        "agc communication news"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNOXd6YTBKdlczX095OF80SmUwXzJvWHM1VnZhOEdyUnpUb3k1Vm5yZW5lSFlrWU1Tbm56VFZhbHozQmtLakt1OEU2b3pHY2V6eDNGLURoU1h4SUVFX1p5Z2taOExWaUZ3VEtNdmFnN0RacV81SWNKQk5GRGdwdlFTZzZxQ2poOVpPamNnM1ZaUDJkWms5T0wwVVNOTUZCZFJId0VuTDdUSEdNREtUR184VzQxeV9qSjRoMEFVZmtRVUVVQjVaSUdrLVVXdm9KVXhHMzRpZDNrcncyQVhYWWpDVTdjSVFHQnM1aWxWOWRoVUNaNllPNkJ1WkFzcVRSQmZFNEdTNHVFczBNMzRkMVc4Z04xTE1USG9UdWZGNEpOUU1mUzNaZGRCTlZrMWFQZHMtaGo0Y0RYb29LdjJjb0dvTlRR?oc=5"
-      ]
-    },
-    {
-      "time": "2026-11-05 08:38",
-      "actor": "未明确",
-      "action": "通报",
-      "place": "未明确",
-      "result": "待确认",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily. - NBC News",
-      "sources": [
-        "NBC News"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5"
-      ]
-    },
-    {
-      "time": "2026-11-05 07:20",
-      "actor": "Israel",
-      "action": "空袭",
-      "place": "Iran",
-      "result": "待确认",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "Vance Blames Iran War, Israel Ties for Midterm Losses; President Trump Defends Strikes - The Media Line",
-      "sources": [
-        "The Media Line"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMkNvc1BzM2tqSWp3d0c1S2VMUTBLVUcwU25qNjFkY3B3RDZhUHdxTTV3S3BhN1FMaUdFWHlINmN1QUo4RmFEOTVCWEZ0YnNIUnFvY2xlby1OMXlVTE1aVnNib0NXRHRqclRnWlpYeHF1cVdnSndSM3U1cUs4eUktX2p5d05XTnBmZUJ6dGVpNDVfdnMzZVBtYnYxbHVFaGR1ZVduNnJuWlhPajBVczJ5U2w5c0RtMnNPeU55SA?oc=5"
-      ]
-    },
-    {
-      "time": "2026-11-05 07:17",
+      "time": "2026-11-06 01:23",
       "actor": "Iran",
       "action": "通报",
       "place": "Iran",
       "result": "待确认",
       "confidence": "C",
       "confidenceNote": "C 现场初报待核实",
-      "headline": "Presidential hopeful Vance appears to question Iran war after polls debacle - Al Jazeera",
-      "sources": [
-        "Al Jazeera"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNFdoTi1INVRLRUdkTG9SY3pPQ1dQcTgwTzVjMWQySGdBWUJLczFfMWV1anNEbElxY29VSy1ieGh5dzlCTUhFdEtIMUViLWNURVFEWUw2X3lsbXJVM2dCWW9jQnV2Slg3bm5NMW1iU3JzeHlja2xOSFN6U0ZUR3hwVVRuaU1zV1FmR2p3bTQtczVmMU5VS3NWR2d5d0pzdEpVcFAzNzB6VXc1MUdfVExXX0RwOXRyVEXSAbwBQVVfeXFMTUlnRGFpN3h6WmRvdWJNS1pDdkV3WGJKSC1xNFZtSjNLMWIxRjBweTZYcDZRRzVmdDYxXzNaenQxMzQwUVRqNlpuRW9MaGxHakxsV011NkVTUXZ6LXVjWGItOFZUVzRkTklkOTFYa25oRnNvZTItTWdFLTZpUkwzR3E5ZGpQMzlZdXJNdXRwc2NNRXlYQnQ4LTI0YnExc2RscHhKWEw2ZzdHOHVyWEZaZDFNelVkOGlLOGI4eDM?oc=5"
-      ]
-    },
-    {
-      "time": "2026-11-05 07:10",
-      "actor": "US",
-      "action": "通报",
-      "place": "Iran",
-      "result": "待确认",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "Iran Targets US Bases In Saudi Arabia, The UAE, Bahrain And Qatar | Vantage With Palki Sharma | N18G Beneficenza (oDehqsBBKV) - Unisba Media",
-      "sources": [
-        "Unisba Media"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81N3hMajFybDZ0QUtqVDMwX0Y4VVR6Qk8zTU5wQS1vZzI3YmU4dlZTX2liUlNOSE5Ob25mYjN2cHMwLVdhckVXLWlFNm1xa25sRHBTRkR1OGlzWjQ5WGZkcS01UFp3dw?oc=5"
-      ]
-    },
-    {
-      "time": "2026-11-05 06:58",
-      "actor": "US",
-      "action": "通报",
-      "place": "Iran",
-      "result": "待确认",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "Iranians celebrate setback for Trump in US election, and other Mideast news - The Washington Post",
-      "sources": [
-        "The Washington Post"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQkQ1R241UmlxeXBMaVlBZjk0Wl9Vc2hYYXRyTzhkZ2NTNXVmLS1Rb1huTER3c2xZSkUwYmZkN0xvWkFtZmVTNEFDMWM2bldoWG8tSGw1YmdoamVGdkNzaXdjVFRJTTNJVXFWa2FWYkZCa080b1NFUzBCLXhBb2NieXhvYUljc1hfMWhrWGhKVy1NR1hmZ21fb0FmRzg0OXk5ZExHMklCY2doNzhONWo1ZzV4a2VQMlhIMmlSN0w3UUF5THVRRHlwSlZiQ1pESGU3cVhXX0ItaUxVMkJQ?oc=5"
-      ]
-    },
-    {
-      "time": "2026-11-05 06:50",
-      "actor": "US",
-      "action": "通报",
-      "place": "Iran",
-      "result": "待确认",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "Netanyahu's Envoy Says Iran War Was 'US Decision', Rejects Israel Blame For GOP Midterm Rout - News18",
-      "sources": [
-        "News18"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMiygFBVV95cUxOR1BFNlBZM0ttNEJJc0VzdHRiOGtJZnVtanZiWndvdVdJb09tQ09ldTF2UHZNYmpjNzc3WjlsSzhWTE0wUkl4UnBnY1dLX0QzaWgxNVhxc3JwdkVobjM3R3JTX2kxcDFVcUVtbHdmOG1SM29RMHVQZEYzYXFBVHRSazE4Q1pRTnVqclQ0ZGt1ZkdmdUt5bW02X283VHVIUi12UkdKM0lQUXVzNXZVNF95SmNXNkp5N0RaZEtJM3ZudElOY2ozaWFrbVhn0gHPAUFVX3lxTE5jamtIYjZkNFBVbDM2TGM4cC11eE4tdE43VGFCbzRMQnVMVlJkTkd3dmluUW9VMVBHcDlwT0tSSXFRNngwMlluNzBsSDVtcWxSN3llOWNkU3B1X3VHcnB5VGNyb3JZVmZvbG1CYTJGM1hHNk9MT29tN1lxRzVjMXU1T1VBQ3d3a21MMmgtTHhXbjBENDVsTEhKYjB4MWgtYWljRFdZRHIyX0NHbWJUT0dWVUplNUNVdEpQeDlJU1hGSXNxXzJEV0dqQ25RM2FFYw?oc=5"
-      ]
-    },
-    {
-      "time": "2026-11-05 06:20",
-      "actor": "Iran",
-      "action": "通报",
-      "place": "Iran",
-      "result": "待确认",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "Vance says Republicans lost big because of Iran war: 'Everyone knows why we lost' - BBC",
+      "headline": "Farage says he is worried Trump will step up Iran war after midterm 'disaster' - BBC",
       "sources": [
         "BBC"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90cHNJSHQyeHVUM1JkOGF0UzhfbzFPRXlhZkc2WlhtLVJ2Ym1vSWl6akxucDd0cGowR1RsbEVBWUU2RHVVVWc3X09kLUhTVFF4OHpsT1JMQ0xYS3M?oc=5"
+        "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2ejZVa3h4TFRoZVBOZUlMckVHWi1QN3JBZlpweGFkLWNJUmlxMjROX2FKT2tYcFdpRHlWeUxIanlrcmx5Ynh6TTl5TXFIa1lpRElUc21WS2t4TWc?oc=5"
       ]
     },
     {
-      "time": "2026-11-05 06:19",
-      "actor": "Israel",
+      "time": "2026-11-06 01:04",
+      "actor": "US",
       "action": "通报",
       "place": "Iran",
       "result": "待确认",
       "confidence": "C",
       "confidenceNote": "C 现场初报待核实",
-      "headline": "JD Vance blames Iran war, Israel ties for Republican midterm defeat - Moneyweb",
+      "headline": "What Trump’s US midterm defeat means for the Iran war - The New Arab",
       "sources": [
-        "Moneyweb"
+        "The New Arab"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTF85WVBKZFZoblBrSENlSXZENHNvSHJWWndNeTYwVXdzTi1KOUxKZTgxcUM2cFdnTHFFMENhNS1GVmhBZ0VwY0tlMzE1SnFPRE1Gd2RmTTN1QTJhVzVsRGxQS1JQM3VnM0ZSS0tXY0E5bThlc0E2enBBbk9HYndQVXVub2hxRVZ6YjBXOF9JUlpHS3VFdmROaFh4MUNJUnpabWVvbE5vWnpFekhOaFF2TVFabw?oc=5"
+        "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWnJpS1BZd0otck5nNHRCYm85RlI5elJsQ3Rodkc3dkFIZl9DeWttZXRkQVYtTnpxWlFZcGROM2xObVRPVU5mZVFQRnY0T1lKTGJtWC14bmhLZE5nSk1JZ1V5bGNlVzJnVktiU3FLR0RoNWRaYUt1dVhlZHAtSGdhN21RZw?oc=5"
       ]
     },
     {
-      "time": "2026-11-05 06:04",
+      "time": "2026-11-06 00:52",
       "actor": "Iran",
       "action": "通报",
       "place": "Iran",
       "result": "待确认",
       "confidence": "C",
       "confidenceNote": "C 现场初报待核实",
-      "headline": "JD Vance blames Iran war for GOP midterm bloodbath - New York Post",
+      "headline": "GOP infighting begins; Civil-society groups propose delaying fight over Iran war until 2027; Saudi-Syria defense deal - Drop Site News",
       "sources": [
-        "New York Post"
+        "Drop Site News"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV2lVeFV5VGJKZUNrRm1Ob2RJYWNKQUp5UzhiM1VHd0hqSXZyczU4YnA1NDQ4cHlqZWZBS0lVVEY3TUFyeWFlOUctWEFCQWdDWHVaLU5fdXNJRWZyVThIcEpqYzVVVHVGa3VQSHliX0Q2bDZGSkdXVl91ZkVGQlZnLXFrbkZtWHltSllEdndHaGFmSk1wck9tRlZLdVJnN1AzYWc?oc=5"
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYlpWaHFGU2RFNmxVX1lBUnJudlhHcXM5dHhlMG5mcGxtajBMcFlhU0FlTWRvZjRPSDlBVnVjWDRHOVczeGVoUmYwQmdPMXp3ZkRiWU9zSVM2RklicGJXR0d2Z0tndkJZMjV1OG9XcXBhYU5nNnZ1SUtYQnFPRUl6eU5XMFRCVUlWUWhXZFk0Si1NbVpDcVdPMVdhaERia1U?oc=5"
       ]
     },
     {
-      "time": "2026-11-05 05:30",
-      "actor": "Israel",
-      "action": "通报",
-      "place": "Iran",
-      "result": "待确认",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "Vance Blames Iran War, Israel Ties for GOP Midterm Rout - Bloomberg.com",
-      "sources": [
-        "Bloomberg.com"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMirAFBVV95cUxPekhBdlllckpmazIzWlpPXzVGdGtXUHJkRXJMY2w5Mk1nV1dJeDg3MU1rd2J3Y0ZHNjBDbldQRHB3eTlGYXYwVW1wUHYtV0xMTWZPMnR0Vm9xOG5JSGJEclRTS0QtaUJaYzY2NHhUM0FOUWNldWQtWlBhVjFJMG11Z2drTnE2WlNIU1V0dlRZTWtEekhEYl85UWFEUmxpVTItVXRMS0F1VEp2M2Ja?oc=5"
-      ]
-    },
-    {
-      "time": "2026-11-05 05:07",
-      "actor": "Israel",
-      "action": "通报",
-      "place": "Iran",
-      "result": "待确认",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "Vance: GOP lost midterms due to Iran war, voters want ‘change’ in Israel relationship - The Times of Israel",
-      "sources": [
-        "The Times of Israel"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMFhVZHNTeWdLMHliWERtUVhQS0RBeVNKVHRMRkk2c0g3b00yNldobmdJMGttdF90SXFHLUNqcGRQd3Fpcm15OEdXQ2wxMlpHcGZNN25LU0Roc2o1UTlSMlFIcHdPZktaQTAxLUloWk5yZ3RmeElQektBLS1xS2VLM3FBTkhncHdLbzI0a2lwYTllZXRvVnJ0Nnlkdl9GQkNLUUpHWmRsY095OUhGQVlQR2l30gG3AUFVX3lxTE0zSU8tRW9yZXVCWWJudnBKZWV1TlRnaXVJaFVOcUNOdklEcFV4RVhwdC1ieWNmVVRvekUwaXBDRnBaTlN0Y3hGTnlCSzVIU1lzbGVBczc2M0JrRzNmZnBBZ0d4aTlqbGhZMVctOWd0UEFIOW9xRDVDa09KWFZPWDdPblR1NC12cGNiOXZuODc3UnVhbW93amRPbTV2ZU1yUllLSGJ2alYxNUowR2o5T25LZVhMV1lBSQ?oc=5"
-      ]
-    },
-    {
-      "time": "2026-11-05 05:02",
-      "actor": "US",
-      "action": "通报",
-      "place": "Iran",
-      "result": "待确认",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "US-Israel-Iran War Latest News: US Treasury Department Issues Sanctions for ‘Vast Criminal Network’ Helping Iran’s Shadow Fleet; Iran Claims Credit for ‘Strategic Defeat’ of Trump - The Sunday Guardian",
-      "sources": [
-        "The Sunday Guardian"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMivgJBVV95cUxNckE0QlNIMHFQQnJlNGlTbmpvaWZKeEMzbGlZRzFDLVp4eTlwM3RCYjFNUUVfZE4wMnlyWnRJRmhaTUR2cG15YlhTUjhXc01XaWVhZUZ1c1FRUDlOYWVoRS1XMm83a29JZmFKdlVHeU5meVBKNkM1Q2oxTXNuTFB0ZWpIUjRKc1R2aGhTM0hzUGhsWHBOZlpBemlGYjhJbUJ3UWV2NDVyNVY1bG5DSDRfeV9yZXZwNzB1UmM0MXd0eDhuZ2RkV1NnQS1KNGF1S0RJRVN1NlAyYzRtXzZMNE5ZczVuSElFMkZ3eXRyYUphTURtQnEzRG01emNvNzhLSEVDdWlnS0M4aU1rVURlY0F2S0YydmRjNHF1R2lfZWgyZHpkZkVoWkY3VXMyanZidVZhS2VzZGVla2RPMlFBZ1HSAcMCQVVfeXFMUGxuOUo3ZzBDV2Jka3VTNjFkS3lPbGZqTzN4VngyRDBfVFVCZmtBX3dJd2Z5bkxrSml6ME9DZllreml1ZUFLelNKcHZuNU5TX1BXYWI3VVhZMVBqelNiU2FKWl8xTnc2Sm9lV1lYVGM4eDJ1bzFzWk1nSTVwYTRFWEJnOU16Z2RCXzhDY285VzlPMVJ2V1oyRkhVaVc4MWJMMmdNZ3dlTVg1RmJvX3BJdzJnbkNMUGZXd2E0YU9VbnJLMzZXQ0xnOVlKVnhOY0xvdjg3Y0tVRDZZTGx6YUpLbFRpd3NCYXB1VzJybW1ZN2R3aWhwYzdUNExfNHlZN2pTN2VGYzBLYUxGRE5GbUEwdkF5YjdsdkpZcXFBN2g5WDBXcTdkMUtpa0l1X01RdTRLeEhzdnd4cEJaODRSNmtlc0VyNjQ?oc=5"
-      ]
-    },
-    {
-      "time": "2026-11-05 04:45",
-      "actor": "US",
-      "action": "通报",
-      "place": "Iran",
-      "result": "待确认",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "US voters sent Trump a message: No Iran war, stop funding Israel - The New Arab",
-      "sources": [
-        "The New Arab"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSU1CaWxYMlp3XzRNMFR2Wk1NNXN0WG5GVmlha1Q5WUhmeW1wWDkzNi1jcjJQV25jZkpPc1U0NGdMMjFzWU9TcllaNk1CNmdtVFowQngtdkdnc0E0MUswQ043Rk94U3lGV3ZnTXdRRC1hakN2VC03ME1LY0JXYlItWG9tc3RXWmZHOUs5UExUZTlDdGV0MU1j?oc=5"
-      ]
-    },
-    {
-      "time": "2026-11-05 04:32",
+      "time": "2026-11-06 00:21",
       "actor": "US",
       "action": "通报",
       "place": "Israel",
       "result": "待确认",
       "confidence": "C",
       "confidenceNote": "C 现场初报待核实",
-      "headline": "Democratic Congress could test decades of US support for Israel - The Straits Times",
+      "headline": "Israel's $10 Billion Arms Bill Complicates US Aid Exit - Newsmax",
       "sources": [
-        "The Straits Times"
+        "Newsmax"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMirwFBVV95cUxPemVKQlJ0elJ4YkJLT1lFN1FMN2RBNXpQQWRFY1RFeUZiS0QtUU1iTWI0QlRnX0d6c1lhbWNSZUh0OUFHTTFwekVSWTlTNmVYMWdVekVKRDd0YzE3cXl4ZGRCUkY1eUtTU2lHMmlyOE9pbGRHOWlBRm9jSm1wd2oxVXNRak51ZVFFMjIxOXBPN0p6VnplZExwN3pSSUZvRUQweTVHd0hUQ0N2ZnVKVE40?oc=5"
+        "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUG9vMGFaOExTVHdLSTd4a0tjQ3kyWHp4TkVaLXRQWnN3c2tNM2djSDNIbFpPdFVEamEzQjFBR0thT0hhVHR1RVVzaHhiY2RiSGZPMmhFQXpCdGZwT3dXbFRJQjU0c2FXN2drTnZsRGFscWg3dUY0b3pPSENxZDVpUA?oc=5"
       ]
     },
     {
-      "time": "2026-11-05 04:26",
+      "time": "2026-11-06 00:17",
       "actor": "US",
       "action": "通报",
       "place": "Iran",
       "result": "待确认",
       "confidence": "C",
       "confidenceNote": "C 现场初报待核实",
-      "headline": "Will the US resume its attacks on Iran? - Al Jazeera",
+      "headline": "Iran’s parliament speaker criticises US policy towards Israel - Daily Times",
       "sources": [
-        "Al Jazeera"
+        "Daily Times"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTHAxM29lZ1duNHpvaE42bWtkMVEwTnlxSTR1QWEzQmluZDVSanV2cFBta0NOY0dJZm91cnItWkJPSVNLMUZ6Q1E2Q1JKM3V6N1k0MXROMmFaZDBwZkVwY3I5Q1c3R2JqeXpxNmV5N1lUd0ZXSUNYZlh1ZkttTkNXaUJiS21hb3VsTWFvTG80cWhRQU5FWHFaY9IBngFBVV95cUxPcVpxTzZzOE9Eb0FsdmhCWE5KUXB6YUJtRFlKWF9lcGFYLW84b2RDUlZyWnRwY0QwUGNjM2tudlhSbDFhS1RaNnBVZ0kzMnFPelJuWThyMl9tRmw3Z0xKYk82ZEpnbmxNNmlaMjlJOHRYOEdhampsdmkxNDcxd1M4aEE5c0tyV2N1ZVlBQzNhQmZyX25qOHlyR3dpby1jUQ?oc=5"
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM2ZxZklFdEtLMjN4bDVCNTFMTVZxQzNjc3k5N05ic1p3b21qbDRJZmlwUUIxMV9tdXlzZ1VJeEF2U05Sc1oxd19MTUE5LUdCTmV3dk0tZWdQMDZieWZZNW5oWHJMREV4b0IySm9WRTVXd0NDOFpGRURMaFBHbHFkUk5YU3l3SnN6VWJlQ3dNTnpURTVQX1hldWlDOA?oc=5"
       ]
     },
     {
-      "time": "2026-11-05 04:24",
-      "actor": "Iran",
-      "action": "空袭",
-      "place": "Tehran",
+      "time": "2026-11-05 23:30",
+      "actor": "US",
+      "action": "发射",
+      "place": "Iran",
       "result": "待确认",
       "confidence": "C",
       "confidenceNote": "C 现场初报待核实",
-      "headline": "Tehran's war debate turns to wider strikes and nuclear threats - Iran International",
+      "headline": "US-Israel-Iran War Latest Live News: Iran’s Araghchi Holds Talks With Saudi, Qatari Counterparts on Diplomatic Efforts as Houthis Reject Claims of Missile Attack on Medina - The Sunday Guardian",
       "sources": [
-        "Iran International"
+        "The Sunday Guardian"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TaE5GclZpZUtpb3dWN2lDMEVXSFQ5bUNsUC1kV1pva2wtemxoMzh1S3pnVjJUMlRuVEt0MTdhbGVTTUtJSzBMS2lpRDB6STFydVE?oc=5"
+        "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQNThjMkxpUWczamVwSjBXYjZEeWxqNkI5cFcyVXNVVHpLcFJWempKT1Y5WjhsaUtFNGdkQWp4djFZQjZjN1RmWTVNZG56Uk5GUExFejNoTzhuVjdRYXRQLXNtVWpmYnpFQnVkV0JjaWF2cVotWnd1MUVEMEZQaGxGQmxwYmhqVEdRR01POW8xSWppdUs5c2VFaHd4bVRDMEpkWEt1R21ZbmlPN3hLWi1LMGVkRDVoM1hOaWVoVUV0a3BDd3cyaVRfMnZJWFItXzFTUmNvTW5lb3VoTVVZRDlLR3BUMmk1VWJWNWdPQTZiLXRDM1RzaGY4T19VaUVaNzRqVkhTQnJuYWUzUDJaczh6ZndNcXBXY0Zmc05EaGJtTHlxVTI5a2N5cTdLc2c4eEhEZDJOT19VS3fSAb4CQVVfeXFMUDdranlZWDZCeU00VmN2YlRMdTR1WnZWWFVuaU5YcTZTWi1iVWVDeUg2aGY0UkFoblNKRUQ5Si0zMmc1UjhmTzJzUUVyS3BPMUF2RGQwVmw4dnpFR2FzaGJIdWtIbXZuTXliYWJ6UmRxWnJfVW4wT0IzR1ZYbnlFUWlzX3ZrSjRROEsxc1Bpb2FadldqLTg5M1JLaVpRSWFJRGVtNFZkWTdyTE5uR0llbDBON20xMEdELWw1Um0tZk14VDgtUGUxbmxQWmhpOEJoQU1XUHEyWnlKVE44N1VWX18xamNIeDItUElPUTVMNTNhblR1dzdLd2pDTEJFLWxMSnVSZl9JQTZPbGZuY2E1TnVZYlVqc2F0TTZWQWdEWkVSdjhscDRXUzh1RFNfak4yWGVIUTZaR19US2J1X213?oc=5"
       ]
     },
     {
-      "time": "2026-11-05 04:14",
+      "time": "2026-11-05 23:01",
+      "actor": "US",
+      "action": "通报",
+      "place": "Iran",
+      "result": "命中",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "Losing Gambler Energy: Irans Ghalibaf Hits Back At JD Vance Over US Midterm Poll Defeat - ABP Live English",
+      "sources": [
+        "ABP Live English"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVmRPdUhJdVpVMXpRU3k3RjZWYjhleEVlSE16MHRkbGRvN1Y0WTNheUlTSXlUUV9LN21hLTNIVnFhWG1nSFVmd3lYWkNtaUxYMGVhWnNZNldpaHEwSDRRcXJfSVVpTk40VDBBdWJ1SXNFa3V3bGJleFJyNHpXeUJjX0lRYWt2emxGSGhSREsxUUFtWnhCRjVYelZuV2pudGVzYy1qZzNGbW1DUG02enJPaXNtUjl4RDVjVUZMOFdHTHB3WkFsTnJ1ZnBHc9IB0AFBVV95cUxPeXRsMnJ4WmhKblVYQnJ6TFJmNmkwaG1aS05qSXNHcTFhNy1GR3lIQjRNRU1EMGUxZHhpOXQ1djNRYzNTZ29kcHNuOWZrTDd3dHpDYXppcGJkTkxCRjlXTjJQZnQ3VUxjTDdfLTFpbmVyNk1JZjRGM2ZYYVRmVzRwRW9SRUVFNE1JNGlDLWF3bmNmYnk3LWx1T3JNTkZDMVJSX1R0MVFyb3BudzZwVWNYN01JNGdkREtEQUtvWk4xc0lRdHRBcTQyemYtSHZWOGpt?oc=5"
+      ]
+    },
+    {
+      "time": "2026-11-05 22:59",
       "actor": "Israel",
       "action": "通报",
+      "place": "Israel",
+      "result": "待确认",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "Today’s Headlines: Gaza Killings Continue | Nuclear Deterrence | Why Israel's Arab Vote Matters - Palestine Chronicle",
+      "sources": [
+        "Palestine Chronicle"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSXJ3LUZSWlRqOWdjUjlwdW9fNDNHcjlsQk03eEpkX3Qxcm5SdlhLdnkxQXZZN3ZtQUpzUzRheEdEUTNhSndrODZ5U0VLZ1R6SU9DUXFfQ1RmaXFISktZc3NtRVdMelp1bkRTbXdfbjVqd05NQkJUNTlqakNMYjVseThabERSaTdNRmJKWUIyVDhCUnF3ZC1LR3BBQnBwRVRPU3A3ME5CZS1pQi1vSTRQWUZwdWMtQ1B4TmlNaVhVZkxZZw?oc=5"
+      ]
+    },
+    {
+      "time": "2026-11-05 22:33",
+      "actor": "US",
+      "action": "通报",
       "place": "Iran",
       "result": "待确认",
       "confidence": "C",
       "confidenceNote": "C 现场初报待核实",
-      "headline": "JD Vance blames Iran war, Israel ties for Republican midterm losses - The Jerusalem Post",
+      "headline": "US/Israel-Iran standoff: What UAE residents should know this evening, November 5 - Gulf News",
       "sources": [
-        "The Jerusalem Post"
+        "Gulf News"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA3ZE9xTmpFbTdfaEhYd0pGS09iYXQ4ZFJCRlh4Rm5yUlJGNUxxOENzcWpoWUxFMzBiV05WYkQ5Y1lYS3pEV1JhU25BVWI2OURDd18tTTJ1d2JOMUdoOXFDQUR5QnQ?oc=5"
+        "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTENoZ2taT3p0Yng1VFhPc1BzSkxkM0pfTnBtUF90RkY2R2ctVUZpb0doYk0tV0xMMkExZ2tuTDJNQ01ub0hWbC0xNVhONUxsazNxeVBXbW1MUkVCeFVwaDk4Zi1JbXNLdU5xZlFVYTFwN3lveGQ0X1pQc0JLVzRBdFdkdXlmRHF6TGFZeHQ2US1VQ0w4b3ppN29ocGtwbXlaTC0yQnYtTlU1dnFJSFdv0gHCAUFVX3lxTE15Vi03b0Q4bFduM1dkWXJtMy1jVFdsdlk4MW12cHFiVXA3d0Fxc3IxaEl0VXFjQ240cjR4ZVlabnJmbU1VM21VRXUxdV9fSVZrYTZmMGRfajZtT0ZQWjdMN0c2clg5SVhtZlpCYUVlVXVxdWtMRG9RcHRhWTVmeGFFWmdUOF9TRWVuMzVqNWdJQVRWdHFmVEp4X2s1SlNLWXVITUFSdmhhUlZRbXpVa2tCRWo2c01vOWFCcE5BdEtSdnBR?oc=5"
       ]
     },
     {
-      "time": "2026-11-05 04:03",
+      "time": "2026-11-05 22:25",
+      "actor": "Israel",
+      "action": "空袭",
+      "place": "Israel",
+      "result": "待确认",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "Israeli army detains 45 Palestinians, including 2 journalists, in West Bank raids - Muslim Network TV",
+      "sources": [
+        "Muslim Network TV"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR0pyU2VuWHItQXJ2MDBrZWZ3Mk5QUjdRWUowdXdKXzZxTWQ2YjNSY0N3UTUwOXFZNWxXUnYzWXZ6TC1kTkk2SGpKeWJOY1NQVnlFUXo4ZXRwQ1RKakNwYUY1ckQxakxiQ0llaWUxZkR4NU40YzR3NktGSjd2OHlQdWVreTh1VG9rb2FQUTJaX1NscnVFYmk3ZjI1ZTZZQ25OeTZ5M2tlYnNqMi1vNkE?oc=5"
+      ]
+    },
+    {
+      "time": "2026-11-05 22:15",
+      "actor": "Iran",
+      "action": "空袭",
+      "place": "Iran",
+      "result": "待确认",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "U.S. strikes Iran on eve of midterms - Monthly Review",
+      "sources": [
+        "Monthly Review"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMid0FVX3lxTE10OXVqRC0td19zX2tlT3Y0dkR0akU2WUZzd0lKcEZqODFKRVR1NGc1THktQ2RfYm1MRVFFNlNxT19JS1djNGdrMXBkVXA5N0tmSVFOQktxTGlOQmN6LWNzNTBVZldzaks0c1IweThHTjlHWUxCMERV?oc=5"
+      ]
+    },
+    {
+      "time": "2026-11-05 22:12",
       "actor": "US",
+      "action": "空袭",
+      "place": "Iran",
+      "result": "待确认",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "Pentagon intel sees Iran as 'emerging' space power despite US strikes - Türkiye Today",
+      "sources": [
+        "Türkiye Today"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdk9sOEJhT2VoZjhyR1paajZnUlFYQ0QySTdxNG5nQ0xRN2NFNGo2akFOZnp5RGJGM0Y2VE1BS1dEX3JyREY0SXV3c21HQmk3MW85YVJNWkJrb3hwUVpFWmk4WmphbV9LOV9haE10d2tfX2VHbVVrTUV0VUVOLXV4RWt2czVvTjlmejNWRndsTDFrZTRvaFFGenZkT3JmT3E4TndTaEpZNHUtMlFsazlHOA?oc=5"
+      ]
+    },
+    {
+      "time": "2026-11-05 22:05",
+      "actor": "US",
+      "action": "通报",
+      "place": "Iran",
+      "result": "命中",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "Iran speaker Ghalibaf hits back at JD Vance over Iran war blame for US election defeat - The Statesman",
+      "sources": [
+        "The Statesman"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUk9xUnh0VE51QVhHQnNXWVZzakt1Smx4MVBoa1dJODVVR19fY1AyeDcxOEdHM096bWo4UTZ0LUNGaFd6QlJ2b1lta25jek1zSGtKZXRwTWh0dWpSY0xWd0Juc296ZHVqZ2xzSHZIc05lY3I4TjdVWV9hSlBWOVpwYjloSUoteGw5LXhpYXdhblR2YkpjWmYtS2FjT21CZVZGclBQbktHcDBrd1BUMTVERkcycV85cUxlX3E0RkpLRHkyYnJUdHhwLVltSkRkcXNMSnVR0gHYAUFVX3lxTE5KemRwTXFhZGQzUFNYbGJyWHpwTW1RX3NRX3NyRTFKMHFRa2ZWSW5jOXNkMzlMcWpoM2lXMGFlSVlKTWQ4aEhqTjZEWVZ4d2JUVnFxcVRLN3lKNll4NGVFZXhiOUxOWmhpT01zZ0pHamdBZGowMnlkT2RkTm5BdmdvU1JzZE1pTFdUVHltNEtCUTBDM2daeHpWQVRuTVRTdzFYS2ZlVHZiZ1ZEZWQtc1QyZEVoZGF6eHBBc1BFSzhmekxvS0w3TlhKTEVHQlF1ZHMybC1CR3RTMg?oc=5"
+      ]
+    },
+    {
+      "time": "2026-11-05 21:46",
+      "actor": "Israel",
+      "action": "通报",
+      "place": "Israel",
+      "result": "待确认",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "The Billions of Dollars in Orders Complicating an End to U.S. Aid to Israel - tovima.com",
+      "sources": [
+        "tovima.com"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVzlxcm5UUThmVmZmQmx0T0ZNZjlERHZuVExTUnVaUzdOdWJmQjNKX1JUTE5TZU8teUVrRjVucmFRNU1WMmE2SHRPVlg4dXlSTnFOWklCc2Vjc1hYTi1vbDRhV3FfVzl1WlE2N1BFdm5jdmpVNFo0WjVER21IT1U3ZW00eEUyNzBzc25aRlJBQWV3VTJhNzVEaW5tNU5wSXVYOWh2SA?oc=5"
+      ]
+    },
+    {
+      "time": "2026-11-05 21:37",
+      "actor": "未明确",
       "action": "通报",
       "place": "未明确",
       "result": "待确认",
       "confidence": "C",
       "confidenceNote": "C 现场初报待核实",
-      "headline": "‘Seismic shift’: World reacts to US midterm election results - Al Jazeera",
-      "sources": [
-        "Al Jazeera"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcmlQcUFmZnRoZzJhRmFYd0JkMXhYU3kyLWxqOV9uYnlUeEVkdGRCZDhXZEhMYkJ6eHI0TUs1T05rSXJEc01PbUJYU2dXczhsYW4zVGJSUlNqTF9ENEY0anRkcGlIMy1na3N2NlpSTHdreGNtaHM3NWRRZkd3UUJJQzVrX2pIQ0luMko4Rk9MWk5XQXlhWG1UeFJNRUVYNnPSAaQBQVVfeXFMUHdnaUVOZEx4S2F3ZTJnVTZLUmM5Z1RpRE9fSG9DWDNOZTEyNEdkU3NkZ3NIMGdLdEpFaXZRNWxTbDU1OEQ2WUpwbUx5WEsyb1lKcWRYcHU4T3k1N1huTWpCQWpPeThQVXE4LXZQU09mMTZFcE5pWnQ1TTR4TnRqNDBJZXBMTmFRNWJJYVJwNllheXZDSXBiUzQxMzhVcUZEVG1lS3M?oc=5"
-      ]
-    },
-    {
-      "time": "2026-11-05 03:55",
-      "actor": "US",
-      "action": "通报",
-      "place": "Iran",
-      "result": "待确认",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "JD Vance says US war on Iran is ‘real reason’ Republicans lost midterm elections - The Guardian",
-      "sources": [
-        "The Guardian"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNekVkV0ZSQzFFVWNVeWw3VkNDb3puOUtuSnBnMDM4QllXbXpHNG9kWEJJa29EcF9mS1NEVUxFQTJ1M2lwQW1Bc2RzWWhkbGc4V3VvbVV0dlBHaWk3aENpWHVpQUkzVFdMYkF1QjJ0ZTZ6dk5fdFFldkkzTy02NmdVd19ac1U1X2pybTc4?oc=5"
-      ]
-    },
-    {
-      "time": "2026-11-05 02:56",
-      "actor": "US",
-      "action": "通报",
-      "place": "Iran",
-      "result": "待确认",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "US–Iran War on the Brink: Israel Signals New Offensive as Trump Faces a Dangerous Decision - صوت الإمارات",
-      "sources": [
-        "صوت الإمارات"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPV2NEcEZTS3NEd3VlMndtUkZwVTBXNmtUQzJHTjdmYjFuSXdJUmVPb0NRaUdObXFaaFpGdlhEVFF1TmtabjROMXY0S0lwa2hwc2VyNXY1Ty1YUExweC04ZDRqb0J4RkNuU042d0drSmx1WnJiRGI1OWkwMTFmYllVa1ZHU1ZpVzBSWUJlRU03QXdjSUF4aVlaV2NHdjhET3BIREpYSzBXQ3NzU1JvQkxFVDlpLXFhWkNTS3pmY2JfSzJTNDhHWExmZVVzQXc1X09qSEQ5R0Nsb0g3OENMSkE?oc=5"
-      ]
-    },
-    {
-      "time": "2026-11-05 02:41",
-      "actor": "Iran",
-      "action": "通报",
-      "place": "Iran",
-      "result": "待确认",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "GOP Rep. Turner: 'Not a lot of options' for Trump in Iran - ABC News - Breaking News, Latest News and Videos",
-      "sources": [
-        "ABC News - Breaking News, Latest News and Videos",
-        "ABC News - Breaking News, Latest News and Videos"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUGkxNDhsdlNIY1p5YURsdlUyR1B6Tk90MGhVYmtTQTRuc19Qbzh0VXZ4Q2tINGtUTXBwS19xYXRNLTBIa1dzcHAyemNXQWVOSWJDQkx3R1B2X0Vpa0VvM1FSeXhmSWRYWW9uenEwT0ljQUVBN29vZVNld3p2ZFg3UHRoTHZoQXItT210Y2VB0gGTAUFVX3lxTFB2TUlZaHAtdTV2MEVrTnlSNUZBNGZPeEZMT2xyV1RwekFyM0hDdkx2dzFNMG03ckh6NXN0dUUzNnNLZEhiLXJLR3hjTE5LZzRELWx0RVZ0RERTUjFYREZkZ3QyYUhvQnBwdHUyR0ktWWdjUUxDYmJDMW9UTW1YYk9mRno2N2ZLTE1LR1VvcHQ1alhoOA?oc=5",
-        "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUGkxNDhsdlNIY1p5YURsdlUyR1B6Tk90MGhVYmtTQTRuc19Qbzh0VXZ4Q2tINGtUTXBwS19xYXRNLTBIa1dzcHAyemNXQWVOSWJDQkx3R1B2X0Vpa0VvM1FSeXhmSWRYWW9uenEwT0ljQUVBN29vZVNld3p2ZFg3UHRoTHZoQXItT210Y2VB0gGTAUFVX3lxTFB2TUlZaHAtdTV2MEVrTnlSNUZBNGZPeEZMT2xyV1RwekFyM0hDdkx2dzFNMG03ckh6NXN0dUUzNnNLZEhiLXJLR3hjTE5LZzRELWx0RVZ0RERTUjFYREZkZ3QyYUhvQnBwdHUyR0ktWWdjUUxDYmJDMW9UTW1YYk9mRno2N2ZLTE1LR1VvcHQ1alhoOA?oc=5"
-      ]
-    },
-    {
-      "time": "2026-11-05 02:26",
-      "actor": "Israel",
-      "action": "空袭",
-      "place": "Tel Aviv",
-      "result": "伤亡",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "Tel Aviv claims deadly strike on south Lebanon targeted ‘suspects observing Israeli troops’ - thecradle.co",
-      "sources": [
-        "thecradle.co"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSFVlT2FVT3FmWUduN1h0UGlsdnJaUF9pbG5TajlLXzJGOU45NmtBY21USUFhRURDVmEwZ3FVejhYUjZVc0pXQ3QtekN5YnJJS3NXaE8wTUJ3RlVNWUVWaUdGSWF6SHBldGs2TmtoTF91TW90aGlnREs0VGhzVFIydmRyLWJBcHprX1R1bWVod1F0UXJjTmdGZDFoQU1sdlpKWVRjbGhyekRKaU9YRGhzVVY5eG1EQmtmbFpZ?oc=5"
-      ]
-    },
-    {
-      "time": "2026-11-05 02:07",
-      "actor": "US",
-      "action": "通报",
-      "place": "Iran",
-      "result": "待确认",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "Deal or escalation? Beaten in US midterms, Trump faces stark choice on Iran - The Straits Times",
-      "sources": [
-        "The Straits Times"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVFNuZnRYMjVSVjJaV0JBdl9aUnljZWJILVI1T3VIb0hYamtJSFFwZlhMWEw2WWdvazU4dW1VeExUdUhlWWVYUWlBaUVKbXVTWUJuWEFITlkyWUtOc3p3U1BDdnY1T2cyNHRrOXE1N1dUMmlReTFBcF8yRjJEeXNTUWtMMmFYWU9Qd21iTEZGZ21JSGRyTUVlRTVLNl83a00tMnIzV0Vuc2F6SmYxeUNKQlBOWQ?oc=5"
-      ]
-    },
-    {
-      "time": "2026-11-05 02:02",
-      "actor": "Iran",
-      "action": "通报",
-      "place": "Iran",
-      "result": "待确认",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "Beaten at home, Trump faces stark choice on Iran: deal or escalation - Reuters",
+      "headline": "In a frontline Lebanese orphanage, girls strive for a normal life - Reuters",
       "sources": [
         "Reuters"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc3dTRDFGYS1HSWtZcGh3ZTh2MjRleFhNUkwtR0wwSUd3TWlsQU1tcjI2ZG1fa1RxNHEyRDJsSUpjTzNGb0xTRE90Umh1RVdncGxtN29NNVhXel9PMlZ3UEQ1bDJzTkh4V052MEh5UFFteDRHakRVTzVQLS1rdjEzM2xjZDlYdjhCWkxwMkZOMjVSUlhOV2NCVl9ETFROeEN3ZENWQmZiejJhLXctcHFDUkc5d3k?oc=5"
+        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUUoteVlSb3hTTndzem5Zejd5QWhBazZQaHR3bkEyU1Q3NkNoNTJlT1FDY09TZDJUVkJxcGk3Z3pEUG5qUzJFbUdmTFF5bG90ZG43MnRGUWZOZGU3S2FMMDZLOHFVNGJCWDV2QmxKa1MyclNHSkJ0dVpxN3lCbFMyR2FEX1JoWXBnU1lIcTlwdWJSandwYks3ZDVnRWoyX3I2dUJTYVgtTEVYZlU?oc=5"
       ]
     },
     {
-      "time": "2026-11-05 01:52",
+      "time": "2026-11-05 21:18",
+      "actor": "Israel",
+      "action": "通报",
+      "place": "Iran",
+      "result": "伤亡",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "Israel’s election deadlock: Bibi in a bind, but what changes for India, Iran and Gaza? - The Times of India",
+      "sources": [
+        "The Times of India"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTnRfUkJwWUdrNmpWcHBQNlR1dV9UYjl1TnVfSk5ScVkzY0JhbnFGLVNQYWRHOEIxMVgtbW4yR20tS3cwdkQtQmVDXzhGd29MVFh6bEh5eGpOR3cwZF9XNV9XZmtRUTNNY21LNlNUU0tLb3Fhd0F1NndpZ1RvLWoxaVE1eUJnVUtheUZsaVpLQzhZOHdhVlE4RjBQQzdlZHVEcmxrWGhUZTdnNXhyU0Z3TGtUWXlCaTh5RU82eWlPcE9iTi1MSm9PVk9PMWpReTNuRXliYWZxM3VHRkozNmVjUUlBMkVPMGlicmszdkVvMDE0RGs?oc=5"
+      ]
+    },
+    {
+      "time": "2026-11-05 20:47",
       "actor": "US",
       "action": "通报",
       "place": "Iran",
       "result": "待确认",
       "confidence": "C",
       "confidenceNote": "C 现场初报待核实",
-      "headline": "From Iran to trade: How US midterm results could reshape Washington’s global policies - Firstpost",
+      "headline": "Democrats’ sweep triggers countdown to end Iran war, and dooms US-Israel ties under Netanyahu - The Times of Israel",
       "sources": [
-        "Firstpost"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVlpBY3F2RHRzellQWnloSTFrczBxemRoZWM3Ti1CYS1adE5YbnNIZ1FfSWRnWDBEY0JPRWVrYnhKVjlBRjJuamV5SV9VU3RRSXhCNDFQbXFHM0ZRcTBZR1N1b2s3SlZuM0c3MTkxM19HTEgyNjZKaUJDWkxhQ0Y5dHAtWktIWnpSLTQyTTYtUU40R1F5YVBBemp5Rm9BRVBKS29JMi1MMWZHWENBbV8yalFkb3ZjV2Q3OWJFZ1kybko3MHotSTkyZ9IBzgFBVV95cUxOMTZ6SHdxVDlQb0NNU0FyUEFDRUpYMW5TalVNNXBILW1SVlJEWm9oZjhtTjdvME9WandJTXpBX1ZpcEhqNDZobXJLbTNPVXFPQUdpb1gwQUxvLS1qa25QZ0hzdk1tdXF6NHkwdXpScFd3Z0JiU25CQXdwNUY0LWRaMmtDZENKenItaExZek5nR2pyVkZISkdIaVVEc0JDQWItajZ2YVM4ZC1wZHB6Qy16SWtES3ZYLTNpdzlvNVI4YWFWY043MEFTLVppRjdSdw?oc=5"
-      ]
-    },
-    {
-      "time": "2026-11-05 01:52",
-      "actor": "US",
-      "action": "通报",
-      "place": "Tehran",
-      "result": "待确认",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "Americans punish Trump over the war on Iran - Tehran Times",
-      "sources": [
-        "Tehran Times"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNU21JdUlWa0RHWWl3TWpwNDlnREFpbGNvZ0J6ejZ5UVE1WlhoY0JiX0FqZ29YNUpJMFBmamhYTEIxalE1bDUzNnZjZ1FoVFVUNzFHWDVWMEFTeU1mVGJVY0h6WEJlVVlmcXNUaHVJQ2Z0T3l0UDBkVTlNRHZvZG5jQTM2U3Q1bTZJRjN3?oc=5"
-      ]
-    },
-    {
-      "time": "2026-11-05 01:50",
-      "actor": "Israel",
-      "action": "通报",
-      "place": "Iran",
-      "result": "待确认",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "JD Vance blames Israel and Iran war for GOP’s crushing defeats - Jewish Telegraphic Agency",
-      "sources": [
-        "Jewish Telegraphic Agency"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMiowFBVV95cUxNc1FMODJ6X1hwWHoxWWRCR1ZwVktZQ3h0NXZVUzdPbGdzRkp3c1RaWHJXV0d2YVFzRURmeTVqSENCbEV4VExhTl9DWDFzbzlHeExZWnE2NDV4akI3Y20yS19Za1BGbnFkandrX3RTY21sUmFTak9lZTFsNzRHZHdBamp1Sk52LWdobVFGRlJvalRpR3Q0UlpyNDRHbWV3clNrNmdz?oc=5"
-      ]
-    },
-    {
-      "time": "2026-11-05 01:39",
-      "actor": "Israel",
-      "action": "通报",
-      "place": "Iran",
-      "result": "待确认",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "Vance says GOP lost midterms due to Iran war, and that voters want to ‘change our relationship to Israel’ - The Times of Israel",
-      "sources": [
+        "The Times of Israel",
         "The Times of Israel"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZkF1MktLQzFFZkxFdTJxUU9GenM1d25MNDNBcWQwdDRwXzhaZXRxWHZtZDFNNWs1bFJrcmNPTmdWZ09mVTJhRDNjNDVJempfNmxGMFJwY1Rjc1RscW1mU2pPd2NXNHFMNE4xU2ktRWVwakdVN3JqNmRGdzRvSzZYS2dRYkExMEIzUlZoeWJIRHZJVzY3Z1NNZVdobVB4V0dLS2M2REVxc2ozTGlkMUhpenVqZklGUWVOcnpDYnkyY1RlV291Um9lZklyaTR6MEk?oc=5"
+        "https://news.google.com/rss/articles/CBMivwFBVV95cUxObGJkYVlRd2VGbU9DWERpcmtzN014SzZsQzdTSVVkR3lPUXZQLXRzU2l4eUNsTlRickJLTHpkM3l4MVlYQkRpWGNfRDhHMmVxZ0xEc2QtZjdVUVYxMUZpMnhfQVJRS2lWUTYtcDd1Ym5MNElvbEFrdExvSnJ6S2stMHdPbmVxaHFlY3pvaDlHTm9PVi1pckFsWXNDQXJrbERueDVBOVB6NXF4ZjI1cEp4eHd0ekJQazBodThWTjVzd9IBxAFBVV95cUxQNm52OG93WktmaGhGUEtsMDExYWY2QVp5N2tUOUtGUFVlWC1BZzRVTzJLNmlPS1NOR245Tzlvc0E4UjdlLUlSTDFKWTFmS3hSLVRhMGJ3YVdjZmFRX19MSDRTQWI1SW96VnhoU3FDUDNTX083cHU2dnNkN1JsTnVBRDRWeVpLdmFEb1RDSl9LWXFiV0lqNTkxTl9NX0pTcUlxVEtBWVVXVll0Y2tWZ2x0TF8zeDNHaFI4VzM4ZXVJMnFvUWV1?oc=5",
+        "https://news.google.com/rss/articles/CBMivwFBVV95cUxObGJkYVlRd2VGbU9DWERpcmtzN014SzZsQzdTSVVkR3lPUXZQLXRzU2l4eUNsTlRickJLTHpkM3l4MVlYQkRpWGNfRDhHMmVxZ0xEc2QtZjdVUVYxMUZpMnhfQVJRS2lWUTYtcDd1Ym5MNElvbEFrdExvSnJ6S2stMHdPbmVxaHFlY3pvaDlHTm9PVi1pckFsWXNDQXJrbERueDVBOVB6NXF4ZjI1cEp4eHd0ekJQazBodThWTjVzd9IBxAFBVV95cUxQNm52OG93WktmaGhGUEtsMDExYWY2QVp5N2tUOUtGUFVlWC1BZzRVTzJLNmlPS1NOR245Tzlvc0E4UjdlLUlSTDFKWTFmS3hSLVRhMGJ3YVdjZmFRX19MSDRTQWI1SW96VnhoU3FDUDNTX083cHU2dnNkN1JsTnVBRDRWeVpLdmFEb1RDSl9LWXFiV0lqNTkxTl9NX0pTcUlxVEtBWVVXVll0Y2tWZ2x0TF8zeDNHaFI4VzM4ZXVJMnFvUWV1?oc=5"
       ]
     },
     {
-      "time": "2026-11-05 01:36",
+      "time": "2026-11-05 20:45",
       "actor": "Iran",
       "action": "通报",
       "place": "Iran",
       "result": "待确认",
       "confidence": "C",
       "confidenceNote": "C 现场初报待核实",
-      "headline": "Iranian leaders say midterm results show U.S. voters have rejected Trump's war - PBS",
+      "headline": "Iran's $2bn sanctions-busting network exposed by Reuters - JFeed",
       "sources": [
-        "PBS"
+        "JFeed"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUTFCS3FjN3BSUm90NlRwVVJWemw3bk1KMnRhdEd3c05WUGRGSnFodkJCNllBbk1oYjhwY0ljQTZ2bHE2RXpPYkhLaHF5TTVqLUdhUzdXWE90aXVRVjVIbTZ5VGs1eldCR2lzOXFpYTdJOG9XYjZQWURFaFZqclFxc3d2NkIxZTZIN2ZjLU5OVHV6bXV1WGVYNi0tWm82VW9hRDc0d1J2SGMxWXRqS1d6UtIBtgFBVV95cUxQcl9ZZ2VudC1EeERGX2ZXSDZxa1Q4eVhmRFZXdmlWeEk3aE5FTDRUc3FwcVVGZXk0anVSR0lYb3ZMWWpZaVYwdmJXLXppTEdPV1VBUFctVWdTMlMxWDM3ZWR4Z2VybjBlZzcwbmZjRmRodllkWHRnVEhOMEhQaU0teDdIMHBIcy1UYjhLUG96dzY1MGMzNzd1bWk4UGRWUlVkbHZsSXY3SkdQWW9LbTluT0lKTXFoQQ?oc=5"
+        "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMelB3YkRDeHNlQThkY3lDM3Zsb0hUT3F3dXdNQ2w4WmNFX2hLTjI1bmoxRG53NXh2dVNiZDFyZjFVQ2RmR2VDcERqNVdzT0RK?oc=5"
       ]
     },
     {
-      "time": "2026-11-05 01:35",
+      "time": "2026-11-05 20:37",
+      "actor": "Israel",
+      "action": "通报",
+      "place": "Israel",
+      "result": "待确认",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "B61-11: The bunker-buster Israel can't get from Washington - JFeed",
+      "sources": [
+        "JFeed"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMivAFBVV95cUxNN3I5YTlNRnl2LWVqZTVNUmxKSHpuamc1X2g5YzBSMzJfVFoxbDQ0RktEYVZWTHh4cDQzS1RLSF9OenU0MDU2QlpoR2tISTdtdG42WW45ZFB3TVNNUVJIQmV4dE5lTkRMU1I5S3BhZEYxQVV3TEtXTUh2SWthcWJSZ3FlckxpdHREbVpOcXZnMVJJVi1Ea1pSRUowdGQzdHhkSko3M3NacWVYd0NvbFB1MnpWbXBUdTV3OEloag?oc=5"
+      ]
+    },
+    {
+      "time": "2026-11-05 19:56",
+      "actor": "US",
+      "action": "通报",
+      "place": "Iran",
+      "result": "待确认",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "Trump’s midterm setback raises questions over US policy toward Iran, Israel and Ukraine - سانا",
+      "sources": [
+        "سانا"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80QUhMR3hhX1B6Q2Nhd0JYQXlxMWhMVWVvX2x0akhCZVIxZ2oyMlJyS1IzMTV0REREYlAwR0p6VzFqREoyS0xsVS12WmRRdWVZYXRn?oc=5"
+      ]
+    },
+    {
+      "time": "2026-11-05 19:56",
+      "actor": "US",
+      "action": "通报",
+      "place": "Iran",
+      "result": "待确认",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "Israel’s genocide in Gaza, US-Israel war on Iran shaped American Muslim vote: CAIR report - Muslim Network TV",
+      "sources": [
+        "Muslim Network TV"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOExlNmNSYlJwRUZQaER5cnc5ckVmU0luNzBzc2NnMGdIMG9IU1NCWjctQVQ0QTBVNHVNV3JCTGFlR1J3bnYxYzlCRFlNSVBYcVRtSE8yQ3dOY3RIUXdjQ3hjWUVROEtxQW8tNV8xUzZQckMweGlxUVdkanQ5ZktlYjRnV3hCUDFHczk3aGYxZFNKeTRPNThn?oc=5"
+      ]
+    },
+    {
+      "time": "2026-11-05 19:45",
+      "actor": "Iran",
+      "action": "通报",
+      "place": "Iran",
+      "result": "待确认",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "Congress defeat: How Trump’s allies are distancing themselves from Iran war - Al Jazeera",
+      "sources": [
+        "Al Jazeera"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxObGJ5X3dxaVJBdXhrVE93dU51d3NtVklVU2U1aGVTTERHQS03enZjZGtvRlNPeldGcnh4SnBrejFsRWcta0poZjl3LVpJMUFSaHRyX0tzX1JpTExvUG9wSVZoWTlYT0FSQXU1M2VFa0VYeDlsRVVVNXpxNm5PbGppWDRJYTBHaktfeXRUeHllLXdlVkZwek43QVc3cjEwNUFvRVZsb1dveU93SXlkelJwSFM5RjPSAboBQVVfeXFMUEstdnE1V2M2V2ZuWjUweGdMeE1EY0Q0VS1kbVpWLVlqU2lzWTlUcEpzU1lRQkFDTkNVUDY1MEZfVHN0cG03NnJOdVl1WjlDenpUcDlaYjJzME5rSm9zLWh2WmhTaHBGeTRHVjM4T0M5bUxHdVZwOWkwdHFyRzdWMGNnSG9oUTFuY3BCTmVHRlBTMmFSOHAzakJGTkpwUUhpVndhd2VlYklJS3pacWp2Z0tIVER2LUs3ckNn?oc=5"
+      ]
+    },
+    {
+      "time": "2026-11-05 19:36",
+      "actor": "US",
+      "action": "通报",
+      "place": "Iran",
+      "result": "待确认",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "Iran, Gaza, Ukraine: What will US midterm results mean for these conflicts? - Al Jazeera",
+      "sources": [
+        "Al Jazeera"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTVdVY0pabDFMMlhUbURQOUUtblUyblN6LXowQ3lLalJTdlJReFpXdy0xTENPb3Z4Uzk4ZjhZc3BwVmRxMHYza2JWNFVtOEZjYUZic2R3amlVS1lRdGNLTGQyOU5DWFlpRno2MzcxZHI2SUNOcEdhcnc0VnJUa3ZxUlZLUWtQUkg4NldGWERsYzRDenNDMWE0bmJnalNwX3VrUHVxanF0ZXlSXzdfc0xUenNB0gG3AUFVX3lxTE1KSE43bVFVWU9Zc3NkeHQ2Zzd2NHJGa2pRZFVyYkVuczBmQjdyanVod3RxZGprQVQ5bm1UQTdZZUhBcThIWW0xNnlfNDY1eTRmWWVOWlYwVzBWaEVIa3c5aEotS3dyTDhxVEgyUEJUZ2NHRjZzYnFfTmIxeGRCWFVMY2IwV1JLSTlXVjYtTG9tbDFoMGVWa2Z6QzYxYmh3WXZ5M0VUTk0xM055NWxpQ2tYUWE3U0dZUQ?oc=5"
+      ]
+    },
+    {
+      "time": "2026-11-05 19:23",
       "actor": "Israel",
       "action": "通报",
       "place": "Iran",
       "result": "待确认",
       "confidence": "C",
       "confidenceNote": "C 现场初报待核实",
-      "headline": "Vance Blames War in Iran, Israel Ties for GOP Midterm Loss - Bloomberg.com",
+      "headline": "Mohammad Bagher Ghalibaf Challenges JD Vance Over Trump’s Israel-First Policy And War On Iran - NewsCord",
       "sources": [
-        "Bloomberg.com"
+        "NewsCord"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLWUzRTRpenp3RV9naTFHdTVqQlJob2tVNy1nLWR6VWxDR1NKcWRDNXZRN0diT0dDXzBINGxEVmlDd1ZNLVVsSWtvVnNwTzZfTUFXZGdiNlF4R29adWdSOENhNUtjeE95QVBEWmtpUWlHdXFkdEJhd3c5X3h6UnZrV3ZPT2tMUjVGTFNpRl9xamc2VjhLZDJ4bzVFajFlcVBnZVZkcnpDbXVRRXhVamhEMEJOLXM?oc=5"
+        "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRy0zN2xZSEFqWTZnSzlxRUItNDQ1Q2hNZjVEb1cteHA5VDNNcXhHSjhZYXFNZk5xakxnWmRlSnlmSmlBcTZfVENqWG9PbTRkMDktRWhqbHJ0V1dnUl9ucFdfbWxhTThqZlR1RmM2Sm5YcnEwbS1oakJ2MkRVTGJDZUtEVUg4NFVLSURpVmZ2UTN1TWtCRU9GQWlGd2xBcXlrdHBCTzhQQmxva25VSmU2R1cxdjVmSko1cThkSW1vclhlakxPcGd3bUF3SU5ENnp2cldGb2k3VVItVlNFcGJlbmtrcUtfZnlpQmc?oc=5"
+      ]
+    },
+    {
+      "time": "2026-11-05 19:14",
+      "actor": "US",
+      "action": "通报",
+      "place": "Iran",
+      "result": "待确认",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "JD Vance blames Iran war and support for Israel for failure in US mid-term elections - Middle East Eye",
+      "sources": [
+        "Middle East Eye"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWS1MQUI2ak9RZ01KaFR0U2oyOGVSQ09NUjFYY0dtODV0UlV1WkJMOHl6bDZJX2M5VW9KQzBnTXVkYTAxRlFZYWRyb3U4UWhsN0tiSl95bVhQRFlhd3V3TU1ZZU5yTThaQTV2Q1NGckJTNDZGOWx6X2JNTHI4S1U4Y0lTMERXeDBmcEd1T0wteXdEeDVwRHZaMVFUNXdzX1JONXA0NkJtX3VJLXZC?oc=5"
+      ]
+    },
+    {
+      "time": "2026-11-05 19:14",
+      "actor": "Iran",
+      "action": "通报",
+      "place": "Iran",
+      "result": "待确认",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "‘Skip the TED talk’: Iran trolls Vance over midterm defeat analysis - POLITICO.eu",
+      "sources": [
+        "POLITICO.eu"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTUxVeDdRS18yOEZMWjh6c21sOVNVR283SG1LdU5DT3JKcDFiRGcxTHVUN0JXU0dleEYyU2NyVGIwZDdYcWhMNHJsUFk0OXRoa3MyYVRfcDNReHJjNUpoQ0h2WmtPV1JmNXFIQ3psRXJCWGVaWUU5UV91dmJodzl6ck5SbW1CRDlueF8yOWdqN2pSR2FWS3JadDJmWlF1aHhFU0JxRTFIVWRRTVAyMkhON1dVYjZFWmswcUV5VURqT2ZwcmdiWUFF?oc=5"
+      ]
+    },
+    {
+      "time": "2026-11-05 19:06",
+      "actor": "Iran",
+      "action": "通报",
+      "place": "Iran",
+      "result": "设施受损",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "Here’s a List of Gulf Energy Infrastructure Damaged in Iran War - EnergyNow.com",
+      "sources": [
+        "EnergyNow.com"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMimAFBVV95cUxONmpSQUpsbFBZdHJBVzE5RksxTlV3a01Mb0c1bHktX0RSeXhLR3c1bC1JZ3FBUUtWcEYzbkNWZEV1SXQ1QUl2LW1oR0VMa2lvQ0dycm1QMHRWQmpRUjNDOTlqZ2xoU2xkOWZab25sb1R6UW56QWJqb0h0NjRaX3RiOFpCQTc5UzQtRjlMWFBFWG9QazFHQnpHTg?oc=5"
+      ]
+    },
+    {
+      "time": "2026-11-05 18:40",
+      "actor": "Iran",
+      "action": "拦截",
+      "place": "Iran",
+      "result": "拦截",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "Iran war live: Madinah-bound Houthi drone intercepted by Saudi-led coalition - Arabian Business",
+      "sources": [
+        "Arabian Business",
+        "Arabian Business"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5"
+      ]
+    },
+    {
+      "time": "2026-11-05 18:36",
+      "actor": "Iran",
+      "action": "通报",
+      "place": "Iran",
+      "result": "待确认",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "Unprecedented rift: JD Vance says Iran fiasco brought election crushing defeat - The Senate ready to end the war - Bankingnews",
+      "sources": [
+        "Bankingnews"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPLTdfbXNtU3JWWm82ZnhscWVyVno3Nl9JY1g1MXdPYURQb3JuaGdoNnpPS3d6OWdfVlZ3b0RheEhqR1pBRkVydjVIemdWaXctaWJOa0hRbHFnc0lvNngwcVlpVXI3dXFkVW9wWmZ3VUdMMjN5aVlRcnNVa1NnbVpRcEg4SGMzZHlvM29talhzc2taRDZNNEN3czc4QkIwWG1xWGdVTk5RNFNPVHV3cXlQNi1vTWM4dmgySGdNdUk5LXZRdThhTE50alV1WlBDQk10RUl2elUyNWxnX2dTcE1HcGpyeVJrRzZ4djE0eTVZWndhZw?oc=5"
+      ]
+    },
+    {
+      "time": "2026-11-05 18:15",
+      "actor": "未明确",
+      "action": "通报",
+      "place": "未明确",
+      "result": "待确认",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "Why Pete Hegseth could fall through \"thin ice\" - Axios",
+      "sources": [
+        "Axios"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yVXFrek81VDJSY1BKUC1zbDhuODJrNjdkZEdsQngwTWlqbUlZQ3RrbngzeGJtczFJYjFjR2g5LWxGX1BWdUhJU2ptbU45M0xNa2lCazFRNF9OS3hLdW9FZXp5dF9UU2FUQktCRFZ1bFZVS2FReVE?oc=5"
+      ]
+    },
+    {
+      "time": "2026-11-05 18:05",
+      "actor": "US",
+      "action": "发射",
+      "place": "Iran",
+      "result": "待确认",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "Iran Points Missiles Towards Israel & US Bases; Air Defences On Alert As Trump Mulls Fresh Strikes - The Times of India",
+      "sources": [
+        "The Times of India"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMihwJBVV95cUxNdmNrOG9kTW5nN3FGRzVIUTZRZGVWOXRlTVNaLXU5MnJPMDBnZUdjWXJoRElnUUpkZnlnMThVQ2dNNm9jUnNDQjdPbm5sSVE4QURmcmZoc0FtWExkb3cya0E4c2xPcGJXWlRuUGlxM0hPQTdPOWpMV0Z0YVlXUDNTbGt0VUpQVmVvZ1BZUVU3ZkRDaEJDYnhncDRFUVQ4N3p6RXByengxTWl0V1IxalJ0V3ZpRmEtN1RuMDdWaThPeTlzTEk0clpuZ0dPTWRwc0I5OE1kZEtFUml5eWdyWTZ2M1ZOQU15aEJyY25mRnVNRUxHeTJkU2pOU25hbFY3X0VBU3pmMU1mMNIBjAJBVV95cUxPTFlEZWpKb0ptdjdwMkY0ZEVQOEtyMnI5WkpqSWxRSkNUOUdCdEF6cS13RGRXNW50YmV1V0RldU1ROHNYRlZIUzZ5R3RlenVXSWtvTjV2cGl1QlNVdDdWQlZVNjE1UXZPdE5VZ3hLeF9fUy1RWkt2enhFdVRYTnE1V2llMWJNTDF5NzFkNHRnX2Jhc0gxdW0xR040eU5sZXNwbHI3Wlh5dHFZZXBneTJzVzZWN1kyUHM3d3RWNE5zQ20ydEFZR0ZvTkp6WmFhMzlEYmdoOUhUQ1ctODRWNnM4U3BDZ1F5WERJaDlrNXRNLXZscF9OM0tzX01RMFRHYno1QS1wT3ZwV0tvdWJ4?oc=5"
       ]
     }
   ]

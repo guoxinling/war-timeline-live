@@ -1,48 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-11-05 12:52
+更新时间（北京时间）: 2026-11-06 03:25
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-11-05 12:19 | US | 空袭 | Iran | 待确认 | C | Live Updates: War returns to Iran with Israel, US strikes - Dawn |
-| 2026-11-05 12:07 | Israel | 通报 | 未明确 | 待确认 | C | Hezbollah is back: Lebanese army fails to fill the vacuum left by IDF - Ynetnews |
-| 2026-11-05 11:34 | Iran | 通报 | Iran | 待确认 | C | Oil Prices Today: Brent Crude Falls Below $95 After 9% Crash As Trump Faces Pressure To End Iran War – Is Iran War Finally Losing Its Grip On Markets? - The Sunday Guardian |
-| 2026-11-05 11:06 | US | 通报 | Iran | 待确认 | C | US midterm election results 2026: What does ‘blue tsunami’ mean for Trump's war on Iran? Experts weigh in - Livemint |
-| 2026-11-05 11:04 | Israel | 通报 | Iran | 待确认 | C | 'End Iran war, review Israel aid': Vance charts own course after midterm rout - Rediff |
-| 2026-11-05 10:38 | Iran | 通报 | Iran | 待确认 | C | Iran war latest: Iranian general warns of Red Sea attacks if fighting resumes - The National |
-| 2026-11-05 10:23 | Iran | 通报 | Iran | 待确认 | C | ‘The Reason We Lost Is The War’: JD Vance Blames Iran Conflict For Republican Midterm Defeat - Outlook India |
-| 2026-11-05 10:21 | US | 通报 | Iran | 待确认 | C | 2026 Iran war / Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict - Britannica |
-| 2026-11-05 10:06 | US | 通报 | Tehran | 待确认 | C | Israel Rejects Blame For US Iran War, Says Washington Took Decision To Attack Tehran - ABP Live English |
-| 2026-11-05 09:47 | Israel | 通报 | Tehran | 待确认 | C | ISRAELIRANWAR. Iran is preparing for a potential nuclear attack and planning to respond by striking beyond the Middle Eastern frontier. Borders with Azerbaijan have been reinforced, as have political and military headquarters in Tehran. - agc communication news |
-| 2026-11-05 08:38 | 未明确 | 通报 | 未明确 | 待确认 | C | Tracking U.S., state and county gas prices, in maps and charts. Updated daily. - NBC News |
-| 2026-11-05 07:20 | Israel | 空袭 | Iran | 待确认 | C | Vance Blames Iran War, Israel Ties for Midterm Losses; President Trump Defends Strikes - The Media Line |
-| 2026-11-05 07:17 | Iran | 通报 | Iran | 待确认 | C | Presidential hopeful Vance appears to question Iran war after polls debacle - Al Jazeera |
-| 2026-11-05 07:10 | US | 通报 | Iran | 待确认 | C | Iran Targets US Bases In Saudi Arabia, The UAE, Bahrain And Qatar / Vantage With Palki Sharma / N18G Beneficenza (oDehqsBBKV) - Unisba Media |
-| 2026-11-05 06:58 | US | 通报 | Iran | 待确认 | C | Iranians celebrate setback for Trump in US election, and other Mideast news - The Washington Post |
-| 2026-11-05 06:50 | US | 通报 | Iran | 待确认 | C | Netanyahu's Envoy Says Iran War Was 'US Decision', Rejects Israel Blame For GOP Midterm Rout - News18 |
-| 2026-11-05 06:20 | Iran | 通报 | Iran | 待确认 | C | Vance says Republicans lost big because of Iran war: 'Everyone knows why we lost' - BBC |
-| 2026-11-05 06:19 | Israel | 通报 | Iran | 待确认 | C | JD Vance blames Iran war, Israel ties for Republican midterm defeat - Moneyweb |
-| 2026-11-05 06:04 | Iran | 通报 | Iran | 待确认 | C | JD Vance blames Iran war for GOP midterm bloodbath - New York Post |
-| 2026-11-05 05:30 | Israel | 通报 | Iran | 待确认 | C | Vance Blames Iran War, Israel Ties for GOP Midterm Rout - Bloomberg.com |
-| 2026-11-05 05:07 | Israel | 通报 | Iran | 待确认 | C | Vance: GOP lost midterms due to Iran war, voters want ‘change’ in Israel relationship - The Times of Israel |
-| 2026-11-05 05:02 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest News: US Treasury Department Issues Sanctions for ‘Vast Criminal Network’ Helping Iran’s Shadow Fleet; Iran Claims Credit for ‘Strategic Defeat’ of Trump - The Sunday Guardian |
-| 2026-11-05 04:45 | US | 通报 | Iran | 待确认 | C | US voters sent Trump a message: No Iran war, stop funding Israel - The New Arab |
-| 2026-11-05 04:32 | US | 通报 | Israel | 待确认 | C | Democratic Congress could test decades of US support for Israel - The Straits Times |
-| 2026-11-05 04:26 | US | 通报 | Iran | 待确认 | C | Will the US resume its attacks on Iran? - Al Jazeera |
-| 2026-11-05 04:24 | Iran | 空袭 | Tehran | 待确认 | C | Tehran's war debate turns to wider strikes and nuclear threats - Iran International |
-| 2026-11-05 04:14 | Israel | 通报 | Iran | 待确认 | C | JD Vance blames Iran war, Israel ties for Republican midterm losses - The Jerusalem Post |
-| 2026-11-05 04:03 | US | 通报 | 未明确 | 待确认 | C | ‘Seismic shift’: World reacts to US midterm election results - Al Jazeera |
-| 2026-11-05 03:55 | US | 通报 | Iran | 待确认 | C | JD Vance says US war on Iran is ‘real reason’ Republicans lost midterm elections - The Guardian |
-| 2026-11-05 02:56 | US | 通报 | Iran | 待确认 | C | US–Iran War on the Brink: Israel Signals New Offensive as Trump Faces a Dangerous Decision - صوت الإمارات |
-| 2026-11-05 02:41 | Iran | 通报 | Iran | 待确认 | C | GOP Rep. Turner: 'Not a lot of options' for Trump in Iran - ABC News - Breaking News, Latest News and Videos |
-| 2026-11-05 02:26 | Israel | 空袭 | Tel Aviv | 伤亡 | C | Tel Aviv claims deadly strike on south Lebanon targeted ‘suspects observing Israeli troops’ - thecradle.co |
-| 2026-11-05 02:07 | US | 通报 | Iran | 待确认 | C | Deal or escalation? Beaten in US midterms, Trump faces stark choice on Iran - The Straits Times |
-| 2026-11-05 02:02 | Iran | 通报 | Iran | 待确认 | C | Beaten at home, Trump faces stark choice on Iran: deal or escalation - Reuters |
-| 2026-11-05 01:52 | US | 通报 | Iran | 待确认 | C | From Iran to trade: How US midterm results could reshape Washington’s global policies - Firstpost |
-| 2026-11-05 01:52 | US | 通报 | Tehran | 待确认 | C | Americans punish Trump over the war on Iran - Tehran Times |
-| 2026-11-05 01:50 | Israel | 通报 | Iran | 待确认 | C | JD Vance blames Israel and Iran war for GOP’s crushing defeats - Jewish Telegraphic Agency |
-| 2026-11-05 01:39 | Israel | 通报 | Iran | 待确认 | C | Vance says GOP lost midterms due to Iran war, and that voters want to ‘change our relationship to Israel’ - The Times of Israel |
-| 2026-11-05 01:36 | Iran | 通报 | Iran | 待确认 | C | Iranian leaders say midterm results show U.S. voters have rejected Trump's war - PBS |
-| 2026-11-05 01:35 | Israel | 通报 | Iran | 待确认 | C | Vance Blames War in Iran, Israel Ties for GOP Midterm Loss - Bloomberg.com |
+| 2026-11-06 03:14 | US | 通报 | 未明确 | 待确认 | C | Can US midterm results save the Gulf states from war? - DW.com |
+| 2026-11-06 03:00 | Iran | 空袭 | Iran | 待确认 | C | Is Trump admin planning nuclear strike on Iran in wake of midterms? What we know - Snopes |
+| 2026-11-06 02:51 | Iran | 通报 | Iran | 待确认 | C | How Democrats Can Stop the Iran War Now - Reason Magazine |
+| 2026-11-06 02:47 | US | 通报 | Iran | 命中 | C | Iran says tankers struck in Hormuz amid fears of new US attack - Al Jazeera |
+| 2026-11-06 02:46 | US | 通报 | Iran | 待确认 | C | After US midterms, is there a time limit on the Iran war? - analysis - The Jerusalem Post |
+| 2026-11-06 01:44 | Iran | 通报 | Iran | 待确认 | C | Iran is Reviewing ‘Concrete Proposals’ on Nuclear Program, Officials Say - The New York Times |
+| 2026-11-06 01:43 | US | 通报 | Iran | 待确认 | C | Bernie Sanders urges Democrats to end Iran war and cut US funding for Israel - Latest news from Azerbaijan |
+| 2026-11-06 01:35 | Israel | 通报 | Israel | 待确认 | C | the dramatic geopolitics following the U.S. midterm elections. - TV7 Israel News |
+| 2026-11-06 01:31 | US | 通报 | Iran | 待确认 | C | 2026 Iran war / Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict - Britannica |
+| 2026-11-06 01:23 | Iran | 通报 | Iran | 待确认 | C | Farage says he is worried Trump will step up Iran war after midterm 'disaster' - BBC |
+| 2026-11-06 01:04 | US | 通报 | Iran | 待确认 | C | What Trump’s US midterm defeat means for the Iran war - The New Arab |
+| 2026-11-06 00:52 | Iran | 通报 | Iran | 待确认 | C | GOP infighting begins; Civil-society groups propose delaying fight over Iran war until 2027; Saudi-Syria defense deal - Drop Site News |
+| 2026-11-06 00:21 | US | 通报 | Israel | 待确认 | C | Israel's $10 Billion Arms Bill Complicates US Aid Exit - Newsmax |
+| 2026-11-06 00:17 | US | 通报 | Iran | 待确认 | C | Iran’s parliament speaker criticises US policy towards Israel - Daily Times |
+| 2026-11-05 23:30 | US | 发射 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: Iran’s Araghchi Holds Talks With Saudi, Qatari Counterparts on Diplomatic Efforts as Houthis Reject Claims of Missile Attack on Medina - The Sunday Guardian |
+| 2026-11-05 23:01 | US | 通报 | Iran | 命中 | C | Losing Gambler Energy: Irans Ghalibaf Hits Back At JD Vance Over US Midterm Poll Defeat - ABP Live English |
+| 2026-11-05 22:59 | Israel | 通报 | Israel | 待确认 | C | Today’s Headlines: Gaza Killings Continue / Nuclear Deterrence / Why Israel's Arab Vote Matters - Palestine Chronicle |
+| 2026-11-05 22:33 | US | 通报 | Iran | 待确认 | C | US/Israel-Iran standoff: What UAE residents should know this evening, November 5 - Gulf News |
+| 2026-11-05 22:25 | Israel | 空袭 | Israel | 待确认 | C | Israeli army detains 45 Palestinians, including 2 journalists, in West Bank raids - Muslim Network TV |
+| 2026-11-05 22:15 | Iran | 空袭 | Iran | 待确认 | C | U.S. strikes Iran on eve of midterms - Monthly Review |
+| 2026-11-05 22:12 | US | 空袭 | Iran | 待确认 | C | Pentagon intel sees Iran as 'emerging' space power despite US strikes - Türkiye Today |
+| 2026-11-05 22:05 | US | 通报 | Iran | 命中 | C | Iran speaker Ghalibaf hits back at JD Vance over Iran war blame for US election defeat - The Statesman |
+| 2026-11-05 21:46 | Israel | 通报 | Israel | 待确认 | C | The Billions of Dollars in Orders Complicating an End to U.S. Aid to Israel - tovima.com |
+| 2026-11-05 21:37 | 未明确 | 通报 | 未明确 | 待确认 | C | In a frontline Lebanese orphanage, girls strive for a normal life - Reuters |
+| 2026-11-05 21:18 | Israel | 通报 | Iran | 伤亡 | C | Israel’s election deadlock: Bibi in a bind, but what changes for India, Iran and Gaza? - The Times of India |
+| 2026-11-05 20:47 | US | 通报 | Iran | 待确认 | C | Democrats’ sweep triggers countdown to end Iran war, and dooms US-Israel ties under Netanyahu - The Times of Israel |
+| 2026-11-05 20:45 | Iran | 通报 | Iran | 待确认 | C | Iran's $2bn sanctions-busting network exposed by Reuters - JFeed |
+| 2026-11-05 20:37 | Israel | 通报 | Israel | 待确认 | C | B61-11: The bunker-buster Israel can't get from Washington - JFeed |
+| 2026-11-05 19:56 | US | 通报 | Iran | 待确认 | C | Trump’s midterm setback raises questions over US policy toward Iran, Israel and Ukraine - سانا |
+| 2026-11-05 19:56 | US | 通报 | Iran | 待确认 | C | Israel’s genocide in Gaza, US-Israel war on Iran shaped American Muslim vote: CAIR report - Muslim Network TV |
+| 2026-11-05 19:45 | Iran | 通报 | Iran | 待确认 | C | Congress defeat: How Trump’s allies are distancing themselves from Iran war - Al Jazeera |
+| 2026-11-05 19:36 | US | 通报 | Iran | 待确认 | C | Iran, Gaza, Ukraine: What will US midterm results mean for these conflicts? - Al Jazeera |
+| 2026-11-05 19:23 | Israel | 通报 | Iran | 待确认 | C | Mohammad Bagher Ghalibaf Challenges JD Vance Over Trump’s Israel-First Policy And War On Iran - NewsCord |
+| 2026-11-05 19:14 | US | 通报 | Iran | 待确认 | C | JD Vance blames Iran war and support for Israel for failure in US mid-term elections - Middle East Eye |
+| 2026-11-05 19:14 | Iran | 通报 | Iran | 待确认 | C | ‘Skip the TED talk’: Iran trolls Vance over midterm defeat analysis - POLITICO.eu |
+| 2026-11-05 19:06 | Iran | 通报 | Iran | 设施受损 | C | Here’s a List of Gulf Energy Infrastructure Damaged in Iran War - EnergyNow.com |
+| 2026-11-05 18:40 | Iran | 拦截 | Iran | 拦截 | C | Iran war live: Madinah-bound Houthi drone intercepted by Saudi-led coalition - Arabian Business |
+| 2026-11-05 18:36 | Iran | 通报 | Iran | 待确认 | C | Unprecedented rift: JD Vance says Iran fiasco brought election crushing defeat - The Senate ready to end the war - Bankingnews |
+| 2026-11-05 18:15 | 未明确 | 通报 | 未明确 | 待确认 | C | Why Pete Hegseth could fall through "thin ice" - Axios |
+| 2026-11-05 18:05 | US | 发射 | Iran | 待确认 | C | Iran Points Missiles Towards Israel & US Bases; Air Defences On Alert As Trump Mulls Fresh Strikes - The Times of India |
