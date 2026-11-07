@@ -1,41 +1,40 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-11-07 12:22
+更新时间（北京时间）: 2026-11-08 01:19
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-11-07 11:58 | US | 空袭 | Iran | 待确认 | C | Trump confirms new US strikes on Iran’s Qeshm Island - Al Jazeera |
-| 2026-11-07 11:31 | US | 通报 | Iran | 待确认 | C | US offers $29m reward for details on Iran's nuclear program - ABC News & Headlines – Australian Broadcasting Corporation |
-| 2026-11-07 11:07 | US | 空袭 | Iran | 待确认 | C | US carries out another round of ‘minor’ strikes on Iran, Trump says - The Guardian |
-| 2026-11-07 10:00 | 未明确 | 通报 | 未明确 | 待确认 | C | Cal Thomas - Elections were a wipeout for Republicans - The Crescent-News |
-| 2026-11-07 09:55 | US | 通报 | Iran | 待确认 | C | US offers $25 million reward for info on ‘Iran’s nuclear programme’: CENTCOM - The Straits Times |
-| 2026-11-07 09:33 | US | 通报 | Iran | 待确认 | C | US offers $20 mn reward for info on 'Iran's nuclear program': CENTCOM - Al-Monitor |
-| 2026-11-07 09:01 | Iran | 通报 | Iran | 命中 | C | Two projectiles hit Iran’s Qeshm Island near Hormuz - The Siasat Daily |
-| 2026-11-07 08:56 | US | 通报 | Iran | 待确认 | C | US Central Command announces $20M reward for info on Iranian nuclear program - The Times of Israel |
-| 2026-11-07 08:27 | Israel | 通报 | Iran | 待确认 | C | Trump Declares He Alone Prevented Iran From Wiping Out Israel And The Middle East - Republic World |
-| 2026-11-07 08:10 | US | 通报 | Iran | 待确认 | C | 2026 Iran war / Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict - Britannica |
-| 2026-11-07 06:21 | US | 通报 | Tehran | 命中 | C | US Says it Struck Iranian Military Sites, Tehran Responds with Air Base Attack - EnergyNow.com |
-| 2026-11-07 05:25 | Iran | 通报 | Tehran | 待确认 | C | Opportunity or trap? Vance's Iran war remarks divide Tehran - Iran International |
-| 2026-11-07 05:10 | Israel | 通报 | Israel | 待确认 | C | CBC’s The Current Gives Sally Armstrong Another Uncritical Platform To Amplify Anti-Israel Claims, Erasing Hezbollah’s Responsibility For The War - Honest Reporting Canada |
-| 2026-11-07 04:36 | Hezbollah | 通报 | 未明确 | 待确认 | C | In Halloussiyeh, 'Hassan Nasrallah Street' exposes divisions between Amal and Hezbollah - L'Orient Today |
-| 2026-11-07 04:22 | Israel | 通报 | Iran | 待确认 | C | 'Israel, Middle East wouldn't exist today': Trump boasts of stopping Iran's nuclear ambitions - The Times of India |
-| 2026-11-07 04:18 | Iran | 通报 | Iran | 待确认 | C | ‘Everyone knows why we lost,’ Vance wrote of an Iran war that’s cost $38 billion and 19 U.S. lives - Fortune |
-| 2026-11-07 03:50 | Israel | 通报 | Iran | 待确认 | C | Israeli army preparing for possible resumption of war in Lebanon amid Iran tensions: Report - Anadolu Ajansı |
-| 2026-11-07 03:09 | US | 通报 | Iran | 待确认 | C | Mediators Set Up De-Escalation Channels Ahead of US-Iran Talks, Source Says - EnergyNow.com |
-| 2026-11-07 03:09 | Israel | 通报 | Israel | 待确认 | C | Evening recap: Israel reportedly preparing for new confrontation with Hezbollah; young man dies in detention in Lebanon - L'Orient Today |
-| 2026-11-07 02:41 | US | 空袭 | Iran | 待确认 | C | US-Iran talks show signs of progress even as Trump weighs renewed strikes - The Times of Israel |
-| 2026-11-07 01:49 | Israel | 通报 | Israel | 待确认 | C | Israeli attacks threaten food security for children in Lebanon - The New Arab |
-| 2026-11-07 01:48 | US | 空袭 | Iran | 待确认 | C | Trump Says US Snuck 22 Oil Ships Past Iran in Covert Op, US Strikes Regime 2 Nights in a Row - CBN.com |
-| 2026-11-07 01:33 | US | 空袭 | Iran | 待确认 | C | Israeli Media Reports IDF Awaits US Decision on Iran Strike - Kurdistan24 |
-| 2026-11-07 01:30 | US | 通报 | Iran | 待确认 | C | US and Iran Edge Closer to Deal With Nuclear Issue Back in Play - Bloomberg.com |
-| 2026-11-07 01:30 | Houthis | 空袭 | Yemen | 待确认 | C | UPDATE: Airstrikes on a market in southwestern Yemen kill at least 30, Houthis say - The Tribune-Democrat |
-| 2026-11-07 01:29 | 未明确 | 通报 | Gaza | 伤亡 | C | Gaza Ceasefire, One More Deadly Day: 5 Killed, Including a Child - Latin Times |
-| 2026-11-07 01:08 | Iran | 通报 | Iran | 待确认 | C | Trump Warns China, Russia Against Involvement in Iran War - EnergyNow.com |
-| 2026-11-07 01:06 | US | 通报 | Iran | 命中 | C | DW debunks viral posts claiming that Iran has struck US and Israeli military installations - DW.com |
-| 2026-11-07 00:43 | US | 通报 | Iran | 待确认 | C | What the US says is in the potential Iran war agreement - ABC News - Breaking News, Latest News and Videos |
-| 2026-11-07 00:41 | 未明确 | 通报 | 未明确 | 待确认 | C | Masar Badil Leader Celebrates Midterm Election Results - MEMRI / Middle East Media Research Institute |
-| 2026-11-07 00:35 | US | 通报 | 未明确 | 待确认 | C | Bahrain's American shield becomes its greatest liability - thecradle.co |
-| 2026-11-07 00:26 | US | 通报 | Iran | 待确认 | C | US and Iran near possible nuclear breakthrough as American military buildup continues - Ynetnews |
-| 2026-11-07 00:23 | US | 通报 | Israel | 伤亡 | C | Israel’s Political Deadlock Puts Arab Parties in Kingmaker Role as US Aid Faces Cut - Kashmir Life |
+| 2026-11-08 00:25 | US | 通报 | Iran | 待确认 | C | US offers $20 mn reward for info on 'Iran's nuclear program': CENTCOM - Region - World - Ahram Online |
+| 2026-11-08 00:18 | US | 通报 | Iran | 待确认 | C | Iran Says Military Is ‘Stronger’ Than at Start of War With US, Israel - Real Broadcasting Network |
+| 2026-11-08 00:11 | US | 通报 | Israel | 待确认 | C | Today’s Headlines: Heavy Rains Flood Gaza / Israel Fires in Qalandia / US Taxpayers to ICC - Palestine Chronicle |
+| 2026-11-07 23:58 | US | 通报 | Iran | 待确认 | C | Former CENTCOM deputy cmdr. discusses significant US-Israeli Iran war failures - The Jerusalem Post |
+| 2026-11-07 23:38 | US | 空袭 | Iran | 待确认 | C | UPDATES: US War on Iran, Day 254 - "Minor" US Strikes on Qeshm Island in the Strait of Hormuz - EA WorldView |
+| 2026-11-07 23:18 | US | 发射 | Iran | 待确认 | C | Shafaq News..CENTCOM launches task force on Iran’s overland weapons routes - شفق نيوز |
+| 2026-11-07 21:57 | US | 通报 | Iran | 待确认 | C | US army announces new task force to disrupt Iran’s supply routes - Anadolu Ajansı |
+| 2026-11-07 21:20 | Iran | 通报 | Tehran | 待确认 | C | From Tehran to Beirut: Who Controls Hezbollah's Decision to Go to War? - شبكة تواصل الإخبارية |
+| 2026-11-07 21:17 | US | 通报 | 未明确 | 待确认 | C | Shafaq News..US expels Lebanese consul in Detroit over Hezbollah posts - شفق نيوز |
+| 2026-11-07 20:27 | US | 通报 | Iran | 命中 | C | Qeshm island and Hormuz hit, as mediators try to prevent US-Iran escalation - Al Jazeera |
+| 2026-11-07 20:23 | US | 通报 | Iran | 待确认 | C | US Central Command announces $20M reward for info on Iranian nuclear program - NewsCord |
+| 2026-11-07 20:05 | US | 通报 | Iran | 待确认 | C | CENTCOM offers $20m bounty for ‘any information’ on Iran's nuclear program - thecradle.co |
+| 2026-11-07 19:14 | US | 通报 | Iran | 待确认 | C | Australian Prime Minister urges US to de-escalate Iran war after Republican midterm losses - Middle East Monitor |
+| 2026-11-07 18:50 | US | 通报 | 未明确 | 待确认 | C | US declares Lebanese consul in Michigan persona non grata over pro-Hezbollah posts - Naharnet |
+| 2026-11-07 18:36 | Israel | 空袭 | Israel | 待确认 | C | What messages lie behind the Israeli strike in Qabrikha, south Lebanon? - L'Orient Today |
+| 2026-11-07 18:25 | 未明确 | 发射 | 未明确 | 待确认 | C | Missiles target Kyiv and wound 5 as Ukraine prepares for talks with Russia and U.S. - The Tribune-Democrat |
+| 2026-11-07 18:00 | US | 空袭 | Iran | 待确认 | C | US-Israel-Iran War Latest Live Updates: US Issues Fresh Security Alert Across Middle East Over Houthi Attack Threat, Iran Distributes Iodine Tablets Near Nuclear Sites Amid Strike Fears - The Sunday Guardian |
+| 2026-11-07 17:24 | US | 发射 | Iran | 待确认 | C | US-Israel-Iran War Latest Live Updates: Did Netanyahu Try To Launch Secret Attack On Iran Before Israeli Elections? Channel 12 Claims US Intervention Foiled Plan - The Sunday Guardian |
+| 2026-11-07 17:13 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live Updates: Trump Says US Is ‘Locked And Loaded’ As Iran Threatens Immediate Response Against American Targets Without Geographical Restrictions - The Sunday Guardian |
+| 2026-11-07 17:08 | US | 通报 | Israel | 待确认 | C | US Elections Highlight Declining Support For Israel As Trump Questions Military Aid - The Earth News |
+| 2026-11-07 16:05 | US | 空袭 | Iran | 待确认 | C | US Israel Iran War Latest News: Iran Reportedly Distributes Iodine Tablets Near Nuclear Sites As Trump Threatens Fresh Strikes - The Sunday Guardian |
+| 2026-11-07 16:03 | US | 通报 | Iran | 待确认 | C | US Offers $20 Million Reward For Information On Iran Nuclear Program - Radio Free Europe/Radio Liberty |
+| 2026-11-07 15:53 | US | 通报 | Iran | 待确认 | C | Shafaq News..Iran claims 260+ aircraft downed in US-Israel war - شفق نيوز |
+| 2026-11-07 15:24 | Iran | 空袭 | Iran | 待确认 | C | Opinion / Is Trump Going To Double Down On His Strikes On Iran? The Signs Are There - NDTV |
+| 2026-11-07 15:11 | US | 通报 | Iran | 待确认 | C | Iran says military 'stronger' than at start of US war, warns of wider retaliation - Türkiye Today |
+| 2026-11-07 15:10 | US | 通报 | Iran | 待确认 | C | Qatari PM says US willing to seek solution to war with Iran - Al Jazeera |
+| 2026-11-07 15:06 | US | 空袭 | Iran | 待确认 | C | Trump confirms new US strikes on Iran’s Qeshm island - Al Jazeera |
+| 2026-11-07 14:46 | US | 通报 | Tehran | 待确认 | C | US-Israel-Iran War Latest Live Updates: ‘Israel Would Not Exist Today’, Trump Makes Fresh Nuclear Warning Against Tehran, Says US Action Prevented Wider Middle East Destruction - The Sunday Guardian |
+| 2026-11-07 14:30 | US | 空袭 | Iran | 设施受损 | C | US-Israel-Iran War Latest News: Trump Confirms Fresh US Strikes On Iran, Says Air Defence System Destroyed - The Sunday Guardian |
+| 2026-11-07 14:06 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live Updates: Why Is US Offering $20 Million For Information On Iran’s Nuclear Programme As Qatar Makes Fresh Push For Talks? - The Sunday Guardian |
+| 2026-11-07 13:54 | US | 通报 | Iran | 待确认 | C | US puts USD 20 million bounty on Iran nuclear programme information - The Siasat Daily |
+| 2026-11-07 13:52 | US | 发射 | Tehran | 待确认 | C | US launches new strikes on key Iranian island as Tehran weighs proposals to end war - The Independent |
