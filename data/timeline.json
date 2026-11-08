@@ -1,20 +1,380 @@
 {
-  "generatedAt": "2026-11-08 01:19",
+  "generatedAt": "2026-11-08 12:05",
   "entries": [
     {
-      "time": "2026-11-08 00:25",
+      "time": "2026-11-08 10:52",
+      "actor": "Israel",
+      "action": "通报",
+      "place": "Iran",
+      "result": "待确认",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "Netanyahu rival Eisenkot to form a govt: How Israel’s political shake-up could reshape its Iran, Gaza war strategy? - Livemint",
+      "sources": [
+        "Livemint"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPSFJLQ1lUb2JvMHN4RG1YRVEza1oxZklDZEhCWjNnX1F6eDAtWGRKUmRFX3BDMkN3VjRDcmFndVVpRGprM3gzZHB5cm5tbTN0SHhXaVp0Qm13UXdCOWdaQ0IwQW54b1pud1c3UHFMb2dfTlEtWEtYOFM1djRUb2lMWFBxdlAwcTZiUkxsSm04ZkZ6dl9VVkZsMEJ5aE9nb2JTTk9BUVdXUXFQSHpDYVFnMkh1QURZc3Nnb2UyLWkyUmpOSENzWFJaRjZZdG13UENfLU9ScWRfdnI1UHZycXFoSlhtOVhIN0dCM1dIbWlDUVRZSmpXYW4yZUltV0zSAYICQVVfeXFMUHRlTE9FSlppamE0OUpzeEFJa3F5Wk9HajlPd0lHSkJ2TXpsVjBxcEFEMHZydHdMVUJiUTZNMkJTMDltZ2gzbmFjaDNXbXAtR21wQ0VnWGU0YWU4X2xhTktBMjVhS1lCcWxwdnR2LXV0M2liUDVxY3JiUWRRRnNtVjM2dHJpMlJLd2FNcW93eUJaRkJlT3RCMHFUYTJIemsyem95X0dhS2NhbHdzSXNfZ0ZjdnM4cUF0akJQTUljN2JLRUpaNEVXUDgtdVM2bHpkU2xwSVVVUDJUYzQ5MU90NWRzX0xxbTJ5SzN1N1FidE5SRmVtTG8yNFpNZm42WHRFbGhB?oc=5"
+      ]
+    },
+    {
+      "time": "2026-11-08 10:38",
+      "actor": "US",
+      "action": "发射",
+      "place": "Iran",
+      "result": "待确认",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "US launches task force to disrupt Iran’s land-based supply routes - Al Jazeera",
+      "sources": [
+        "Al Jazeera"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUzlZRHNHOEx4NlhrUzJkZmM1UUhPdlBKLXp5OEJYYkpTamRaRUVsUjVZd1pCX01JZXNlYTBKNm9fRkxKQ3VFQmlsdTU4dVN3enpRLVdxZUx0WVM3ZkstRkI3YllCeE9la0QzQW5kYjZ5R0tvbDJjVzk3WFdqczNqVDFiSEN4MXlSd0lBN09DZ0lIV1NYV2thbEt4MDIwTEh0d3BvZ21XZmjSAa4BQVVfeXFMTXB1eGlRQ3JfcXB1cWJLRG1kRFZ0bGdvYWJiNFpLX0ZESXZnbmZ4YnZPYm1fVlRGcmtiU19qUjhid1NaSDhwRnRMUUFVeUswbkNxX19LTDJKU24xX1laZ2V0U21XelNxZWVNemZjLU9MSGVidDdTZHI3bXVGdDR1T1hGV1hHazZjZTRNUllBdUQ1c0RGMXlDOFJQbVB4QUgwU1VhUGpyVF9MbUpuanhR?oc=5"
+      ]
+    },
+    {
+      "time": "2026-11-08 10:38",
+      "actor": "US",
+      "action": "空袭",
+      "place": "Iran",
+      "result": "待确认",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "US military says strike disabled ship trying to run blockade on Iran - The Times of Israel",
+      "sources": [
+        "The Times of Israel",
+        "The Times of Israel"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU09GTWFrTFZ6UDd1SkNCNkhtYmdycC1yakxvakIwcVl2aWhpRDFsdmI4VGg5SmRWemxWZUlFbTZPa2xYZzFRY1ZENWNhM0tCN1JNYmw1YWw1bVVOZm1rNmZKaUlLOHVzY0hqVTFuemZqTkNtTWl3cDB3SnV3Qm5qUE84Y21vRXBINU5talhPNFVwRWF5cUEtQnhMRzA3dlNh0gGmAUFVX3lxTE1HSk9WeEVMeXU1Z0hacVNudkhKaXhjanhJRWdVMTZCWm1ZNU5tUDFXTk96U2txN0pORlcyOHpVMUpUREs3QjMzQjE0STNnc1M2cUg0NTVTVlVPQndxbDZXUldSWHlJMk1KOGNZU2pZcGdPTmJuZmlnaGVLQ3l1MHlkLTFncGktS0R4YkFDUmJGT0NyWTZ0b0NhV2l1bG05YmlSZkdmY1E?oc=5",
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcjNmY2loYkNwUlliS1RFRGpmbzF2MkpjVEFodUlrakhGaVU0VDNQeVBCekFVdFZwZ3NMcEFXbHhiWkU5UDNJVlFRS1U3LW5pckFnVkVPN3RpMElzNEt5MGEyZWkzdG1OR0s5QW1vNG9jdWVHUzVHbS1YQWJDdVhyWnVHY0MwNjVPZnpnTEp6WlMyNmsyc3ZOVUlRcmhGem5pdVplOXphRHVpZjBKaWlfWUM4Qng?oc=5"
+      ]
+    },
+    {
+      "time": "2026-11-08 10:04",
       "actor": "US",
       "action": "通报",
       "place": "Iran",
       "result": "待确认",
       "confidence": "C",
       "confidenceNote": "C 现场初报待核实",
-      "headline": "US offers $20 mn reward for info on 'Iran's nuclear program': CENTCOM - Region - World - Ahram Online",
+      "headline": "DeSantis criticizes Iran war: Regime change cannot be imposed by the US - Israel National News",
       "sources": [
-        "Ahram Online"
+        "Israel National News"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVGF3QkVDc2s5RUpNVldpYlBfNVU2YkJmaDZhaDlqYkR1RkdJMHVIMmpFSC1GdnA5WWlxMmhJV2JOVmdKNmx3TU9tMGJTVDlYR2dsdWlpZmJ0UE4wVHcyZGRJbFhQVC1oZkdOT3pyUEwxYnpPRFBmZ3k2YTI5aXQxNi1meTFVZDdWMXZ2MjFFbXN4YWdtcC1EWmdFdTV4RC1wNGQyLW0wMUc0MVRZajlsUjJ3ZnlIZUVTMUVSNw?oc=5"
+        "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96VmwyYVR0UkxkWklfcjVXTTdLVzBKWGZwcE03QjRSalBYNEFpZ1ZxMUxuMzU0SE1JSWdiYlBTLXJ0WHNVWVRWRDhyeWd0ZmoteHZNTWE5dTIxQQ?oc=5"
+      ]
+    },
+    {
+      "time": "2026-11-08 09:34",
+      "actor": "US",
+      "action": "通报",
+      "place": "Iran",
+      "result": "命中",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "Could iran hit America? Hezbollah 'could hit' nuclear power plants on US soil, shocking report out | Videos - Hindustan Times",
+      "sources": [
+        "Hindustan Times"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONG1iWTJnS2E4T1BMc0pHdVVMSWdrZGRWaWg4eXZSajNPWEREOGNqV1FFNTBDbVBfSXJQTHlZanFlUUt0MVRrZmM2dVZxZk5ZcGE2Tm5lWFJ3dF9USnh0Xy1KY2Y5ZFB2ZFdUOVczMi1pSkFhQzg2enhNWklONWt3OXVpSFFMQ0xsNVpMVEZyX2JTT0JjNHV4VUxzRFJZSlZOb3psejFmX2FpM0EzMlBRVF8tUDg1SGRqWXotM0ttUGZwaXhUMUw5MzJQWUtnRzJoRVM1RlNKWjN2Z3h1X3hETk5uRFlpVUZr0gHuAUFVX3lxTFBBZnJxcHpEaDUta0wwbjQ3bmc0REZvWjJ2V19PSXRoOVo3MjFoTHlpVldDR0czcHBzbnlLcVZObVNBM0NLS0U1bURINnFYOThIRUVTTVY4QjR3NkN5dURMckxDUUxYaUNJUnQwRzZIb29SeHZrMWpSOUZ5QmRoTEVjTlJCb2llSUdodWI5aTlKakQtLWt5aVFyaUNuVjBvQk9lUGwyMEdhUThGWUVCcThfSkN3QVlwQlc3TXc5NzYyalc4Q1VITlVQOExvemFHbG9QSkFrSTBqYjVfcHlpQ1BsWmNTMTE2ZXdJNzE1V1E?oc=5"
+      ]
+    },
+    {
+      "time": "2026-11-08 08:55",
+      "actor": "Hezbollah",
+      "action": "通报",
+      "place": "未明确",
+      "result": "待确认",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "Trump Admin Boots Lebanese Diplomat Over Posts Praising Hezbollah's 1983 Marine Barracks Suicide Bombing - freebeacon.com",
+      "sources": [
+        "freebeacon.com"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcjJqSFVjeG1lYjE2NTd3VU45NnM3cXBfQ1hCVFJfQUlSQ0RSNDVUa1VkeE8wM05GdGdiLXNhVVY5c0xTQVhsLXhRb2RaRlY2eXdHQ284V09rM2tqUXE4RlJTa1FUTmlxRTFDaE1LMW15UmFKdWtIcHV0cmlJaTVWeHJkMko0TS03ZXlDTE5qX3M5cDN0Sk8wWklyeUlWV2tYWHBxb2dLNllsWnV4WExhQm1rRGRYVmNKVGJuN0d3cElsdHJWY0UyRHJnM3c4bnRBNkZ4MERQQ00xbEpTaWpkbFF3?oc=5"
+      ]
+    },
+    {
+      "time": "2026-11-08 08:19",
+      "actor": "US",
+      "action": "通报",
+      "place": "Iran",
+      "result": "待确认",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict - Britannica",
+      "sources": [
+        "Britannica",
+        "Britannica",
+        "Britannica"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5"
+      ]
+    },
+    {
+      "time": "2026-11-08 08:03",
+      "actor": "US",
+      "action": "通报",
+      "place": "Iran",
+      "result": "待确认",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "US Forces Disable Ship Seeking To Break Iran Blockade - Radio Free Europe/Radio Liberty",
+      "sources": [
+        "Radio Free Europe/Radio Liberty",
+        "Radio Free Europe/Radio Liberty"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMiekFVX3lxTE9OeTc1VE5lcEx0QzNhVlh6TnBVZUhfdi1MR0xZQnJOLWo2U3dHb09ucVhPNXctSTFXNTF6R3EwZEJXSl96SF9zS2FPUWFwcHpHeFVMaGtUckZiaGIydHc1SFMwT3U1R1h5WnMtY2RGUkdtYm1jV2VUMWFB?oc=5",
+        "https://news.google.com/rss/articles/CBMiekFVX3lxTE9OeTc1VE5lcEx0QzNhVlh6TnBVZUhfdi1MR0xZQnJOLWo2U3dHb09ucVhPNXctSTFXNTF6R3EwZEJXSl96SF9zS2FPUWFwcHpHeFVMaGtUckZiaGIydHc1SFMwT3U1R1h5WnMtY2RGUkdtYm1jV2VUMWFB?oc=5"
+      ]
+    },
+    {
+      "time": "2026-11-08 07:59",
+      "actor": "US",
+      "action": "通报",
+      "place": "Iran",
+      "result": "待确认",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "Pakistan Accuses Israel of Threatening US-Iran Peace Efforts - The Media Line",
+      "sources": [
+        "The Media Line"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcElyTktYMGFLQUZXSFJUVUtSaW5tWDktTlRramJON3dnQzRVOXJoVDRDM2g2bnNLSk8xX2tYM3ZJeG1oMkRyeUVRY3R1TEpVZnpxOEtoY3NGa3ZwRkJxUU1BOWU0TVVMd2l5S0luLTZ2MjljcXZrdlV5aXkwbDJFdUNLQ0R4elhPOUg3UEhWRXRIOUJpYWZJRFg5TmM?oc=5"
+      ]
+    },
+    {
+      "time": "2026-11-08 07:19",
+      "actor": "Hezbollah",
+      "action": "通报",
+      "place": "Lebanon",
+      "result": "待确认",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "Lebanon Issues Arrest Warrants for Ali Al-Kurdi and Haitham Amhaz in Hezbollah Explosives Case - NewsCord",
+      "sources": [
+        "NewsCord"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOUmdJNDlkLWoxQ0lYMG1BSGtvUXZ1d0lsMUJaR0ROcWFGRVd6YTc2NVl0QmVtME1sNWw3bWlGVHpkSE44Qml2YUlTZGJSeGdScjJpazYyYldSLVNxYk1UVnpZYUxER0lyT1RSQ0k3U1g3d256UDdzamxwd0UtZkJkRWJiaDRlSmhIbVdqSjV6VnRrV0ZlcFpYZWRZTk9zczRkSGcwN2R6dnJEd2paREhtLXFjU0x4cnFIX19hOEUtNmltLXlSVmxsWlJ5dmpkSEtYNG00UUhfdm9nTThSMWtPYzVOSVRpNHR6YmRlRGVyTURxVFpvMzVBMmZxWQ?oc=5"
+      ]
+    },
+    {
+      "time": "2026-11-08 05:52",
+      "actor": "Iran",
+      "action": "通报",
+      "place": "Iran",
+      "result": "待确认",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "Iran war turns Dubai into a ghost city - DW.com",
+      "sources": [
+        "DW.com"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMie0FVX3lxTE1laTdZT0xaRTNBR2tSSklTaHdpa0xxMWtxNkNlNzVCN2I0SVYwWlczcV9jcXRFSElpTnBIN1VKQUt5dF9mVmRQWTlmaDdKM0w4Y1RtbGp6VG16MkczMm1HaGJNUW9QNGVINUhISVNQNHFXYU9JZnhMa1k5dw?oc=5"
+      ]
+    },
+    {
+      "time": "2026-11-08 04:48",
+      "actor": "Houthis",
+      "action": "空袭",
+      "place": "Yemen",
+      "result": "伤亡",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "30 Killed at Yemen Market as Houthis and Saudi Forces Trade Blame Over Taiz Strike - Latin Times",
+      "sources": [
+        "Latin Times"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMidEFVX3lxTE9IT1hxZUpBdndyZ1A0VnZleUlJLVNHcHNfd0hXVnpRQkx2VjV6eHlHVnR6YzM2VTN0R0lKZF9KRmYxNWJ5T2J6dmNJUGtRSU1YQVBGaUxQeExNSHNUT2tzalNWUkFBUTh6ZjZtZGpfOU9oc1Na?oc=5"
+      ]
+    },
+    {
+      "time": "2026-11-08 04:26",
+      "actor": "US",
+      "action": "通报",
+      "place": "Iran",
+      "result": "待确认",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "Iran Warns US of ‘Catastrophic’ Retaliation as Australia Presses Trump to De-escalate - Palestine Chronicle",
+      "sources": [
+        "Palestine Chronicle"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMWxsLVpaLWpubkk2VVB1a2JpLW54MUM5NkRteS1RLVpBUGFKWkpuN3pHN2R2RnhtVVV5c3Nrdm5TWF9rMXZjYzJNN01RTi0zd0dZUEp2aHA2RlNXeUU5c0dkUEltMktGOG1xWXd3T3hOdnhGVEUtTjNjTGtxZDZlRzVrX0VYcV9UeWd4UlA4djB1ZXhNSWdLVFY4VEk4UlZhNTZtd1RROE9UekV1bjlKSFRwcng3Qkk?oc=5"
+      ]
+    },
+    {
+      "time": "2026-11-08 04:26",
+      "actor": "US",
+      "action": "通报",
+      "place": "Israel",
+      "result": "待确认",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "Today’s Headlines: Heavy Rains Flood Gaza | Israel Fires in Qalandia | US Taxpayers to ICC - Palestine Chronicle",
+      "sources": [
+        "Palestine Chronicle"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcTMzV2V4U1hVWm1odGdkMnlWXzNjSnJvSEUxdFNtNGlrNDJmdzc1ZlJUdXVIUGJRTkNqUndNbXpWMDltNS1UV1h0OUE0bGFqekt2N3dVaTZWZzdJUFpUU19yYWJ1bXpxMDlQLWdBaGYweU5fR0pGbllVREFqaWNxTXB6U0thenpKQ1BRS3BrOXNyMUlpU3pGakRKR2xwdzRPVEN0dmJZV2cybkV3WTE3Tk80QjcwVzZ4WlNFNA?oc=5"
+      ]
+    },
+    {
+      "time": "2026-11-08 03:17",
+      "actor": "Iran",
+      "action": "发射",
+      "place": "Iran",
+      "result": "待确认",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "Iran says missiles no longer bound by range limits - Iran International",
+      "sources": [
+        "Iran International"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1rUS05U0JMUUIxWWR4YjN1bm93S1c5aFlhZXkwWTNSczYxYlU3cXhsbzd6OGFDR3ZXQVhkZmRucUQtRTFlLUl5d0RpLV80b1dsSVE?oc=5"
+      ]
+    },
+    {
+      "time": "2026-11-08 03:00",
+      "actor": "Israel",
+      "action": "空袭",
+      "place": "Israel",
+      "result": "待确认",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "Israel Eliminates Senior Hamas Terror Commanders in Recent Strikes - Le·gal In·sur·rec·tion",
+      "sources": [
+        "Le·gal In·sur·rec·tion"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNmxVVzFQVGZCRm1jcXBnT25VM2JxM0Zhazg0WlNmVWdtOHJoeEZaRVg0REdGUlVYVExndlFwYVl1Z05vMUZjQXpzN3Q2XzF3RFd6dXVubXJhYkktNGFBZmczZ3daRWRHVVFFdjRKd2VWOW1EckFlNzBjelg5MmlHRS16czVJdzAyQXlJbkI2RldERlNCQjg0UEpOOUFZTFFBZ2FmM09lX1RjWFU0YkHSAa4BQVVfeXFMTzZsVVcxUFRmQkZtY3FwZ09uVTNicTNGYWs4NFpTZlVnbThyaHhGWkVYNERHRlJVWFRMZ3ZRcGFZdWdObzFGY0F6czd0Nl8xd0RXenV1bm1yYWJJLTRhQWZnM2d3WkVkR1VRRXY0SndlVjltRHJBZTcwY3pYOTJpR0UtenM1SXcwMkF5SW5CNkZXREZTQkI4NFBKTjlBWUxRQWdhZjNPZV9UY1hVNGJB?oc=5"
+      ]
+    },
+    {
+      "time": "2026-11-08 02:35",
+      "actor": "US",
+      "action": "发射",
+      "place": "Iran",
+      "result": "待确认",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "US launches task force to disrupt Iran’s land-based supply routes - Rudaw",
+      "sources": [
+        "Rudaw"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4ZDdicFpvMmFDRk9oZC1VbzVNaDh0MUxkaE9TcnFHeTBPQWxEM29LWGU4V00yZU80RUQxeVBmd1BwRFI5Ti1aS2I2R014b1YwQXl0TFRRaDMtcTlKblVQelVNRW9NdFVyN05yRw?oc=5"
+      ]
+    },
+    {
+      "time": "2026-11-08 02:00",
+      "actor": "Iran",
+      "action": "通报",
+      "place": "Iran",
+      "result": "待确认",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "President Trump: Forget the midterms and finish the job in Iran - The Hill",
+      "sources": [
+        "The Hill"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMifEFVX3lxTE1YNkxUc20yYlFVbDVvcklBWFNFMmo3dEZ1WXVMajcxbUYwOTlQTTh0SXgwR29Dam1sQkEzQzVOVXMyamZ0dHNlNENXWWxYZW5jNUs5NW1YbW5MN05sT3U2VE1wbU9NVkhZdURWYnh3NUZPcFdHdGdpUTZ3dU_SAYIBQVVfeXFMTk4wR1RQQlRuS0pZYlhsSTNyY2FEWGozLW50SkpBZDhQV19oSWRsbGw0X3o4WEJrdnE3bU9JYUpkX3l5RkplN3dYQmlkQk1KQXhfQXRzQTFNcGQ1U1ozZ1pOT0JwcUUyWC1UdDJZUkhTMW5ScWhUOXpiaDdsVm5Rd2xXUQ?oc=5"
+      ]
+    },
+    {
+      "time": "2026-11-08 01:42",
+      "actor": "US",
+      "action": "通报",
+      "place": "Iran",
+      "result": "待确认",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "Iran Threatens Retaliation Against US And Israel, Warns Of Prolonged War If Attacked Again - UrduPoint",
+      "sources": [
+        "UrduPoint"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMingFBVV95cUxQdlRYY1hFbXZkYzBTZGxIZUUtRldJUTNVMmN1Ym9mbURaMXowam9DWWNCZEEtblkxSGNROFlNZWVWVXBtZE40a2t3S2k4d0tyMWVoNWdVVnhNOGhpYWRiU3JKYUZodUlfY09pTTdmdE9ZNUhTei1jYXMtb2VNNFNwZmk4R0lxNEtoMVdWM0VjZkZuclFJZ2pkLXhQRUVvZw?oc=5"
+      ]
+    },
+    {
+      "time": "2026-11-08 01:36",
+      "actor": "US",
+      "action": "通报",
+      "place": "Iran",
+      "result": "待确认",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "Iran threatens US with 'devastating response' - Israel National News",
+      "sources": [
+        "Israel National News"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UMUQwYlo4YWNxNm05UFFRa3h6Nk1YQ3hpWTBoOXhTUHVsMHlFaGZ3d3JpWDR5STFGYWdadkN4dVlvS3FheGxZclNjTG9haE05a0lBTjJZdGtRdw?oc=5"
+      ]
+    },
+    {
+      "time": "2026-11-08 01:27",
+      "actor": "US",
+      "action": "通报",
+      "place": "Iran",
+      "result": "待确认",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "CENTCOM’s ‘Iron Gate’ targets Iran’s weapons routes - Israel National News",
+      "sources": [
+        "Israel National News"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB1Q1JLM0lPSFZCRlBXY19RV1FRc3hPbVlySDhMNzR6NkRUaG5kZWdDUlJKMXhGSnByaG5DWGZsUWFaV3FjUndMaFZhOGJqRXhqcS1xRkhQbW9KQQ?oc=5"
+      ]
+    },
+    {
+      "time": "2026-11-08 01:17",
+      "actor": "Israel",
+      "action": "空袭",
+      "place": "Israel",
+      "result": "待确认",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "Lebanese footballer refuses to give up after injuries from Israeli strike - Al Jazeera",
+      "sources": [
+        "Al Jazeera"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcEJQaWZRT0ZDUkgzTWQ1RUVXaTZuTzV5WG1WbHA0c1lKY3RuRHRLdnRXdU9nTTdObEFRc2RKT1h6LVR1eDhLblh3bjUwclc4a0FUd3pnSElsckU1ZzZOcTBBblBoQ0NLWnk1UzdYTXBVSjhMY3hzTWI1WHRZSXRnaVJSTE1MaXo0aUVOckVWSFRKZUZua3htSTNpbHFyWVVjQnA0aExtSUNtUU00Rm84eUpmcDJIYktQeFd5UGZDUTJ4QdIBxwFBVV95cUxOa2xXV1VTSGQ3ZW5CRGF2cjVIdlJvaGc2QTBfY2dCdGFxZVdIREtGMTBoc0RUMmJDMkoxaUFPX21SN1l5NXZWUHhjLWdiQzJfcDNaSGUxSlMydTNVLVJZUlh5VFNLNVVLaXI3U3YxZGFaTDhVcUJyUnh4R2t2VW1hSklqelpjT2RiOGpsRDNsZXlVdWpvdVFJQTRVQ3N4Qm9McHJNTGp4ZWUwajg1elJoZW1NWXl0aDd4LTF0UzVMSkYtSmI3UVhn?oc=5"
+      ]
+    },
+    {
+      "time": "2026-11-08 00:19",
+      "actor": "US",
+      "action": "通报",
+      "place": "Iran",
+      "result": "待确认",
+      "confidence": "C",
+      "confidenceNote": "C 现场初报待核实",
+      "headline": "US Central Command announces $20M reward for info on Iranian nuclear program - NewsCord",
+      "sources": [
+        "NewsCord"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lcEN1MFgwV1NWUlJzSGR5cTd1VVpMc0VUUWZZV3pFanJmZHdwNTM5RFBKUmUyb0JyN01MSkVDYTNjUG1XOUl4Sl9waTI2SU16ODNMU3htS0hKQlZBR0d0VEVERWJ3QmlqTnZINjgwRmxjdDM4R1FNNTFEZHl0QmM?oc=5"
       ]
     },
     {
@@ -37,488 +397,16 @@
       "time": "2026-11-08 00:11",
       "actor": "US",
       "action": "通报",
-      "place": "Israel",
-      "result": "待确认",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "Today’s Headlines: Heavy Rains Flood Gaza | Israel Fires in Qalandia | US Taxpayers to ICC - Palestine Chronicle",
-      "sources": [
-        "Palestine Chronicle"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcTMzV2V4U1hVWm1odGdkMnlWXzNjSnJvSEUxdFNtNGlrNDJmdzc1ZlJUdXVIUGJRTkNqUndNbXpWMDltNS1UV1h0OUE0bGFqekt2N3dVaTZWZzdJUFpUU19yYWJ1bXpxMDlQLWdBaGYweU5fR0pGbllVREFqaWNxTXB6U0thenpKQ1BRS3BrOXNyMUlpU3pGakRKR2xwdzRPVEN0dmJZV2cybkV3WTE3Tk80QjcwVzZ4WlNFNA?oc=5"
-      ]
-    },
-    {
-      "time": "2026-11-07 23:58",
-      "actor": "US",
-      "action": "通报",
-      "place": "Iran",
-      "result": "待确认",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "Former CENTCOM deputy cmdr. discusses significant US-Israeli Iran war failures - The Jerusalem Post",
-      "sources": [
-        "The Jerusalem Post"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPNUVuclllbTJmZVJnQzltbVNxNXFveXJVeGVER3NndGl2TTJrZDdsMDBtSnBNRkdvbnZwRXBsZTRmYnhVYmxadVB1SEM3SUZnbjkzdnUyMDRfQmVRUjc5eUxtam54UU1qTEE?oc=5"
-      ]
-    },
-    {
-      "time": "2026-11-07 23:38",
-      "actor": "US",
-      "action": "空袭",
-      "place": "Iran",
-      "result": "待确认",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "UPDATES: US War on Iran, Day 254 - \"Minor\" US Strikes on Qeshm Island in the Strait of Hormuz - EA WorldView",
-      "sources": [
-        "EA WorldView"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbWc1TnVMWUZ5dnF2bXBzYS1vVk1qYkdjT0tJdzlKaW56TklnY3BDTUtOQ28yNXhUQ0FTUG9admQ0bU5LOFEtVWk0Yl9fTHd1Q2VkVjRxem5aVFRqa1ZUakFTVllVVDhidDVWRllwdWQzNEU2aHp5aWtsRzM2WDV5dHFmS24zTFNXV3NPTktaTWlJdw?oc=5"
-      ]
-    },
-    {
-      "time": "2026-11-07 23:18",
-      "actor": "US",
-      "action": "发射",
-      "place": "Iran",
-      "result": "待确认",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "Shafaq News..CENTCOM launches task force on Iran’s overland weapons routes - شفق نيوز",
-      "sources": [
-        "شفق نيوز"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRlZOd21JeWFMc1NPaUlEbWJGOVNFZEJiUDliYmxWckgyT2pjenBuWXVhaFZQWUp3Z3I2ck9VLW9lcDJ3NlRvOGFtZm51RVBiZ0FLS0pIVHhZN2tzc2JucjItQ2Jxb0N6Qk5XZGJIQkJFa1NZNVFkd0JybDVSZER2Z1Y2Rm1adzdTOWVoSUNKYUpXTVk?oc=5"
-      ]
-    },
-    {
-      "time": "2026-11-07 21:57",
-      "actor": "US",
-      "action": "通报",
-      "place": "Iran",
-      "result": "待确认",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "US army announces new task force to disrupt Iran’s supply routes - Anadolu Ajansı",
-      "sources": [
-        "Anadolu Ajansı"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTHJkaG1HWmxHXzZHRTIxT1NvVVVXOG95Sm1UdTE1TjZKckhFcDVnQWVsM2w2eUdsM0U2aU5ITm1oajBtVGhVdlhtYW5zSnBpNHFQQ29sWl9XeEZ2SGN2Ulo1cUJQMkFHSHFKdHBvUXZXcWcwMENUZC1aWGpSNHU5cjBNQ3lTOGRRblFnVVJOSUo4RVdNVUJnbFNwekxDaGJpcE1MZEpHMVZ6LW0yNmRGOWNMbHJYSkk?oc=5"
-      ]
-    },
-    {
-      "time": "2026-11-07 21:20",
-      "actor": "Iran",
-      "action": "通报",
-      "place": "Tehran",
-      "result": "待确认",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "From Tehran to Beirut: Who Controls Hezbollah's Decision to Go to War? - شبكة تواصل الإخبارية",
-      "sources": [
-        "شبكة تواصل الإخبارية"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4yZ0JhcnNiQVBxVFZpZjhubFJ0UTAyS3l2cFhBR3UxYnhmYkdsa1NPRlM3Wm1SQzJIYWZYZmt3TEpVYzVJN3lTT3FobUdzOEJvTmpn?oc=5"
-      ]
-    },
-    {
-      "time": "2026-11-07 21:17",
-      "actor": "US",
-      "action": "通报",
       "place": "未明确",
       "result": "待确认",
       "confidence": "C",
       "confidenceNote": "C 现场初报待核实",
-      "headline": "Shafaq News..US expels Lebanese consul in Detroit over Hezbollah posts - شفق نيوز",
+      "headline": "2026 US Midterms: How Trump’s Policies Cost Republicans - Frontline Magazine",
       "sources": [
-        "شفق نيوز"
+        "Frontline Magazine"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMilgFBVV95cUxPX1ZIbVBMajVvZFVWZ19CRnpRQkRNZEk1N01zWF9NM0JqMk9NM1VudEN2SzJrcDBud3NIbzVvNWhLaWpIZUhlUHpQend4VVZ4cFNsRUtham55MmZTZFppNlRDZDM1eUZDbU1PT1IwenpEb0c5T3dHei1LQmNnVFVMdlpzaWNxbjRsdzUtbll0cUNOdG40T1E?oc=5"
-      ]
-    },
-    {
-      "time": "2026-11-07 20:27",
-      "actor": "US",
-      "action": "通报",
-      "place": "Iran",
-      "result": "命中",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "Qeshm island and Hormuz hit, as mediators try to prevent US-Iran escalation - Al Jazeera",
-      "sources": [
-        "Al Jazeera"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMjV6aVJxVlA0d3ZHU0VBY1JjTHBjcDF3dXF6dy0wV21mdkpERXp3WmtXc1VkNEx2bnlBN3h5YlRKWndGS3RKUGotSklFc2doeV9VWmYxWTlWOEZSeENUajB1STE4RVMxYW5DZ21acUxZMGtXN1M1UngyaFFtU0NUQTB1elJSZTctYVlxaE9UeWNVellKbFZUUUdmemZxdnNsTnpZMmloV3VRTUpZZzBzZ2pOZGdPd9IBuwFBVV95cUxQSDh5VUM3TVRybThfVllFeG05YjJHQXRLZWtFUWFraWg3T1dvRHFhdHlBNzZrMmVsSlpTVk9hcE1JbjYydXlOUmNSeXF2TTQ0RU1qSHQ3WDN6a3BOcXlmS0xVR3JqRFRvY3RiYV9iNXdtZXJPdUczeU1ucUZBM2ktY3duRzYwT3YyM2ZaSmh1NjRNbG56RzBabG5vWUtSM25MUUV2MEJwVWNMY3c0ZmV5VmVOWmJEbFJCTllJ?oc=5"
-      ]
-    },
-    {
-      "time": "2026-11-07 20:23",
-      "actor": "US",
-      "action": "通报",
-      "place": "Iran",
-      "result": "待确认",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "US Central Command announces $20M reward for info on Iranian nuclear program - NewsCord",
-      "sources": [
-        "NewsCord",
-        "The Times of Israel"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tTHJRNng0MlpoZnFkYzYyd1NYaXRnUlE1NXJLZVFpSFExNXlZaWU5RmlZLUpFWUlhRTFUZHFFd0hUaWNrTnFtN2lHSVF6NnppT2dEU3ZuWHV2aC1OV3I5Q1g5Tm9ydkFYaXU3NmN4V0lhdmJCb2ZFVU9hUnJiX2M?oc=5",
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa2lud0E0cjQ0bDl2dXFubHkxNGJhTG1FV3FaWkVlbmM3X3BZS19XRDZUd0dNMVc1VnNSVWluc2xGUU9ZRF9ZZDJWdkFEQ2c3ZlVnZjJqYlFLcC1jaWF3bTZ6MEUwamNfck9ZRHFINlNCeGFGOEZyV2tndlc3eXBCVkJBOHpBM1oxaHBuRHZ2RXNyQ2JzOG1lb0hfSjNIbWswMlgyYXVlS1g3Z9IBrwFBVV95cUxNMEhzMzY0c1h0ZDVMMTBzY0pRYWpDWUVyNHhPUS1UaU12Q3l4cHhyNldZNFFncjlBU2hBX28yT01iS2tLbUFkeDc4SEFYWW5OczJpbHR1N1F3YWVFVGo3MzdST0t2d1VIanhiaTNCbDQzcWZBUk9JWmxVbGpSWFo3c2tsNVk1b29XbDBOZzJ3TjRfc0NJeERxcGFZWm01RHY4bTVidzFaN2ZUOG9Ia0VB?oc=5"
-      ]
-    },
-    {
-      "time": "2026-11-07 20:05",
-      "actor": "US",
-      "action": "通报",
-      "place": "Iran",
-      "result": "待确认",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "CENTCOM offers $20m bounty for ‘any information’ on Iran's nuclear program - thecradle.co",
-      "sources": [
-        "thecradle.co"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTXVCWHhfYm8teDEyNXNMVlBBa0toVXlWZy1zY2pYV2RBOWRXVmFhMTBMeXJqa3FDUVUxd2Y1TVFNcDJ6QkJBZTlfY2E5bm81SnRFSUNBQk5nU1c0N1ZjWUs1VlRra0Vuc09Nalkzd244MnNScXJYUWRzZGx6QmI0Smk3WXpxaTFZcXVJQ05VWXMzRWdKWXdMcGxvZUV2c29lLUE?oc=5"
-      ]
-    },
-    {
-      "time": "2026-11-07 19:14",
-      "actor": "US",
-      "action": "通报",
-      "place": "Iran",
-      "result": "待确认",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "Australian Prime Minister urges US to de-escalate Iran war after Republican midterm losses - Middle East Monitor",
-      "sources": [
-        "Middle East Monitor"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSlR6T0J3N2hrUGVVMkhNVWN6U1dPYUY2enNZMFNpZGlkd2NYZmpGMVpGRVFwdUF5Mk9hQTV3OGZ6c3B0aVcyQWtoOGFOVXo5RFh2cmFVdUpGaW5qMTRTUnVLdXVQODIxdGpZT3NHMmJ3d01OUEMta3lwSXBsWjdsLTd2OThfMmVsc1dQcjkzSU5UeklIQU5lYU50dFBBZ0hlVFE5ZDEtUko0NU5zREU0SjlVeEljczAtai1IcUtWSUhOc0hpUDQyWFZNU0hYWnPSAdQBQVVfeXFMTm5MNmR3QVc0WWczWHNqZGY2ZVVMc2lWVE9RcFQ3SXBTcnpZQlQxeklKMWVETFRxazhuYjJDeEZPSDdHOEZlZmdvUkxKelJYaENiX3I0YlRDMUpNZ0s1ZnNYeklHYmpaVHBoZ1F4WVpDLTQzZnJfQ2thX3FXdkpnMlV5cS1uSjRCVjg2OVJEMm9iYVRsN044bDJvSUNSN3lyT3lmTVc2al8taHhUbTVwUERBOG9uQlZ6ZjA0MUNRSUVFajdUaDlOeEVfamdxMUJDY04zXzc?oc=5"
-      ]
-    },
-    {
-      "time": "2026-11-07 18:50",
-      "actor": "US",
-      "action": "通报",
-      "place": "未明确",
-      "result": "待确认",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "US declares Lebanese consul in Michigan persona non grata over pro-Hezbollah posts - Naharnet",
-      "sources": [
-        "Naharnet"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObWR4eEdTS3JvNDNCV2NjV0RuMnZUY0NNdzlrRUZMTVU0TF9Vc1dQZnY2SnRDV0hHWllZV1RDTWNCdVhOX2lYc3VkalZTMGVPSGdtMXRVUzV4bVF0S1hfbXRFeWQ2R0dhUGM4b2hJV1o2RzBUWkVIUVRBczdCLUZ2c3dqR1d1R0U4ZXVvT0l2VHk2eF96QlQwRDdiS0stbnRzU3M0MDdGLXZ0aFdPblZOcVdTYnpBZndESnVqMGJPNmJjVU0?oc=5"
-      ]
-    },
-    {
-      "time": "2026-11-07 18:36",
-      "actor": "Israel",
-      "action": "空袭",
-      "place": "Israel",
-      "result": "待确认",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "What messages lie behind the Israeli strike in Qabrikha, south Lebanon? - L'Orient Today",
-      "sources": [
-        "L'Orient Today"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQ2J2TW4zWkt1d1NxYjN4VkFtUzc3UTBIZ2xwSGtVVV9LUTBWTUpNQTdyNVFzeTQ2WHFHS2V0cHZYdUl1RWNvamUtRnZCSlhKQlZNZy1kSnhCS2NKSG42VnIwM2xMSVN6TGJwaXVnSWVXcG9rSDU1N1phdDM4U0dpS0UyWTZyR1BBRXkzdHlfd3VGeEluZnVsX0JDQ0xxd2NHOHliVnVMSnF2VGNxZDJOV1Bmb0xJVTdPcHNRbHBSZw?oc=5"
-      ]
-    },
-    {
-      "time": "2026-11-07 18:25",
-      "actor": "未明确",
-      "action": "发射",
-      "place": "未明确",
-      "result": "待确认",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "Missiles target Kyiv and wound 5 as Ukraine prepares for talks with Russia and U.S. - The Tribune-Democrat",
-      "sources": [
-        "The Tribune-Democrat"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNbXFrczFqeFd5ZjJrVkdZaEcxUU5EQzY3akxLY1RJSTZISHRaWllQVHRmLXdDRnd0ZUtIMnJPZHhRU2pyYllIT0RDd1poWElweUNacy1hYmxRcXFPQ190bW5HZXc0N3hNNG5ndE5fRnhwek5scUVpOHB4a2xHdzJTcW5sbnVYVzVUSEd0N2FsdWxVNGJUaDJtYWxldWJRS0E2SGhpMDhCaUQ2dFVQZ1dibUY1Y1lpVzRoZ094NEYxRjRXaVJlbGVSUkxoQnF3QzhCNG5tV1J5WUwwZFpiZHhib1NCUk9JMTUxLUVvVkpwUnc?oc=5"
-      ]
-    },
-    {
-      "time": "2026-11-07 18:00",
-      "actor": "US",
-      "action": "空袭",
-      "place": "Iran",
-      "result": "待确认",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "US-Israel-Iran War Latest Live Updates: US Issues Fresh Security Alert Across Middle East Over Houthi Attack Threat, Iran Distributes Iodine Tablets Near Nuclear Sites Amid Strike Fears - The Sunday Guardian",
-      "sources": [
-        "The Sunday Guardian"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMizAJBVV95cUxQVGozRjRjemFCdGlNakVCVE50cU0zM2xSTzJRNm1JanhLVXBGXzJId20tMHVnUWFCUWhGYVh0QlNSREdlajZ6aUVFZWxYdy14WFpCMG8tenJabjdsVGJQRWVLTndzWndTSjA4VHEzUHRXNkF3N21WbmdNTDgtRTJyWlZScHozZXFHQ3RGUTZPMG9KeHVlUm1XcV8tRXVFQ092QUV2RF9zUjlyUW1EQTh6WGhJVTRSeV9EVllNemJ1ZHVVV1Axd1BIcVRkTVk1ZE9VX1NBN0p4UWEwZXYwMjRzQ1pTQkpaaXk2clFtY0x2QXVFenF0cmlRZE9MdXlhdW9URHRxWFhsLXpSXzJKSC03Rk02NThLNGFGbll5WXFYSkNydWQ3MW5ULWdlb2FMS1cxaVRJVVpRWEZRem1TMlFlRmJScXZSWi1pNk1DZNIB0gJBVV95cUxPUmUxTWx1Y2dFR1MwN2w0SGRXblhTSEpMRUtQck1zWU1oMGlmRjlDX1FESzB1RWNBX3lGVVVMWXUycWhuSkFjbGk3c3hTWlZkZUFsY1dRZE1XcUxodGM4cGVIVXdKS015UjNTRDByN3NlVXlreDl3Ml80UFNpcWRXRHR6SC1naFdicjhUc2NvMnVNRm9MT21HMW5PY2ZZbmM2QXRtUHRVNmNPQWlqNm1Jd3RIY3dyaWtObnN1UHRSNWlGTmZjRkxmZGRpWlBLSFB5bmxENHl2MVZETnlSYkRUdEZmc1Z3Skp5QlBUcGxNMjVXLXEyX0MzNVlxa1RuTjdPTll1Rkc3V3I3MVZrSUxJOWI3am43ak9Xd1VLQ25scTBRRC14ckFteWY2eEtWNGxzMUpRNE1hZ2NzZVFhWnpwdUlVakJWR0xpR1FIUUdVSUhIQQ?oc=5"
-      ]
-    },
-    {
-      "time": "2026-11-07 17:24",
-      "actor": "US",
-      "action": "发射",
-      "place": "Iran",
-      "result": "待确认",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "US-Israel-Iran War Latest Live Updates: Did Netanyahu Try To Launch Secret Attack On Iran Before Israeli Elections? Channel 12 Claims US Intervention Foiled Plan - The Sunday Guardian",
-      "sources": [
-        "The Sunday Guardian"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMirAJBVV95cUxOc3dMU0hvWEdJcFpMb3JYVVVySldDM0toc1hMcWhjQ2dkU195Z00zTWNWeF9QNkt2SUxuUXd6WE44SVNYX05NWTJCSmdvcmtFWF9HQmlPUUlGWF9WSkN1WXZfRld6RlJkdU5WS2l3N0pPRVBINnNhTGRadmdZQkZ4UDRIZ3JtcGZNYkpOYzFmSUdiZkFHM3hBb1dXOTVVR2UtLVFlSnJaYUhnYlpRUlN4UzVfaEUyUUNyYkhjTzQzMV8xSnFnN0NvT2djdVpIbnNsY1h4ZndZMjNHUjVRWXhFdWp6eXFaeG5EVGd2R0I1b04tdTFMWFZxMWFodmU0OXQxM0tYRFc3OHV2LXdJS0ZFbnBfTkFxbi1VQ2RuQW1TS2ZDOU1qTFlMQVpnUVjSAbICQVVfeXFMTmR4bjdOUWdMOW1lU2gwdFh0NFRfc2V6NzNDT09CektQOWNFalMzMVI5WjBTOENMZVBzcDg1Y09sWXpaNDRWTDRUWFlGYTNJSWJFdGhSTHA0V2Y2YUVHbTRRSUFzckhnd0lISEZYMldQTWgwVTNJcC1wVmdqcVJYNGJUZ19TczJjOE94N0xyTVpXd0R6Wl83bktnVFFlazhIZnUyNGJuTGdydE54eURvZHdReEtSdzFET2pMa0R2T1l4SDE5ajd4T1psMTRtWWpnSTZaVC1QOWhPUmU0U2lCXzQ1cnFsN21uN01XVzdJZkJXN01GN3J2QUk2aVJzVF9jTHJ3WnlGeDRaT0t6TDBmNWtsRm91a0M0c3ZIdGktNVQwdUduaVpHSHhIdHNua0ZyWEdn?oc=5"
-      ]
-    },
-    {
-      "time": "2026-11-07 17:13",
-      "actor": "US",
-      "action": "通报",
-      "place": "Iran",
-      "result": "待确认",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "US-Israel-Iran War Latest Live Updates: Trump Says US Is ‘Locked And Loaded’ As Iran Threatens Immediate Response Against American Targets Without Geographical Restrictions - The Sunday Guardian",
-      "sources": [
-        "The Sunday Guardian"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMiugJBVV95cUxNWVlMWmlPMjlPb1hPc2lNZm0wcHltNDk4TmdnaktOLXhRWUJsRUptWE5zcnNKWjZ5Tk5yekstVUFtTG9HWXNDUnN6dUo5RmJkc3dIV1pWYkItWUtyakZVVHZIdXh0a3lEbDNvek5lc2llVGtsSzhWdkk1el9vOFBHWVF1ZGVaNW0tN0xaYTlValFTTlR1M2UwaG5nNDhlcGYzbnMtUVA2UC1OUUJ0R2YxQV8zMEFDYkRYaDZqQkFhTjhRMmZIa3ZPRHRFYTVVeWhsN1RRVlFreHFSb0Z4c0xwbHMza1NIelFqZXhnUVd4bTJudzAwQVAzbEEycWRYWjJibVFBdHotZUI1S0x1SDZHYU54S3FhQ3VWc0dBYjAzMDN5V29qelVqZkhxRl95VF9QNjhBVnE3RlpzZ9IBvwJBVV95cUxOU1NESTV0WTN4cnFIVEFzbjlNNjNTSk1pVGt4bE1FcEJndFBHeVEwZl9qd0E3aWliOWt0Y0NKLVpKR2d4S0dOV184Vi1UWGV2T2h4NXRRdHUtRkdEOWgxb0M4ejloZm9NaW5NaEw2a2VyWnJfODdLWVotTW9adWhDeEVIQ0xURXl5T09BTmN5SlRJQUxMclpZUWFjLXROdy03dGhFcmlBRjV4NUFnbW5SQ0pMNG85VDlpOXMwRmxEZ1lRcXNYZlBzQktPY292TDgxTl9URlkxdWNLZUs5S0Y4OXlGTWdKZ3R5d2lxUko1LXJGVjhhMGxwWEtFR29KOGFHeVVkNXg3dnVyUkpTcmM1VFdNcFJnMzh5ZUVnVG5SWmJnX3FZaEtGQ1VxOFRvUmtfcmxZR1hpTE5VOWZTeVZz?oc=5"
-      ]
-    },
-    {
-      "time": "2026-11-07 17:08",
-      "actor": "US",
-      "action": "通报",
-      "place": "Israel",
-      "result": "待确认",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "US Elections Highlight Declining Support For Israel As Trump Questions Military Aid - The Earth News",
-      "sources": [
-        "The Earth News"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM0sybGZ1YW56ZUhxSEhTcW1QLVpwVEZtT2NWaGJCMkRXYzhHYkxKVU51ZUZBNGlHbm82NXdScmRrRDBIbnVaM3FaU0FhTmJaOWxnRjJicmQ4U2h3XzNvd19iUUI1QU1ReXE1TVI0WFBDdmNRRTVNbFgxVFpXelRjU0RaajFsaUgySUlKamlSN1VubHd4RVZhLWhQY1lHbVhjemhyd3RuT3g?oc=5"
-      ]
-    },
-    {
-      "time": "2026-11-07 16:05",
-      "actor": "US",
-      "action": "空袭",
-      "place": "Iran",
-      "result": "待确认",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "US Israel Iran War Latest News: Iran Reportedly Distributes Iodine Tablets Near Nuclear Sites As Trump Threatens Fresh Strikes - The Sunday Guardian",
-      "sources": [
-        "The Sunday Guardian",
-        "The Sunday Guardian"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOMnJlczBqOVE1NTExX3lpc2F1U1ozUlhNTjZRajluYkk0NnVEa3lvdU52cFAtSE5wRkdka2JyWmFUTi0wR2wzQnVqU3RDTE9EZk1KV0hYR2lhcVJXWHNobnUzN2FmLVBCR1pZUl9CSmlrTHF6clZPZFNvM0hLREVxRlVfYXBTVU50U191aUlkeU4ySTYyLUh5bGdJMW10YzM1aVBQUEN6M3BlbkdLN3VmdzJSNEIzdnpJUGpoYlRlR1dPbHJPQjJiUlN3VDRqeklUWE9hYU9MMEhwanRPNF9oY0J6QVRsLTdBYjgzNnZhUm5OZHloNktDbVpBSXhyNkHSAYQCQVVfeXFMTVBMWmtaUlpxV1RBZlBkdmNGVTIzSWxPMlZxckhxNGh6VDJmdUpPc1hVUzR6dUs2NUdhcUZQUHd5WTh3N0tPUWV5NHBpV3l4WjdiT3RhS0hnZDJUQXM3c3F4U2VBVHBXakRlUFNDSmNuSmVQX2llMExRRUxOdTUwNllsRFV3em45S1VBNUJBbjFvU0dEb3Zxc3E4T3pMM3dKQmR2cllNeTlxSlBiQXFyb25WVlZHT1dHenEwQVhwQ3lfNFlGZ0lvc0dSeEVvelh4NHZpVS0ySGxGa1c0bzkwZDBsLWFjMk8xZ01wVm9CQnNKLWl6ZUhKZUg4OHpVUHdsNWxLM1Y?oc=5",
-        "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOMnJlczBqOVE1NTExX3lpc2F1U1ozUlhNTjZRajluYkk0NnVEa3lvdU52cFAtSE5wRkdka2JyWmFUTi0wR2wzQnVqU3RDTE9EZk1KV0hYR2lhcVJXWHNobnUzN2FmLVBCR1pZUl9CSmlrTHF6clZPZFNvM0hLREVxRlVfYXBTVU50U191aUlkeU4ySTYyLUh5bGdJMW10YzM1aVBQUEN6M3BlbkdLN3VmdzJSNEIzdnpJUGpoYlRlR1dPbHJPQjJiUlN3VDRqeklUWE9hYU9MMEhwanRPNF9oY0J6QVRsLTdBYjgzNnZhUm5OZHloNktDbVpBSXhyNkHSAYQCQVVfeXFMTVBMWmtaUlpxV1RBZlBkdmNGVTIzSWxPMlZxckhxNGh6VDJmdUpPc1hVUzR6dUs2NUdhcUZQUHd5WTh3N0tPUWV5NHBpV3l4WjdiT3RhS0hnZDJUQXM3c3F4U2VBVHBXakRlUFNDSmNuSmVQX2llMExRRUxOdTUwNllsRFV3em45S1VBNUJBbjFvU0dEb3Zxc3E4T3pMM3dKQmR2cllNeTlxSlBiQXFyb25WVlZHT1dHenEwQVhwQ3lfNFlGZ0lvc0dSeEVvelh4NHZpVS0ySGxGa1c0bzkwZDBsLWFjMk8xZ01wVm9CQnNKLWl6ZUhKZUg4OHpVUHdsNWxLM1Y?oc=5"
-      ]
-    },
-    {
-      "time": "2026-11-07 16:03",
-      "actor": "US",
-      "action": "通报",
-      "place": "Iran",
-      "result": "待确认",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "US Offers $20 Million Reward For Information On Iran Nuclear Program - Radio Free Europe/Radio Liberty",
-      "sources": [
-        "Radio Free Europe/Radio Liberty"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMiekFVX3lxTE9OeTc1VE5lcEx0QzNhVlh6TnBVZUhfdi1MR0xZQnJOLWo2U3dHb09ucVhPNXctSTFXNTF6R3EwZEJXSl96SF9zS2FPUWFwcHpHeFVMaGtUckZiaGIydHc1SFMwT3U1R1h5WnMtY2RGUkdtYm1jV2VUMWFB?oc=5"
-      ]
-    },
-    {
-      "time": "2026-11-07 15:53",
-      "actor": "US",
-      "action": "通报",
-      "place": "Iran",
-      "result": "待确认",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "Shafaq News..Iran claims 260+ aircraft downed in US-Israel war - شفق نيوز",
-      "sources": [
-        "شفق نيوز"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMiggFBVV95cUxPY0xFNWlhQjlfaDBPUlRZdl9vZmNhRmgzd19iZ2x6VDljbVA0ZEJEOGdIM1VackMyNWgxTERQaTZJUWZPcVIzeTlsd0JvQ0owY0tLOHZSN2x1SExwUS1ydF9odlJyWmpuQUVUWVB4RXBITWtGMHB2WDlDVTY2RnBiejJR?oc=5"
-      ]
-    },
-    {
-      "time": "2026-11-07 15:24",
-      "actor": "Iran",
-      "action": "空袭",
-      "place": "Iran",
-      "result": "待确认",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "Opinion | Is Trump Going To Double Down On His Strikes On Iran? The Signs Are There - NDTV",
-      "sources": [
-        "NDTV"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRnd6Qkx4b3dUN1VEN2FtQWVrZ3RzZUg4c1ZhZ1ZJMjRnQXVSY1FBX0J1Q3U0M2gtMmdrY1lJWUpHaGM1M3lLY1hsMlBnSm5tM3JoTFlNSGpfYTVCaVVNZGpLeFYzVXRzY3dLU1ZQdUNESlptc1hFdlhaZ2U5cGZQUEt3UEpoNHZpYTRYTkYzaEZRZHplbTRz0gGfAUFVX3lxTE9JNGZGSVJjVllEd1pZT2RDUmdLS051UF9MZHdqeTV5R1l2V2UtbTJSb19MZm1tNmtvRlZmM043VlRZZ3JxeWNTZkowZlYzZVAwMHg3OWd3bmhtWllOWHFlVFFhN0duVlAxb2FyOUtCZWpqNk9QMUx6eU9NbUJzbWIyQnp3Sjd6NXBVNDRhekVGdjViNlp1X1Q2TUxEZE9TOA?oc=5"
-      ]
-    },
-    {
-      "time": "2026-11-07 15:11",
-      "actor": "US",
-      "action": "通报",
-      "place": "Iran",
-      "result": "待确认",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "Iran says military 'stronger' than at start of US war, warns of wider retaliation - Türkiye Today",
-      "sources": [
-        "Türkiye Today"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNm83VlprRDJHYUxVLVdNc0k5bXFSdlBHSlZCSEpIbWRmMEM4SHNyb2ZrUEQ4NkstemZzXzlDM0tfZ0RhTHBFb05pOHlUTWdkeGl1QVBkS2lLYmxqbHI1akJlbkZGMzZSRTV4MlhOcFJXR3pJV1M0SEJtZkU5dEM0S3FMTXpQZkZvR3VlS1VZN0Ziek55WmFmVnBIdkJsdWhCTnVQekp1d3E3XzRXQlZaVDA5QXpEMzA2MjNET2xGNA?oc=5"
-      ]
-    },
-    {
-      "time": "2026-11-07 15:10",
-      "actor": "US",
-      "action": "通报",
-      "place": "Iran",
-      "result": "待确认",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "Qatari PM says US willing to seek solution to war with Iran - Al Jazeera",
-      "sources": [
-        "Al Jazeera"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMirwFBVV95cUxQU0ZScEt4eGdOMlg2RHVubFRkU3dORWNtbnRySWNYWG5FN3Brb0h6c1ZQZUZTLXJ1b3ZZbHQyWGlwWnoxUHBfdjFzb0NpdGRhNmJoYURTaVB5U3RTMmtjVGRpY21HQlFVbloxUWJVY2JGdEZFLV9MOUdwRVVJd0k5SWxncXJCdkdOa0VQZjJIUWZPUUV0S1IycWFQdDlxTVhzeW5pZlFkbFZsMmN6UUpB0gG0AUFVX3lxTE1ZTEpycFhWRnp5MUlHd2hOVWp1MTM3RkdwQkloZDJ2TFRGREl6WnRrblByc0t4SWtGOFpnNnRJcHRzRXpXMEFPZGZqRE9PZUFBLU43dGFHdXplT2s0THl2NVItNGNBaXgyUTZFRkJPcExfQWJDVXZQNXg5Q1JJRl9MUWc5RkxId195OGRMaEs1dVhmUVNEekx4dDg1WG13dExFZlZtbFFxZlphbzk5NEo1TVFQeA?oc=5"
-      ]
-    },
-    {
-      "time": "2026-11-07 15:06",
-      "actor": "US",
-      "action": "空袭",
-      "place": "Iran",
-      "result": "待确认",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "Trump confirms new US strikes on Iran’s Qeshm island - Al Jazeera",
-      "sources": [
-        "Al Jazeera"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNmpOc3NISlNqd2RIa3JOMjU1TUxPQ1loWXFoN2ZycXNmZ1QyU3hBVG9TWVhHcDNuWlZ2MGE1eVdLRGw5b2tCOTdseGZ6RHQ0RDB6UzZQVWpMSENnTmRSZFhWaGpBRWgyZXJEalpsc0xIbnpHQi1mQmJya1BXTlE4MTdnd056SkZlc1BXTnE2YktwRmhrR1kw0gGcAUFVX3lxTFBQamY0WVlzbUcwRjcyeXRQVFhPZWc0cTZmZWw5WEZxQmhwRkk0TnZlNDhwMFBLb2RZVWNKcGRjTENOV2NKeDlDbHkzUWs0SnBFS3ZkRkpwOXl5VWUza3RELUtQZm1HbTkzMlZCUjJMdHRoN1dHb1FTTTZxZlF1TzFKSXlnU1VWbnBSSjFJUzBqWWVPOUFHYmJua2pabA?oc=5"
-      ]
-    },
-    {
-      "time": "2026-11-07 14:46",
-      "actor": "US",
-      "action": "通报",
-      "place": "Tehran",
-      "result": "待确认",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "US-Israel-Iran War Latest Live Updates: ‘Israel Would Not Exist Today’, Trump Makes Fresh Nuclear Warning Against Tehran, Says US Action Prevented Wider Middle East Destruction - The Sunday Guardian",
-      "sources": [
-        "The Sunday Guardian"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMivAJBVV95cUxPNF91VmE4MGxBT2k1c0hnYjNTNXBfUC1mUVRzX1FEeThuTGJQZGxEaWNZUkt2THBXQXZZYTdLc2l5d0s2MXNic1BTLU9hRWs1WC01ajFDVHdoRFdmMHpqWjBIbFlybGtXRXpNQjM1d1UtZnRjSW9oY0ZJNmNBYTIwdGtSbndwN3AxZGNxWTVBSXZlWVFrV1NRTXpVcTQ4RkFJYjlONDF3U0RQejJmYjN4UVdCdXFzT2IwWGlHQl9DcEJwcXhrYmZta2NWQ1BWN2xiTHhEcy02c0JIcXN2cGRrRWpYMkpNbVpGZmE3bjB4VTNIbU5yX2V2Y2p2NmJLRnVGQ1NPS0NSdGpwcnNlWko1UHJEZlcwWTVTaVd2R0lUVWdneVZaTXlCZnp0Q3hPRDRWcXhPRS1JNGtvUTdO0gHCAkFVX3lxTE5Gakx6T2RjbDNQNDQ1anZONWhQemxtYkNnRDlDVERNT3JZN2o1V0JoUHdDbk9IanJzYXdvYXBzdmFvVTFmUDVITHk1YkIwYnZyeEVFeUxlOFhQeDM0QWpRVE54dzVZS0xTbjVmWG1xZGkxWnh5dzk4RlJqMGFfOUdGdDduWlJVTlZWa3gxSGtYZjlWQV9BWW1tZ0dnQk9iX3NMbm1fRUd2SjdtTDJXUzNJT3lyT1Zya21adjRvZWhLZktOVG05Ymx4MjZPY1ZVdXJNLW5tM3RxeXNZTUV6VWx5aHBVM1U3ZU9EVDFNZVRmT1NyeDJSeGxTTDNXenZaZ0lCVzAtaXMxZ2M5TU9uQlVCTWF5UVFaaVpzNERzS2c0cUt5MllTQ2NuVlpEUnNxUVVQSThMcU16YVBIeGRxaEM0cHc?oc=5"
-      ]
-    },
-    {
-      "time": "2026-11-07 14:30",
-      "actor": "US",
-      "action": "空袭",
-      "place": "Iran",
-      "result": "设施受损",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "US-Israel-Iran War Latest News: Trump Confirms Fresh US Strikes On Iran, Says Air Defence System Destroyed - The Sunday Guardian",
-      "sources": [
-        "The Sunday Guardian",
-        "The Sunday Guardian"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORmgyQmVVcnlFMWFzMDZTYllEZVVLYTlWSFlhc21tUFQ5Rm9FMGtTLUZCazJxa24zWlMwR25OMHdGbFVuNm05VGpiNWxCZVpzNWd3VUMwdVBSZkpCbk5oTlZRTjJBZFhpOC1UZGVqdzU2NENFYWJvOV9SeEx2cXBBaWozSFRMbVZOb01uMUc4ZFh4cFlxT3FkdHV1WXFuTTR6aGlrZ1JUMmtQalZIdWlRaHhvMXROTkl4elU1YVlRWnJoQV9CY3UtRmh4aEVwZkpDM0ZTeWs2b3I4Szh4SGdueG1sNkNjUlVs0gHoAUFVX3lxTE5GaDJCZVVyeUUxYXMwNlNiWURlVUthOVZIWWFzbW1QVDlGb0Uwa1MtRkJrMnFrbjNaUzBHbk4wd0ZsVW42bTlUamI1bEJlWnM1Z3dVQzB1UFJmSkJuTmhOVlFOMkFkWGk4LVRkZWp3NTY0Q0VhYm85X1J4THZxcEFpajNIVExtVk5vTW4xRzhkWHhwWXFPcWR0dXVZcW5NNHpoaWtnUlQya1BqVkh1aVFoeG8xdE5OSXh6VTVhWVFacmhBX0JjdS1GaHhoRXBmSkMzRlN5azZvcjhLOHhIZ254bWw2Q2NSVWw?oc=5",
-        "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUnZWUk40X2s1X0N4SjNocWRVYkxoRFM4Rkd3c1RMMHlsMjZ0ckJLOTdoZjZxN21SZ3dQNzJSa05fUlVTMG5TRUpCZXZ3QmJUN1RCZE1pTElQbi16WVo0ekZxRnBtUzlvbTFIb1VBM3RjcUpvampkYzIwY3BLTU8tTHQ4YXdvN3BXV25JenpxaVlTQktadEMxTnJLcEhJYUo3ZlQ4ZFlEWlpvZXdqRU9oY1hUSHEwanhnSUxTRDB0OGdycjZlMVdpZkJZMWFkbndzTTJMLW9CRThsNkJXb1V0WWt4NNIB6AFBVV95cUxORmgyQmVVcnlFMWFzMDZTYllEZVVLYTlWSFlhc21tUFQ5Rm9FMGtTLUZCazJxa24zWlMwR25OMHdGbFVuNm05VGpiNWxCZVpzNWd3VUMwdVBSZkpCbk5oTlZRTjJBZFhpOC1UZGVqdzU2NENFYWJvOV9SeEx2cXBBaWozSFRMbVZOb01uMUc4ZFh4cFlxT3FkdHV1WXFuTTR6aGlrZ1JUMmtQalZIdWlRaHhvMXROTkl4elU1YVlRWnJoQV9CY3UtRmh4aEVwZkpDM0ZTeWs2b3I4Szh4SGdueG1sNkNjUlVs?oc=5"
-      ]
-    },
-    {
-      "time": "2026-11-07 14:06",
-      "actor": "US",
-      "action": "通报",
-      "place": "Iran",
-      "result": "待确认",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "US-Israel-Iran War Latest Live Updates: Why Is US Offering $20 Million For Information On Iran’s Nuclear Programme As Qatar Makes Fresh Push For Talks? - The Sunday Guardian",
-      "sources": [
-        "The Sunday Guardian",
-        "The Sunday Guardian"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMinAJBVV95cUxOWjA3VlZ6em4taXNnM1pOaWZqSmN1OEdwaXpkT3hEQWhYNnM5VUhaNk9mREhfRnNfVDNVRkhEZEJEN3l0WVcwXzlseXhnRHJHNzRXUTRIeVJKT09haGEzZ3h5Mmd3cWZZRzhja2QzNVNtRG1XOTNkQTZaU0ZiY19Pek9CZHg2aGdiTDF2endlOGVuVXdIbWotVE4tQVQ0T05FMHN4bk1aWVFSbHRhSkZuMlRxQ3J4LS1PMTltYjJlck5NczliZnVNQ3BlQTFzV2pfbnQxYmNKTEFNNFljNS1QcVRROGkwRzV1WjFteUktd3NmX1pVdkZ4M2oyVkNoYUxGcmYyN2MybV9qdU9XZ3pYR3FCVkp6VVdQcXM4NtIBogJBVV95cUxOZ1kxUWtIZzhtclluWm1ZdVlzTFA3WUFpRTFCQmJGQU1rVXMzWDZuYmRQRnZuNWxuYTBzcjVjZHhhU3JFSDU5Yzg5aTdjY1ZDWGNRT3ZnaVZycjNXMmxQN2ZTVVVsVUdBMEFvWnJoZ3Vkc18tck4tNG1iWXUzekNLRktDcFd0dlRaQTR1Qk03eEdwdkl4S0s3RHlNLUlKd29wWm5HQWxSLXlrVlpIdmVwVUpkREp1UWYwTE1xdnh2ay0wQnJPZm1WWkJWdVdPNW9TUUIzamtPdGdpQUw0d0dsb2FPY2hudnEtSFZ5UkRfTV9fbmRER1cycS1pQk15X0NaRmtDb191WjR1SjNKY0M5UXNzbjJTS3hZVzZnalNXZU9hQQ?oc=5",
-        "https://news.google.com/rss/articles/CBMinAJBVV95cUxOWjA3VlZ6em4taXNnM1pOaWZqSmN1OEdwaXpkT3hEQWhYNnM5VUhaNk9mREhfRnNfVDNVRkhEZEJEN3l0WVcwXzlseXhnRHJHNzRXUTRIeVJKT09haGEzZ3h5Mmd3cWZZRzhja2QzNVNtRG1XOTNkQTZaU0ZiY19Pek9CZHg2aGdiTDF2endlOGVuVXdIbWotVE4tQVQ0T05FMHN4bk1aWVFSbHRhSkZuMlRxQ3J4LS1PMTltYjJlck5NczliZnVNQ3BlQTFzV2pfbnQxYmNKTEFNNFljNS1QcVRROGkwRzV1WjFteUktd3NmX1pVdkZ4M2oyVkNoYUxGcmYyN2MybV9qdU9XZ3pYR3FCVkp6VVdQcXM4NtIBogJBVV95cUxOZ1kxUWtIZzhtclluWm1ZdVlzTFA3WUFpRTFCQmJGQU1rVXMzWDZuYmRQRnZuNWxuYTBzcjVjZHhhU3JFSDU5Yzg5aTdjY1ZDWGNRT3ZnaVZycjNXMmxQN2ZTVVVsVUdBMEFvWnJoZ3Vkc18tck4tNG1iWXUzekNLRktDcFd0dlRaQTR1Qk03eEdwdkl4S0s3RHlNLUlKd29wWm5HQWxSLXlrVlpIdmVwVUpkREp1UWYwTE1xdnh2ay0wQnJPZm1WWkJWdVdPNW9TUUIzamtPdGdpQUw0d0dsb2FPY2hudnEtSFZ5UkRfTV9fbmRER1cycS1pQk15X0NaRmtDb191WjR1SjNKY0M5UXNzbjJTS3hZVzZnalNXZU9hQQ?oc=5"
-      ]
-    },
-    {
-      "time": "2026-11-07 13:54",
-      "actor": "US",
-      "action": "通报",
-      "place": "Iran",
-      "result": "待确认",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "US puts USD 20 million bounty on Iran nuclear programme information - The Siasat Daily",
-      "sources": [
-        "The Siasat Daily"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMilgFBVV95cUxOelFzc0E2M2RhSHJ2NXd5S1Jhc3laMUk4N01LRWhvOHpUdWp5Y05WQ1JydzIxS3RjODg3MzE2RmxXdGI1aVNjT2xOWUxEZnBjTkFFU2FteVlRM0FqM1VaSEhhQW9MaEoyM1YzXzN2dHY2NG5EN2xXRjBUTEhxbTNvZlE2Qm9kcUFrZFY3R215NGtTMlgzNVHSAZsBQVVfeXFMTXZkSk41SWxOTUhGZ2dvQ3RXQ2tvaU5rNlFBdnFKcFJ1OTZvOGZNTkZlVk1SNGV4SHVpZzZkNlFaR1daaUxzSm5ZUVBlVXFNRnFrQk5sVnF1TVZmZUZOaHJWV0VNU3ZwakFmOGZsdHNoMEgwLVVvS2tyOVJPRXV1c0RRY0pfZzV5SXRqQkR6NmxpNkJIWlJYT1g1d0k?oc=5"
-      ]
-    },
-    {
-      "time": "2026-11-07 13:52",
-      "actor": "US",
-      "action": "发射",
-      "place": "Tehran",
-      "result": "待确认",
-      "confidence": "C",
-      "confidenceNote": "C 现场初报待核实",
-      "headline": "US launches new strikes on key Iranian island as Tehran weighs proposals to end war - The Independent",
-      "sources": [
-        "The Independent"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcnNENHkzdjhNbXVNbnphczdiQWpiOHFRTFJQa2RmaF9seTlzazkyOFQ4THp3Z1BhMHp2emI5ZFhxTkpaMDF4d1NORVE2cVR5N1F1NG9QZUJqOXljcmZQai1Gcl94T2NZVTRfTGpKNWplNEc2UXFnZjJNYzRVendNU3JfRjdOcVR2QXM3LVUxRmF2d2NuM0JfdHBZNkt5U0FRU01xLWtTMEE?oc=5"
+        "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbFFxWkxhbm5qa0pXUmhrVmVTeE5ncmQ3Ulc3Qmg2RUVMcGQtc1lEakg5b0F0OWZ1QXpEbWxjVzdjUHRjQ25Wb3VWejhDaFFIZDhsNWdQWjR6SGtkNFh1M09jeDhKcnNzUklOeEp2WVZxOGtwQi01M3B0S1ZiSVpwckNrZE9MVndySTBraFRVMkJjVS1FeUJ0NkxZSE5sbzBPQlRjdWIxYWh2SVNtSXRZUTBLaXNabnNsRWfSAcABQVVfeXFMTzRCUHNCYlpqY1FyM3h2Z3JVSGxnWUEzTUthdXQ4UGh3ZHdfUG8ySmdSU1dobF93THpJSHAwWXVrdTFudl9KaEpMazdmR1B5OUx3d0Q5MDNOemRUbm9uUTJucWVIcWF1VGhTbkphVlVyczJUSU9ROFNpZ2M0VllRZ2xnTEhMeFFNWWFfcWE4VEtrbFFfNk9tZDI0TU5LX3FUQi1YbVRpTmR4b2NpTlZjazFBTnFEN1Uxa3B0M2J0ODBv?oc=5"
       ]
     }
   ]
