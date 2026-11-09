@@ -1,41 +1,38 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-11-09 01:31
+更新时间（北京时间）: 2026-11-09 12:21
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
+| 2026-11-09 11:26 | Israel | 通报 | Israel | 待确认 | C | Israel after Netanyahu? Eisenkot’s rise and the implications for the Gulf War and India - ET Government |
+| 2026-11-09 11:26 | Israel | 通报 | Israel | 待确认 | C | Israel Government Formation 2026: Gadi Eisenkot Gets Chance… - theopenpress.in |
+| 2026-11-09 10:25 | Iran | 通报 | Tehran | 待确认 | C | Analysis • The Iran war may end, but Tehran's threat to the Gulf won't - Haaretz |
+| 2026-11-09 10:04 | Israel | 通报 | Iran | 待确认 | C | Trump cites 'great dislike' for Israel, Iran war among reasons for Republican midterm losses - Anadolu Ajansı |
+| 2026-11-09 09:14 | US | 空袭 | Iran | 待确认 | C | Iranian Media Reports Another US Strike Against Iran’s Qeshm Island - Antiwar.com |
+| 2026-11-09 08:55 | Israel | 通报 | Iran | 待确认 | C | Trump cites dislike of Israel as key factor in GOP midterm losses alongside war with Iran - The Jerusalem Post |
+| 2026-11-09 08:06 | US | 通报 | Iran | 待确认 | C | Iran’s Supreme Leader, Army Warn against US, Israeli Threats, Say Any New Attack Would Spread War Wider - THISDAYLIVE |
+| 2026-11-09 07:46 | 未明确 | 通报 | 未明确 | 待确认 | C | Postcards: In a frontline Lebanese orphanage, girls strive for a normal life - Sight Magazine |
+| 2026-11-09 07:00 | US | 通报 | Iran | 待确认 | C | 'Iranian demands are outrageous,' Rubio says as talks fail to make progress - The Jerusalem Post |
+| 2026-11-09 06:42 | US | 通报 | Iran | 待确认 | C | Diplomatic agreement with Iran may not be possible, says US' Rubio - Anadolu Ajansı |
+| 2026-11-09 06:14 | Houthis | 发射 | 未明确 | 命中 | C | Iconic Saudi tower hit as Houthis launch fresh strikes - The Daily Telegraph |
+| 2026-11-09 06:11 | US | 空袭 | Iran | 待确认 | C | Trump holds off on Iran strikes as US, Israel prepare for military operation - JPost - Iran International |
+| 2026-11-09 06:02 | Israel | 通报 | Iran | 待确认 | C | Trump says new task force to disrupt land routes into Iran ‘is in full force’ - The Times of Israel |
+| 2026-11-09 05:57 | Hezbollah | 通报 | Jerusalem | 命中 | C | Iraq's Khor Mor gas field hit less than day after reportedly referenced by Kataib Hezbollah - The Jerusalem Post |
+| 2026-11-09 05:41 | Israel | 通报 | Iran | 待确认 | C | Katz Says Israel’s War Against Iran Is ‘Not Complete’ - Antiwar.com |
+| 2026-11-09 05:28 | US | 空袭 | Iran | 待确认 | C | Israel prepared for US strike on Iran, but Donald Trump held off - The Jerusalem Post |
+| 2026-11-09 05:05 | Iran | 通报 | Iran | 待确认 | C | Election results cannot untie knots of Iran war / Daily Sabah - Daily Sabah |
+| 2026-11-09 03:25 | Iran | 通报 | Iran | 设施受损 | C | Trump says renewed war 'highly unlikely,' but threatens Iranian infrastructure - ynetnews |
+| 2026-11-09 03:16 | Hezbollah | 通报 | Lebanon | 待确认 | C | Lebanon Fears New War as Hezbollah Retains Say Over Conflict - ASHARQ AL-AWSAT English |
+| 2026-11-09 02:21 | Israel | 通报 | Israel | 待确认 | C | Israel starts tortured process to form the next war and genocide government - World Socialist Web Site |
+| 2026-11-09 02:03 | US | 通报 | Iran | 待确认 | C | US offers $20 million reward for information on Iran's nuclear program - Israel National News |
+| 2026-11-09 01:55 | Iran | 通报 | Iran | 待确认 | C | Trump says return to Iran war 'highly unlikely' if talks advance - Anadolu Ajansı |
+| 2026-11-09 01:54 | Hezbollah | 通报 | 未明确 | 待确认 | C | State Department Reportedly Moves To Deport a Lebanese Embassy Official For Posts Praising Hezbollah - Mediaite |
 | 2026-11-09 01:21 | US | 通报 | Iran | 待确认 | C | US Central Command Expands Task Force Iron Gate To Cut Iran’s Land And Caspian Routes: 10 outlets compared - NewsCord |
 | 2026-11-09 01:19 | US | 通报 | Tehran | 待确认 | C | Iran holds trial in lawsuit filed by 100 victims of US-Israeli aggression - Tehran Times |
+| 2026-11-09 01:07 | Israel | 通报 | Israel | 待确认 | C | WATCH: Hezbollah weapons found steps from UN posts in southern Lebanon - World Israel News |
 | 2026-11-09 01:07 | US | 通报 | Tehran | 待确认 | C | Londoners condemn US-Israeli threats against Iran - Tehran Times |
+| 2026-11-09 00:49 | US | 空袭 | Iran | 待确认 | C | ‘Not complete’: Israel warns Iran of new strikes as US expands blockade - The Weekly Times |
 | 2026-11-09 00:36 | Israel | 通报 | Iran | 待确认 | C | ‘We’re not done with Iran’, warns Israel - The Telegraph |
-| 2026-11-08 23:21 | US | 通报 | Iran | 待确认 | C | Middle East on the evening of November 8th: Israel also hints at a possible return to Iran; IRGC bluntly criticizes US special forces. - Vietnam.vn |
-| 2026-11-08 23:00 | US | 通报 | Iran | 待确认 | C | US Establishes Task Force Iron Gate to Halt Iranian Weapons Smuggling - Israel Defense |
-| 2026-11-08 22:55 | US | 通报 | Iran | 待确认 | C | US/Israel-Iran war: What UAE residents should know this evening, November 8 - Gulf News |
-| 2026-11-08 22:34 | Israel | 通报 | Iran | 待确认 | C | Israel Warns of Another Round of Attacks on Iran amidst Netanyahu’s Uncertain Political Future - Revoi.in |
-| 2026-11-08 22:11 | US | 空袭 | Iran | 待确认 | C | ‘Enormous, Unbearable’: Brik Warns US Strike on Iran Could Devastate Israel - Palestine Chronicle |
-| 2026-11-08 21:30 | Israel | 通报 | Tehran | 待确认 | C | 'Not Finished With Iran': Israel Issues Fresh Warning Over Tehran's Nuclear Ambitions - Times Now |
-| 2026-11-08 21:21 | Israel | 通报 | Iran | 待确认 | C | Israel defence minister says 'mission not complete' on Iran: 'They're trying to obtain nuclear weapons' - WION |
-| 2026-11-08 21:16 | Iran | 空袭 | Iran | 待确认 | C | Sara Netanyahu: ‘I have no access to security information, including on Iran strikes’ - ynetnews |
-| 2026-11-08 20:54 | US | 通报 | Iran | 待确认 | C | New US task force to target land transit routes into Iran - Al-Bawaba |
-| 2026-11-08 20:39 | Israel | 通报 | Tehran | 待确认 | C | Israel Katz warns that operations against Iran could continue and accuses Tehran of trying to obtain a nuclear weapon - Informat.ro |
-| 2026-11-08 20:33 | Iran | 通报 | Iran | 待确认 | C | Iran designates UK military as terrorist organisations, MI6 as "hostile group" - skwawkbox |
-| 2026-11-08 20:00 | Israel | 通报 | Iran | 待确认 | C | Israel Defence Minister says ‘mission not complete’ on Iran, warns Hezbollah against joining any... - Moneycontrol.com |
-| 2026-11-08 20:00 | Iran | 通报 | Tehran | 待确认 | C | JD Vance gets the Iran war wrong: Diplomacy handed Tehran victory - The Jerusalem Post |
-| 2026-11-08 19:33 | Israel | 通报 | Iran | 待确认 | C | Israel vows Iran mission 'not complete' amid nuclear fears - Yeni Şafak English |
-| 2026-11-08 19:24 | US | 通报 | Iran | 待确认 | C | Task Force Iron Gate: US expands Iran blockade - The Daily Telegraph |
-| 2026-11-08 19:14 | Israel | 通报 | Iran | 待确认 | C | Israel defence minister says ‘mission not complete’ on Iran - The Straits Times |
-| 2026-11-08 19:03 | Israel | 通报 | Iran | 待确认 | C | ‘No good options’: Iran war caught between Trump's midterm troubles, Israel's election shake-up - The Jerusalem Post |
-| 2026-11-08 18:08 | Israel | 通报 | Iran | 待确认 | C | Israel defense minister says ‘mission not complete’ on Iran - Arab News |
-| 2026-11-08 18:03 | US | 通报 | Iran | 待确认 | C | Iran’s Supreme Leader, Army Warn against US, Israeli Threats, Say Any New Attack Would Spread War Wider - THISDAYLIVE |
-| 2026-11-08 17:39 | US | 通报 | Iran | 待确认 | C | US tightens squeeze on Iran with new task force - World Israel News |
-| 2026-11-08 17:15 | US | 通报 | Iran | 待确认 | C | US Offers $20 Million Reward for Info on Iranian Nuclear Program - Israel Defense |
-| 2026-11-08 16:55 | Iran | 通报 | Iran | 待确认 | C | Philippines declares national energy emergency as Asia risks energy crisis amid Iran war - ABC News - Breaking News, Latest News and Videos |
-| 2026-11-08 16:45 | US | 通报 | 未明确 | 命中 | C | Two tankers hit mines in Hormuz, US disables ship - The Siasat Daily |
-| 2026-11-08 16:45 | US | 通报 | Iran | 待确认 | C | 'Washington's doctrines of aggression have failed': Iran issues fresh warning to US - Mathrubhumi English |
-| 2026-11-08 16:18 | Iran | 通报 | Iran | 待确认 | C | Trump says 'we're blowing up the whole country' if no Iran deal is reached in 48 hours - ABC News - Breaking News, Latest News and Videos |
-| 2026-11-08 16:12 | US | 空袭 | Iran | 待确认 | C | Watch: US Centcom shows strike commercial vessel in Hormuz that allegedly defied Iran blockade - The Times of India |
-| 2026-11-08 14:54 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live Updates: ‘We Lost About $3 Trillion’, Trump Links Wall Street Crash To Democratic Election Gains, Says Iran Nuclear Threat Remains Top Priority - The Sunday Guardian |
-| 2026-11-08 14:30 | US | 通报 | Iran | 命中 | C | US-Israel-Iran War Latest Live Updates: Two Oil Tankers Catch Fire After Allegedly Hitting Naval Mines In Strait Of Hormuz, Iran Blames Ships For Using Unauthorised Routes - The Sunday Guardian |
-| 2026-11-08 13:35 | Israel | 通报 | Israel | 待确认 | C | Political defeat, historic victory - www.israelhayom.com |
+| 2026-11-09 00:32 | Israel | 通报 | Israel | 待确认 | C | Israel's president formally gives Eisenkot the first chance to form the next government - PBS |
