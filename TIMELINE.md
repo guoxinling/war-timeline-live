@@ -1,41 +1,42 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-11-22 12:48
+更新时间（北京时间）: 2026-11-23 02:58
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-11-22 12:35 | US | 通报 | Iran | 待确认 | C | Iran vows to break US blockade, calls it an ‘act of war’ - The Siasat Daily |
-| 2026-11-22 11:58 | Israel | 撤离 | Israel | 待确认 | C | Lebanese president urges Israeli withdrawal, rejects weapons outside state control - chinadailyhk |
-| 2026-11-22 11:53 | US | 空袭 | Iran | 待确认 | C | US-Israel-Iran War Latest Live Updates: ‘Never Cared Too Much About The Regime’, Says Donald Trump, Claims US-Israeli Strikes Have Taken Out Three Groups Of Iranian Leadership - The Sunday Guardian |
-| 2026-11-22 11:25 | US | 通报 | Iran | 设施受损 | C | US-Israel-Iran War Latest Live Updates: Iranian Attacks Target US Bases In Bahrain As Civilian Industrial Facility Suffers Damage, Strait Of Hormuz Reports Fresh Tanker Incidents - The Sunday Guardian |
-| 2026-11-22 10:39 | US | 通报 | Iran | 命中 | C | War soon? Iran claims it hit US F-16 fighter jet, Patriot radars in Bahrain - The Week |
-| 2026-11-22 09:34 | US | 发射 | Iran | 待确认 | C | Iranian army claims it targeted US F-16 jet with missile over Gulf - NewsCord |
-| 2026-11-22 09:34 | US | 通报 | Iran | 待确认 | C | Iran still hopes diplomacy can end war with US, Foreign Minister Araghchi tells newspaper - NewsCord |
-| 2026-11-22 09:10 | US | 通报 | Iran | 命中 | C | Bahrain says Iranian attack hit industrial facility; IRGC says it targeted US positions - The Times of Israel |
-| 2026-11-22 07:55 | US | 通报 | Tehran | 命中 | C | CENTCOM Challenges Tehran’s F-16 Story, Says No American Aircraft Was Hit - Belaaz |
-| 2026-11-22 07:46 | Israel | 撤离 | Iran | 待确认 | C | Lebanese president demands Israel withdrawal, decries Iran’s interference - Al Jazeera |
-| 2026-11-22 07:00 | Iran | 拦截 | Iran | 命中 | C | Bahrain says Iranian attack hits industrial facility as air defenses intercept attacks - GMA Network |
-| 2026-11-22 05:39 | Israel | 撤离 | Iran | 待确认 | C | Lebanon’s Aoun tells Iran to stop ‘interfering’ in its affairs, demands Israeli withdrawal - The Times of Israel |
-| 2026-11-22 05:33 | Israel | 通报 | Iran | 待确认 | C | Hezbollah wants out of next Iran war as Israel threatens retaliation, Lebanon moves against terror group - World Israel News |
-| 2026-11-22 05:00 | US | 通报 | Iran | 待确认 | C | Iran says held talks with Qatari mediators, urges US to accept conditions - Al Jazeera |
-| 2026-11-22 04:38 | Iran | 通报 | Iran | 待确认 | C | Shafaq News..Explosion off Iran as Bahrain reports industrial site attack - شفق نيوز |
-| 2026-11-22 04:30 | Iran | 发射 | Iran | 待确认 | C | Iran strikes 3 tankers as it shows off missile launchers, and other Mideast news - The Killeen Daily Herald |
-| 2026-11-22 04:08 | Israel | 通报 | Iran | 待确认 | C | Instead of all-out war, Trump moves to strangle Iran's economy - Israel Hayom |
-| 2026-11-22 03:58 | US | 通报 | Israel | 待确认 | C | US alliance with Israel - from strategic asset to liability - The Express Tribune |
-| 2026-11-22 03:30 | Israel | 通报 | Tehran | 命中 | C | Hormuz tankers hit in apparent Iranian attacks as Qataris visit Tehran for mediation talks - The Times of Israel |
-| 2026-11-22 03:23 | US | 通报 | Iran | 待确认 | C | Qatari delegation visits Iran for talks to end war with US - The New Arab |
-| 2026-11-22 02:57 | Iran | 空袭 | Iran | 命中 | C | Two tankers hit in Strait of Hormuz as hawks press Trump to resume Iran strikes - New York Post |
-| 2026-11-22 02:53 | Iran | 发射 | Iran | 设施受损 | C | Iran claims missile damaged U.S. F-16 over Persian Gulf, but Washington denies attack - Air Data News |
-| 2026-11-22 02:43 | Israel | 通报 | Natanz | 待确认 | C | Israel targets Iran's Natanz and other nuclear sites - DW.com |
-| 2026-11-22 02:42 | Israel | 通报 | Iran | 待确认 | C | Iran’s plan to defy Trump could backfire catastrophically - World Israel News |
-| 2026-11-22 02:28 | Israel | 空袭 | Israel | 待确认 | C | Israel's Relentless Lebanon Strikes Are Threatening to Unravel Washington's Peace Deal - Latin Times |
-| 2026-11-22 02:02 | Hezbollah | 通报 | 未明确 | 待确认 | C | ‘No Independence under Occupation’: Hezbollah Urges Lebanese Unity - Palestine Chronicle |
-| 2026-11-22 01:53 | US | 通报 | Iran | 命中 | C | CENTCOM Calls Iran’s Claim of Hitting U.S. Fighter Jet a “Lie” - Kurdistan TV |
-| 2026-11-22 01:24 | US | 通报 | Iran | 命中 | C | Iran Claims It Hit US F-16 Over Gulf, Forcing Emergency Landing; CENTCOM Denies: 9 outlets compared - NewsCord |
-| 2026-11-22 01:19 | Iran | 发射 | Iran | 待确认 | C | Masoud Pezeshkian Says Iran Faces Silent Economic War Tougher Than Missile War: 5 outlets compared - NewsCord |
-| 2026-11-22 01:19 | Israel | 通报 | Israel | 待确认 | C | Hezbollah Says No Independence While Israel Occupies More Than 500 Square Kilometers of Lebanon - NewsCord |
-| 2026-11-22 01:16 | US | 通报 | 未明确 | 待确认 | C | US Agriculture Department, FBI breached by hackers: reports - Aaj English TV |
-| 2026-11-22 01:09 | Israel | 通报 | 未明确 | 命中 | C | Press Release: The IDF Struck 3 Islamic Jihad Terrorists Falsely Presented as Aid Workers - את"צ |
-| 2026-11-22 00:48 | Iran | 通报 | Tehran | 待确认 | C | Qatari delegation visited Tehran for talks: Iran deputy FM - Aaj English TV |
+| 2026-11-23 02:15 | US | 通报 | Iran | 待确认 | C | Iran files war crime lawsuits in American, European courts over US-Israeli attacks - Middle East Monitor |
+| 2026-11-23 01:56 | Israel | 通报 | Israel | 待确认 | C | Lebanese villagers return to wrecked homes as the Israeli army pulls back - Houston Public Media |
+| 2026-11-23 01:54 | US | 通报 | Iran | 待确认 | C | Iran Seeks Lasting Deterrence, Says US-Israel War Changed World Order - Pakistan Observer |
+| 2026-11-23 01:01 | US | 发射 | Iran | 待确认 | C | Iran unveils missile launcher as commanders tout capabilities in war with US - Arab News |
+| 2026-11-22 23:58 | Iran | 通报 | Iran | 伤亡 | C | Pakistani among two civilians injured in Iranian attacks on Bahrain - Aaj English TV |
+| 2026-11-22 23:55 | Israel | 撤离 | Iran | 待确认 | C | Lebanon's Aoun slams Iranian influence, demands Israeli withdrawal - The New Arab |
+| 2026-11-22 23:22 | Israel | 空袭 | Israel | 待确认 | C | Israel Expands Security ‘Buffer’ in South Lebanon with Strikes Near ‘Yellow Line’ - ASHARQ AL-AWSAT English |
+| 2026-11-22 23:22 | US | 通报 | Iran | 待确认 | C | Bilawal warns US-Iran dialogue collapse could widen conflict, says Pakistan optimistic about settlement - The Express Tribune |
+| 2026-11-22 22:42 | Iran | 发射 | Iran | 待确认 | C | Iran unveils dual-missile launcher, new ‘missile city’: What to know - Al Jazeera |
+| 2026-11-22 22:25 | Iran | 通报 | Iran | 待确认 | C | 2 years ago, Saudi Arabia quietly canceled the ‘petrodollar’ deal with America that wired the world economy for 50 years. Then war broke out in Iran - Fortune |
+| 2026-11-22 22:01 | US | 发射 | Iran | 待确认 | C | CENTCOM denies Iranian claim of missile strike on US F-16 - JNS.org |
+| 2026-11-22 21:37 | 未明确 | 通报 | Lebanon | 待确认 | C | Lebanon army arrests 3 accused of smuggling 264kg explosives - Khaleej Times |
+| 2026-11-22 21:20 | US | 通报 | Iran | 待确认 | C | Israel, US prepare joint plans for possible escalation with Iran - Operativ Məlumat Mərkəzi |
+| 2026-11-22 19:58 | Hezbollah | 空袭 | Syria | 待确认 | C | Hezbollah mortar shells strike school in Syria’s Madaya - Yeni Safak English |
+| 2026-11-22 19:49 | Iran | 通报 | Iran | 待确认 | C | What’s behind Iran’s escalation of attacks in the Gulf? - Al Jazeera |
+| 2026-11-22 19:27 | US | 通报 | Iran | 待确认 | C | Israel and US Agree on Joint Plans for Possible Escalation Against Iran: Report - https://www.businesstimes-bd.com/ |
+| 2026-11-22 19:23 | US | 通报 | Iran | 待确认 | C | US, Israel Develop Plans for Attack on Iran as Jeffries Calls for End to War - Palestine Chronicle |
+| 2026-11-22 19:00 | US | 空袭 | Iran | 待确认 | C | US Commanders Warn Forces Overstretched as Israel Urges Strike on Iran - Israel Defense |
+| 2026-11-22 18:52 | US | 通报 | Iran | 待确认 | C | New US target bank points to wider campaign against Iran - The Arab Weekly |
+| 2026-11-22 18:46 | US | 通报 | Iran | 待确认 | C | 'The streets are emptier than ever': Iranians describe life as US escalates war - ABC News - Breaking News, Latest News and Videos |
+| 2026-11-22 18:15 | US | 通报 | Iran | 待确认 | C | Israel, US agree on joint plans for possible Iran escalation, media report - Yeni Safak English |
+| 2026-11-22 18:04 | US | 通报 | Iran | 待确认 | C | Israel, US agree to develop joint plans for possible escalation against Iran - Muslim Mirror |
+| 2026-11-22 17:58 | Iran | 通报 | Iran | 待确认 | C | Hakeem Jeffries vows sanctions on violent West Bank settlers, end to Iran war - Haaretz |
+| 2026-11-22 17:52 | Iran | 通报 | Iran | 设施受损 | C | Bahrain says Iranian attack caused fire at industrial facility - Al Jazeera |
+| 2026-11-22 17:52 | US | 通报 | Iran | 待确认 | C | Israel and US draw up plans for possible new conflict with Iran - Latest news from Azerbaijan |
+| 2026-11-22 17:51 | Iran | 通报 | Iran | 待确认 | C | Trump says 'we're blowing up the whole country' if no Iran deal is reached in 48 hours - ABC News - Breaking News, Latest News and Videos |
+| 2026-11-22 17:46 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live Updates: Israel Confirms Joint Operational Plans With US CENTCOM As Tensions With Iran Escalate, Military Alert Level Remains High; What We Know About Possible Fresh Att - The Sunday Guardian |
+| 2026-11-22 17:18 | US | 通报 | Iran | 待确认 | C | Israel, US Plan Joint Response on Iran - Wisevoter |
+| 2026-11-22 17:17 | US | 发射 | Iran | 待确认 | C | Iran-US tensions escalate: IRGC chief visits underground 'Missile City', warns 'only the beginning'; Araghchi says Hormuz reopening not difficult - IBTimes India |
+| 2026-11-22 17:01 | Iran | 通报 | Iran | 待确认 | C | Significant storm heading toward Middle East amid Iran war, forecasts show - ABC News - Breaking News, Latest News and Videos |
+| 2026-11-22 17:00 | Iran | 通报 | Iran | 设施受损 | C | Iran war live: Bahrain reports damage to civilian industrial facility following attack - Arabian Business |
+| 2026-11-22 16:45 | Israel | 撤离 | Israel | 待确认 | C | Lebanon's president demands Israeli withdrawal from southern Lebanon - Latest news from Azerbaijan |
+| 2026-11-22 16:35 | US | 通报 | Iran | 待确认 | C | Israel, US agree to draw up plans for possible escalation with Iran - Operativ Məlumat Mərkəzi |
+| 2026-11-22 16:29 | 未明确 | 通报 | 未明确 | 待确认 | C | Middle East war: Key updates UAE residents need to know today, November 22 - Gulf News |
