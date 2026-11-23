@@ -1,42 +1,35 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-11-23 02:58
+更新时间（北京时间）: 2026-11-23 13:27
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
+| 2026-11-23 13:05 | Israel | 空袭 | Iran | 待确认 | C | Israeli military intelligence said to warn Netanyahu that a strike on Iran could open several fronts - MLQ.ai |
+| 2026-11-23 12:36 | US | 通报 | Iran | 待确认 | C | Bilawal warns Iran-US conflict could escalate if peace talks fail - Daily Times |
+| 2026-11-23 12:23 | US | 空袭 | Iran | 待确认 | C | US weighs delaying Iran strikes despite Israeli pressure for military action - Iran International |
+| 2026-11-23 12:14 | Israel | 空袭 | Iran | 待确认 | C | IDF Warns Netanyahu That Potential Israeli Strike On Iran Could Trigger Wider Regional Conflict - Free Press Journal |
+| 2026-11-23 12:05 | Israel | 空袭 | Iran | 待确认 | C | Trump threatens fresh Iran strikes after New Year as Israel pushes for earlier attack - Hum News English |
+| 2026-11-23 11:32 | Israel | 通报 | Iran | 待确认 | C | IDF intelligence cautions Netanyahu that Iran attack could ignite multi-front regional war: Report - The Tribune |
+| 2026-11-23 11:26 | US | 撤离 | Israel | 待确认 | C | Is Israel withdrawing from Lebanon? Under the US plan, it has left one village so far - Nacionale |
+| 2026-11-23 11:24 | Iran | 通报 | Iran | 待确认 | C | Iran's phantom agents: The sham passports used by IRGC operatives in Lebanon and Iraq - The National |
+| 2026-11-23 11:22 | Israel | 空袭 | Iran | 待确认 | C | Live - Trump considers Iran strikes after new year, Israel pushes for earlier action - Iran International |
+| 2026-11-23 10:46 | Israel | 空袭 | Iran | 待确认 | C | Report: IDF warns Netanyahu strike on Iran could trigger wider regional war - chinadailyhk |
+| 2026-11-23 08:32 | Israel | 通报 | Israel | 待确认 | C | Israel’s Place in an Uncertain World - The Centre for Independent Studies |
+| 2026-11-23 07:18 | Israel | 通报 | Iran | 待确认 | C | IDF’s intelligence officials warned Netanyahu against unilateral Israeli attack on Iran: Report / World News - Hindustan Times |
+| 2026-11-23 07:17 | US | 通报 | Iran | 待确认 | C | Iran warns US: 'Neither war nor peace' cannot continue - Gulf News |
+| 2026-11-23 06:42 | Israel | 空袭 | Iran | 待确认 | C | Trump threatens renewed strikes against Iran after New Year if nuclear talks fail - World Israel News |
+| 2026-11-23 06:17 | Israel | 空袭 | Iran | 待确认 | C | IDF Intelligence Warns Israeli Strike On Iran Could Trigger Multifront War - Report - i24NEWS |
+| 2026-11-23 05:44 | US | 通报 | Iran | 待确认 | C | What is behind Israel-US preparations for a possible new military conflict with Iran? - Latest news from Azerbaijan |
+| 2026-11-23 05:42 | Israel | 通报 | Iran | 待确认 | C | IDF said to warn Netanyahu an Israeli attack on Iran could spark multifront war - The Times of Israel |
+| 2026-11-23 05:38 | Israel | 通报 | Iran | 待确认 | C | Hakeem Jeffries vows to end Iran war, push Palestinian statehood - World Israel News |
+| 2026-11-23 05:25 | Israel | 通报 | Israel | 待确认 | C | Israeli Forces Leave Southern Lebanon Homes in Ruins - cwibc.co.id |
+| 2026-11-23 05:19 | Israel | 撤离 | Israel | 设施受损 | C | Lebanese Family Finds Home Destroyed After Israeli Withdrawal - Limapagi |
+| 2026-11-23 04:24 | Hezbollah | 通报 | Iraq | 待确认 | C | Jurf al-Sakhar: How Iraq Got Kataib Hezbollah to Let Government Forces Into a Key Town - Around Prague |
+| 2026-11-23 03:54 | Israel | 空袭 | Israel | 待确认 | C | Israel Expands Security ‘Buffer’ in South Lebanon with Strikes Near ‘Yellow Line’ - ASHARQ AL-AWSAT English |
+| 2026-11-23 03:28 | US | 通报 | Iran | 设施受损 | C | 'All jets safe': CENTCOM denies Iran's claim that it damaged F-16 fighter jet - The Jerusalem Post |
+| 2026-11-23 02:39 | Israel | 通报 | Iran | 待确认 | C | IDF intelligence said to warn Netanyahu a unilateral Israeli attack on Iran could spark multifront war - The Times of Israel |
 | 2026-11-23 02:15 | US | 通报 | Iran | 待确认 | C | Iran files war crime lawsuits in American, European courts over US-Israeli attacks - Middle East Monitor |
-| 2026-11-23 01:56 | Israel | 通报 | Israel | 待确认 | C | Lebanese villagers return to wrecked homes as the Israeli army pulls back - Houston Public Media |
 | 2026-11-23 01:54 | US | 通报 | Iran | 待确认 | C | Iran Seeks Lasting Deterrence, Says US-Israel War Changed World Order - Pakistan Observer |
-| 2026-11-23 01:01 | US | 发射 | Iran | 待确认 | C | Iran unveils missile launcher as commanders tout capabilities in war with US - Arab News |
-| 2026-11-22 23:58 | Iran | 通报 | Iran | 伤亡 | C | Pakistani among two civilians injured in Iranian attacks on Bahrain - Aaj English TV |
-| 2026-11-22 23:55 | Israel | 撤离 | Iran | 待确认 | C | Lebanon's Aoun slams Iranian influence, demands Israeli withdrawal - The New Arab |
-| 2026-11-22 23:22 | Israel | 空袭 | Israel | 待确认 | C | Israel Expands Security ‘Buffer’ in South Lebanon with Strikes Near ‘Yellow Line’ - ASHARQ AL-AWSAT English |
-| 2026-11-22 23:22 | US | 通报 | Iran | 待确认 | C | Bilawal warns US-Iran dialogue collapse could widen conflict, says Pakistan optimistic about settlement - The Express Tribune |
-| 2026-11-22 22:42 | Iran | 发射 | Iran | 待确认 | C | Iran unveils dual-missile launcher, new ‘missile city’: What to know - Al Jazeera |
-| 2026-11-22 22:25 | Iran | 通报 | Iran | 待确认 | C | 2 years ago, Saudi Arabia quietly canceled the ‘petrodollar’ deal with America that wired the world economy for 50 years. Then war broke out in Iran - Fortune |
-| 2026-11-22 22:01 | US | 发射 | Iran | 待确认 | C | CENTCOM denies Iranian claim of missile strike on US F-16 - JNS.org |
-| 2026-11-22 21:37 | 未明确 | 通报 | Lebanon | 待确认 | C | Lebanon army arrests 3 accused of smuggling 264kg explosives - Khaleej Times |
-| 2026-11-22 21:20 | US | 通报 | Iran | 待确认 | C | Israel, US prepare joint plans for possible escalation with Iran - Operativ Məlumat Mərkəzi |
-| 2026-11-22 19:58 | Hezbollah | 空袭 | Syria | 待确认 | C | Hezbollah mortar shells strike school in Syria’s Madaya - Yeni Safak English |
-| 2026-11-22 19:49 | Iran | 通报 | Iran | 待确认 | C | What’s behind Iran’s escalation of attacks in the Gulf? - Al Jazeera |
-| 2026-11-22 19:27 | US | 通报 | Iran | 待确认 | C | Israel and US Agree on Joint Plans for Possible Escalation Against Iran: Report - https://www.businesstimes-bd.com/ |
-| 2026-11-22 19:23 | US | 通报 | Iran | 待确认 | C | US, Israel Develop Plans for Attack on Iran as Jeffries Calls for End to War - Palestine Chronicle |
-| 2026-11-22 19:00 | US | 空袭 | Iran | 待确认 | C | US Commanders Warn Forces Overstretched as Israel Urges Strike on Iran - Israel Defense |
-| 2026-11-22 18:52 | US | 通报 | Iran | 待确认 | C | New US target bank points to wider campaign against Iran - The Arab Weekly |
-| 2026-11-22 18:46 | US | 通报 | Iran | 待确认 | C | 'The streets are emptier than ever': Iranians describe life as US escalates war - ABC News - Breaking News, Latest News and Videos |
-| 2026-11-22 18:15 | US | 通报 | Iran | 待确认 | C | Israel, US agree on joint plans for possible Iran escalation, media report - Yeni Safak English |
-| 2026-11-22 18:04 | US | 通报 | Iran | 待确认 | C | Israel, US agree to develop joint plans for possible escalation against Iran - Muslim Mirror |
-| 2026-11-22 17:58 | Iran | 通报 | Iran | 待确认 | C | Hakeem Jeffries vows sanctions on violent West Bank settlers, end to Iran war - Haaretz |
-| 2026-11-22 17:52 | Iran | 通报 | Iran | 设施受损 | C | Bahrain says Iranian attack caused fire at industrial facility - Al Jazeera |
-| 2026-11-22 17:52 | US | 通报 | Iran | 待确认 | C | Israel and US draw up plans for possible new conflict with Iran - Latest news from Azerbaijan |
-| 2026-11-22 17:51 | Iran | 通报 | Iran | 待确认 | C | Trump says 'we're blowing up the whole country' if no Iran deal is reached in 48 hours - ABC News - Breaking News, Latest News and Videos |
-| 2026-11-22 17:46 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live Updates: Israel Confirms Joint Operational Plans With US CENTCOM As Tensions With Iran Escalate, Military Alert Level Remains High; What We Know About Possible Fresh Att - The Sunday Guardian |
-| 2026-11-22 17:18 | US | 通报 | Iran | 待确认 | C | Israel, US Plan Joint Response on Iran - Wisevoter |
-| 2026-11-22 17:17 | US | 发射 | Iran | 待确认 | C | Iran-US tensions escalate: IRGC chief visits underground 'Missile City', warns 'only the beginning'; Araghchi says Hormuz reopening not difficult - IBTimes India |
-| 2026-11-22 17:01 | Iran | 通报 | Iran | 待确认 | C | Significant storm heading toward Middle East amid Iran war, forecasts show - ABC News - Breaking News, Latest News and Videos |
-| 2026-11-22 17:00 | Iran | 通报 | Iran | 设施受损 | C | Iran war live: Bahrain reports damage to civilian industrial facility following attack - Arabian Business |
-| 2026-11-22 16:45 | Israel | 撤离 | Israel | 待确认 | C | Lebanon's president demands Israeli withdrawal from southern Lebanon - Latest news from Azerbaijan |
-| 2026-11-22 16:35 | US | 通报 | Iran | 待确认 | C | Israel, US agree to draw up plans for possible escalation with Iran - Operativ Məlumat Mərkəzi |
-| 2026-11-22 16:29 | 未明确 | 通报 | 未明确 | 待确认 | C | Middle East war: Key updates UAE residents need to know today, November 22 - Gulf News |
+| 2026-11-23 01:44 | Israel | 通报 | Israel | 待确认 | C | Lebanese villagers return to wrecked homes as the Israeli army pulls back - NPR |
