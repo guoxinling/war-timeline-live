@@ -1,47 +1,48 @@
 # 战争实况 Timeline（US / Israel / Iran / Hezbollah）
 
-更新时间（北京时间）: 2026-11-25 14:44
+更新时间（北京时间）: 2026-11-26 04:58
 
 可信度说明: A 多源交叉（官方+独立媒体） | B 单方官方声明 | C 现场初报待核实
 
 | 时间(北京时间) | 行动方 | 动作 | 地点 | 结果 | 可信度 | 事件摘要 |
 |---|---|---|---|---|---|---|
-| 2026-11-25 14:39 | Israel | 通报 | Iran | 待确认 | C | 'Israel' claims Iran is developing chemical weapons - Roya News |
-| 2026-11-25 14:33 | US | 通报 | Iran | 待确认 | C | Most Americans want immediate end to US-Israel war on Iran, even on less favourable terms: Survey - Madhyamam |
-| 2026-11-25 14:25 | US | 通报 | Iran | 待确认 | C | US-Israel-Iran War Latest Live News: India Condemns Riyadh Attack as IRGC Reports 2 Oil Tankers Catch Fire Near Strait of Hormuz - The Sunday Guardian |
-| 2026-11-25 14:17 | Iran | 通报 | Iran | 命中 | C | Two oil tankers catch fire after hitting naval mines in Strait of Hormuz, Iran says - Türkiye Today |
-| 2026-11-25 13:56 | US | 空袭 | Tehran | 待确认 | C | Israel Accuses Iran of Developing Chemical Weapons; Tehran Warns US Bases Are Within Strike Range - Dainik Jagran MP CG |
-| 2026-11-25 13:52 | US | 通报 | Iran | 待确认 | C | Shafaq News..US war funding against Iran secure through January - شفق نيوز |
-| 2026-11-25 13:20 | Iran | 空袭 | Iran | 待确认 | C | Trump signals narrowing window for Iran strikes: ‘We have funding through the end of January’ - Ynetnews |
-| 2026-11-25 13:16 | US | 通报 | Tehran | 待确认 | C | US-Israel-Iran War Latest Live Updates: ‘Iran Developing Chemical Weapons’, Israel Defence Minister Israel Katz Issues Fresh Warning, Says Tehran Must Be Stopped Before It Can Attack - The Sunday Guardian |
-| 2026-11-25 13:13 | Iran | 通报 | Iran | 命中 | C | Two tankers struck in Hormuz as Iran reports ship on fire: maritime agency - TRT World |
-| 2026-11-25 13:05 | Israel | 空袭 | Iran | 待确认 | C | IDF warns Netanyahu Iran strike could trigger regional war - Awaz The Voice |
-| 2026-11-25 12:44 | Israel | 通报 | Iran | 待确认 | C | Katz: Iran is developing chemical weapons as a ‘game changer,’ Israel will not allow it - NewsCord |
-| 2026-11-25 12:15 | US | 空袭 | Iran | 待确认 | C | Iran vows to break US naval blockade, threatens force against renewed strikes - Israel National News |
-| 2026-11-25 12:09 | Israel | 空袭 | Iran | 待确认 | C | Days, weeks or months? Iran's chemical weapons threat and Israel's dilemma over when to strike - Ynetnews |
-| 2026-11-25 09:54 | US | 通报 | Israel | 待确认 | C | Trump Envoy Warns Netanyahu Says 'Israel Risks Global-Pariah Status' Over Gaza / Wach - The Times of India |
-| 2026-11-25 09:21 | US | 通报 | Iran | 待确认 | C | Poll finds US voters want government to end Iran war regardless of terms - Al Jazeera |
-| 2026-11-25 08:35 | Iran | 通报 | Iran | 伤亡 | C | Iran war live: Eleven injured in Houthi attack on Riyadh financial district tower - Arabian Business |
-| 2026-11-25 08:34 | Israel | 通报 | Tehran | 待确认 | C | Exclusive / Trump says Iran war ‘funded’ through January and addresses Israel’s goal of Tehran regime change - New York Post |
-| 2026-11-25 08:25 | Israel | 通报 | Iran | 待确认 | C | Israel Warns Iran Developing Chemical Weapons, Vows to Block Program - Breitbart News |
-| 2026-11-25 08:14 | Iran | 空袭 | Iran | 待确认 | C | Footage Shows Strike Destroying Parked Iran Air Jet at Bu... - X |
-| 2026-11-25 07:21 | Israel | 通报 | Iran | 待确认 | C | Israel Katz Says IDF Must Block Iran’s Chemical Weapons Development Before Any Attack: 22 outlets compared - NewsCord |
-| 2026-11-25 07:13 | Iran | 空袭 | Iran | 待确认 | C | Latest news on the war in the Middle East. Iran: Strait of Hormuz virtually paralysed, 400 ships waiting. Houthis strike skyscraper in Riyadh - Il Sole 24 ORE |
-| 2026-11-25 07:00 | US | 空袭 | Iran | 待确认 | C | Israel Says Iran Developing Chemical Weapons, Warns of Possible Joint Strikes with US - UG Diplomat |
-| 2026-11-25 06:36 | Israel | 通报 | Israel | 待确认 | C | New York Times Warns of New U.S.-Israeli ‘War Crime’ - freebeacon.com |
-| 2026-11-25 05:42 | US | 通报 | Iran | 待确认 | C | Trump Favors Economic Pressure Over Kinetic War With Iran: Report - The New American |
-| 2026-11-25 05:15 | Iran | 通报 | Iran | 待确认 | C | Iran Has Been Developing Chemical Weapons Since the Last Round of Fighting, Military Sources Tell Belaaz - Belaaz |
-| 2026-11-25 05:04 | Israel | 通报 | Iran | 待确认 | C | Katz says Iran ordered Trump’s assassination, is developing chemical weapons against Israel - World Israel News |
-| 2026-11-25 04:49 | Iran | 通报 | Iran | 待确认 | C | Iran developing chemical weapons; Trump and family face threats - Arab Times Kuwait News |
-| 2026-11-25 04:48 | US | 发射 | Iran | 待确认 | C | Israel can launch solo Iran campaign, but US backing is key, ex-commander says - The Jerusalem Post |
-| 2026-11-25 04:38 | 未明确 | 空袭 | 未明确 | 待确认 | C | Middle East latest: Saudi-led coalition strikes Hodeidah port - The National |
-| 2026-11-25 04:14 | US | 通报 | Iran | 待确认 | C | Iranian parliament speaker says US seeks ‘no war, no peace’ stalemate with Iran, calls for deterrence - Muslim Network TV |
-| 2026-11-25 03:58 | 未明确 | 通报 | 未明确 | 待确认 | C | Thiago Silva's career will continue - Medianews.az |
-| 2026-11-25 03:50 | Israel | 通报 | Iran | 待确认 | C | Israel Kats: Joint attack plans against Iran are ready - Medianews.az |
-| 2026-11-25 03:32 | Israel | 通报 | Iran | 命中 | C | Eisenkot: Iran threat not imminent; Iran's currency hits historic low TV7 Israel News - 24 Nov. - TV7 Israel News |
-| 2026-11-25 03:29 | Israel | 空袭 | Iran | 待确认 | C | Israeli Officials Split Over Timing of Iran Strike - JFeed |
-| 2026-11-25 03:29 | Israel | 通报 | Israel | 待确认 | C | Huckabee: Military aid to Israel may not yet stop despite Trump’s Election Day promise - Jewish Telegraphic Agency |
-| 2026-11-25 03:18 | Israel | 通报 | Israel | 待确认 | C | Photos show UN peacekeepers surrounded by the devastation in Israeli-occupied southern Lebanon - Yahoo |
-| 2026-11-25 03:18 | Israel | 通报 | Iran | 待确认 | C | Trump administration mulls targeted killings of Iranian leaders to end war – report - The Times of Israel |
-| 2026-11-25 02:49 | US | 通报 | Iran | 待确认 | C | Iran, Katz: "Israel and US ready to attack together, Trump will decide" - jiji press |
-| 2026-11-25 02:47 | US | 空袭 | Iran | 待确认 | C | Israel’s Katz says Iran is developing chemical weapons, strike plans ready with CENTCOM - The Insight International |
+| 2026-11-26 04:56 | 未明确 | 通报 | Lebanon | 待确认 | C | Photos show an orphanage offering refuge to girls in southern Lebanon - Seattle Post-Intelligencer |
+| 2026-11-26 04:50 | Israel | 通报 | Israel | 待确认 | C | Hezbollah chief demands Lebanon release 5 detained operatives - The Times of Israel |
+| 2026-11-26 04:47 | US | 通报 | Iran | 待确认 | C | Targeting Iran’s leaders will create a more dangerous regime - Defense Priorities |
+| 2026-11-26 04:44 | 未明确 | 通报 | Lebanon | 待确认 | C | Photos show an orphanage offering refuge to girls in southern Lebanon - Herald Bulletin |
+| 2026-11-26 04:42 | Hezbollah | 通报 | Lebanon | 待确认 | C | Lebanon judge issues warrants for detained Hezbollah members - The New Arab |
+| 2026-11-26 04:26 | Israel | 通报 | Iran | 待确认 | C | Trump says Iran war funded through January as Israel warns of chemical weapons development - WACH.com |
+| 2026-11-26 04:03 | 未明确 | 通报 | Gaza | 待确认 | C | Washington urges Netanyahu to approve six Gaza peace measures - Latest news from Azerbaijan |
+| 2026-11-26 03:53 | US | 通报 | Israel | 待确认 | C | Qassem accuses Aoun of equating 'Israeli and American aggression' with 'Lebanese resistance' - L'Orient Today |
+| 2026-11-26 03:38 | US | 通报 | Iran | 待确认 | C | Iran Says Israel Is Using Chemical Weapons Allegations To Push US Into War - Outlook India |
+| 2026-11-26 03:28 | US | 通报 | Iran | 待确认 | C | Iranian FM: Israel seeks to drag US into another war - Apa.az |
+| 2026-11-26 03:19 | Israel | 通报 | Iran | 待确认 | C | Israeli astrologers, psychics offer conflicting predictions on Iran war - The Jerusalem Post |
+| 2026-11-26 03:02 | Israel | 通报 | Israel | 待确认 | C | Zamir: We are enhancing the readiness of the Israeli army to return to combat - Daily Beirut |
+| 2026-11-26 02:59 | Israel | 通报 | Israel | 待确认 | C | Hezbollah: Israeli attacks threaten Lebanon's sovereignty - Breakingthenews.net |
+| 2026-11-26 02:03 | Israel | 通报 | Israel | 待确认 | C | Katz Declares Israel's Hold on 70% of Gaza Until Hamas Disarmament - Daily Beirut |
+| 2026-11-26 01:53 | US | 通报 | Iran | 待确认 | C | Israel hoodwinking US into war with chemical weapons accusations: Iran - TRT World |
+| 2026-11-26 01:48 | US | 通报 | Iran | 待确认 | C | Evening recap: Hezbollah faces legal pressure in Lebanon and Jordan; Iran accuses Israel of misleading the US - L'Orient Today |
+| 2026-11-26 01:27 | Iran | 通报 | Iran | 待确认 | C | Iraqi intelligence report says Kirkuk crude is smuggled to Iran, blended and sold on to Afghanistan - The Insight International |
+| 2026-11-26 01:19 | Houthis | 空袭 | 未明确 | 待确认 | C | Middle East latest: Houthis claim attacks on refinery and Riyadh as Saudis strike Hodeidah port - The National |
+| 2026-11-26 01:16 | 未明确 | 通报 | Lebanon | 待确认 | C | In Lebanon, the Opening of a Second Airport Reflects Political Shifts - شبكة تواصل الإخبارية |
+| 2026-11-26 01:11 | Israel | 通报 | Israel | 待确认 | C | Lebanon judge issues arrest warrants for 5 detained Hezbollah members - The Times of Israel |
+| 2026-11-26 00:53 | 未明确 | 通报 | Gaza | 待确认 | C | Amnesty details Gaza’s deepening humanitarian and reproductive crisis - Muslim Network TV |
+| 2026-11-26 00:50 | US | 通报 | Israel | 待确认 | C | Araghchi: Israel trying to push US into another war - Breakingthenews.net |
+| 2026-11-26 00:41 | Israel | 通报 | Israel | 待确认 | C | Israeli attacks leave Gaza facing toxic environmental catastrophe - Muslim Network TV |
+| 2026-11-26 00:41 | Israel | 通报 | Israel | 伤亡 | C | Meningitis outbreak shows deadly toll of Israel’s genocide - Muslim Network TV |
+| 2026-11-26 00:31 | Hezbollah | 通报 | 未明确 | 待确认 | C | Jordanian court upholds conviction of French-Lebanese man linked to Hezbollah - L'Orient Today |
+| 2026-11-26 00:21 | Israel | 通报 | Israel | 待确认 | C | Huckabee: Military aid to Israel may not end in 2026 despite Trump’s promise - jewishaz.com |
+| 2026-11-26 00:20 | US | 通报 | Iran | 待确认 | C | Iran FM: Israel attempting 'to deceive' US into another war with chemical weapons allegations - The Times of Israel |
+| 2026-11-26 00:07 | Israel | 通报 | Israel | 待确认 | C | The rapidly shifting geopolitical landscape across the Middle East. - TV7 Israel News |
+| 2026-11-25 23:46 | US | 通报 | Iran | 待确认 | C | 'We need to stop the war in Iran': US Congresswoman Pramila Jayapal - Tête à tête - France 24 |
+| 2026-11-25 23:45 | Israel | 通报 | Israel | 待确认 | C | Lebanon judge issues warrants for 5 detained Hezbollah members, orders interrogation of 3 others - The Times of Israel |
+| 2026-11-25 23:43 | Israel | 通报 | Israel | 待确认 | C | U.S. military aid to Israel will not stop by end of year, envoy Huckabee says - Haaretz |
+| 2026-11-25 23:36 | Israel | 通报 | Iran | 待确认 | C | Israel poses biggest threat to Lebanon’s stablity: Iran - Mehr News Agency |
+| 2026-11-25 23:27 | Israel | 通报 | Tehran | 待确认 | C | Israel accuses Iran of developing chemical weapons; Tehran responds. - Vietnam.vn |
+| 2026-11-25 23:18 | Iran | 通报 | Iran | 待确认 | C | Trump’s ‘no war, no peace’ strategy on Iran has run its course - Arab News |
+| 2026-11-25 22:04 | Iran | 通报 | Iran | 待确认 | C | Philippines declares national energy emergency as Asia risks energy crisis amid Iran war - ABC News - Breaking News, Latest News and Videos |
+| 2026-11-25 22:03 | US | 通报 | Iran | 伤亡 | C | Pentagon identifies all 6 American troops killed in Kuwait amid Iran war - ABC News - Breaking News, Latest News and Videos |
+| 2026-11-25 21:47 | US | 通报 | Iran | 命中 | C | Rubio says US struck Iran fearing it would retaliate for Israeli attack - ABC News - Breaking News, Latest News and Videos |
+| 2026-11-25 21:47 | Iran | 通报 | Iran | 待确认 | C | Katz says Hezbollah won't join potential Iran war - Naharnet |
+| 2026-11-25 21:36 | Israel | 通报 | Israel | 待确认 | C | Gaza group to air defund Israel ad during SNL - Semafor |
+| 2026-11-25 21:18 | Iran | 通报 | Tehran | 待确认 | C | Trump Just Got Handed a Warning From Tehran: Iran Calls His Naval Blockade Military Aggression and Says It Can Use Any Means to Respond - National Security Journal |
